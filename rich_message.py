@@ -48,12 +48,12 @@ def table(rows: list[list[Any]], caption: str, compact: bool = True) -> dict[str
         "is_bordered": True,
         "is_striped": True,
         "is_compact": compact,
-        "caption": caption,
+        "caption": bold(caption),
     }
 
 
 def details(summary: str, blocks: list[dict], open_default: bool = False) -> dict[str, Any]:
-    return {"type": "details", "summary": summary, "blocks": blocks, "is_open": open_default}
+    return {"type": "details", "summary": bold(summary), "blocks": blocks, "is_open": open_default}
 
 
 def list_block(items: list[str]) -> dict[str, Any]:
@@ -80,7 +80,10 @@ def build_rich_message(word: WordEntry, enriched: EnrichedWord, *, card_media: s
     if card_media or card_attach:
         blocks.append({"type": "photo", "photo": {"type": "photo", "media": card_media or f"attach://{card_attach}"}})
 
-    blocks.append(heading(f"🔤 {word.term}", 2))
+    # Main word: title-style, first letter uppercase, no decorative emoji.
+    display_word = word.term[:1].upper() + word.term[1:]
+    blocks.append(heading(display_word, 1))
+
     if word.ipa or word.pronunciation_bn:
         pron = []
         if word.ipa:
@@ -89,54 +92,49 @@ def build_rich_message(word: WordEntry, enriched: EnrichedWord, *, card_media: s
             pron.append(word.pronunciation_bn)
         blocks.append(paragraph([bold("Pronunciation  "), "  ·  ".join(pron)]))
 
-    pos = enriched.part_of_speech or ("Verb" if word.verb_hint else "Word")
-    meta = pos.title() if pos else "Word"
-    if enriched.cefr:
-        meta += f"  ·  {enriched.cefr}"
-    blocks.append(paragraph([bold("Type  "), meta]))
+    # Type is intentionally omitted because it is already printed on the photo card.
 
-    blocks.append(paragraph([bold("🇬🇧 Meaning\n"), enriched.definition_en or "Meaning enrichment unavailable."]))
-    blocks.append(paragraph([bold("🇧🇩 বাংলা অর্থ\n"), word.meaning_bn]))
+    blocks.append(paragraph([bold("Meaning\n"), enriched.definition_en or "Meaning enrichment unavailable."]))
+    blocks.append(paragraph([bold("বাংলা অর্থ\n"), word.meaning_bn]))
 
     if audio_media or audio_attach:
+        # Voice note instead of music/audio block. This gives Telegram's voice-message
+        # playback behavior, including a fresh start when replayed after completion.
         blocks.append({
-            "type": "audio",
-            "audio": {
-                "type": "audio",
+            "type": "voice_note",
+            "voice_note": {
+                "type": "voice_note",
                 "media": audio_media or f"attach://{audio_attach}",
-                "title": word.term,
-                "performer": "Vocabulary",
             },
-            "caption": {"text": "🔊 Pronunciation"},
         })
 
     if enriched.example_en:
         blocks.append(divider())
-        blocks.append(heading("📖 Example", 4))
+        blocks.append(heading("Example", 3))
         blocks.append(paragraph(enriched.example_en))
         if enriched.example_bn:
-            blocks.append(paragraph([italic("🇧🇩  "), enriched.example_bn]))
+            blocks.append(paragraph([italic("বাংলা  "), enriched.example_bn]))
 
     if enriched.synonyms:
         blocks.append(divider())
-        blocks.append(table(_table_words(enriched.synonyms), "🔗 Synonyms"))
+        blocks.append(table(_table_words(enriched.synonyms), "Synonyms"))
 
     if enriched.antonyms:
         blocks.append(divider())
-        blocks.append(table(_table_words(enriched.antonyms), "🚫 Antonyms"))
+        blocks.append(table(_table_words(enriched.antonyms), "Antonyms"))
 
     if enriched.word_family:
-        blocks.append(details("🧩 Word Family", [table(_word_family_table(enriched.word_family), "Word family")]))
+        blocks.append(details("Word Family", [table(_word_family_table(enriched.word_family), "Word Family")]))
 
     if enriched.collocations:
-        blocks.append(details("🔗 Common Collocations", [list_block(enriched.collocations)]))
+        blocks.append(details("Common Collocations", [list_block(enriched.collocations)]))
 
     if enriched.common_mistake_wrong and enriched.common_mistake_correct:
         mistake_blocks = [
-            paragraph([bold("❌ "), enriched.common_mistake_wrong]),
-            paragraph([bold("✅ "), enriched.common_mistake_correct]),
+            paragraph([bold("❌  "), enriched.common_mistake_wrong]),
+            paragraph([bold("✅  "), enriched.common_mistake_correct]),
         ]
-        blocks.append(details("⚠️ Common Mistake", mistake_blocks))
+        blocks.append(details("Common Mistake", mistake_blocks))
 
     if enriched.memory_hook:
         blocks.append({"type": "pullquote", "text": enriched.memory_hook})

@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import logging
-import math
 from pathlib import Path
 from typing import Any
 
@@ -14,7 +13,8 @@ from font_manager import ensure_fonts
 
 logger = logging.getLogger("vocabulary.card")
 
-W, H = 1080, 1350
+# Compact editorial card: same width as the original, roughly half the height.
+W, H = 1080, 675
 BG = "#FCFBF8"
 INK = "#171717"
 MUTED = "#6C6863"
@@ -35,7 +35,7 @@ def _font(fonts: dict[str, Path], key: str, size: int, fallback: str) -> ImageFo
         return ImageFont.load_default()
 
 
-def _crop_logo(size: int = 84) -> Image.Image:
+def _crop_logo(size: int = 72) -> Image.Image:
     src = ASSET_DIR / "vocabulary_logo.png"
     img = Image.open(src).convert("RGBA")
     # Crop large white margins from the supplied mark and make near-white pixels transparent.
@@ -69,7 +69,47 @@ def _fit_text(draw: ImageDraw.ImageDraw, text: str, fonts: dict[str, Path], key:
     return _font(fonts, key, minimum, fallback_font)
 
 
+def _wrap_by_width(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont, max_width: int, max_lines: int = 2) -> list[str]:
+    words = text.replace("\n", " ").split()
+    lines: list[str] = []
+    current = ""
+    for token in words:
+        candidate = (current + " " + token).strip()
+        if draw.textbbox((0, 0), candidate, font=font)[2] <= max_width:
+            current = candidate
+        else:
+            if current:
+                lines.append(current)
+            current = token
+            if len(lines) >= max_lines - 1:
+                break
+    if current:
+        lines.append(current)
+    return lines[:max_lines]
+
+
+def _wrap_bn(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont, max_width: int, max_lines: int = 2) -> list[str]:
+    words = text.replace("\n", " ").split()
+    lines: list[str] = []
+    current = ""
+    for token in words:
+        candidate = (current + " " + token).strip()
+        if draw.textbbox((0, 0), candidate, font=font)[2] <= max_width:
+            current = candidate
+        else:
+            if current:
+                lines.append(current)
+            current = token
+            if len(lines) >= max_lines - 1:
+                break
+    if current:
+        lines.append(current)
+    return lines[:max_lines]
+
+
 def generate_card(word: WordEntry, enriched: EnrichedWord, position: int, total: int) -> Path:
+    """Generate the compact visual identity card. Details stay in the rich Telegram post."""
+    del position, total  # Pagination markers were intentionally removed from the card.
     CARD_DIR.mkdir(parents=True, exist_ok=True)
     fonts = ensure_fonts()
     safe = word.id.replace("/", "_")
@@ -78,78 +118,56 @@ def generate_card(word: WordEntry, enriched: EnrichedWord, position: int, total:
     image = Image.new("RGB", (W, H), BG)
     draw = ImageDraw.Draw(image)
 
-    # Soft framing and editorial accent.
-    draw.rounded_rectangle((28, 28, W - 28, H - 28), radius=28, outline=LIGHT, width=2)
-    draw.rounded_rectangle((70, 220, 84, 1130), radius=7, fill=RED)
+    draw.rounded_rectangle((24, 24, W - 24, H - 24), radius=24, outline=LIGHT, width=2)
+    draw.rounded_rectangle((48, 136, 60, 520), radius=6, fill=RED)
 
-    logo = _crop_logo(92)
-    image.paste(logo, ((W - logo.width) // 2, 78), logo)
+    logo = _crop_logo(70)
+    image.paste(logo, ((W - logo.width) // 2, 32), logo)
 
-    ui = _font(fonts, "jakarta", 28, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
-    ui_small = _font(fonts, "jakarta", 22, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
-    ui_bold = _font(fonts, "jakarta", 28, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
-    hero = _fit_text(draw, word.term.upper(), fonts, "playfair", 870, 118, 66, "/usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf")
-    bangla = _font(fonts, "hind", 46, "/usr/share/fonts/truetype/noto/NotoSansBengali-Regular.ttf")
-    ipa_font = _font(fonts, "jakarta", 30, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
+    ui_small = _font(fonts, "jakarta", 19, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
+    ui = _font(fonts, "jakarta", 24, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
+    ui_bold = _font(fonts, "jakarta", 25, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+    hero = _fit_text(draw, word.term[:1].upper() + word.term[1:], fonts, "playfair", 850, 92, 52, "/usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf")
+    bangla = _font(fonts, "hind", 31, "/usr/share/fonts/truetype/noto/NotoSansBengali-Regular.ttf")
+    ipa_font = _font(fonts, "jakarta", 23, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
 
-    draw.text((W // 2, 195), "DAILY VOCABULARY", anchor="mm", fill=MUTED, font=ui_small)
-    draw.text((W // 2, 345), word.term.upper(), anchor="mm", fill=INK, font=hero)
+    draw.text((W // 2, 108), "DAILY VOCABULARY", anchor="mm", fill=MUTED, font=ui_small)
+    draw.text((W // 2, 205), word.term[:1].upper() + word.term[1:], anchor="mm", fill=INK, font=hero)
 
     if word.ipa:
-        draw.text((W // 2, 445), word.ipa, anchor="mm", fill=MUTED, font=ipa_font)
+        draw.text((W // 2, 272), word.ipa, anchor="mm", fill=MUTED, font=ipa_font)
 
-    meta = enriched.part_of_speech or ("Verb" if word.verb_hint else "Word")
+    pos = enriched.part_of_speech or ("Verb" if word.verb_hint else "Word")
+    meta = pos.title()
     if enriched.cefr:
-        meta = f"{meta.title()}  ·  {enriched.cefr}"
-    draw.text((W // 2, 505), meta, anchor="mm", fill=INK, font=ui_bold)
+        meta += f"  ·  {enriched.cefr}"
+    draw.text((W // 2, 314), meta, anchor="mm", fill=INK, font=ui_bold)
 
-    # Bangla meaning from the source database.
+    # Small editorial divider after Type. No extra section label and no pagination counter.
+    divider_y = 350
+    draw.line((330, divider_y, 750, divider_y), fill=LIGHT, width=2)
+    draw.ellipse((W // 2 - 4, divider_y - 4, W // 2 + 4, divider_y + 4), fill=RED)
+
+    # Bangla meaning from the master source database.
     bangla_text = word.meaning_bn.replace(" | ", "  •  ").strip("।")
-    max_chars = 38 if len(bangla_text) > 35 else 50
-    lines = []
-    current = ""
-    for token in bangla_text.split():
-        candidate = (current + " " + token).strip()
-        if len(candidate) <= max_chars:
-            current = candidate
-        else:
-            lines.append(current)
-            current = token
-    if current:
-        lines.append(current)
-    lines = lines[:3]
-    y = 635 - (len(lines)-1)*28
-    for line in lines:
-        draw.text((W // 2, y), line, anchor="mm", fill=INK, font=bangla)
-        y += 62
+    bn_lines = _wrap_bn(draw, bangla_text, bangla, 760, max_lines=2)
+    start_y = 398 - (len(bn_lines) - 1) * 16
+    for line in bn_lines:
+        draw.text((W // 2, start_y), line, anchor="mm", fill=INK, font=bangla)
+        start_y += 43
 
-    short = enriched.short_meaning_en.strip() or enriched.definition_en.strip()
+    short = (enriched.short_meaning_en.strip() or enriched.definition_en.strip()).replace("\n", " ")
     if short:
-        short = short.replace("\n", " ")
-        words = short.split()
-        short_lines = []
-        cur = ""
-        for token in words:
-            cand = (cur + " " + token).strip()
-            if len(cand) <= 34:
-                cur = cand
-            else:
-                short_lines.append(cur)
-                cur = token
-        if cur:
-            short_lines.append(cur)
-        short_lines = short_lines[:2]
-        y2 = 845 - (len(short_lines)-1)*22
+        short_font = _font(fonts, "jakarta", 21, "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf")
+        short_lines = _wrap_by_width(draw, short, short_font, 760, max_lines=2)
+        y2 = 495 - (len(short_lines) - 1) * 12
         for line in short_lines:
-            draw.text((W // 2, y2), line, anchor="mm", fill=MUTED, font=ui_bold)
-            y2 += 52
+            draw.text((W // 2, y2), line, anchor="mm", fill=MUTED, font=short_font)
+            y2 += 34
 
-    # Tiny audio cue, the actual playable audio lives in the rich message.
-    draw.rounded_rectangle((W//2-132, 965, W//2+132, 1020), radius=27, outline=RED, width=2)
-    draw.text((W // 2, 993), "LISTEN", anchor="mm", fill=RED, font=ui_bold)
-
-    draw.text((90, 1245), f"{position:02d} / {total:02d}", fill=MUTED, font=ui_small)
-    draw.text((W - 90, 1245), SETTINGS.channel_name.upper(), anchor="ra", fill=MUTED, font=ui_small)
+    # Keep the word cue, but remove the old button.
+    draw.text((W // 2, 584), "LISTEN", anchor="mm", fill=RED, font=ui_bold)
+    draw.text((W - 58, 624), SETTINGS.channel_name.upper(), anchor="ra", fill=MUTED, font=ui_small)
 
     image.save(output, format="PNG", optimize=True)
     return output

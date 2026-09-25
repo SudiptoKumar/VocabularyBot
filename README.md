@@ -86,7 +86,7 @@ If AI is unavailable, the bot falls back to safe source-only content and still a
 
 ## Card design
 
-Card ratio: 4:5, 1080×1350.
+Card ratio: 8:5, 1080×675.
 
 The card intentionally contains only the visual memory anchor:
 
@@ -97,7 +97,7 @@ The card intentionally contains only the visual memory anchor:
 - part of speech / CEFR when available
 - Bangla meaning
 - short English meaning when available
-- listen cue
+- simple LISTEN cue (non-interactive)
 
 The Rich Message contains the detailed learning material so the image does not duplicate the whole post.
 
@@ -117,3 +117,11 @@ For a real publication run, configure the Telegram token and run:
 ```bash
 python main.py --count 5
 ```
+
+
+## V1.0.2 visual/audio updates
+- Compact 1080×675 vocabulary card.
+- Cleaner rich post headings and bold table/section labels.
+- Type remains on the card only.
+- Pronunciation audio is delivered as a Telegram voice note without a caption.
+- Media cache is versioned so the new presentation is applied to previously cached words.

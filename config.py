@@ -60,6 +60,7 @@ class Settings:
 
     protect_content: bool = env_bool("PROTECT_CONTENT", False)
     silent_posts: bool = env_bool("SILENT_POSTS", False)
+    media_version: str = os.getenv("MEDIA_VERSION", "1.0.2")
 
 
 SETTINGS = Settings()

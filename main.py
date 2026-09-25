@@ -80,7 +80,9 @@ def _publish_one(state: dict, run_id: str, word: WordEntry, enriched: EnrichedWo
     card = None
     audio = None
     media_cache = state.setdefault("media_cache", {})
-    media = media_cache.get(word.id) if isinstance(media_cache.get(word.id), dict) else {}
+    cached_media = media_cache.get(word.id) if isinstance(media_cache.get(word.id), dict) else {}
+    # Invalidate old media caches whenever the card/audio presentation changes.
+    media = cached_media if cached_media.get("version") == SETTINGS.media_version else {}
 
     try:
         card = generate_card(word, enriched, position, total)
@@ -101,7 +103,7 @@ def _publish_one(state: dict, run_id: str, word: WordEntry, enriched: EnrichedWo
         return True
 
     card_file_id = str(media.get("photo_file_id") or "")
-    audio_file_id = str(media.get("audio_file_id") or "")
+    audio_file_id = str(media.get("voice_file_id") or "")
     attachments = {}
     if not card_file_id and card:
         attach = f"card_{word.id.replace('-', '_')}"
@@ -130,8 +132,9 @@ def _publish_one(state: dict, run_id: str, word: WordEntry, enriched: EnrichedWo
         message_id = int(result["message_id"])
         ids = extract_media_ids(result)
         media_cache[word.id] = {
+            "version": SETTINGS.media_version,
             "photo_file_id": ids.get("photo") or card_file_id,
-            "audio_file_id": ids.get("audio") or audio_file_id,
+            "voice_file_id": ids.get("voice") or ids.get("audio") or audio_file_id,
             "cached_at": utc_now(),
         }
         mark_published(state, run_id, word.id, message_id, cycle=cycle)
@@ -257,7 +260,7 @@ def self_test() -> int:
     from rich_message import build_rich_message
     msg = build_rich_message(sample, fallback_word(sample), card_media="attach://card_test", audio_media="attach://audio_test", card_attach="card_test", audio_attach="audio_test")
     assert msg.get("blocks") and any(x.get("type") == "photo" for x in msg["blocks"])
-    assert any(x.get("type") == "audio" for x in msg["blocks"])
+    assert any(x.get("type") == "voice_note" for x in msg["blocks"])
 
     print(f"SELF-TEST PASS | unique vocabulary words: {len(words)}")
     print(f"Sample card: {card}")

@@ -119,9 +119,11 @@ def extract_media_ids(result: dict[str, Any]) -> dict[str, str]:
                     found["photo"] = obj["file_id"]
                 elif context == "audio" and "audio" not in found:
                     found["audio"] = obj["file_id"]
+                elif context in {"voice", "voice_note"} and "voice" not in found:
+                    found["voice"] = obj["file_id"]
             for key, value in obj.items():
                 next_context = context
-                if key in {"photo", "audio", "voice"}:
+                if key in {"photo", "audio", "voice", "voice_note"}:
                     next_context = key
                 walk(value, next_context)
         elif isinstance(obj, list):
