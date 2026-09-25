@@ -1,5 +1,59 @@
 {
   "content_cache": {
+    "v-00028": {
+      "antonyms": [],
+      "cefr": "",
+      "collocations": [],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "",
+      "example_bn": "",
+      "example_en": "",
+      "memory_hook": "Remember: ACQUIRE",
+      "part_of_speech": "Verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "What is the meaning of acquire?",
+      "short_meaning_en": "",
+      "synonyms": [],
+      "word_family": []
+    },
+    "v-00277": {
+      "antonyms": [],
+      "cefr": "",
+      "collocations": [],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "",
+      "example_bn": "",
+      "example_en": "",
+      "memory_hook": "Remember: BESIDE",
+      "part_of_speech": "",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "What is the meaning of beside?",
+      "short_meaning_en": "",
+      "synonyms": [],
+      "word_family": []
+    },
+    "v-00596": {
+      "antonyms": [],
+      "cefr": "",
+      "collocations": [],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "",
+      "example_bn": "",
+      "example_en": "",
+      "memory_hook": "Remember: CONTINUED",
+      "part_of_speech": "",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "What is the meaning of continued?",
+      "short_meaning_en": "",
+      "synonyms": [],
+      "word_family": []
+    },
     "v-00756": {
       "antonyms": [],
       "cefr": "B1",
@@ -365,6 +419,42 @@
         }
       ]
     },
+    "v-01924": {
+      "antonyms": [],
+      "cefr": "",
+      "collocations": [],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "",
+      "example_bn": "",
+      "example_en": "",
+      "memory_hook": "Remember: PILOT",
+      "part_of_speech": "",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "What is the meaning of pilot?",
+      "short_meaning_en": "",
+      "synonyms": [],
+      "word_family": []
+    },
+    "v-01972": {
+      "antonyms": [],
+      "cefr": "",
+      "collocations": [],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "",
+      "example_bn": "",
+      "example_en": "",
+      "memory_hook": "Remember: PHENOMENON",
+      "part_of_speech": "",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "What is the meaning of phenomenon?",
+      "short_meaning_en": "",
+      "synonyms": [],
+      "word_family": []
+    },
     "v-02843": {
       "antonyms": [
         {
@@ -520,6 +610,24 @@
   },
   "cycle": 1,
   "media_cache": {
+    "v-00028": {
+      "cached_at": "2026-09-25T14:03:43.882630+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZ_P3-aJOEBjhKiqU0wU5VGNAQAAiYRaxvpIblVLqUnyhPNVr0BAAMCAANzAAM9BA",
+      "version": "1.0.4",
+      "voice_file_id": "AwACAgUAAxUHarZ_PxEp7nJ3aENrvRHs1VAvv6IAAtMeAALpIblV50Z2hNaRDYA9BA"
+    },
+    "v-00277": {
+      "cached_at": "2026-09-25T14:03:46.281666+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZ_QXx2P3r_Y6fLpAF-hu9ACrYAAicRaxvpIblVa34lqLZpW_ABAAMCAANzAAM9BA",
+      "version": "1.0.4",
+      "voice_file_id": "AwACAgUAAxUHarZ_QcD--VbbBOZ2GO1NlV0avrMAAtQeAALpIblVpGEoZMWRsrw9BA"
+    },
+    "v-00596": {
+      "cached_at": "2026-09-25T14:03:35.808387+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
+      "version": "1.0.4",
+      "voice_file_id": "AwACAgUAAxUHarZ_N5InHvti52WO_zisVMPth20AAtAeAALpIblVCU4VmkdfzpM9BA"
+    },
     "v-00756": {
       "cached_at": "2026-09-25T12:21:26.261504+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnRQbYzJx6Uwxh26x4-FGpzVMAAm8RaxvpIbFVhHFfw5IimW8BAAMCAANzAAM9BA",
@@ -558,6 +666,18 @@
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnSCok3NwrMUt-S4ZlzdGNT9sAAuokAALpIbFVjHvDOjYnIxU9BA"
     },
+    "v-01924": {
+      "cached_at": "2026-09-25T14:03:41.448664+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZ_PHEAAa_tv6Y8gRSUvrIjn3m7AAIlEWsb6SG5VYcm9HI-ZIKlAQADAgADcwADPQQ",
+      "version": "1.0.4",
+      "voice_file_id": "AwACAgUAAxUHarZ_PNAH31lX692h0FlVinDwhF8AAtIeAALpIblVgi7t3bJUBek9BA"
+    },
+    "v-01972": {
+      "cached_at": "2026-09-25T14:03:38.200083+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZ_OfYhHU79Zex-7IhiCr_thGQAAiQRaxvpIblVxt2oMAyAVEABAAMCAANzAAM9BA",
+      "version": "1.0.4",
+      "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
+    },
     "v-02843": {
       "audio_file_id": "CQACAgUAAxUHarZZNHBqYbCu-8x6mQW8hyE2o68AAsYkAALpIbFVKC6V6hqE1xg9BA",
       "cached_at": "2026-09-25T11:21:25.677622+00:00",
@@ -579,6 +699,24 @@
   "migrations": [],
   "pool_fingerprint": "fc9c89f0fa9d6d4654602a25413d66ca9dc0c5d9cd9392106210317305071e79",
   "published": {
+    "v-00028": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 31,
+      "published_at": "2026-09-25T14:03:43.882653+00:00"
+    },
+    "v-00277": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 32,
+      "published_at": "2026-09-25T14:03:46.281690+00:00"
+    },
+    "v-00596": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 28,
+      "published_at": "2026-09-25T14:03:35.808414+00:00"
+    },
     "v-00756": {
       "count": 1,
       "last_cycle": 1,
@@ -628,6 +766,18 @@
       "published_at": "2026-09-25T12:21:29.339301+00:00",
       "quiz_message_id": 23
     },
+    "v-01924": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 30,
+      "published_at": "2026-09-25T14:03:41.448689+00:00"
+    },
+    "v-01972": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 29,
+      "published_at": "2026-09-25T14:03:38.200108+00:00"
+    },
     "v-02843": {
       "count": 1,
       "last_cycle": 1,
@@ -652,11 +802,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00596",
-    "v-01972",
-    "v-01924",
-    "v-00028",
-    "v-00277",
     "v-00685",
     "v-02881",
     "v-02894",
@@ -4234,6 +4379,41 @@
         "v-01144"
       ],
       "status": "completed"
+    },
+    "20260925T140330Z-9f67a345": {
+      "completed_at": "2026-09-25T14:03:46.284668+00:00",
+      "created_at": "2026-09-25T14:03:30.994382+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00596"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01972"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01924"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00028"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00277"
+        }
+      ],
+      "published_ids": [
+        "v-00596",
+        "v-01972",
+        "v-01924",
+        "v-00028",
+        "v-00277"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -4307,6 +4487,42 @@
         "v-01144"
       ],
       "run_id": "20260925T122117Z-cb7681f4",
+      "status": "completed"
+    },
+    {
+      "completed_at": "2026-09-25T14:03:46.284668+00:00",
+      "created_at": "2026-09-25T14:03:30.994382+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00596"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01972"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01924"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00028"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00277"
+        }
+      ],
+      "published_ids": [
+        "v-00596",
+        "v-01972",
+        "v-01924",
+        "v-00028",
+        "v-00277"
+      ],
+      "run_id": "20260925T140330Z-9f67a345",
       "status": "completed"
     }
   ],
