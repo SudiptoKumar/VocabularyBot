@@ -54,6 +54,67 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00685": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "full of light",
+          "word": "bright"
+        },
+        {
+          "meaning": "not dark",
+          "word": "light"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "dark room",
+        "dark night",
+        "dark chocolate",
+        "dark clouds",
+        "dark mood"
+      ],
+      "common_mistake_correct": "dark is an adjective; use 'darkness' for the noun meaning",
+      "common_mistake_wrong": "dark as a noun meaning 'evil'",
+      "definition_en": "Having little or no light; not bright.",
+      "example_bn": "বাইরে অন্ধকার ছিল, তাই আমরা আলো জ্বালালাম।",
+      "example_en": "It was dark outside, so we turned on the lights.",
+      "memory_hook": "Think of a dark *cave* where you can't see anything.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "bright",
+        "no light",
+        "loud",
+        "soft"
+      ],
+      "quiz_question": "What does \"dark\" mean?",
+      "short_meaning_en": "no light",
+      "synonyms": [
+        {
+          "meaning": "not bright",
+          "word": "dim"
+        },
+        {
+          "meaning": "dark and depressing",
+          "word": "gloomy"
+        },
+        {
+          "meaning": "full of shadows",
+          "word": "shadowy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "darkness"
+        },
+        {
+          "type": "verb",
+          "word": "darken"
+        }
+      ]
+    },
     "v-00756": {
       "antonyms": [],
       "cefr": "B1",
@@ -97,6 +158,67 @@
         {
           "type": "adjective",
           "word": "deviceless"
+        }
+      ]
+    },
+    "v-00849": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "difficult",
+          "word": "hard"
+        },
+        {
+          "meaning": "with difficulty",
+          "word": "difficultly"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "easily understood",
+        "easily solved",
+        "easily found",
+        "easily accessible",
+        "easily remembered"
+      ],
+      "common_mistake_correct": "Easily is an adverb; the noun form is \"ease\"",
+      "common_mistake_wrong": "Using \"easily\" as a noun",
+      "definition_en": "In a way that requires little effort or difficulty.",
+      "example_bn": "সে সহজে ধাঁধাটি সমাধান করল।",
+      "example_en": "She solved the puzzle easily.",
+      "memory_hook": "\"Easily\" sounds like \"easy\" – it tells how something is done.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 3,
+      "quiz_options": [
+        "He can run easily.",
+        "She finished the test easily.",
+        "They arrived easily.",
+        "All of the above."
+      ],
+      "quiz_question": "Which sentence uses \"easily\" correctly?",
+      "short_meaning_en": "with ease",
+      "synonyms": [
+        {
+          "meaning": "without difficulty",
+          "word": "simply"
+        },
+        {
+          "meaning": "without effort",
+          "word": "effortlessly"
+        },
+        {
+          "meaning": "with readiness",
+          "word": "readily"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "easy"
+        },
+        {
+          "type": "noun",
+          "word": "easiness"
         }
       ]
     },
@@ -186,6 +308,67 @@
         {
           "type": "noun",
           "word": "funerals"
+        }
+      ]
+    },
+    "v-01419": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "to keep secret",
+          "word": "hide"
+        },
+        {
+          "meaning": "to keep hidden",
+          "word": "conceal"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "introduce yourself",
+        "introduce a topic",
+        "introduce a product",
+        "introduce a concept",
+        "introduce a guest"
+      ],
+      "common_mistake_correct": "Introduce can be used for people, ideas, and objects",
+      "common_mistake_wrong": "Using \"introduce\" for objects only",
+      "definition_en": "To present someone or something to another person for the first time.",
+      "example_bn": "সে আগামীকাল তার বন্ধুকে ক্লাসে পরিচয় করিয়ে দেবে।",
+      "example_en": "She will introduce her friend to the class tomorrow.",
+      "memory_hook": "Think of \"intro\" as the start of a conversation.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I will introduce the book to my friend.",
+        "She introduced her brother at the party.",
+        "He introduced the car to the showroom.",
+        "They introduced the weather forecast."
+      ],
+      "quiz_question": "Choose the correct use of \"introduce\".",
+      "short_meaning_en": "present",
+      "synonyms": [
+        {
+          "meaning": "to show",
+          "word": "present"
+        },
+        {
+          "meaning": "to display",
+          "word": "show"
+        },
+        {
+          "meaning": "to make known",
+          "word": "announce"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "introduction"
+        },
+        {
+          "type": "adjective",
+          "word": "introductory"
         }
       ]
     },
@@ -514,6 +697,115 @@
         }
       ]
     },
+    "v-02881": {
+      "_content_version": "1.0.6",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "stunning vista",
+        "mountain vista",
+        "city vista",
+        "panoramic vista",
+        "vivid vista"
+      ],
+      "common_mistake_correct": "Vista refers to a view, not a future plan",
+      "common_mistake_wrong": "Using \"vista\" to mean \"future\"",
+      "definition_en": "A wide view of a landscape, especially one seen from a high place.",
+      "example_bn": "পাহাড়ের চূড়া থেকে আমরা উপত্যকার সুন্দর দৃশ্য উপভোগ করলাম।",
+      "example_en": "From the mountain top we enjoyed a beautiful vista of the valley.",
+      "memory_hook": "Imagine a *vista* as a picture window showing a far landscape.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I have a bright vista for my career.",
+        "The restaurant has a nice vista of the street.",
+        "She bought a new vista for her house.",
+        "His vista was very expensive."
+      ],
+      "quiz_question": "Which sentence uses \"vista\" correctly?",
+      "short_meaning_en": "wide view",
+      "synonyms": [
+        {
+          "meaning": "an unbroken view",
+          "word": "panorama"
+        },
+        {
+          "meaning": "a view of a landscape",
+          "word": "prospect"
+        },
+        {
+          "meaning": "a view",
+          "word": "scene"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "vistas"
+        }
+      ]
+    },
+    "v-02894": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "person who receives service",
+          "word": "customer"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "waiter service",
+        "waiter tip",
+        "waiter uniform",
+        "waiter station",
+        "waiter desk"
+      ],
+      "common_mistake_correct": "Use the verb \"wait\" instead (e.g., \"I will wait for you\")",
+      "common_mistake_wrong": "Using \"waiter\" as a verb (e.g., \"I waiter for you\")",
+      "definition_en": "A person who serves food and drinks to customers in a restaurant.",
+      "example_bn": "ওয়েটার দ্রুত আমাদের পানীয়গুলো নিয়ে এল।",
+      "example_en": "The waiter brought our drinks quickly.",
+      "memory_hook": "Imagine a waiter \"waiting\" with a tray full of food.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Serve food",
+        "Cook meals",
+        "Clean tables",
+        "Take orders"
+      ],
+      "quiz_question": "What is the main job of a waiter?",
+      "short_meaning_en": "server",
+      "synonyms": [
+        {
+          "meaning": "person who serves food",
+          "word": "server"
+        },
+        {
+          "meaning": "restaurant staff who serve",
+          "word": "waitstaff"
+        },
+        {
+          "meaning": "female waiter",
+          "word": "waiteress"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "wait"
+        },
+        {
+          "type": "noun",
+          "word": "waiting"
+        },
+        {
+          "type": "verb",
+          "word": "waited"
+        }
+      ]
+    },
     "v-03479": {
       "antonyms": [
         {
@@ -628,11 +920,23 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_N5InHvti52WO_zisVMPth20AAtAeAALpIblVCU4VmkdfzpM9BA"
     },
+    "v-00685": {
+      "cached_at": "2026-09-25T14:58:07.121334+00:00",
+      "photo_file_id": "AgACAgUAAxUHaraL_ii8aBO2cRcBq3UFUGuFy4QAAjwRaxvpIblVCRYOZpnsfe8BAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaraL_kPM6caItZkmytQt7sv_CeYAAvoeAALpIblVaxByrzoloOQ9BA"
+    },
     "v-00756": {
       "cached_at": "2026-09-25T12:21:26.261504+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnRQbYzJx6Uwxh26x4-FGpzVMAAm8RaxvpIbFVhHFfw5IimW8BAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnRdGr0NiN4rACqkNhbQoTDskAAukkAALpIbFVpefs4qt3w-E9BA"
+    },
+    "v-00849": {
+      "cached_at": "2026-09-25T14:58:20.276684+00:00",
+      "photo_file_id": "AgACAgUAAxUHaraMC3VQ1rOlm7izARjl_OK_lAcAAkARaxvpIblVNUM9n__me0sBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaraMC6ChBkKONcRNacmi1oeqW7YAAv4eAALpIblVioynB0BYZbk9BA"
     },
     "v-01076": {
       "audio_file_id": "CQACAgUAAxUHarZZNwHQGYtYWJuUYNXmI-021vMAAsckAALpIbFVM-IBUsQCA889BA",
@@ -644,6 +948,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnT9ICsYf60DALRATVZok9TMoAAnIRaxvpIbFVAscLV8vNF2ABAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnT-zISsXl57VxKNnfeRFEBkwAAuwkAALpIbFVR9KoeBTEukg9BA"
+    },
+    "v-01419": {
+      "cached_at": "2026-09-25T14:58:17.082564+00:00",
+      "photo_file_id": "AgACAgUAAxUHaraMCORs9UOAlIE9C-f3huFIKCQAAj8RaxvpIblVv0FI1b75k2UBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaraMCEBuyP3oE_oWHswRyKtf4xgAAv0eAALpIblV21MbUwZUw7w9BA"
     },
     "v-01599": {
       "audio_file_id": "CQACAgUAAxUHarZZK-Yp0tFj1vHXrfk2YA-z8DYAAsQkAALpIbFV-w4QlOkLda49BA",
@@ -683,6 +993,18 @@
       "cached_at": "2026-09-25T11:21:25.677622+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZNbXLLXQlRbPw-V-yYqtoSNsAAlsRaxvpIbFV6YS2mTagrUIBAAMCAANzAAM9BA"
     },
+    "v-02881": {
+      "cached_at": "2026-09-25T14:58:10.776437+00:00",
+      "photo_file_id": "AgACAgUAAxUHaraMAo_V9lyLFfw12v5XpR4td3oAAj0RaxvpIblVTsXU_r8VROgBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaraMAekpFMmZCJFUEhLU1QQu4RgAAvseAALpIblVfghgTyio0zE9BA"
+    },
+    "v-02894": {
+      "cached_at": "2026-09-25T14:58:13.930850+00:00",
+      "photo_file_id": "AgACAgUAAxUHaraMBUueXe9_8cjDBZ6TBJ4im4gAAj4RaxvpIblVWQyMTvmtxfYBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaraMBQh-fSE7zkhjFV3XAAE7AAE1JgAC_B4AAukhuVUoG5TzI6YeLz0E"
+    },
     "v-03479": {
       "cached_at": "2026-09-25T12:21:32.459053+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnTLpAGcgq2IKXf4vUeNtvRD0AAnERaxvpIbFVl7J_pA8b5ZIBAAMCAANzAAM9BA",
@@ -717,12 +1039,26 @@
       "last_message_id": 28,
       "published_at": "2026-09-25T14:03:35.808414+00:00"
     },
+    "v-00685": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 33,
+      "published_at": "2026-09-25T14:58:07.121359+00:00",
+      "quiz_message_id": 34
+    },
     "v-00756": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 20,
       "published_at": "2026-09-25T12:21:26.261530+00:00",
       "quiz_message_id": 21
+    },
+    "v-00849": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 41,
+      "published_at": "2026-09-25T14:58:20.276706+00:00",
+      "quiz_message_id": 42
     },
     "v-01076": {
       "count": 1,
@@ -737,6 +1073,13 @@
       "last_message_id": 26,
       "published_at": "2026-09-25T12:21:35.598865+00:00",
       "quiz_message_id": 27
+    },
+    "v-01419": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 39,
+      "published_at": "2026-09-25T14:58:17.082587+00:00",
+      "quiz_message_id": 40
     },
     "v-01599": {
       "count": 1,
@@ -785,6 +1128,20 @@
       "published_at": "2026-09-25T11:21:25.677646+00:00",
       "quiz_message_id": 11
     },
+    "v-02881": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 35,
+      "published_at": "2026-09-25T14:58:10.776459+00:00",
+      "quiz_message_id": 36
+    },
+    "v-02894": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 37,
+      "published_at": "2026-09-25T14:58:13.930872+00:00",
+      "quiz_message_id": 38
+    },
     "v-03479": {
       "count": 1,
       "last_cycle": 1,
@@ -802,11 +1159,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00685",
-    "v-02881",
-    "v-02894",
-    "v-01419",
-    "v-00849",
     "v-00015",
     "v-01769",
     "v-01435",
@@ -4414,6 +4766,41 @@
         "v-00277"
       ],
       "status": "completed"
+    },
+    "20260925T145802Z-d8aae199": {
+      "completed_at": "2026-09-25T14:58:20.990420+00:00",
+      "created_at": "2026-09-25T14:58:02.711847+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00685"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02881"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02894"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01419"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00849"
+        }
+      ],
+      "published_ids": [
+        "v-00685",
+        "v-02881",
+        "v-02894",
+        "v-01419",
+        "v-00849"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -4524,6 +4911,43 @@
       ],
       "run_id": "20260925T140330Z-9f67a345",
       "status": "completed"
+    },
+    {
+      "completed_at": "2026-09-25T14:58:20.990420+00:00",
+      "created_at": "2026-09-25T14:58:02.711847+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00685"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02881"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02894"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01419"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00849"
+        }
+      ],
+      "published_ids": [
+        "v-00685",
+        "v-02881",
+        "v-02894",
+        "v-01419",
+        "v-00849"
+      ],
+      "run_id": "20260925T145802Z-d8aae199",
+      "status": "completed",
+      "unknown_ids": []
     }
   ],
   "schema_version": 3
