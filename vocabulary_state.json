@@ -1,5 +1,66 @@
 {
   "content_cache": {
+    "v-00015": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "to refuse",
+          "word": "reject"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "accept an invitation",
+        "accept responsibility",
+        "accept a payment",
+        "accept the terms",
+        "accept a challenge"
+      ],
+      "common_mistake_correct": "I accepted the invitation.",
+      "common_mistake_wrong": "*I accept the invitation* (using present tense for past event)",
+      "definition_en": "To agree to receive or do something.",
+      "example_bn": "তিনি চাকরির প্রস্তাবটি গ্রহণ করেছেন।",
+      "example_en": "She accepted the job offer.",
+      "memory_hook": "Think of \"a receipt\" you get when you accept something.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "refuse",
+        "agree to take",
+        "ignore",
+        "delay"
+      ],
+      "quiz_question": "What does \"accept\" mean?",
+      "short_meaning_en": "agree",
+      "synonyms": [
+        {
+          "meaning": "to have the same opinion",
+          "word": "agree"
+        },
+        {
+          "meaning": "to take something offered",
+          "word": "receive"
+        },
+        {
+          "meaning": "to accept something",
+          "word": "take"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "acceptance"
+        },
+        {
+          "type": "adjective",
+          "word": "acceptable"
+        },
+        {
+          "type": "adverb",
+          "word": "acceptably"
+        }
+      ]
+    },
     "v-00028": {
       "antonyms": [],
       "cefr": "",
@@ -35,6 +96,63 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-00365": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "to give in exchange for money",
+          "word": "sell"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "buy a house",
+        "buy groceries",
+        "buy tickets",
+        "buy online",
+        "buy in bulk"
+      ],
+      "common_mistake_correct": "I will buy a car.",
+      "common_mistake_wrong": "I will buyed a car.",
+      "definition_en": "To purchase something by paying money for it.",
+      "example_bn": "আমি আগামীকাল একটি নতুন ল্যাপটপ কিনব।",
+      "example_en": "I will buy a new laptop tomorrow.",
+      "memory_hook": "\"Buy\" sounds like \"by\" – you get something by paying for it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "sell",
+        "borrow",
+        "buy",
+        "rent"
+      ],
+      "quiz_question": "Which word means to purchase?",
+      "short_meaning_en": "purchase",
+      "synonyms": [
+        {
+          "meaning": "to buy",
+          "word": "purchase"
+        },
+        {
+          "meaning": "to obtain",
+          "word": "acquire"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "buyer"
+        },
+        {
+          "type": "noun",
+          "word": "buying"
+        },
+        {
+          "type": "verb",
+          "word": "bought"
+        }
+      ]
     },
     "v-00596": {
       "antonyms": [],
@@ -372,6 +490,55 @@
         }
       ]
     },
+    "v-01435": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "not related to Islam",
+          "word": "non‑Islamic"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "Islamic law",
+        "Islamic art",
+        "Islamic country",
+        "Islamic teachings",
+        "Islamic tradition"
+      ],
+      "common_mistake_correct": "Islamic religion",
+      "common_mistake_wrong": "Islamic religion",
+      "definition_en": "Relating to the religion of Islam.",
+      "example_bn": "ইসলামিক ক্যালেন্ডার চন্দ্র চক্রের উপর ভিত্তি করে।",
+      "example_en": "The Islamic calendar is based on lunar cycles.",
+      "memory_hook": "\"Islamic\" ends with \"-ic\" like \"historic\" – it describes something about Islam.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a language",
+        "a religion",
+        "a food",
+        "a sport"
+      ],
+      "quiz_question": "What does \"Islamic\" describe?",
+      "short_meaning_en": "Islamic",
+      "synonyms": [
+        {
+          "meaning": "pertaining to Islam",
+          "word": "Muslim"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "Islam"
+        },
+        {
+          "type": "adverb",
+          "word": "Islamically"
+        }
+      ]
+    },
     "v-01599": {
       "antonyms": [
         {
@@ -550,6 +717,34 @@
           "word": "modeler"
         }
       ]
+    },
+    "v-01769": {
+      "_content_version": "1.0.6",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "neither ... nor ...",
+        "nor yet",
+        "nor still"
+      ],
+      "common_mistake_correct": "She likes tea, nor coffee.",
+      "common_mistake_wrong": "She likes tea, and nor coffee.",
+      "definition_en": "Used to introduce a negative alternative after \"neither\".",
+      "example_bn": "তিনি চা পছন্দ করেন, আর কফি পছন্দ করেন না।",
+      "example_en": "She likes tea, nor does she like coffee.",
+      "memory_hook": "\"Nor\" sounds like \"nor\" in \"norway\" – think of two things that are not there.",
+      "part_of_speech": "conjunction",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "and",
+        "or",
+        "nor",
+        "but"
+      ],
+      "quiz_question": "Which word completes the pair \"neither ... ___\"?",
+      "short_meaning_en": "negative also",
+      "synonyms": [],
+      "word_family": []
     },
     "v-01859": {
       "antonyms": [
@@ -806,6 +1001,59 @@
         }
       ]
     },
+    "v-03225": {
+      "_content_version": "1.0.6",
+      "antonyms": [
+        {
+          "meaning": "to put in",
+          "word": "insert"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "eject a pilot",
+        "eject from a plane",
+        "eject a cartridge",
+        "eject waste",
+        "eject the tape"
+      ],
+      "common_mistake_correct": "The seat ejected automatically.",
+      "common_mistake_wrong": "The seat was ejected automatically.",
+      "definition_en": "To force something to leave a place, especially by pushing it out.",
+      "example_bn": "ইঞ্জিন ব্যর্থ হওয়ার পরে পাইলটকে বিমান থেকে উচ্ছেদ করতে হয়েছিল।",
+      "example_en": "The pilot had to eject from the aircraft after the engine failed.",
+      "memory_hook": "Think of \"eject\" as \"exit\" with an extra \"j\" – it forces something to exit.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to pull in",
+        "to push out",
+        "to stay",
+        "to hide"
+      ],
+      "quiz_question": "What does \"eject\" mean?",
+      "short_meaning_en": "expel",
+      "synonyms": [
+        {
+          "meaning": "to force out",
+          "word": "expel"
+        },
+        {
+          "meaning": "to remove forcibly",
+          "word": "dislodge"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "ejection"
+        },
+        {
+          "type": "noun",
+          "word": "ejector"
+        }
+      ]
+    },
     "v-03479": {
       "antonyms": [
         {
@@ -902,6 +1150,12 @@
   },
   "cycle": 1,
   "media_cache": {
+    "v-00015": {
+      "cached_at": "2026-09-25T16:13:06.516307+00:00",
+      "photo_file_id": "AgACAgUAAxUHaradkQN6ZG4lEjjUpfsdRcJYle8AAlgRaxvpIblVQjB4qXeXEeUBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaradkVS2xwl6NkvGzmp7zONhRykAAhkfAALpIblVfgNSYjEXMnU9BA"
+    },
     "v-00028": {
       "cached_at": "2026-09-25T14:03:43.882630+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_P3-aJOEBjhKiqU0wU5VGNAQAAiYRaxvpIblVLqUnyhPNVr0BAAMCAANzAAM9BA",
@@ -913,6 +1167,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_QXx2P3r_Y6fLpAF-hu9ACrYAAicRaxvpIblVa34lqLZpW_ABAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_QcD--VbbBOZ2GO1NlV0avrMAAtQeAALpIblVpGEoZMWRsrw9BA"
+    },
+    "v-00365": {
+      "cached_at": "2026-09-25T16:13:13.802359+00:00",
+      "photo_file_id": "AgACAgUAAxUHaradmTGpW3LlJAw_5YsqvC4Bp4oAAlsRaxvpIblVOhpXRJK1GRoBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaradmdm7JRHqieXX-ukVlEG5jzIAAhwfAALpIblVyvEsVjWc8aM9BA"
     },
     "v-00596": {
       "cached_at": "2026-09-25T14:03:35.808387+00:00",
@@ -955,6 +1215,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMCEBuyP3oE_oWHswRyKtf4xgAAv0eAALpIblV21MbUwZUw7w9BA"
     },
+    "v-01435": {
+      "cached_at": "2026-09-25T16:13:11.478208+00:00",
+      "photo_file_id": "AgACAgUAAxUHaradl5ACbC_tRFZfruumhkxi9hEAAloRaxvpIblVC71AeGaHhrYBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
+    },
     "v-01599": {
       "audio_file_id": "CQACAgUAAxUHarZZK-Yp0tFj1vHXrfk2YA-z8DYAAsQkAALpIbFV-w4QlOkLda49BA",
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
@@ -969,6 +1235,12 @@
       "audio_file_id": "CQACAgUAAxUHarZZMhBkj7QPAbzJvZT05PrWkOwAAsUkAALpIbFV-XfvaKXdOuo9BA",
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMs9gMqHi-58lFTpSe8T2HswAAloRaxvpIbFV5GiVivr2BYIBAAMCAANzAAM9BA"
+    },
+    "v-01769": {
+      "cached_at": "2026-09-25T16:13:08.961078+00:00",
+      "photo_file_id": "AgACAgUAAxUHaradlBysZRqQ9QPCTm8jGKbfcuAAAlkRaxvpIblVOUCKf1sjKEoBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaradlBupFASnWeVyop7z_fCHvLIAAhofAALpIblVeR3lotUcfws9BA"
     },
     "v-01859": {
       "cached_at": "2026-09-25T12:21:29.339279+00:00",
@@ -1005,6 +1277,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMBQh-fSE7zkhjFV3XAAE7AAE1JgAC_B4AAukhuVUoG5TzI6YeLz0E"
     },
+    "v-03225": {
+      "cached_at": "2026-09-25T16:13:16.117878+00:00",
+      "photo_file_id": "AgACAgUAAxUHaradm90Ww0tiAkDb8tb3TBGy6GgAAlwRaxvpIblVO2ZwFUS3r8oBAAMCAANzAAM9BA",
+      "version": "1.0.6",
+      "voice_file_id": "AwACAgUAAxUHaradm3Ld0A4EEH07EzIySlpm7esAAh0fAALpIblVbg3ZhWwg7PY9BA"
+    },
     "v-03479": {
       "cached_at": "2026-09-25T12:21:32.459053+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnTLpAGcgq2IKXf4vUeNtvRD0AAnERaxvpIbFVl7J_pA8b5ZIBAAMCAANzAAM9BA",
@@ -1021,6 +1299,13 @@
   "migrations": [],
   "pool_fingerprint": "fc9c89f0fa9d6d4654602a25413d66ca9dc0c5d9cd9392106210317305071e79",
   "published": {
+    "v-00015": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 43,
+      "published_at": "2026-09-25T16:13:06.516332+00:00",
+      "quiz_message_id": 44
+    },
     "v-00028": {
       "count": 1,
       "last_cycle": 1,
@@ -1032,6 +1317,13 @@
       "last_cycle": 1,
       "last_message_id": 32,
       "published_at": "2026-09-25T14:03:46.281690+00:00"
+    },
+    "v-00365": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 49,
+      "published_at": "2026-09-25T16:13:13.802383+00:00",
+      "quiz_message_id": 50
     },
     "v-00596": {
       "count": 1,
@@ -1081,6 +1373,13 @@
       "published_at": "2026-09-25T14:58:17.082587+00:00",
       "quiz_message_id": 40
     },
+    "v-01435": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 47,
+      "published_at": "2026-09-25T16:13:11.478231+00:00",
+      "quiz_message_id": 48
+    },
     "v-01599": {
       "count": 1,
       "last_cycle": 1,
@@ -1101,6 +1400,13 @@
       "last_message_id": 8,
       "published_at": "2026-09-25T11:21:23.177278+00:00",
       "quiz_message_id": 9
+    },
+    "v-01769": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 45,
+      "published_at": "2026-09-25T16:13:08.961108+00:00",
+      "quiz_message_id": 46
     },
     "v-01859": {
       "count": 1,
@@ -1142,6 +1448,13 @@
       "published_at": "2026-09-25T14:58:13.930872+00:00",
       "quiz_message_id": 38
     },
+    "v-03225": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 51,
+      "published_at": "2026-09-25T16:13:16.117902+00:00",
+      "quiz_message_id": 52
+    },
     "v-03479": {
       "count": 1,
       "last_cycle": 1,
@@ -1159,11 +1472,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00015",
-    "v-01769",
-    "v-01435",
-    "v-00365",
-    "v-03225",
     "v-04190",
     "v-00079",
     "v-00218",
@@ -4801,6 +5109,41 @@
         "v-00849"
       ],
       "status": "completed"
+    },
+    "20260925T161301Z-680327c0": {
+      "completed_at": "2026-09-25T16:13:16.643916+00:00",
+      "created_at": "2026-09-25T16:13:01.176396+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00015"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01769"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01435"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00365"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03225"
+        }
+      ],
+      "published_ids": [
+        "v-00015",
+        "v-01769",
+        "v-01435",
+        "v-00365",
+        "v-03225"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -4946,6 +5289,43 @@
         "v-00849"
       ],
       "run_id": "20260925T145802Z-d8aae199",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-25T16:13:16.643916+00:00",
+      "created_at": "2026-09-25T16:13:01.176396+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00015"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01769"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01435"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00365"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03225"
+        }
+      ],
+      "published_ids": [
+        "v-00015",
+        "v-01769",
+        "v-01435",
+        "v-00365",
+        "v-03225"
+      ],
+      "run_id": "20260925T161301Z-680327c0",
       "status": "completed",
       "unknown_ids": []
     }
