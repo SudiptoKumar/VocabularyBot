@@ -1,0 +1,48 @@
+{
+  "version": "1.0.4",
+  "name": "Vocabulary Bot V1",
+  "source_database_entries": 4310,
+  "unique_words": 3521,
+  "channel_id_default": "-1004330016419",
+  "words_per_run": 5,
+  "card": {
+    "width": 1080,
+    "height": 675,
+    "ratio": "8:5",
+    "note": "Compact 1080x675 editorial card: word + type/CEFR + Bangla meaning + short English meaning + LISTEN cue; no IPA or pagination."
+  },
+  "fonts": {
+    "hero": "Playfair Display",
+    "ui": "Plus Jakarta Sans",
+    "bangla": "Hind Siliguri"
+  },
+  "telegram_api": "Rich Messages + native quiz polls",
+  "build_status": "self-test-passed",
+  "tests": {
+    "py_compile": "passed",
+    "self_test": "passed",
+    "shuffle_no_repeat": "passed",
+    "poll_payload_current_api": "passed",
+    "rich_message_payload": "passed",
+    "long_word_cards": "passed",
+    "audio_fallback": "passed",
+    "state_migration": "passed",
+    "queue_lifetime_history_regression": "passed",
+    "failed_word_recovery": "passed",
+    "card_bangla_rendering": "passed",
+    "card_no_ipa_layout": "passed",
+    "example_translation_label": "passed",
+    "card_dimensions": "passed"
+  },
+  "media_version": "1.0.4",
+  "audio_block": "RichBlockVoiceNote (replay-friendly voice-message playback)",
+  "changes": [
+    "Removed IPA/pronunciation from the photo card; pronunciation remains in the rich post.",
+    "Kept Type · CEFR on the card with a clean centered red-dot divider.",
+    "Restored visible Bangla meaning on the card using Hind Siliguri at runtime with safe Noto Sans Bengali fallback.",
+    "Added explicit Bengali language shaping when rendering the card.",
+    "Kept the simple LISTEN text cue and removed any button/pagination marker.",
+    "Removed the extra বাংলা label from the English example translation; translation now appears directly below the English sentence.",
+    "Bumped media cache version so redesigned cards are regenerated instead of reusing previous cached media."
+  ]
+}
