@@ -43,7 +43,12 @@ jobs:
       QUIZ_ENABLED: "true"
       QUIZ_PER_WORD: "true"
       DOWNLOAD_FONTS: "true"
-      ALLOW_FONT_FALLBACK: "true"
+      ALLOW_FONT_FALLBACK: "false"
+      CONTENT_VERSION: "1.0.6"
+      MEDIA_VERSION: "1.0.6"
+      FAIL_CLOSED_ON_INCOMPLETE_CONTENT: "true"
+      TELEGRAM_RETRY_UNKNOWN_OUTCOME: "false"
+      TELEGRAM_PREFLIGHT: "true"
       PROTECT_CONTENT: "false"
       SILENT_POSTS: "false"
       PYTHONUNBUFFERED: "1"
@@ -94,6 +99,9 @@ jobs:
 
       - name: Run self-test
         run: python main.py --self-test
+
+      - name: Run safety regression tests
+        run: python tests/v1_0_6_safety.py
 
       - name: Publish vocabulary
         shell: bash
