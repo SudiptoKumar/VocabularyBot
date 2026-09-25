@@ -1,0 +1,158 @@
+name: Vocabulary Bot
+
+on:
+  schedule:
+    # 08:00 Asia/Dhaka = 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Number of vocabulary words for this run"
+        required: false
+        default: "5"
+      dry_run:
+        description: "Generate locally but do not publish to Telegram"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vocabulary-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID || '-1004330016419' }}
+      CHANNEL_NAME: Vocabulary
+      TIMEZONE: Asia/Dhaka
+      WORDS_PER_RUN: "5"
+      STATE_BRANCH: vocabulary-state
+      CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      CEREBRAS_MODEL: gpt-oss-120b
+      USE_CEREBRAS: "true"
+      AUDIO_ENABLED: "true"
+      AUDIO_VOICE: en-US-JennyNeural
+      AUDIO_RATE: "+0%"
+      QUIZ_ENABLED: "true"
+      QUIZ_PER_WORD: "true"
+      DOWNLOAD_FONTS: "true"
+      ALLOW_FONT_FALLBACK: "true"
+      PROTECT_CONTENT: "false"
+      SILENT_POSTS: "false"
+      PYTHONUNBUFFERED: "1"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Install media dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg espeak-ng
+
+      - name: Restore vocabulary state
+        shell: bash
+        env:
+          STATE_BRANCH: vocabulary-state
+        run: |
+          set -euo pipefail
+          mkdir -p state
+          if git ls-remote --exit-code --heads origin "$STATE_BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$STATE_BRANCH:$STATE_BRANCH"
+            if ! git show "$STATE_BRANCH:vocabulary_state.json" > state/vocabulary_state.json; then
+              echo "::error::State branch exists but vocabulary_state.json is missing. Refusing to initialize empty state."
+              exit 1
+            fi
+          else
+            echo 'No vocabulary-state branch exists yet; the first successful run will create it.'
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify source
+        run: python -m py_compile *.py
+
+      - name: Run self-test
+        run: python main.py --self-test
+
+      - name: Publish vocabulary
+        shell: bash
+        run: |
+          set -euo pipefail
+          COUNT="${{ inputs.count || '5' }}"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.dry_run }}" == "true" ]]; then
+            python main.py --dry-run --count "$COUNT"
+          else
+            python main.py --count "$COUNT"
+          fi
+
+      - name: Sync state branch
+        if: always()
+        shell: bash
+        env:
+          STATE_BRANCH: vocabulary-state
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if [ ! -f state/vocabulary_state.json ]; then
+            echo "No state file generated; nothing to sync."
+            exit 0
+          fi
+
+          TMP="$(mktemp -d)"
+          trap 'rm -rf "$TMP"' EXIT
+          git clone --quiet "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$TMP/repo"
+          cd "$TMP/repo"
+
+          if git ls-remote --exit-code --heads origin "$STATE_BRANCH" >/dev/null 2>&1; then
+            git checkout --quiet -B "$STATE_BRANCH" "origin/$STATE_BRANCH"
+          else
+            git checkout --quiet --orphan "$STATE_BRANCH"
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          cp "${GITHUB_WORKSPACE}/state/vocabulary_state.json" ./vocabulary_state.json
+          git config user.name "Vocabulary State Bot"
+          git config user.email "actions@github.com"
+          git add vocabulary_state.json
+
+          if git diff --cached --quiet; then
+            echo "Vocabulary state already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update vocabulary state" >/dev/null
+          for attempt in 1 2 3; do
+            if git push origin "$STATE_BRANCH"; then
+              echo "Vocabulary state pushed."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; refreshing."
+            git fetch origin "$STATE_BRANCH"
+            git reset --hard "origin/$STATE_BRANCH"
+            cp "${GITHUB_WORKSPACE}/state/vocabulary_state.json" ./vocabulary_state.json
+            git add vocabulary_state.json
+            git commit -m "Update vocabulary state" >/dev/null || true
+          done
+          echo "::error::Failed to push vocabulary-state branch"
+          exit 1
