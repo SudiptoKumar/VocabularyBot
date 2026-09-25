@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1",
+  "name": "Vocabulary Bot V1",
+  "source_database_entries": 4310,
+  "unique_words": 3521,
+  "channel_id_default": "-1004330016419",
+  "words_per_run": 5,
+  "card": {
+    "width": 1080,
+    "height": 1350,
+    "ratio": "4:5"
+  },
+  "fonts": {
+    "hero": "Playfair Display",
+    "ui": "Plus Jakarta Sans",
+    "bangla": "Hind Siliguri"
+  },
+  "telegram_api": "Rich Messages + native quiz polls",
+  "build_status": "self-test-passed",
+  "tests": {
+    "py_compile": "passed",
+    "self_test": "passed",
+    "shuffle_no_repeat": "passed",
+    "poll_payload_current_api": "passed",
+    "rich_message_payload": "passed",
+    "long_word_cards": "passed",
+    "audio_fallback": "passed"
+  }
+}
