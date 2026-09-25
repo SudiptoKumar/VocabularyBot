@@ -1,5 +1,51 @@
 {
   "content_cache": {
+    "v-00756": {
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "electronic device",
+        "medical device",
+        "device settings",
+        "portable device"
+      ],
+      "common_mistake_correct": "The verb form is \"devise\"; \"device\" is a noun",
+      "common_mistake_wrong": "Using \"device\" as a verb (e.g., \"to device a plan\")",
+      "definition_en": "A tool or piece of equipment designed to perform a specific function.",
+      "example_bn": "এই ডিভাইসটি ব্যবহারকারীদের পদক্ষেপ ট্র্যাক করতে সাহায্য করে।",
+      "example_en": "The new device helps users track their steps.",
+      "memory_hook": "Device contains \"vice\" – think of a handy tool that gives you a little advantage.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "device",
+        "run",
+        "happy",
+        "blue"
+      ],
+      "quiz_question": "Which word means a tool or gadget?",
+      "short_meaning_en": "tool",
+      "synonyms": [
+        {
+          "meaning": "a small mechanical or electronic device",
+          "word": "gadget"
+        },
+        {
+          "meaning": "a tool for a particular purpose",
+          "word": "instrument"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "devices"
+        },
+        {
+          "type": "adjective",
+          "word": "deviceless"
+        }
+      ]
+    },
     "v-01076": {
       "antonyms": [],
       "cefr": "A2",
@@ -48,6 +94,44 @@
         {
           "type": "noun",
           "word": "fishery"
+        }
+      ]
+    },
+    "v-01144": {
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "funeral home",
+        "funeral service",
+        "funeral arrangements",
+        "state funeral"
+      ],
+      "common_mistake_correct": "Use \"funeral\" as a noun; the adjective form is \"funeral\" or \"funeral‑related\"",
+      "common_mistake_wrong": "Using \"funeral\" as an adjective (e.g., \"funeral dress\")",
+      "definition_en": "A ceremony held after a person dies, often involving a burial or cremation.",
+      "example_bn": "অনেক বন্ধু পারলৌকিক অনুষ্ঠানে উপস্থিত ছিলেন।",
+      "example_en": "Many friends attended the funeral to pay their respects.",
+      "memory_hook": "\"Funeral\" starts with \"fun\" – remember it’s the opposite of fun, a ceremony for the dead.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "funeral",
+        "birthday",
+        "wedding",
+        "festival"
+      ],
+      "quiz_question": "What is a ceremony for the dead called?",
+      "short_meaning_en": "death ceremony",
+      "synonyms": [
+        {
+          "meaning": "a ceremony honoring the dead",
+          "word": "memorial service"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "funerals"
         }
       ]
     },
@@ -230,6 +314,57 @@
         }
       ]
     },
+    "v-01859": {
+      "antonyms": [
+        {
+          "meaning": "the reason something happens",
+          "word": "cause"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "desired outcome",
+        "final outcome",
+        "positive outcome",
+        "outcome of the study"
+      ],
+      "common_mistake_correct": "Outcome refers to a result, not an expense",
+      "common_mistake_wrong": "Confusing \"outcome\" with \"outgo\" (expenses)",
+      "definition_en": "The result or effect that follows from an action, event, or situation.",
+      "example_bn": "পরীক্ষার ফলাফলটি অপ্রত্যাশিত ছিল।",
+      "example_en": "The outcome of the experiment was unexpected.",
+      "memory_hook": "\"Outcome\" ends with \"come\" – think of what comes out after an event.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "outcome",
+        "input",
+        "process",
+        "method"
+      ],
+      "quiz_question": "What is another word for \"result\"?",
+      "short_meaning_en": "result",
+      "synonyms": [
+        {
+          "meaning": "the final effect",
+          "word": "result"
+        },
+        {
+          "meaning": "something that follows",
+          "word": "consequence"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "outcomes"
+        },
+        {
+          "type": "noun",
+          "word": "outcome's"
+        }
+      ]
+    },
     "v-02843": {
       "antonyms": [
         {
@@ -288,14 +423,119 @@
           "word": "usualness"
         }
       ]
+    },
+    "v-03479": {
+      "antonyms": [
+        {
+          "meaning": "ask for payment",
+          "word": "charge"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "full refund",
+        "refund policy",
+        "request a refund",
+        "refund amount"
+      ],
+      "common_mistake_correct": "The correct noun is \"refund\"; \"refunded\" is the past‑tense verb",
+      "common_mistake_wrong": "Using \"refund\" as a noun incorrectly (e.g., \"I need a refunded\")",
+      "definition_en": "To give back money that was previously paid, usually because of a return or error.",
+      "example_bn": "আপনি পণ্যটি ফেরত দিলে দোকান আপনার টাকা ফেরত দেবে।",
+      "example_en": "The store will refund your purchase if you return the item.",
+      "memory_hook": "Refund sounds like \"return fund\" – think of sending money back.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "refund",
+        "sell",
+        "repair",
+        "ignore"
+      ],
+      "quiz_question": "If you return a product, what might the shop do?",
+      "short_meaning_en": "return money",
+      "synonyms": [
+        {
+          "meaning": "pay back",
+          "word": "reimburse"
+        },
+        {
+          "meaning": "give back money",
+          "word": "repay"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "refunded"
+        },
+        {
+          "type": "adjective",
+          "word": "refundable"
+        }
+      ]
+    },
+    "v-03712": {
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "plain curd",
+        "curd rice",
+        "curd snack",
+        "curd cheese"
+      ],
+      "common_mistake_correct": "Curd is a noun; the verb form is \"curdle\"",
+      "common_mistake_wrong": "Using \"curd\" as a verb (e.g., \"to curd the milk\")",
+      "definition_en": "A thick white dairy product made by coagulating milk, commonly eaten as a snack or with meals.",
+      "example_bn": "সে নাস্তার জন্য এক বাটি দই খেয়েছে।",
+      "example_en": "She ate a bowl of curd for breakfast.",
+      "memory_hook": "Curd looks like \"curdle\" – think of milk turning into curd.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "curd",
+        "bread",
+        "apple",
+        "rice"
+      ],
+      "quiz_question": "Which of the following is a dairy product?",
+      "short_meaning_en": "yogurt",
+      "synonyms": [
+        {
+          "meaning": "a similar dairy product",
+          "word": "yogurt"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "curdy"
+        },
+        {
+          "type": "noun",
+          "word": "curdiness"
+        }
+      ]
     }
   },
   "cycle": 1,
   "media_cache": {
+    "v-00756": {
+      "cached_at": "2026-09-25T12:21:26.261504+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZnRQbYzJx6Uwxh26x4-FGpzVMAAm8RaxvpIbFVhHFfw5IimW8BAAMCAANzAAM9BA",
+      "version": "1.0.3",
+      "voice_file_id": "AwACAgUAAxUHarZnRdGr0NiN4rACqkNhbQoTDskAAukkAALpIbFVpefs4qt3w-E9BA"
+    },
     "v-01076": {
       "audio_file_id": "CQACAgUAAxUHarZZNwHQGYtYWJuUYNXmI-021vMAAsckAALpIbFVM-IBUsQCA889BA",
       "cached_at": "2026-09-25T11:21:28.101665+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZN9xKshMf1vR_Vg-ux8v3HvgAAlwRaxvpIbFVrzXitNgjQNMBAAMCAANzAAM9BA"
+    },
+    "v-01144": {
+      "cached_at": "2026-09-25T12:21:35.598843+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZnT9ICsYf60DALRATVZok9TMoAAnIRaxvpIbFVAscLV8vNF2ABAAMCAANzAAM9BA",
+      "version": "1.0.3",
+      "voice_file_id": "AwACAgUAAxUHarZnT-zISsXl57VxKNnfeRFEBkwAAuwkAALpIbFVR9KoeBTEukg9BA"
     },
     "v-01599": {
       "audio_file_id": "CQACAgUAAxUHarZZK-Yp0tFj1vHXrfk2YA-z8DYAAsQkAALpIbFV-w4QlOkLda49BA",
@@ -312,21 +552,53 @@
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMs9gMqHi-58lFTpSe8T2HswAAloRaxvpIbFV5GiVivr2BYIBAAMCAANzAAM9BA"
     },
+    "v-01859": {
+      "cached_at": "2026-09-25T12:21:29.339279+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZnSCKIpXVI7QABXuksaC25CrOtAAJwEWsb6SGxVZs1XmJf8KQxAQADAgADcwADPQQ",
+      "version": "1.0.3",
+      "voice_file_id": "AwACAgUAAxUHarZnSCok3NwrMUt-S4ZlzdGNT9sAAuokAALpIbFVjHvDOjYnIxU9BA"
+    },
     "v-02843": {
       "audio_file_id": "CQACAgUAAxUHarZZNHBqYbCu-8x6mQW8hyE2o68AAsYkAALpIbFVKC6V6hqE1xg9BA",
       "cached_at": "2026-09-25T11:21:25.677622+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZNbXLLXQlRbPw-V-yYqtoSNsAAlsRaxvpIbFV6YS2mTagrUIBAAMCAANzAAM9BA"
+    },
+    "v-03479": {
+      "cached_at": "2026-09-25T12:21:32.459053+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZnTLpAGcgq2IKXf4vUeNtvRD0AAnERaxvpIbFVl7J_pA8b5ZIBAAMCAANzAAM9BA",
+      "version": "1.0.3",
+      "voice_file_id": "AwACAgUAAxUHarZnS2x5e5nboRWtY-iiXwUx-ZAAAuskAALpIbFVRhHIJrW8-m09BA"
+    },
+    "v-03712": {
+      "cached_at": "2026-09-25T12:21:23.376498+00:00",
+      "photo_file_id": "AgACAgUAAxUHarZnQj4PXcUn73cD5U08Ah5jjDkAAm4RaxvpIbFVn4sBwp-qjzoBAAMCAANzAAM9BA",
+      "version": "1.0.3",
+      "voice_file_id": "AwACAgUAAxUHarZnQiieY-BfWR74-o0pvnkkKFwAAugkAALpIbFVw1HDmXMy2es9BA"
     }
   },
   "migrations": [],
   "pool_fingerprint": "fc9c89f0fa9d6d4654602a25413d66ca9dc0c5d9cd9392106210317305071e79",
   "published": {
+    "v-00756": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 20,
+      "published_at": "2026-09-25T12:21:26.261530+00:00",
+      "quiz_message_id": 21
+    },
     "v-01076": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 12,
       "published_at": "2026-09-25T11:21:28.101708+00:00",
       "quiz_message_id": 13
+    },
+    "v-01144": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 26,
+      "published_at": "2026-09-25T12:21:35.598865+00:00",
+      "quiz_message_id": 27
     },
     "v-01599": {
       "count": 1,
@@ -349,20 +621,37 @@
       "published_at": "2026-09-25T11:21:23.177278+00:00",
       "quiz_message_id": 9
     },
+    "v-01859": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 22,
+      "published_at": "2026-09-25T12:21:29.339301+00:00",
+      "quiz_message_id": 23
+    },
     "v-02843": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 10,
       "published_at": "2026-09-25T11:21:25.677646+00:00",
       "quiz_message_id": 11
+    },
+    "v-03479": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 24,
+      "published_at": "2026-09-25T12:21:32.459075+00:00",
+      "quiz_message_id": 25
+    },
+    "v-03712": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 18,
+      "published_at": "2026-09-25T12:21:23.376524+00:00",
+      "quiz_message_id": 19
     }
   },
+  "queue_initialized": true,
   "remaining_ids": [
-    "v-03712",
-    "v-00756",
-    "v-01859",
-    "v-03479",
-    "v-01144",
     "v-00596",
     "v-01972",
     "v-01924",
@@ -3910,6 +4199,41 @@
         "v-01640"
       ],
       "status": "completed"
+    },
+    "20260925T122117Z-cb7681f4": {
+      "completed_at": "2026-09-25T12:21:36.228867+00:00",
+      "created_at": "2026-09-25T12:21:17.953194+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03712"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00756"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01859"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03479"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01144"
+        }
+      ],
+      "published_ids": [
+        "v-03712",
+        "v-00756",
+        "v-01859",
+        "v-03479",
+        "v-01144"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -3948,7 +4272,43 @@
       ],
       "run_id": "20260925T112112Z-2ad9f76a",
       "status": "completed"
+    },
+    {
+      "completed_at": "2026-09-25T12:21:36.228867+00:00",
+      "created_at": "2026-09-25T12:21:17.953194+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03712"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00756"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01859"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03479"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01144"
+        }
+      ],
+      "published_ids": [
+        "v-03712",
+        "v-00756",
+        "v-01859",
+        "v-03479",
+        "v-01144"
+      ],
+      "run_id": "20260925T122117Z-cb7681f4",
+      "status": "completed"
     }
   ],
-  "schema_version": 2
+  "schema_version": 3
 }
