@@ -79,6 +79,122 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00079": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "the main person",
+          "word": "principal"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "secret agent",
+        "travel agent",
+        "real estate agent",
+        "agent of change"
+      ],
+      "common_mistake_correct": "Use \"agent\" only for a person; for a thing use \"agent\" as a noun or choose another word.",
+      "common_mistake_wrong": "Using \"agent\" as an adjective for a thing (e.g., \"agent product\").",
+      "definition_en": "A person who represents or acts on behalf of another.",
+      "example_bn": "তিনি ট্যুর কোম্পানির জন্য ট্রাভেল এজেন্ট হিসেবে কাজ করেন।",
+      "example_en": "She works as a travel agent for the tour company.",
+      "memory_hook": "Agent = \"age\" + \"nt\" – a person who acts in a certain age or role.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The agent sold the house.",
+        "The agent is a chemical.",
+        "The agent was very tall.",
+        "The agent is a color."
+      ],
+      "quiz_question": "Which sentence uses \"agent\" correctly?",
+      "short_meaning_en": "representative",
+      "synonyms": [
+        {
+          "meaning": "someone who speaks for others",
+          "word": "representative"
+        },
+        {
+          "meaning": "someone sent to act for another",
+          "word": "delegate"
+        },
+        {
+          "meaning": "a diplomatic representative",
+          "word": "envoy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "agency"
+        },
+        {
+          "type": "adjective",
+          "word": "agentic"
+        }
+      ]
+    },
+    "v-00218": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "to take back",
+          "word": "revoke"
+        },
+        {
+          "meaning": "to keep back",
+          "word": "withhold"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "award a prize",
+        "award ceremony",
+        "award winner",
+        "award money"
+      ],
+      "common_mistake_correct": "Add an object: \"She was awarded a medal.\"",
+      "common_mistake_wrong": "Using \"award\" as a verb without an object (e.g., \"She was award\").",
+      "definition_en": "To give someone a prize, recognition, or reward.",
+      "example_bn": "কমিটি আগামী মাসে তাকে একটি স্কলারশিপ প্রদান করবে।",
+      "example_en": "The committee will award her a scholarship next month.",
+      "memory_hook": "Award sounds like \"a word\" you give to someone.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "They will award the trophy tomorrow.",
+        "The award was beautiful.",
+        "Award is a noun here.",
+        "She award the prize."
+      ],
+      "quiz_question": "Choose the correct use of \"award\" as a verb:",
+      "short_meaning_en": "give",
+      "synonyms": [
+        {
+          "meaning": "to give formally",
+          "word": "grant"
+        },
+        {
+          "meaning": "to give as a gift",
+          "word": "present"
+        },
+        {
+          "meaning": "to confer",
+          "word": "bestow"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "awarded"
+        },
+        {
+          "type": "verb",
+          "word": "awarding"
+        }
+      ]
+    },
     "v-00277": {
       "antonyms": [],
       "cefr": "",
@@ -171,6 +287,62 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-00666": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "to express happiness",
+          "word": "laugh"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "cry loudly",
+        "cry baby",
+        "cry out",
+        "cry tears"
+      ],
+      "common_mistake_correct": "Use context: \"cry for help\" means shout, while \"cry because of loss\" means weep.",
+      "common_mistake_wrong": "Confusing \"cry\" (to weep) with \"cry\" (to shout).",
+      "definition_en": "To shed tears because of sadness or pain.",
+      "example_bn": "খেলনা ভেঙে যাওয়ায় শিশুটি কান্না করতে শুরু করল।",
+      "example_en": "The child began to cry when his toy broke.",
+      "memory_hook": "When you \"cry\", you often hear a \"cry\" of a baby, both sound the same.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He will cry for help.",
+        "She started to cry after the movie.",
+        "The bird will cry at dawn.",
+        "They cry loudly in the stadium."
+      ],
+      "quiz_question": "Which sentence shows \"cry\" meaning to weep?",
+      "short_meaning_en": "weep",
+      "synonyms": [
+        {
+          "meaning": "to shed tears",
+          "word": "weep"
+        },
+        {
+          "meaning": "to cry softly",
+          "word": "sob"
+        },
+        {
+          "meaning": "to cry loudly",
+          "word": "bawl"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "crying"
+        },
+        {
+          "type": "verb",
+          "word": "cried"
+        }
+      ]
     },
     "v-00685": {
       "_content_version": "1.0.6",
@@ -1054,6 +1226,66 @@
         }
       ]
     },
+    "v-03304": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "to assist",
+          "word": "help"
+        },
+        {
+          "meaning": "to restore health",
+          "word": "heal"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "cause harm",
+        "do harm",
+        "harm to health",
+        "harm the environment"
+      ],
+      "common_mistake_correct": "Use the verb form: \"The noise harms people.\"",
+      "common_mistake_wrong": "Using \"harm\" as a noun when a verb is needed (e.g., \"The noise harm\" ).",
+      "definition_en": "To cause injury, damage, or loss to someone or something.",
+      "example_bn": "যদি সঠিকভাবে হ্যান্ডল না করা হয়, রাসায়নিকগুলো পরিবেশকে ক্ষতি করতে পারে।",
+      "example_en": "The chemicals can harm the environment if not handled properly.",
+      "memory_hook": "Harm sounds like \"arm\" – imagine an arm that hurts you.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The loud music harm the neighbors.",
+        "The loud music harms the neighbors.",
+        "Harm is a bad thing.",
+        "They felt harm."
+      ],
+      "quiz_question": "Select the sentence where \"harm\" is used correctly as a verb:",
+      "short_meaning_en": "damage",
+      "synonyms": [
+        {
+          "meaning": "to cause harm",
+          "word": "damage"
+        },
+        {
+          "meaning": "to cause physical injury",
+          "word": "injure"
+        },
+        {
+          "meaning": "to cause pain",
+          "word": "hurt"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "harmful"
+        },
+        {
+          "type": "adjective",
+          "word": "harmless"
+        }
+      ]
+    },
     "v-03479": {
       "antonyms": [
         {
@@ -1146,6 +1378,58 @@
           "word": "curdiness"
         }
       ]
+    },
+    "v-04190": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "the beginning of a plant",
+          "word": "seed"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "harvest season",
+        "harvest festival",
+        "harvest crops",
+        "harvest moon"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A crop that is gathered from the fields.",
+      "example_bn": "কৃষক ফসলটি গুদামে সংরক্ষণ করলেন।",
+      "example_en": "The farmer stored the harvest in the barn.",
+      "memory_hook": "Think of a hard vest you take off after gathering crops.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a tool",
+        "a crop",
+        "a song",
+        "a vehicle"
+      ],
+      "quiz_question": "What does \"harvest\" refer to?",
+      "short_meaning_en": "crop",
+      "synonyms": [
+        {
+          "meaning": "the cultivated plants",
+          "word": "crop"
+        },
+        {
+          "meaning": "the amount produced",
+          "word": "yield"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "harvested"
+        },
+        {
+          "type": "verb",
+          "word": "harvesting"
+        }
+      ]
     }
   },
   "cycle": 1,
@@ -1161,6 +1445,18 @@
       "photo_file_id": "AgACAgUAAxUHarZ_P3-aJOEBjhKiqU0wU5VGNAQAAiYRaxvpIblVLqUnyhPNVr0BAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PxEp7nJ3aENrvRHs1VAvv6IAAtMeAALpIblV50Z2hNaRDYA9BA"
+    },
+    "v-00079": {
+      "cached_at": "2026-09-25T16:45:15.237239+00:00",
+      "photo_file_id": "AgACAgUAAxUHaralGrgo5a11XPg3Fsj7u03Wkr4AAoMRaxvpIblVCiw0IATwDI8BAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHaralGrRW_4TqXdUvLD9S0FhTeCoAAicfAALpIblVQHzswxj6eRg9BA"
+    },
+    "v-00218": {
+      "cached_at": "2026-09-25T16:45:17.189571+00:00",
+      "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHaralHFXqzNfBlkyWJ6PxYP5CjvwAAigfAALpIblVN9G9CjXqu8Y9BA"
     },
     "v-00277": {
       "cached_at": "2026-09-25T14:03:46.281666+00:00",
@@ -1179,6 +1475,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_N5InHvti52WO_zisVMPth20AAtAeAALpIblVCU4VmkdfzpM9BA"
+    },
+    "v-00666": {
+      "cached_at": "2026-09-25T16:45:18.987922+00:00",
+      "photo_file_id": "AgACAgUAAxUHaralHkcNMa4j4niXkAj9P4gDFNgAAoURaxvpIblV0FLvM5btV4IBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHaralHm7xLIvnZtLlMbMvOfZ44ocAAikfAALpIblV2qyJGpSSAmQ9BA"
     },
     "v-00685": {
       "cached_at": "2026-09-25T14:58:07.121334+00:00",
@@ -1283,6 +1585,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradm3Ld0A4EEH07EzIySlpm7esAAh0fAALpIblVbg3ZhWwg7PY9BA"
     },
+    "v-03304": {
+      "cached_at": "2026-09-25T16:45:20.750440+00:00",
+      "photo_file_id": "AgACAgUAAxUHaralIDQF9GOrK71TlnEjy2_CbQkAAoYRaxvpIblV5Ij7M9_NNgMBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHaralILxCH7ys77hv165uVOYg8Y4AAiofAALpIblV9-soY9w7FKU9BA"
+    },
     "v-03479": {
       "cached_at": "2026-09-25T12:21:32.459053+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnTLpAGcgq2IKXf4vUeNtvRD0AAnERaxvpIbFVl7J_pA8b5ZIBAAMCAANzAAM9BA",
@@ -1294,6 +1602,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnQj4PXcUn73cD5U08Ah5jjDkAAm4RaxvpIbFVn4sBwp-qjzoBAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnQiieY-BfWR74-o0pvnkkKFwAAugkAALpIbFVw1HDmXMy2es9BA"
+    },
+    "v-04190": {
+      "cached_at": "2026-09-25T16:45:11.040062+00:00",
+      "photo_file_id": "AgACAgUAAxUHaralFpFNvQHv2lVANrXxR3ePKOMAAoIRaxvpIblV4ZD9H-0W9WkBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHaralFjpKiCug0Suo0T_FaFLqzEkAAiYfAALpIblVRCAX6mf9FJs9BA"
     }
   },
   "migrations": [],
@@ -1311,6 +1625,18 @@
       "last_cycle": 1,
       "last_message_id": 31,
       "published_at": "2026-09-25T14:03:43.882653+00:00"
+    },
+    "v-00079": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 54,
+      "published_at": "2026-09-25T16:45:15.237268+00:00"
+    },
+    "v-00218": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 55,
+      "published_at": "2026-09-25T16:45:17.189597+00:00"
     },
     "v-00277": {
       "count": 1,
@@ -1330,6 +1656,12 @@
       "last_cycle": 1,
       "last_message_id": 28,
       "published_at": "2026-09-25T14:03:35.808414+00:00"
+    },
+    "v-00666": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 56,
+      "published_at": "2026-09-25T16:45:18.987950+00:00"
     },
     "v-00685": {
       "count": 1,
@@ -1455,6 +1787,12 @@
       "published_at": "2026-09-25T16:13:16.117902+00:00",
       "quiz_message_id": 52
     },
+    "v-03304": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 57,
+      "published_at": "2026-09-25T16:45:20.750468+00:00"
+    },
     "v-03479": {
       "count": 1,
       "last_cycle": 1,
@@ -1468,15 +1806,16 @@
       "last_message_id": 18,
       "published_at": "2026-09-25T12:21:23.376524+00:00",
       "quiz_message_id": 19
+    },
+    "v-04190": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 53,
+      "published_at": "2026-09-25T16:45:11.040092+00:00"
     }
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-04190",
-    "v-00079",
-    "v-00218",
-    "v-00666",
-    "v-03304",
     "v-01828",
     "v-03526",
     "v-02641",
@@ -5144,6 +5483,41 @@
         "v-03225"
       ],
       "status": "completed"
+    },
+    "20260925T164506Z-d8a20297": {
+      "completed_at": "2026-09-25T16:45:20.755568+00:00",
+      "created_at": "2026-09-25T16:45:06.162114+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-04190"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00079"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00218"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00666"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03304"
+        }
+      ],
+      "published_ids": [
+        "v-04190",
+        "v-00079",
+        "v-00218",
+        "v-00666",
+        "v-03304"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -5326,6 +5700,43 @@
         "v-03225"
       ],
       "run_id": "20260925T161301Z-680327c0",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-25T16:45:20.755568+00:00",
+      "created_at": "2026-09-25T16:45:06.162114+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-04190"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00079"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00218"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00666"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03304"
+        }
+      ],
+      "published_ids": [
+        "v-04190",
+        "v-00079",
+        "v-00218",
+        "v-00666",
+        "v-03304"
+      ],
+      "run_id": "20260925T164506Z-d8a20297",
       "status": "completed",
       "unknown_ids": []
     }
