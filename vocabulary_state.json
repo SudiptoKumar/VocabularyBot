@@ -213,6 +213,50 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00283": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "inside",
+          "word": "within"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "beyond the horizon",
+        "beyond doubt",
+        "beyond the limit",
+        "beyond expectation",
+        "beyond reach"
+      ],
+      "common_mistake_correct": "He lives beyond the city centre.",
+      "common_mistake_wrong": "He lives beyond the city centre.",
+      "definition_en": "Further away than a particular point; outside of something.",
+      "example_bn": "বাড়িটি পাহাড়ের বাইরে আছে।",
+      "example_en": "The house is beyond the hill.",
+      "memory_hook": "Imagine looking over a fence to see what lies beyond it.",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "under",
+        "inside",
+        "farther than",
+        "near"
+      ],
+      "quiz_question": "What does \"beyond\" mean in \"Beyond the mountains\"?",
+      "short_meaning_en": "further",
+      "synonyms": [
+        {
+          "meaning": "further than",
+          "word": "past"
+        },
+        {
+          "meaning": "more distant",
+          "word": "farther"
+        }
+      ],
+      "word_family": []
+    },
     "v-00365": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -918,6 +962,71 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-01828": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "to shut",
+          "word": "close"
+        },
+        {
+          "meaning": "to make closed",
+          "word": "shut"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "open the door",
+        "open a book",
+        "open a business",
+        "open your mind",
+        "open a file"
+      ],
+      "common_mistake_correct": "She opens the door.",
+      "common_mistake_wrong": "She open the door.",
+      "definition_en": "To make something not closed or to reveal something.",
+      "example_bn": "সে তাজা বাতাসের জন্য জানালাটি খুলবে।",
+      "example_en": "She will open the window to let fresh air in.",
+      "memory_hook": "Imagine turning a knob to open a door.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "close",
+        "lock",
+        "make not closed",
+        "hide"
+      ],
+      "quiz_question": "What does \"open\" mean in the sentence \"Open the box\"?",
+      "short_meaning_en": "make open",
+      "synonyms": [
+        {
+          "meaning": "to open a lock",
+          "word": "unlock"
+        },
+        {
+          "meaning": "to remove a seal",
+          "word": "unseal"
+        },
+        {
+          "meaning": "to make known",
+          "word": "reveal"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "openly"
+        },
+        {
+          "type": "noun",
+          "word": "openness"
+        },
+        {
+          "type": "verb",
+          "word": "opened"
+        }
+      ]
+    },
     "v-01859": {
       "antonyms": [
         {
@@ -1004,6 +1113,116 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-02641": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "not tall",
+          "word": "short"
+        },
+        {
+          "meaning": "of small height",
+          "word": "low"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "tall building",
+        "tall person",
+        "tall tree",
+        "tall order",
+        "tall story"
+      ],
+      "common_mistake_correct": "He is a tall man.",
+      "common_mistake_wrong": "He is a tall man.",
+      "definition_en": "Having a great height; standing high above the ground.",
+      "example_bn": "উঁচু ভবনটি দূর থেকে দেখা যায়।",
+      "example_en": "The tall building can be seen from far away.",
+      "memory_hook": "Picture a tall tower reaching into the sky.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "short",
+        "low",
+        "high",
+        "tiny"
+      ],
+      "quiz_question": "Which word describes something that is \"tall\"?",
+      "short_meaning_en": "high",
+      "synonyms": [
+        {
+          "meaning": "of great vertical extent",
+          "word": "high"
+        },
+        {
+          "meaning": "very tall",
+          "word": "lofty"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "tallness"
+        }
+      ]
+    },
+    "v-02776": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "lack of movement",
+          "word": "stagnation"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "public transportation",
+        "transportation system",
+        "transportation cost",
+        "transportation network",
+        "transportation hub"
+      ],
+      "common_mistake_correct": "The transportation system is very fast.",
+      "common_mistake_wrong": "The transportation is very fast.",
+      "definition_en": "The movement of people or goods from one place to another.",
+      "example_bn": "জনসাধারণের পরিবহন মধ্যে বাস এবং ট্রেন অন্তর্ভুক্ত।",
+      "example_en": "Public transportation includes buses and trains.",
+      "memory_hook": "Think of a bus moving people – that is transportation.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "book",
+        "bus",
+        "tree",
+        "song"
+      ],
+      "quiz_question": "Which of these is a type of transportation?",
+      "short_meaning_en": "movement",
+      "synonyms": [
+        {
+          "meaning": "to go from one place to another",
+          "word": "travel"
+        },
+        {
+          "meaning": "the act of transporting",
+          "word": "conveyance"
+        },
+        {
+          "meaning": "the act of moving through",
+          "word": "transit"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "transport"
+        },
+        {
+          "type": "verb",
+          "word": "transported"
+        }
+      ]
     },
     "v-02843": {
       "antonyms": [
@@ -1337,6 +1556,67 @@
         }
       ]
     },
+    "v-03526": {
+      "_content_version": "1.1.0",
+      "antonyms": [
+        {
+          "meaning": "to retain",
+          "word": "keep"
+        },
+        {
+          "meaning": "to hold on to",
+          "word": "retain"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "shed tears",
+        "shed light",
+        "shed weight",
+        "shed skin",
+        "shed a reputation"
+      ],
+      "common_mistake_correct": "She will discard the book.",
+      "common_mistake_wrong": "She will shed the book.",
+      "definition_en": "To get rid of something you no longer need.",
+      "example_bn": "তিনি তার পুরনো অভ্যাসগুলো ত্যাগ করার সিদ্ধান্ত নিলেন।",
+      "example_en": "He decided to shed his old habits.",
+      "memory_hook": "Think of a snake shedding its skin to get rid of the old one.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "keep",
+        "retain",
+        "discard",
+        "store"
+      ],
+      "quiz_question": "Which word best matches the meaning of \"shed\" in \"She shed her doubts\"?",
+      "short_meaning_en": "discard",
+      "synonyms": [
+        {
+          "meaning": "to throw away",
+          "word": "discard"
+        },
+        {
+          "meaning": "to leave behind",
+          "word": "abandon"
+        },
+        {
+          "meaning": "to give up",
+          "word": "relinquish"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "shedder"
+        },
+        {
+          "type": "noun",
+          "word": "shedding"
+        }
+      ]
+    },
     "v-03712": {
       "antonyms": [],
       "cefr": "A1",
@@ -1464,6 +1744,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_QcD--VbbBOZ2GO1NlV0avrMAAtQeAALpIblVpGEoZMWRsrw9BA"
     },
+    "v-00283": {
+      "cached_at": "2026-09-26T07:07:21.942503+00:00",
+      "photo_file_id": "AgACAgUAAxUHardvKc5dwBFf3IMPrVBMdYPv2qkAAuIRaxvpIcFVkyKTFowlzj0BAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHardvKb-xtkYpvcRgBw0pgjigWSIAAn8gAALpIcFVKxMX-Hh1G5A9BA"
+    },
     "v-00365": {
       "cached_at": "2026-09-25T16:13:13.802359+00:00",
       "photo_file_id": "AgACAgUAAxUHaradmTGpW3LlJAw_5YsqvC4Bp4oAAlsRaxvpIblVOhpXRJK1GRoBAAMCAANzAAM9BA",
@@ -1544,6 +1830,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradlBupFASnWeVyop7z_fCHvLIAAhofAALpIblVeR3lotUcfws9BA"
     },
+    "v-01828": {
+      "cached_at": "2026-09-26T07:07:12.293149+00:00",
+      "photo_file_id": "AgACAgUAAxUHardvH2uhwacwpGjkgnvsoyCm_ogAAt4RaxvpIcFV57hUogaUOPoBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHardvH99ndt2BBqli97aTJ5tsPVgAAnsgAALpIcFVPVpCm3gP4g89BA"
+    },
     "v-01859": {
       "cached_at": "2026-09-25T12:21:29.339279+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnSCKIpXVI7QABXuksaC25CrOtAAJwEWsb6SGxVZs1XmJf8KQxAQADAgADcwADPQQ",
@@ -1561,6 +1853,18 @@
       "photo_file_id": "AgACAgUAAxUHarZ_OfYhHU79Zex-7IhiCr_thGQAAiQRaxvpIblVxt2oMAyAVEABAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
+    },
+    "v-02641": {
+      "cached_at": "2026-09-26T07:07:17.058604+00:00",
+      "photo_file_id": "AgACAgUAAxUHardvJMqjZUrrD4Gc_klMVyY2vtoAAuARaxvpIcFVfrIAAXMjX7v8AQADAgADcwADPQQ",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHardvJB10KO6Mn5XXrOXSRR2invQAAn0gAALpIcFVT5TikJtb_jM9BA"
+    },
+    "v-02776": {
+      "cached_at": "2026-09-26T07:07:19.472187+00:00",
+      "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHardvJglRCnRdMamaqH1_TENci_cAAn4gAALpIcFVBTX4Nn9cXic9BA"
     },
     "v-02843": {
       "audio_file_id": "CQACAgUAAxUHarZZNHBqYbCu-8x6mQW8hyE2o68AAsYkAALpIbFVKC6V6hqE1xg9BA",
@@ -1596,6 +1900,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnTLpAGcgq2IKXf4vUeNtvRD0AAnERaxvpIbFVl7J_pA8b5ZIBAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnS2x5e5nboRWtY-iiXwUx-ZAAAuskAALpIbFVRhHIJrW8-m09BA"
+    },
+    "v-03526": {
+      "cached_at": "2026-09-26T07:07:14.709479+00:00",
+      "photo_file_id": "AgACAgUAAxUHardvIn_HvLgG4UO4eykQ275tnMcAAt8RaxvpIcFVnx6hn3JV5FkBAAMCAANzAAM9BA",
+      "version": "1.1.0",
+      "voice_file_id": "AwACAgUAAxUHardvIYvJQ-jqoqTogXMRJYF0QGkAAnwgAALpIcFVxrcEtNfWmF09BA"
     },
     "v-03712": {
       "cached_at": "2026-09-25T12:21:23.376498+00:00",
@@ -1643,6 +1953,12 @@
       "last_cycle": 1,
       "last_message_id": 32,
       "published_at": "2026-09-25T14:03:46.281690+00:00"
+    },
+    "v-00283": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 62,
+      "published_at": "2026-09-26T07:07:21.942527+00:00"
     },
     "v-00365": {
       "count": 1,
@@ -1740,6 +2056,12 @@
       "published_at": "2026-09-25T16:13:08.961108+00:00",
       "quiz_message_id": 46
     },
+    "v-01828": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 58,
+      "published_at": "2026-09-26T07:07:12.293175+00:00"
+    },
     "v-01859": {
       "count": 1,
       "last_cycle": 1,
@@ -1758,6 +2080,18 @@
       "last_cycle": 1,
       "last_message_id": 29,
       "published_at": "2026-09-25T14:03:38.200108+00:00"
+    },
+    "v-02641": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 60,
+      "published_at": "2026-09-26T07:07:17.058626+00:00"
+    },
+    "v-02776": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 61,
+      "published_at": "2026-09-26T07:07:19.472210+00:00"
     },
     "v-02843": {
       "count": 1,
@@ -1800,6 +2134,12 @@
       "published_at": "2026-09-25T12:21:32.459075+00:00",
       "quiz_message_id": 25
     },
+    "v-03526": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 59,
+      "published_at": "2026-09-26T07:07:14.709505+00:00"
+    },
     "v-03712": {
       "count": 1,
       "last_cycle": 1,
@@ -1816,11 +2156,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01828",
-    "v-03526",
-    "v-02641",
-    "v-02776",
-    "v-00283",
     "v-02022",
     "v-00337",
     "v-02423",
@@ -5518,6 +5853,41 @@
         "v-03304"
       ],
       "status": "completed"
+    },
+    "20260926T070708Z-5875af93": {
+      "completed_at": "2026-09-26T07:07:21.947273+00:00",
+      "created_at": "2026-09-26T07:07:08.316681+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01828"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03526"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02641"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02776"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00283"
+        }
+      ],
+      "published_ids": [
+        "v-01828",
+        "v-03526",
+        "v-02641",
+        "v-02776",
+        "v-00283"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -5737,6 +6107,43 @@
         "v-03304"
       ],
       "run_id": "20260925T164506Z-d8a20297",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-26T07:07:21.947273+00:00",
+      "created_at": "2026-09-26T07:07:08.316681+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01828"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03526"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02641"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02776"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00283"
+        }
+      ],
+      "published_ids": [
+        "v-01828",
+        "v-03526",
+        "v-02641",
+        "v-02776",
+        "v-00283"
+      ],
+      "run_id": "20260926T070708Z-5875af93",
       "status": "completed",
       "unknown_ids": []
     }
