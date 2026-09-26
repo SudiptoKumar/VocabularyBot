@@ -368,6 +368,59 @@
         }
       ]
     },
+    "v-00408": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "996ce057544019eea42abe9e64bf31fba9e3ea906d6f8207e95f68b8b1c42046",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "celebrate a holiday",
+        "celebrate success",
+        "celebrate together",
+        "celebrate with friends",
+        "celebrate in style"
+      ],
+      "common_mistake_correct": "celebrate with a cake",
+      "common_mistake_wrong": "celebrate with a cake",
+      "definition_en": "To observe an event with ceremonies or festivities.",
+      "example_bn": "আমরা প্রতি বছর তার জন্মদিন উদযাপন করি।",
+      "example_en": "We celebrate her birthday every year.",
+      "memory_hook": "Think of a 'celebrity' who is often celebrated.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "ignore",
+        "celebrate",
+        "borrow",
+        "lead"
+      ],
+      "quiz_question": "Which word best fits: \"They will ___ the team's victory tonight.\"",
+      "short_meaning_en": "observe",
+      "synonyms": [
+        {
+          "meaning": "to honor by remembering",
+          "word": "commemorate"
+        },
+        {
+          "meaning": "to show respect",
+          "word": "honor"
+        },
+        {
+          "meaning": "to mark a special day",
+          "word": "observe"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "celebration"
+        },
+        {
+          "type": "adjective",
+          "word": "celebratory"
+        }
+      ]
+    },
     "v-00596": {
       "antonyms": [],
       "cefr": "",
@@ -610,6 +663,55 @@
         }
       ]
     },
+    "v-01055": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "fifty percent",
+        "fifty years",
+        "fifty dollars",
+        "fifty‑two",
+        "fifty‑one"
+      ],
+      "common_mistake_correct": "fifty",
+      "common_mistake_wrong": "fivety",
+      "definition_en": "The number that comes after forty‑nine and before fifty‑one.",
+      "example_bn": "তিনি আগামী মাসে পঞ্চাশ বছর বয়সী হবেন।",
+      "example_en": "She is turning fifty next month.",
+      "memory_hook": "Think of a 'half‑century' – 50 years.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "fivety",
+        "fifty",
+        "fifti",
+        "fifthy"
+      ],
+      "quiz_question": "What is the correct spelling?",
+      "short_meaning_en": "number 50",
+      "synonyms": [
+        {
+          "meaning": "fifty years",
+          "word": "half‑century"
+        },
+        {
+          "meaning": "Roman numeral for fifty",
+          "word": "L"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "fiftieth"
+        },
+        {
+          "type": "noun",
+          "word": "fifty‑five"
+        }
+      ]
+    },
     "v-01076": {
       "antonyms": [],
       "cefr": "A2",
@@ -809,6 +911,72 @@
         }
       ]
     },
+    "v-01512": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "45e9b56d8d50f82ad5f9c8f5e4ae108016048eabe8488538dfff93f5ce9d11a2",
+      "antonyms": [
+        {
+          "meaning": "being under authority",
+          "word": "subordination"
+        },
+        {
+          "meaning": "being a follower",
+          "word": "followership"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "leadership skills",
+        "leadership role",
+        "effective leadership",
+        "leadership style",
+        "leadership qualities"
+      ],
+      "common_mistake_correct": "leadership",
+      "common_mistake_wrong": "leaderships",
+      "definition_en": "The ability or position of leading a group or organization.",
+      "example_bn": "ভালো নেতৃত্ব একটি দলকে চমৎকার ফলাফল অর্জনে অনুপ্রাণিত করতে পারে।",
+      "example_en": "Good leadership can inspire a team to achieve great results.",
+      "memory_hook": "Think of a 'lead' in a race – the leader shows leadership.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "leadership",
+        "leaderships",
+        "lead",
+        "leader"
+      ],
+      "quiz_question": "Which phrase best describes the concept: \"The ___ of the company was praised for its vision.\"",
+      "short_meaning_en": "leadership",
+      "synonyms": [
+        {
+          "meaning": "direction",
+          "word": "guidance"
+        },
+        {
+          "meaning": "authority",
+          "word": "command"
+        },
+        {
+          "meaning": "lead",
+          "word": "direction"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "lead"
+        },
+        {
+          "type": "noun",
+          "word": "leader"
+        },
+        {
+          "type": "noun",
+          "word": "leaderships"
+        }
+      ]
+    },
     "v-01553": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "c44c3d72e3407b3a7af8020656d4e4fb78b1962a0f00987cc4f92ed8740cd410",
@@ -868,6 +1036,72 @@
         {
           "type": "noun",
           "word": "listing"
+        }
+      ]
+    },
+    "v-01562": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
+      "antonyms": [
+        {
+          "meaning": "money kept",
+          "word": "savings"
+        },
+        {
+          "meaning": "money given without repayment",
+          "word": "grant"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "take out a loan",
+        "loan agreement",
+        "loan interest",
+        "loan repayment",
+        "personal loan"
+      ],
+      "common_mistake_correct": "loan",
+      "common_mistake_wrong": "loaned",
+      "definition_en": "Money that is borrowed and must be paid back, usually with interest.",
+      "example_bn": "তিনি নতুন গাড়ি কেনার জন্য ঋণ নিলেন।",
+      "example_en": "She took out a loan to buy a new car.",
+      "memory_hook": "Imagine a 'lone' wolf borrowing money – a loan.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "gift",
+        "loan",
+        "salary",
+        "donation"
+      ],
+      "quiz_question": "Fill in the blank: \"He applied for a ___ to start his business.\"",
+      "short_meaning_en": "borrowed money",
+      "synonyms": [
+        {
+          "meaning": "money given before repayment",
+          "word": "advance"
+        },
+        {
+          "meaning": "loan from a bank",
+          "word": "credit"
+        },
+        {
+          "meaning": "loan for property",
+          "word": "mortgage"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "loaned"
+        },
+        {
+          "type": "noun",
+          "word": "lender"
+        },
+        {
+          "type": "verb",
+          "word": "borrow"
         }
       ]
     },
@@ -1526,6 +1760,68 @@
         }
       ]
     },
+    "v-02806": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
+      "antonyms": [
+        {
+          "meaning": "unusual",
+          "word": "atypical"
+        },
+        {
+          "meaning": "not typical",
+          "word": "unusual"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "typical behavior",
+        "typical example",
+        "typical of",
+        "typical pattern",
+        "typical response"
+      ],
+      "common_mistake_correct": "typically",
+      "common_mistake_wrong": "typically",
+      "definition_en": "Having the usual qualities of a particular group or class.",
+      "example_bn": "এটি একটি সাধারণ গ্রীষ্মের দিন ছিল, গরম ও রৌদ্রোজ্জ্বল।",
+      "example_en": "It was a typical summer day, hot and sunny.",
+      "memory_hook": "Think of a 'type' of person you often meet – that’s typical.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "typical",
+        "typicaly",
+        "typicalness",
+        "typicalnesses"
+      ],
+      "quiz_question": "Choose the correct word: \"That was a ___ response to the news.\"",
+      "short_meaning_en": "usual",
+      "synonyms": [
+        {
+          "meaning": "common",
+          "word": "usual"
+        },
+        {
+          "meaning": "standard",
+          "word": "normal"
+        },
+        {
+          "meaning": "typical",
+          "word": "standard"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "typicality"
+        },
+        {
+          "type": "adverb",
+          "word": "typically"
+        }
+      ]
+    },
     "v-02843": {
       "antonyms": [
         {
@@ -2024,6 +2320,30 @@
       "source_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
       "status": "valid"
     },
+    "v-00408": {
+      "audited_at": "2026-09-26T23:32:05.945692+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "উদযাপন করা • উদযাপন করতে",
+      "reason": "The Bangla meaning accurately reflects the verb 'celebrate' as provided in the source.",
+      "source_fingerprint": "996ce057544019eea42abe9e64bf31fba9e3ea906d6f8207e95f68b8b1c42046",
+      "status": "valid"
+    },
+    "v-01055": {
+      "audited_at": "2026-09-26T23:32:05.945849+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পঞ্চাশ",
+      "reason": "The meaning accurately translates the cardinal number 'fifty'.",
+      "source_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
+      "status": "valid"
+    },
+    "v-01512": {
+      "audited_at": "2026-09-26T23:32:05.945786+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "নেতৃত্ব",
+      "reason": "The supplied meaning 'প্রধান, মূখ্য' does not match the noun 'leadership', which should be translated as 'নেতৃত্ব'.",
+      "source_fingerprint": "0c7ae9288bee02805640b29950f632d8e82a1454affd5679e77630cb3ecabdf0",
+      "status": "corrected"
+    },
     "v-01553": {
       "audited_at": "2026-09-26T12:40:01.633449+00:00",
       "confidence": 0.95,
@@ -2031,6 +2351,14 @@
       "reason": "The provided Bangla meaning includes unrelated terms \"ফর্দ\" and \"শুনতে করতে\" which do not correspond to the verb sense of \"list\". The appropriate Bengali meanings for the verb are to make a list, to enumerate, or to list items.",
       "source_fingerprint": "92253dda775e14e40ba39847e5dfc4f3f5e4835f136edf421411285b4c7be2a4",
       "status": "corrected"
+    },
+    "v-01562": {
+      "audited_at": "2026-09-26T23:32:05.945824+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঋণ, ধার, দেনা, দাদন • ঋণ",
+      "reason": "The Bangla meanings correctly capture the noun 'loan' and its variants.",
+      "source_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
+      "status": "valid"
     },
     "v-02022": {
       "audited_at": "2026-09-26T12:40:01.907949+00:00",
@@ -2054,6 +2382,14 @@
       "meaning_bn": "সমাজ, সম্প্রদায়",
       "reason": "The provided Bengali meaning accurately reflects the noun \"society\".",
       "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
+      "status": "valid"
+    },
+    "v-02806": {
+      "audited_at": "2026-09-26T23:32:05.945752+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নমুনা বা আদর্শরূপ",
+      "reason": "The meaning correctly corresponds to the adjective 'typical'.",
+      "source_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
       "status": "valid"
     }
   },
@@ -2106,6 +2442,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradmdm7JRHqieXX-ukVlEG5jzIAAhwfAALpIblVyvEsVjWc8aM9BA"
     },
+    "v-00408": {
+      "audio_file_id": "AwACAgUAAxUHarhV-RrAFh9vHqC2vu7llJl0I8UAAkQhAAKcC8lVMJzwxLPE6XA9BA",
+      "cached_at": "2026-09-26T23:32:10.106538+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhV-Tb9Rff_iVCATk1bPiJx0q0AAvcTaxucC8lVFpAyz21FhpUBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
     "v-00596": {
       "cached_at": "2026-09-25T14:03:35.808387+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
@@ -2136,6 +2478,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMC6ChBkKONcRNacmi1oeqW7YAAv4eAALpIblVioynB0BYZbk9BA"
     },
+    "v-01055": {
+      "audio_file_id": "AwACAgUAAxUHarhWAbLu-6p3uum15jf4zfg8zWEAAkghAAKcC8lVMzpoCpQ4kPg9BA",
+      "cached_at": "2026-09-26T23:32:18.365316+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhWAX83d-Typ0djulZqMayRMn4AAvsTaxucC8lVSyOEdMHr_SIBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
     "v-01076": {
       "audio_file_id": "CQACAgUAAxUHarZZNwHQGYtYWJuUYNXmI-021vMAAsckAALpIbFVM-IBUsQCA889BA",
       "cached_at": "2026-09-25T11:21:28.101665+00:00",
@@ -2159,10 +2507,22 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
     },
+    "v-01512": {
+      "audio_file_id": "AwACAgUAAxUHarhV_Ra_MPTEPIN-b1CFElFWpNwAAkYhAAKcC8lVoinMiGPklJc9BA",
+      "cached_at": "2026-09-26T23:32:14.483365+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhV_iaSgYTpa1MMRjE-he-gJnkAAvkTaxucC8lVAAED2VUpTQFoAQADAgADcwADPQQ",
+      "version": "1.2.0"
+    },
     "v-01553": {
       "audio_file_id": "CQACAgUAAxUHare9JWlo1ElEQgLW3V-o8zRDNEQAApYhAALpIcFVrb7ILP5onMA9BA",
       "cached_at": "2026-09-26T12:40:06.329696+00:00",
       "photo_file_id": "AgACAgUAAxUHare9JTkoc45evcLl_VbaHSoLuDcAAhwTaxvpIcFVnAZRhCvEMigBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
+    "v-01562": {
+      "audio_file_id": "AwACAgUAAxUHarhV_05cXgIY9C_2xBAQwyFDYYUAAkchAAKcC8lVqyesGQybNZA9BA",
+      "cached_at": "2026-09-26T23:32:16.440892+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhWAAF_zPlUHgdh5fNpu76xhMcjAAL6E2sbnAvJVQ0uhmQyQTJbAQADAgADcwADPQQ",
       "version": "1.2.0"
     },
     "v-01599": {
@@ -2239,6 +2599,12 @@
       "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJglRCnRdMamaqH1_TENci_cAAn4gAALpIcFVBTX4Nn9cXic9BA"
+    },
+    "v-02806": {
+      "audio_file_id": "AwACAgUAAxUHarhV-2WnEApa9MWJnNVhYSA2KXMAAkUhAAKcC8lVsy2RXnaGzXc9BA",
+      "cached_at": "2026-09-26T23:32:12.321980+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhV-5zYdLkDneyBez6bnZDq6XQAAvgTaxucC8lVguWB8tWRAAE4AQADAgADcwADPQQ",
+      "version": "1.2.0"
     },
     "v-02843": {
       "audio_file_id": "CQACAgUAAxUHarZZNHBqYbCu-8x6mQW8hyE2o68AAsYkAALpIbFVKC6V6hqE1xg9BA",
@@ -2347,6 +2713,12 @@
       "published_at": "2026-09-25T16:13:13.802383+00:00",
       "quiz_message_id": 50
     },
+    "v-00408": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 68,
+      "published_at": "2026-09-26T23:32:10.106566+00:00"
+    },
     "v-00596": {
       "count": 1,
       "last_cycle": 1,
@@ -2380,6 +2752,12 @@
       "published_at": "2026-09-25T14:58:20.276706+00:00",
       "quiz_message_id": 42
     },
+    "v-01055": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 72,
+      "published_at": "2026-09-26T23:32:18.365340+00:00"
+    },
     "v-01076": {
       "count": 1,
       "last_cycle": 1,
@@ -2408,11 +2786,23 @@
       "published_at": "2026-09-25T16:13:11.478231+00:00",
       "quiz_message_id": 48
     },
+    "v-01512": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 70,
+      "published_at": "2026-09-26T23:32:14.483399+00:00"
+    },
     "v-01553": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 63,
       "published_at": "2026-09-26T12:40:06.329724+00:00"
+    },
+    "v-01562": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 71,
+      "published_at": "2026-09-26T23:32:16.440916+00:00"
     },
     "v-01599": {
       "count": 1,
@@ -2497,6 +2887,12 @@
       "last_message_id": 61,
       "published_at": "2026-09-26T07:07:19.472210+00:00"
     },
+    "v-02806": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 69,
+      "published_at": "2026-09-26T23:32:12.322009+00:00"
+    },
     "v-02843": {
       "count": 1,
       "last_cycle": 1,
@@ -2560,11 +2956,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00408",
-    "v-02806",
-    "v-01512",
-    "v-01562",
-    "v-01055",
     "v-01539",
     "v-01552",
     "v-02336",
@@ -6364,6 +6755,41 @@
         "v-02022"
       ],
       "status": "completed"
+    },
+    "20260926T233205Z-0ac69d9c": {
+      "completed_at": "2026-09-26T23:32:18.372991+00:00",
+      "created_at": "2026-09-26T23:32:05.600988+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00408"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02806"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01512"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01562"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01055"
+        }
+      ],
+      "published_ids": [
+        "v-00408",
+        "v-02806",
+        "v-01512",
+        "v-01562",
+        "v-01055"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -6694,6 +7120,43 @@
         "v-02022"
       ],
       "run_id": "20260926T124000Z-8f28b998",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-26T23:32:18.372991+00:00",
+      "created_at": "2026-09-26T23:32:05.600988+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00408"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02806"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01512"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01562"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01055"
+        }
+      ],
+      "published_ids": [
+        "v-00408",
+        "v-02806",
+        "v-01512",
+        "v-01562",
+        "v-01055"
+      ],
+      "run_id": "20260926T233205Z-0ac69d9c",
       "status": "completed",
       "unknown_ids": []
     }
