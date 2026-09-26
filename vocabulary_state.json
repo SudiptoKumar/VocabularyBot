@@ -421,6 +421,113 @@
         }
       ]
     },
+    "v-00414": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "810ed2e38b118e856b87508f38bf9076fae7cb118a5db1b7e4c6ec6354248912",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "century ago",
+        "century mark",
+        "century old",
+        "century span",
+        "century‑long"
+      ],
+      "common_mistake_correct": "*It happened in the 20th century.*",
+      "common_mistake_wrong": "*It happened in the 20th centuries.*",
+      "definition_en": "A period of one hundred years.",
+      "example_bn": "২০শ শতাব্দী অনেক প্রযুক্তিগত অগ্রগতি দেখেছে।",
+      "example_en": "The 20th century saw many technological advances.",
+      "memory_hook": "Century starts with “cent” like “cent” (100) in French.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "century",
+        "centuries",
+        "centennial",
+        "centenarian"
+      ],
+      "quiz_question": "Select the correct phrase: \"A ___‑long war lasted from 1914 to 1918.\"",
+      "short_meaning_en": "100 years",
+      "synonyms": [
+        {
+          "meaning": "a 100‑year period",
+          "word": "centenary"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "centennial"
+        },
+        {
+          "type": "noun",
+          "word": "centenarian"
+        }
+      ]
+    },
+    "v-00426": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "9150bfd9a11927111837cd1f4cd3e6eb73f0bac01595ab7deff35978dad99c90",
+      "antonyms": [
+        {
+          "meaning": "lack of difficulty",
+          "word": "ease"
+        },
+        {
+          "meaning": "being easy",
+          "word": "simplicity"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "big challenge",
+        "face a challenge",
+        "challenge yourself",
+        "challenge accepted",
+        "challenge the norm"
+      ],
+      "common_mistake_correct": "*She said the exam was a challenge.*",
+      "common_mistake_wrong": "*She challenged the exam was hard.*",
+      "definition_en": "To question the validity or truth of something, often as a test.",
+      "example_bn": "নতুন নীতি কর্মীদের জন্য একটি বাস্তব চ্যালেঞ্জ ছিল।",
+      "example_en": "The new policy was a real challenge for the staff.",
+      "memory_hook": "Challenge sounds like “chal‑lenge”; imagine a chalice (cup) that you must lift – a test of strength.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He will challenge the race tomorrow.",
+        "She faced a big challenge at work.",
+        "They challenge the new law.",
+        "We challenge the cake."
+      ],
+      "quiz_question": "Which sentence uses \"challenge\" correctly?",
+      "short_meaning_en": "test validity",
+      "synonyms": [
+        {
+          "meaning": "to examine",
+          "word": "test"
+        },
+        {
+          "meaning": "a competition",
+          "word": "contest"
+        },
+        {
+          "meaning": "a hard situation",
+          "word": "difficulty"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "challenging"
+        },
+        {
+          "type": "noun",
+          "word": "challenger"
+        }
+      ]
+    },
     "v-00596": {
       "antonyms": [],
       "cefr": "",
@@ -977,6 +1084,130 @@
         }
       ]
     },
+    "v-01539": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "3f9110e5498becee9aaf3d8e04539bed1977940ba85b70e56386417a48852c88",
+      "antonyms": [
+        {
+          "meaning": "the opposite of a lie",
+          "word": "truth"
+        },
+        {
+          "meaning": "to be upright",
+          "word": "stand"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "tell a lie",
+        "lie down",
+        "lie in wait",
+        "lie flat",
+        "lie about"
+      ],
+      "common_mistake_correct": "*He lies on the couch.*",
+      "common_mistake_wrong": "*He lie on the couch.*",
+      "definition_en": "To tell an untrue statement or to rest in a horizontal position.",
+      "example_bn": "সে ঘাসে শোতে পছন্দ করে এবং মেঘ দেখছে।",
+      "example_en": "He likes to lie on the grass and watch clouds.",
+      "memory_hook": "Imagine a liar lying down on a couch.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She lie on the bed.",
+        "He lies about his age.",
+        "They lying in the park.",
+        "We will lie tomorrow."
+      ],
+      "quiz_question": "Which sentence uses \"lie\" correctly?",
+      "short_meaning_en": "untruth/rest",
+      "synonyms": [
+        {
+          "meaning": "a small lie",
+          "word": "fib"
+        },
+        {
+          "meaning": "to lie down",
+          "word": "recline"
+        },
+        {
+          "meaning": "to mislead",
+          "word": "deceive"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "lying"
+        },
+        {
+          "type": "noun",
+          "word": "liar"
+        }
+      ]
+    },
+    "v-01552": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "71ca445ebcc14c3fd20475834829b499ebebcebfc0cef0980fe3128e8127e01d",
+      "antonyms": [
+        {
+          "meaning": "the middle point",
+          "word": "center"
+        },
+        {
+          "meaning": "the central part",
+          "word": "middle"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "upper lip",
+        "lower lip",
+        "lip service",
+        "lip balm",
+        "lip of a cup"
+      ],
+      "common_mistake_correct": "lip (noun) meaning the edge or mouth part",
+      "common_mistake_wrong": "lip (verb) meaning to strike",
+      "definition_en": "The thin edge or border of something, such as the mouth’s lip or the rim of a cup.",
+      "example_bn": "সে ফুলদানের ঠোঁট থেকে রঙ মুছে দিল।",
+      "example_en": "She brushed the paint off the lip of the vase.",
+      "memory_hook": "Think of a cup’s lip – it’s the thin edge you sip from, just like a mouth’s lip.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A part of a shoe",
+        "The thin edge of an object",
+        "A type of fruit",
+        "A musical note"
+      ],
+      "quiz_question": "What does the word \"lip\" mean in the sense of \"edge\"?",
+      "short_meaning_en": "edge",
+      "synonyms": [
+        {
+          "meaning": "the border of an object",
+          "word": "edge"
+        },
+        {
+          "meaning": "the outer edge",
+          "word": "rim"
+        },
+        {
+          "meaning": "the boundary",
+          "word": "border"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "lipped"
+        },
+        {
+          "type": "adjective",
+          "word": "lipless"
+        }
+      ]
+    },
     "v-01553": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "c44c3d72e3407b3a7af8020656d4e4fb78b1962a0f00987cc4f92ed8740cd410",
@@ -1523,6 +1754,60 @@
         {
           "type": "verb",
           "word": "prayed"
+        }
+      ]
+    },
+    "v-02336": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
+      "antonyms": [
+        {
+          "meaning": "time when activity is low",
+          "word": "off-season"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "rainy season",
+        "harvest season",
+        "season opener",
+        "season finale",
+        "season ticket"
+      ],
+      "common_mistake_correct": "*We will have a party tonight.*",
+      "common_mistake_wrong": "*We will season the party tonight.*",
+      "definition_en": "One of the four divisions of the year characterized by particular weather patterns.",
+      "example_bn": "বসন্ত আমার প্রিয় ঋতু কারণ ফুলের জন্য।",
+      "example_en": "Spring is my favorite season because of the flowers.",
+      "memory_hook": "Season sounds like “see son” – think of the sun changing each year.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "season",
+        "seasoning",
+        "seasons",
+        "seasoned"
+      ],
+      "quiz_question": "Which word correctly completes the sentence? \"The ___ of autumn brings cooler weather.\"",
+      "short_meaning_en": "time of year",
+      "synonyms": [
+        {
+          "meaning": "a length of time",
+          "word": "period"
+        },
+        {
+          "meaning": "a season",
+          "word": "time"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "seasonal"
+        },
+        {
+          "type": "adverb",
+          "word": "seasonally"
         }
       ]
     },
@@ -2328,6 +2613,22 @@
       "source_fingerprint": "996ce057544019eea42abe9e64bf31fba9e3ea906d6f8207e95f68b8b1c42046",
       "status": "valid"
     },
+    "v-00414": {
+      "audited_at": "2026-09-26T23:58:20.821301+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শতাব্দী, শতবর্ষ",
+      "reason": "The Bangla translation accurately conveys the meaning of 'century'.",
+      "source_fingerprint": "810ed2e38b118e856b87508f38bf9076fae7cb118a5db1b7e4c6ec6354248912",
+      "status": "valid"
+    },
+    "v-00426": {
+      "audited_at": "2026-09-26T23:58:20.821320+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "বৈধতায় সন্দেহ প্রকাশ",
+      "reason": "The provided Bangla phrase corresponds to the verb sense of 'challenge' – to question or doubt legality.",
+      "source_fingerprint": "9150bfd9a11927111837cd1f4cd3e6eb73f0bac01595ab7deff35978dad99c90",
+      "status": "valid"
+    },
     "v-01055": {
       "audited_at": "2026-09-26T23:32:05.945849+00:00",
       "confidence": 0.99,
@@ -2343,6 +2644,22 @@
       "reason": "The supplied meaning 'প্রধান, মূখ্য' does not match the noun 'leadership', which should be translated as 'নেতৃত্ব'.",
       "source_fingerprint": "0c7ae9288bee02805640b29950f632d8e82a1454affd5679e77630cb3ecabdf0",
       "status": "corrected"
+    },
+    "v-01539": {
+      "audited_at": "2026-09-26T23:58:20.821200+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মিথ্যা বলা, শোতে",
+      "reason": "The Bangla meaning correctly captures both senses of the verb 'lie' – to tell a falsehood and to recline.",
+      "source_fingerprint": "3f9110e5498becee9aaf3d8e04539bed1977940ba85b70e56386417a48852c88",
+      "status": "valid"
+    },
+    "v-01552": {
+      "audited_at": "2026-09-26T23:58:20.821258+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঠোঁট, কোন বস্তুর প্রান্ত",
+      "reason": "The meaning accurately reflects the two common senses of 'lip' – the body part and the edge of an object.",
+      "source_fingerprint": "71ca445ebcc14c3fd20475834829b499ebebcebfc0cef0980fe3128e8127e01d",
+      "status": "valid"
     },
     "v-01553": {
       "audited_at": "2026-09-26T12:40:01.633449+00:00",
@@ -2366,6 +2683,14 @@
       "meaning_bn": "প্রার্থনা করা, অনুনয় করা • প্রার্থনা করতে",
       "reason": "The provided Bangla meaning 'প্রার্থনা করা, অনুনয় করা। | প্রার্থনা করতে' accurately reflects the verb 'pray' meaning to pray or make a request, matching the English word.",
       "source_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
+      "status": "valid"
+    },
+    "v-02336": {
+      "audited_at": "2026-09-26T23:58:20.821283+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঋতু, উপযুক্ত সময়",
+      "reason": "Both senses of 'season' are correctly represented in Bangla.",
+      "source_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
       "status": "valid"
     },
     "v-02423": {
@@ -2448,6 +2773,18 @@
       "photo_file_id": "AgACAgUAAxUHarhV-Tb9Rff_iVCATk1bPiJx0q0AAvcTaxucC8lVFpAyz21FhpUBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-00414": {
+      "audio_file_id": "AwACAgUAAxUHarhcJi0fy-33th3UcJ5BMvz_8UQAAlAhAAKcC8lV6AX42wvsb309BA",
+      "cached_at": "2026-09-26T23:58:31.359380+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhcJkurVjDo0-xeaxyRsAABQ6K6AAIFFGsbnAvJVZrXi-XfM3P3AQADAgADcwADPQQ",
+      "version": "1.2.0"
+    },
+    "v-00426": {
+      "audio_file_id": "AwACAgUAAxUHarhcKMLjcvGtr7Xli34HoOgJg8MAAlEhAAKcC8lVFII_iylrk5U9BA",
+      "cached_at": "2026-09-26T23:58:33.422239+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhcKGXi_VFRrlqwic30cCvIK_YAAgYUaxucC8lV0YclxQsFiKkBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
     "v-00596": {
       "cached_at": "2026-09-25T14:03:35.808387+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
@@ -2513,6 +2850,18 @@
       "photo_file_id": "AgACAgUAAxUHarhV_iaSgYTpa1MMRjE-he-gJnkAAvkTaxucC8lVAAED2VUpTQFoAQADAgADcwADPQQ",
       "version": "1.2.0"
     },
+    "v-01539": {
+      "audio_file_id": "AwACAgUAAxUHarhcIOoD1c3n4nkywymS7j0zm1YAAk0hAAKcC8lV-1jfhEzPDMI9BA",
+      "cached_at": "2026-09-26T23:58:24.903099+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhcICJPXWY7SzoPVFeJJhOvNvIAAgIUaxucC8lVumOn8l86HdYBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
+    "v-01552": {
+      "audio_file_id": "AwACAgUAAxUHarhcInPbq6jbE3vvaocnDmTzvAYAAk4hAAKcC8lVILnK2WgY4iE9BA",
+      "cached_at": "2026-09-26T23:58:26.670038+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhcIqfehKnTR_7HMwtenVfWNdwAAgMUaxucC8lVjt__bvF1Wr0BAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
     "v-01553": {
       "audio_file_id": "CQACAgUAAxUHare9JWlo1ElEQgLW3V-o8zRDNEQAApYhAALpIcFVrb7ILP5onMA9BA",
       "cached_at": "2026-09-26T12:40:06.329696+00:00",
@@ -2574,6 +2923,12 @@
       "audio_file_id": "CQACAgUAAxUHare9L7P0jCciMo3kaqr-TXRf05UAApohAALpIcFVECbeYSayMfY9BA",
       "cached_at": "2026-09-26T12:40:15.747935+00:00",
       "photo_file_id": "AgACAgUAAxUHare9L_lNVUCd2zehl6HIV9whJa8AAiATaxvpIcFVqQuxHVEYD6EBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
+    "v-02336": {
+      "audio_file_id": "AwACAgUAAxUHarhcJKQyOP2b9TQwejZggzDxDTcAAk8hAAKcC8lVI1qqil53f2M9BA",
+      "cached_at": "2026-09-26T23:58:29.287653+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhcJAUIuRflajO06JUQZuGKF9EAAgQUaxucC8lVZKch-ScN-agBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
     "v-02423": {
@@ -2719,6 +3074,18 @@
       "last_message_id": 68,
       "published_at": "2026-09-26T23:32:10.106566+00:00"
     },
+    "v-00414": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 76,
+      "published_at": "2026-09-26T23:58:31.359406+00:00"
+    },
+    "v-00426": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 77,
+      "published_at": "2026-09-26T23:58:33.422270+00:00"
+    },
     "v-00596": {
       "count": 1,
       "last_cycle": 1,
@@ -2792,6 +3159,18 @@
       "last_message_id": 70,
       "published_at": "2026-09-26T23:32:14.483399+00:00"
     },
+    "v-01539": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 73,
+      "published_at": "2026-09-26T23:58:24.903130+00:00"
+    },
+    "v-01552": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 74,
+      "published_at": "2026-09-26T23:58:26.670066+00:00"
+    },
     "v-01553": {
       "count": 1,
       "last_cycle": 1,
@@ -2862,6 +3241,12 @@
       "last_cycle": 1,
       "last_message_id": 67,
       "published_at": "2026-09-26T12:40:15.747959+00:00"
+    },
+    "v-02336": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 75,
+      "published_at": "2026-09-26T23:58:29.287677+00:00"
     },
     "v-02423": {
       "count": 1,
@@ -2956,11 +3341,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01539",
-    "v-01552",
-    "v-02336",
-    "v-00414",
-    "v-00426",
     "v-01694",
     "v-02370",
     "v-00897",
@@ -3090,7 +3470,6 @@
     "v-00635",
     "v-03766",
     "v-02070",
-    "v-01788",
     "v-01946",
     "v-00623",
     "v-01008",
@@ -3318,7 +3697,6 @@
     "v-02067",
     "v-00825",
     "v-02509",
-    "v-00484",
     "v-02735",
     "v-02318",
     "v-01759",
@@ -3370,7 +3748,6 @@
     "v-00056",
     "v-00609",
     "v-02148",
-    "v-01559",
     "v-03944",
     "v-02134",
     "v-01053",
@@ -3381,7 +3758,6 @@
     "v-01673",
     "v-01477",
     "v-02372",
-    "v-02956",
     "v-01159",
     "v-02205",
     "v-02051",
@@ -3394,7 +3770,6 @@
     "v-01259",
     "v-01474",
     "v-01845",
-    "v-01973",
     "v-02340",
     "v-03994",
     "v-01357",
@@ -3818,7 +4193,6 @@
     "v-00691",
     "v-00379",
     "v-02691",
-    "v-02151",
     "v-00563",
     "v-01010",
     "v-00106",
@@ -4032,7 +4406,6 @@
     "v-02415",
     "v-00353",
     "v-01265",
-    "v-02166",
     "v-03832",
     "v-00928",
     "v-02728",
@@ -4636,7 +5009,6 @@
     "v-01085",
     "v-01370",
     "v-01242",
-    "v-02101",
     "v-00308",
     "v-01233",
     "v-03844",
@@ -5143,7 +5515,6 @@
     "v-03293",
     "v-03658",
     "v-02770",
-    "v-03086",
     "v-01408",
     "v-02381",
     "v-01254",
@@ -5278,7 +5649,6 @@
     "v-01383",
     "v-00136",
     "v-01421",
-    "v-02614",
     "v-02966",
     "v-01283",
     "v-04142",
@@ -5547,7 +5917,6 @@
     "v-03915",
     "v-01246",
     "v-02856",
-    "v-02066",
     "v-02961",
     "v-01922",
     "v-01641",
@@ -5630,7 +5999,6 @@
     "v-01649",
     "v-02013",
     "v-01657",
-    "v-02077",
     "v-02750",
     "v-00743",
     "v-02449",
@@ -5836,7 +6204,6 @@
     "v-03976",
     "v-03387",
     "v-01052",
-    "v-02655",
     "v-00501",
     "v-03108",
     "v-03546",
@@ -5868,7 +6235,6 @@
     "v-00350",
     "v-02944",
     "v-00730",
-    "v-01510",
     "v-03261",
     "v-03897",
     "v-01525",
@@ -5957,7 +6323,6 @@
     "v-00081",
     "v-03148",
     "v-02988",
-    "v-02034",
     "v-03685",
     "v-02502",
     "v-02539",
@@ -6134,7 +6499,6 @@
     "v-02339",
     "v-00693",
     "v-02171",
-    "v-02170",
     "v-00780",
     "v-00312",
     "v-02904",
@@ -6175,7 +6539,6 @@
     "v-03919",
     "v-01698",
     "v-01781",
-    "v-02165",
     "v-02937",
     "v-02706",
     "v-02000",
@@ -6362,7 +6725,6 @@
     "v-02867",
     "v-02601",
     "v-02451",
-    "v-01782",
     "v-02931",
     "v-03615",
     "v-03274",
@@ -6790,6 +7152,41 @@
         "v-01055"
       ],
       "status": "completed"
+    },
+    "20260926T235819Z-68cfebaf": {
+      "completed_at": "2026-09-26T23:58:33.428170+00:00",
+      "created_at": "2026-09-26T23:58:19.835118+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01539"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01552"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02336"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00414"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00426"
+        }
+      ],
+      "published_ids": [
+        "v-01539",
+        "v-01552",
+        "v-02336",
+        "v-00414",
+        "v-00426"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -7157,6 +7554,43 @@
         "v-01055"
       ],
       "run_id": "20260926T233205Z-0ac69d9c",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-26T23:58:33.428170+00:00",
+      "created_at": "2026-09-26T23:58:19.835118+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01539"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01552"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02336"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00414"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00426"
+        }
+      ],
+      "published_ids": [
+        "v-01539",
+        "v-01552",
+        "v-02336",
+        "v-00414",
+        "v-00426"
+      ],
+      "run_id": "20260926T235819Z-68cfebaf",
       "status": "completed",
       "unknown_ids": []
     }
