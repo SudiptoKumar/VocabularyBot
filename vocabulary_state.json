@@ -1713,6 +1713,48 @@
     }
   },
   "cycle": 1,
+  "meaning_audit": {
+    "v-00337": {
+      "audited_at": "2026-09-26T12:25:25.700345+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ইট",
+      "reason": "Bangla meaning correctly corresponds to the noun 'brick'.",
+      "source_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
+      "status": "valid"
+    },
+    "v-01553": {
+      "audited_at": "2026-09-26T12:25:25.700437+00:00",
+      "confidence": 0.78,
+      "meaning_bn": "তালিকা, ফর্দ • শুনতে করতে",
+      "reason": "The supplied meaning contains an unrelated phrase 'শুনতে করতে'; correct Bangla meanings for 'list' are 'তালিকা' (noun) and 'তালিকা তৈরি করা, তালিকাভুক্ত করা' (verb).",
+      "source_fingerprint": "92253dda775e14e40ba39847e5dfc4f3f5e4835f136edf421411285b4c7be2a4",
+      "status": "uncertain"
+    },
+    "v-02022": {
+      "audited_at": "2026-09-26T12:25:25.700302+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রার্থনা করা, অনুনয় করা • প্রার্থনা করতে",
+      "reason": "Bangla meaning matches the verb 'pray' correctly.",
+      "source_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
+      "status": "valid"
+    },
+    "v-02423": {
+      "audited_at": "2026-09-26T12:25:25.700372+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শব্দহীন, নিরব",
+      "reason": "Bangla meaning accurately reflects the adjective 'silent'.",
+      "source_fingerprint": "98f2e4171f3c717a52960f0df80ee7b44d48c94bedd20fb31a6dd1a952ff614c",
+      "status": "valid"
+    },
+    "v-02467": {
+      "audited_at": "2026-09-26T12:25:25.700398+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সমাজ, সম্প্রদায়",
+      "reason": "Bangla meaning correctly matches the noun 'society'.",
+      "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
+      "status": "valid"
+    }
+  },
   "media_cache": {
     "v-00015": {
       "cached_at": "2026-09-25T16:13:06.516307+00:00",
@@ -2156,11 +2198,11 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02022",
-    "v-00337",
-    "v-02423",
-    "v-02467",
     "v-01553",
+    "v-02467",
+    "v-02423",
+    "v-00337",
+    "v-02022",
     "v-00408",
     "v-02806",
     "v-01512",
@@ -5888,6 +5930,48 @@
         "v-00283"
       ],
       "status": "completed"
+    },
+    "20260926T122525Z-9867f635": {
+      "completed_at": "2026-09-26T12:25:25.700919+00:00",
+      "created_at": "2026-09-26T12:25:25.305331+00:00",
+      "failed_ids": [
+        "v-02022",
+        "v-00337",
+        "v-02423",
+        "v-02467",
+        "v-01553"
+      ],
+      "failures": {
+        "v-00337": "Meaning verification uncertain for: list",
+        "v-01553": "Meaning verification uncertain for: list",
+        "v-02022": "Meaning verification uncertain for: list",
+        "v-02423": "Meaning verification uncertain for: list",
+        "v-02467": "Meaning verification uncertain for: list"
+      },
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02022"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00337"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02423"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02467"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01553"
+        }
+      ],
+      "published_ids": [],
+      "status": "completed"
     }
   },
   "runs": [
@@ -6146,7 +6230,44 @@
       "run_id": "20260926T070708Z-5875af93",
       "status": "completed",
       "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-26T12:25:25.700919+00:00",
+      "created_at": "2026-09-26T12:25:25.305331+00:00",
+      "failed_ids": [
+        "v-02022",
+        "v-00337",
+        "v-02423",
+        "v-02467",
+        "v-01553"
+      ],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02022"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00337"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02423"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02467"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01553"
+        }
+      ],
+      "published_ids": [],
+      "run_id": "20260926T122525Z-9867f635",
+      "status": "completed",
+      "unknown_ids": []
     }
   ],
-  "schema_version": 3
+  "schema_version": 4
 }
