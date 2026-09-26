@@ -1,0 +1,24 @@
+{
+  "version": "1.2.1",
+  "name": "Vocabulary Bot",
+  "purpose": "Production-ready bilingual English vocabulary Telegram bot",
+  "changes": [
+    "Two-stage semantic Bangla-meaning audit with conservative correction overlay",
+    "Confirmed-wrong meanings can be corrected at runtime; confirmed-correct meanings remain unchanged",
+    "Uncertain meaning audits retain the original source meaning and no longer abort the entire five-word run",
+    "Verified meaning corrections are propagated to both photo-card and rich-post publishing paths",
+    "Meaning-audit cache is versioned so old uncertain audit decisions are re-evaluated",
+    "Capitalize first character of every displayed word/meaning in Synonyms, Antonyms and Word Family tables",
+    "Switch pronunciation rich block from voice note to standard RichBlockAudio for a streamable audio player",
+    "Invalidate prior media cache and content cache entries when meaning/content format changes",
+    "Preserve approved photo card generator and logo unchanged"
+  ],
+  "safety": [
+    "High-confidence wrong meaning requires verified correction; uncertain cases keep source data",
+    "Source database is never overwritten by automatic corrections",
+    "Meaning corrections persist in vocabulary state",
+    "Content cache includes a meaning fingerprint",
+    "Meaning-correction propagation regression test prevents stale source meanings from reaching publication",
+    "Unknown Telegram outcomes remain quarantined"
+  ]
+}

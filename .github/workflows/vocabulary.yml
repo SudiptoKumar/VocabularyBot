@@ -44,7 +44,7 @@ jobs:
       QUIZ_PER_WORD: "false"
       DOWNLOAD_FONTS: "true"
       ALLOW_FONT_FALLBACK: "false"
-      CONTENT_VERSION: "1.2.0"
+      CONTENT_VERSION: "1.2.1"
       MEDIA_VERSION: "1.2.0"
       FAIL_CLOSED_ON_INCOMPLETE_CONTENT: "true"
       TELEGRAM_RETRY_UNKNOWN_OUTCOME: "false"
@@ -102,6 +102,9 @@ jobs:
 
       - name: Run V1.2.0 safety regression tests
         run: python tests/v1_0_6_safety.py
+
+      - name: Run V1.2.1 meaning regression tests
+        run: python tests/v1_2_1_meaning.py
 
       - name: Publish vocabulary
         shell: bash
