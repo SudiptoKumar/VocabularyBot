@@ -257,6 +257,60 @@
       ],
       "word_family": []
     },
+    "v-00337": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
+      "antonyms": [
+        {
+          "meaning": "binding material",
+          "word": "mortar"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "red brick",
+        "brick wall",
+        "brick house",
+        "lay a brick",
+        "brick kiln"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A rectangular block made of baked clay, used for building walls.",
+      "example_bn": "মিস্ত্রি দেয়াল শুরু করতে একটি লাল ইট রাখলেন।",
+      "example_en": "The mason laid a red brick to start the wall.",
+      "memory_hook": "Brick sounds like \"break\" – you break clay to make a brick.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "brick",
+        "list",
+        "silent",
+        "pray"
+      ],
+      "quiz_question": "Which item would you use to build a wall?",
+      "short_meaning_en": "building block",
+      "synonyms": [
+        {
+          "meaning": "a solid piece",
+          "word": "block"
+        },
+        {
+          "meaning": "a flat piece for covering",
+          "word": "tile"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "bricky"
+        },
+        {
+          "type": "noun",
+          "word": "brickwork"
+        }
+      ]
+    },
     "v-00365": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -755,6 +809,68 @@
         }
       ]
     },
+    "v-01553": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "c44c3d72e3407b3a7af8020656d4e4fb78b1962a0f00987cc4f92ed8740cd410",
+      "antonyms": [
+        {
+          "meaning": "to leave out",
+          "word": "omit"
+        },
+        {
+          "meaning": "to disregard",
+          "word": "ignore"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "make a list",
+        "list of items",
+        "keep a list",
+        "list down",
+        "list price"
+      ],
+      "common_mistake_correct": "list",
+      "common_mistake_wrong": "listened",
+      "definition_en": "To write or record items in a list, or to include something in a list.",
+      "example_bn": "অনুগ্রহ করে এই বছর আপনি যে সব বই পড়েছেন তা তালিকাভুক্ত করুন।",
+      "example_en": "Please list all the books you have read this year.",
+      "memory_hook": "Think of a LIST you write down, not LISTENing to sounds.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to cook",
+        "to write down",
+        "to sing",
+        "to forget"
+      ],
+      "quiz_question": "What does \"list\" mean in \"Please list the ingredients\"?",
+      "short_meaning_en": "record items",
+      "synonyms": [
+        {
+          "meaning": "to name one by one",
+          "word": "enumerate"
+        },
+        {
+          "meaning": "to make a catalogue of",
+          "word": "catalog"
+        },
+        {
+          "meaning": "to write down",
+          "word": "record"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "listed"
+        },
+        {
+          "type": "noun",
+          "word": "listing"
+        }
+      ]
+    },
     "v-01599": {
       "antonyms": [
         {
@@ -1113,6 +1229,192 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-02022": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
+      "antonyms": [
+        {
+          "meaning": "to ignore",
+          "word": "neglect"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "pray for peace",
+        "pray aloud",
+        "say a prayer",
+        "pray together",
+        "pray silently"
+      ],
+      "common_mistake_correct": "pray",
+      "common_mistake_wrong": "prey",
+      "definition_en": "To speak to a deity or higher power, asking for help or expressing thanks.",
+      "example_bn": "তিনি কাজের আগে প্রতিদিন প্রার্থনা করতে হাঁটু গেড়ে বসেন।",
+      "example_en": "She kneels to pray every morning before work.",
+      "memory_hook": "Pray sounds like \"prey\" but you ask, not hunt.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to hunt",
+        "to ask",
+        "to list",
+        "to build"
+      ],
+      "quiz_question": "What does \"pray\" mean in \"They pray for health\"?",
+      "short_meaning_en": "to worship",
+      "synonyms": [
+        {
+          "meaning": "to beg earnestly",
+          "word": "beseech"
+        },
+        {
+          "meaning": "to ask humbly",
+          "word": "supplicate"
+        },
+        {
+          "meaning": "to call upon",
+          "word": "invoke"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "prayer"
+        },
+        {
+          "type": "adjective",
+          "word": "prayerful"
+        },
+        {
+          "type": "verb",
+          "word": "prayed"
+        }
+      ]
+    },
+    "v-02423": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "98f2e4171f3c717a52960f0df80ee7b44d48c94bedd20fb31a6dd1a952ff614c",
+      "antonyms": [
+        {
+          "meaning": "full of sound",
+          "word": "noisy"
+        },
+        {
+          "meaning": "having a high volume",
+          "word": "loud"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "silent night",
+        "silent treatment",
+        "remain silent",
+        "silent film",
+        "silent partner"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Having no sound; completely quiet.",
+      "example_bn": "পরীক্ষার সময় লাইব্রেরি শব্দহীন ছিল।",
+      "example_en": "The library was silent during the exam.",
+      "memory_hook": "Silent starts with \"sil-\" like \"silence\", both mean no sound.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "silent",
+        "list",
+        "brick",
+        "pray"
+      ],
+      "quiz_question": "Choose the correct word: \"The crowd was ___ after the announcement.\"",
+      "short_meaning_en": "quiet",
+      "synonyms": [
+        {
+          "meaning": "free from noise",
+          "word": "quiet"
+        },
+        {
+          "meaning": "without sound",
+          "word": "mute"
+        },
+        {
+          "meaning": "not moving or making noise",
+          "word": "still"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "silently"
+        },
+        {
+          "type": "noun",
+          "word": "silence"
+        }
+      ]
+    },
+    "v-02467": {
+      "_content_version": "1.2.1",
+      "_meaning_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
+      "antonyms": [
+        {
+          "meaning": "a single person",
+          "word": "individual"
+        },
+        {
+          "meaning": "being alone",
+          "word": "isolation"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "modern society",
+        "civil society",
+        "society at large",
+        "high society",
+        "societal norms"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A group of people who share a common culture, interests, or way of life.",
+      "example_bn": "তিনি কীভাবে প্রযুক্তি আধুনিক সমাজকে পরিবর্তন করে তা অধ্যয়ন করেন।",
+      "example_en": "She studies how technology changes modern society.",
+      "memory_hook": "Society sounds like \"so city\" – a big city of many people together.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "list",
+        "society",
+        "brick",
+        "pray"
+      ],
+      "quiz_question": "Which word best fits the sentence: \"The ___ of scientists met to discuss climate change\"?",
+      "short_meaning_en": "community",
+      "synonyms": [
+        {
+          "meaning": "a group of people",
+          "word": "community"
+        },
+        {
+          "meaning": "the people living in an area",
+          "word": "population"
+        },
+        {
+          "meaning": "shared customs and beliefs",
+          "word": "culture"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "societal"
+        },
+        {
+          "type": "noun",
+          "word": "societies"
+        }
+      ]
     },
     "v-02641": {
       "_content_version": "1.1.0",
@@ -1715,42 +2017,42 @@
   "cycle": 1,
   "meaning_audit": {
     "v-00337": {
-      "audited_at": "2026-09-26T12:25:25.700345+00:00",
-      "confidence": 0.99,
+      "audited_at": "2026-09-26T12:40:01.633580+00:00",
+      "confidence": 1.0,
       "meaning_bn": "ইট",
-      "reason": "Bangla meaning correctly corresponds to the noun 'brick'.",
+      "reason": "The meaning correctly matches the noun \"brick\".",
       "source_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
       "status": "valid"
     },
     "v-01553": {
-      "audited_at": "2026-09-26T12:25:25.700437+00:00",
-      "confidence": 0.78,
-      "meaning_bn": "তালিকা, ফর্দ • শুনতে করতে",
-      "reason": "The supplied meaning contains an unrelated phrase 'শুনতে করতে'; correct Bangla meanings for 'list' are 'তালিকা' (noun) and 'তালিকা তৈরি করা, তালিকাভুক্ত করা' (verb).",
+      "audited_at": "2026-09-26T12:40:01.633449+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "তালিকা করা • তালিকাভুক্ত করা",
+      "reason": "The provided Bangla meaning includes unrelated terms \"ফর্দ\" and \"শুনতে করতে\" which do not correspond to the verb sense of \"list\". The appropriate Bengali meanings for the verb are to make a list, to enumerate, or to list items.",
       "source_fingerprint": "92253dda775e14e40ba39847e5dfc4f3f5e4835f136edf421411285b4c7be2a4",
-      "status": "uncertain"
+      "status": "corrected"
     },
     "v-02022": {
-      "audited_at": "2026-09-26T12:25:25.700302+00:00",
-      "confidence": 0.99,
+      "audited_at": "2026-09-26T12:40:01.907949+00:00",
+      "confidence": 0.95,
       "meaning_bn": "প্রার্থনা করা, অনুনয় করা • প্রার্থনা করতে",
-      "reason": "Bangla meaning matches the verb 'pray' correctly.",
+      "reason": "The provided Bangla meaning 'প্রার্থনা করা, অনুনয় করা। | প্রার্থনা করতে' accurately reflects the verb 'pray' meaning to pray or make a request, matching the English word.",
       "source_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
       "status": "valid"
     },
     "v-02423": {
-      "audited_at": "2026-09-26T12:25:25.700372+00:00",
-      "confidence": 0.99,
+      "audited_at": "2026-09-26T12:40:01.633555+00:00",
+      "confidence": 1.0,
       "meaning_bn": "শব্দহীন, নিরব",
-      "reason": "Bangla meaning accurately reflects the adjective 'silent'.",
+      "reason": "The meaning correctly captures the adjective \"silent\".",
       "source_fingerprint": "98f2e4171f3c717a52960f0df80ee7b44d48c94bedd20fb31a6dd1a952ff614c",
       "status": "valid"
     },
     "v-02467": {
-      "audited_at": "2026-09-26T12:25:25.700398+00:00",
-      "confidence": 0.99,
+      "audited_at": "2026-09-26T12:40:01.633520+00:00",
+      "confidence": 1.0,
       "meaning_bn": "সমাজ, সম্প্রদায়",
-      "reason": "Bangla meaning correctly matches the noun 'society'.",
+      "reason": "The provided Bengali meaning accurately reflects the noun \"society\".",
       "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
       "status": "valid"
     }
@@ -1791,6 +2093,12 @@
       "photo_file_id": "AgACAgUAAxUHardvKc5dwBFf3IMPrVBMdYPv2qkAAuIRaxvpIcFVkyKTFowlzj0BAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvKb-xtkYpvcRgBw0pgjigWSIAAn8gAALpIcFVKxMX-Hh1G5A9BA"
+    },
+    "v-00337": {
+      "audio_file_id": "CQACAgUAAxUHare9LDiCzfMhfnWRyT4EoRpIn6IAApkhAALpIcFVW04DjBkv0oQ9BA",
+      "cached_at": "2026-09-26T12:40:13.460731+00:00",
+      "photo_file_id": "AgACAgUAAxUHare9LGBuIGuRwc-nOUlyzpbMzb0AAh8TaxvpIcFVjcu7QHRnorkBAAMCAANzAAM9BA",
+      "version": "1.2.0"
     },
     "v-00365": {
       "cached_at": "2026-09-25T16:13:13.802359+00:00",
@@ -1851,6 +2159,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
     },
+    "v-01553": {
+      "audio_file_id": "CQACAgUAAxUHare9JWlo1ElEQgLW3V-o8zRDNEQAApYhAALpIcFVrb7ILP5onMA9BA",
+      "cached_at": "2026-09-26T12:40:06.329696+00:00",
+      "photo_file_id": "AgACAgUAAxUHare9JTkoc45evcLl_VbaHSoLuDcAAhwTaxvpIcFVnAZRhCvEMigBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
     "v-01599": {
       "audio_file_id": "CQACAgUAAxUHarZZK-Yp0tFj1vHXrfk2YA-z8DYAAsQkAALpIbFV-w4QlOkLda49BA",
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
@@ -1895,6 +2209,24 @@
       "photo_file_id": "AgACAgUAAxUHarZ_OfYhHU79Zex-7IhiCr_thGQAAiQRaxvpIblVxt2oMAyAVEABAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
+    },
+    "v-02022": {
+      "audio_file_id": "CQACAgUAAxUHare9L7P0jCciMo3kaqr-TXRf05UAApohAALpIcFVECbeYSayMfY9BA",
+      "cached_at": "2026-09-26T12:40:15.747935+00:00",
+      "photo_file_id": "AgACAgUAAxUHare9L_lNVUCd2zehl6HIV9whJa8AAiATaxvpIcFVqQuxHVEYD6EBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
+    "v-02423": {
+      "audio_file_id": "CQACAgUAAxUHare9KihEAu8PQq3E49wYa1Vh4uMAApghAALpIcFVmvMM6yWI7g49BA",
+      "cached_at": "2026-09-26T12:40:11.228305+00:00",
+      "photo_file_id": "AgACAgUAAxUHare9Kn1HoCs5EETHLZTMOGFl_8MAAh4TaxvpIcFV4Tv9UTgvqMMBAAMCAANzAAM9BA",
+      "version": "1.2.0"
+    },
+    "v-02467": {
+      "audio_file_id": "CQACAgUAAxUHare9KLe5eCAyZNMmXwSTKotecEUAApchAALpIcFVeSXjOkYqLK49BA",
+      "cached_at": "2026-09-26T12:40:08.781838+00:00",
+      "photo_file_id": "AgACAgUAAxUHare9KLdwTWTSEvFqOeVdn4fPdpIAAh0TaxvpIcFVjjRxVIq3RLsBAAMCAANzAAM9BA",
+      "version": "1.2.0"
     },
     "v-02641": {
       "cached_at": "2026-09-26T07:07:17.058604+00:00",
@@ -2002,6 +2334,12 @@
       "last_message_id": 62,
       "published_at": "2026-09-26T07:07:21.942527+00:00"
     },
+    "v-00337": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 66,
+      "published_at": "2026-09-26T12:40:13.460754+00:00"
+    },
     "v-00365": {
       "count": 1,
       "last_cycle": 1,
@@ -2070,6 +2408,12 @@
       "published_at": "2026-09-25T16:13:11.478231+00:00",
       "quiz_message_id": 48
     },
+    "v-01553": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 63,
+      "published_at": "2026-09-26T12:40:06.329724+00:00"
+    },
     "v-01599": {
       "count": 1,
       "last_cycle": 1,
@@ -2122,6 +2466,24 @@
       "last_cycle": 1,
       "last_message_id": 29,
       "published_at": "2026-09-25T14:03:38.200108+00:00"
+    },
+    "v-02022": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 67,
+      "published_at": "2026-09-26T12:40:15.747959+00:00"
+    },
+    "v-02423": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 65,
+      "published_at": "2026-09-26T12:40:11.228330+00:00"
+    },
+    "v-02467": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 64,
+      "published_at": "2026-09-26T12:40:08.781891+00:00"
     },
     "v-02641": {
       "count": 1,
@@ -2198,11 +2560,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01553",
-    "v-02467",
-    "v-02423",
-    "v-00337",
-    "v-02022",
     "v-00408",
     "v-02806",
     "v-01512",
@@ -5972,6 +6329,41 @@
       ],
       "published_ids": [],
       "status": "completed"
+    },
+    "20260926T124000Z-8f28b998": {
+      "completed_at": "2026-09-26T12:40:15.754893+00:00",
+      "created_at": "2026-09-26T12:40:00.833915+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01553"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02467"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02423"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00337"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02022"
+        }
+      ],
+      "published_ids": [
+        "v-01553",
+        "v-02467",
+        "v-02423",
+        "v-00337",
+        "v-02022"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -6265,6 +6657,43 @@
       ],
       "published_ids": [],
       "run_id": "20260926T122525Z-9867f635",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-26T12:40:15.754893+00:00",
+      "created_at": "2026-09-26T12:40:00.833915+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01553"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02467"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02423"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00337"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02022"
+        }
+      ],
+      "published_ids": [
+        "v-01553",
+        "v-02467",
+        "v-02423",
+        "v-00337",
+        "v-02022"
+      ],
+      "run_id": "20260926T124000Z-8f28b998",
       "status": "completed",
       "unknown_ids": []
     }
