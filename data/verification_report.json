@@ -1,0 +1,748 @@
+{
+  "schema_version": "2.0",
+  "created_at": "2026-09-26T23:43:19.353237+00:00",
+  "source": "/mnt/data/VocabularyBot_V1.2.2.zip data/vocabulary.json",
+  "record_count": 3521,
+  "high_confidence_corrections": 42,
+  "needs_manual_or_runtime_review": 12,
+  "important_note": "This V2 applies only high-confidence source-data corrections directly supported by the supplied records and observed alignment errors. It does not claim that every Bangla sense in all 3,521 records has been independently lexicographically verified.",
+  "corrections": [
+    {
+      "id": "v-00756",
+      "term": "device",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "নকশা।",
+        "pronunciation_bn": "ডিভাইস",
+        "ipa": "/dr'vaɪs/"
+      },
+      "after": {
+        "meaning_bn": "যন্ত্র, সরঞ্জাম, ডিভাইস",
+        "pronunciation_bn": "ডিভাইস",
+        "ipa": "/dr'vaɪs/"
+      }
+    },
+    {
+      "id": "v-01497",
+      "term": "last",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "বিলম্বিত, দেরী।",
+        "pronunciation_bn": "লেইঠ",
+        "ipa": "/leɪt/"
+      },
+      "after": {
+        "meaning_bn": "শেষ, সর্বশেষ",
+        "pronunciation_bn": "লাস্ট",
+        "ipa": "/læst/"
+      }
+    },
+    {
+      "id": "v-01498",
+      "term": "late",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "অপেক্ষাকৃত পরবর্তী।",
+        "pronunciation_bn": "লেইঠা(র)",
+        "ipa": "/ˈleɪ.tər/"
+      },
+      "after": {
+        "meaning_bn": "দেরিতে, বিলম্বিত",
+        "pronunciation_bn": "লেইট",
+        "ipa": "/leɪt/"
+      }
+    },
+    {
+      "id": "v-01499",
+      "term": "later",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "প্রাচীন রোমক জাতির ভাষা",
+        "pronunciation_bn": "ল্যাঠিন",
+        "ipa": "/ˈlæt.ɪn/"
+      },
+      "after": {
+        "meaning_bn": "পরে, পরবর্তীতে",
+        "pronunciation_bn": "লেইটার",
+        "ipa": "/ˈleɪ.tə/"
+      }
+    },
+    {
+      "id": "v-01500",
+      "term": "Latin",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "কোনও কালের শেষবর্তী",
+        "pronunciation_bn": "ল্যাঠা(র)",
+        "ipa": "/ˈlæt.ər/"
+      },
+      "after": {
+        "meaning_bn": "ল্যাটিন ভাষা, প্রাচীন রোমের ভাষা",
+        "pronunciation_bn": "ল্যাটিন",
+        "ipa": "/ˈlæt.ɪn/"
+      }
+    },
+    {
+      "id": "v-01501",
+      "term": "latter",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "হাসা, উপহাস করা।",
+        "pronunciation_bn": "লাফ",
+        "ipa": "/lɑːf/"
+      },
+      "after": {
+        "meaning_bn": "পরেরটি, পরবর্তীটির",
+        "pronunciation_bn": "ল্যাটার",
+        "ipa": "/ˈlæt.ə/"
+      }
+    },
+    {
+      "id": "v-01502",
+      "term": "laugh",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "ফেরি জাহাজ, লঞ্চ। | হাসতে",
+        "pronunciation_bn": "লোঞ্চ",
+        "ipa": "/lɔːntʃ/"
+      },
+      "after": {
+        "meaning_bn": "হাসা, হাসতে থাকা",
+        "pronunciation_bn": "লাফ",
+        "ipa": "/læf/"
+      }
+    },
+    {
+      "id": "v-01503",
+      "term": "launch",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "নিয়ম, বিধি, আইন।",
+        "pronunciation_bn": "লো",
+        "ipa": "/lɔː/"
+      },
+      "after": {
+        "meaning_bn": "উদ্বোধন করা, চালু করা, লঞ্চ",
+        "pronunciation_bn": "লঞ্চ",
+        "ipa": "/lɔːntʃ/"
+      }
+    },
+    {
+      "id": "v-01504",
+      "term": "law",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "তৃণাচ্ছাদিত জমি, লন।",
+        "pronunciation_bn": "লোন",
+        "ipa": "/lɔːn/"
+      },
+      "after": {
+        "meaning_bn": "আইন, বিধি",
+        "pronunciation_bn": "ল",
+        "ipa": "/lɔː/"
+      }
+    },
+    {
+      "id": "v-01505",
+      "term": "lawn",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "মকদ্দমা।",
+        "pronunciation_bn": "লোসুঠ",
+        "ipa": "/ˈlɔː.suːt/"
+      },
+      "after": {
+        "meaning_bn": "ঘাসে ঢাকা মাঠ, লন",
+        "pronunciation_bn": "লন",
+        "ipa": "/lɔːn/"
+      }
+    },
+    {
+      "id": "v-01506",
+      "term": "lawsuit",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "আইনজ্ঞ ব্যক্তি, উকিল।",
+        "pronunciation_bn": "লইয়া(র)",
+        "ipa": "/ˈlɔɪ.ər/"
+      },
+      "after": {
+        "meaning_bn": "মামলা, মোকদ্দমা",
+        "pronunciation_bn": "লসুট",
+        "ipa": "/ˈlɔː.suːt/"
+      }
+    },
+    {
+      "id": "v-01507",
+      "term": "lawyer",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "শায়িত করা, স্থাপন করা।",
+        "pronunciation_bn": "লেই",
+        "ipa": "/leɪ/"
+      },
+      "after": {
+        "meaning_bn": "আইনজীবী, উকিল",
+        "pronunciation_bn": "লয়ার",
+        "ipa": "/ˈlɔɪ.ə/"
+      }
+    },
+    {
+      "id": "v-01508",
+      "term": "lay",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "স্তব, প্রলেপ। | রাখতে, শোয়াতে",
+        "pronunciation_bn": "লেইয়া(র)",
+        "ipa": "/ˈleɪ.ər/"
+      },
+      "after": {
+        "meaning_bn": "রাখা, শোয়ানো",
+        "pronunciation_bn": "লেই",
+        "ipa": "/leɪ/"
+      }
+    },
+    {
+      "id": "v-01509",
+      "term": "layer",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "সীসা, নেতৃত্ব, পথপ্রদর্শন",
+        "pronunciation_bn": "লীড",
+        "ipa": "/liːd/"
+      },
+      "after": {
+        "meaning_bn": "স্তর, প্রলেপ",
+        "pronunciation_bn": "লেয়ার",
+        "ipa": "/ˈleɪ.ə/"
+      }
+    },
+    {
+      "id": "v-01510",
+      "term": "lead",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "পথ প্রদর্শক, নেতা। | পরিচালনা করতে",
+        "pronunciation_bn": "লীডা(র)",
+        "ipa": "/ˈliː.dər/"
+      },
+      "after": {
+        "meaning_bn": "সীসা, নেতৃত্ব দেওয়া, পথপ্রদর্শন করা",
+        "pronunciation_bn": "লিড",
+        "ipa": "/liːd/"
+      }
+    },
+    {
+      "id": "v-01511",
+      "term": "leader",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "নেতৃত্ব, পরিচালনা।",
+        "pronunciation_bn": "লীডাশিফ",
+        "ipa": "/ˈliː.də.ʃɪp/"
+      },
+      "after": {
+        "meaning_bn": "নেতা, পথপ্রদর্শক",
+        "pronunciation_bn": "লিডার",
+        "ipa": "/ˈliː.də/"
+      }
+    },
+    {
+      "id": "v-01512",
+      "term": "leadership",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "প্রধান, মূখ্য।",
+        "pronunciation_bn": "লীডিং",
+        "ipa": "/ˈliː.dɪŋ/"
+      },
+      "after": {
+        "meaning_bn": "নেতৃত্ব, পরিচালনা",
+        "pronunciation_bn": "লিডারশিপ",
+        "ipa": "/ˈliː.də.ʃɪp/"
+      }
+    },
+    {
+      "id": "v-01513",
+      "term": "leading",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "গাছের পাতা।",
+        "pronunciation_bn": "লীফ",
+        "ipa": "/liːf/"
+      },
+      "after": {
+        "meaning_bn": "প্রধান, অগ্রণী",
+        "pronunciation_bn": "লিডিং",
+        "ipa": "/ˈliː.dɪŋ/"
+      }
+    },
+    {
+      "id": "v-01514",
+      "term": "leaf",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "সংঘবদ্ধ।",
+        "pronunciation_bn": "লীগ",
+        "ipa": "/liːg/"
+      },
+      "after": {
+        "meaning_bn": "পাতা, গাছের পাতা",
+        "pronunciation_bn": "লীগ",
+        "ipa": "/liːg/"
+      }
+    },
+    {
+      "id": "v-01515",
+      "term": "league",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "চর্বিহীন, হেলান দেওয়া।",
+        "pronunciation_bn": "লীন",
+        "ipa": "/liːn/"
+      },
+      "after": {
+        "meaning_bn": "লীগ, ক্রীড়া-সংগঠন",
+        "pronunciation_bn": "লিগ",
+        "ipa": "/liːɡ/"
+      }
+    },
+    {
+      "id": "v-01516",
+      "term": "lean",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "শিক্ষা করা, জ্ঞান অর্জন করা | হেলান দিতে",
+        "pronunciation_bn": "লান",
+        "ipa": "/lɜːn/"
+      },
+      "after": {
+        "meaning_bn": "হেলান দেওয়া, চর্বিহীন",
+        "pronunciation_bn": "লীন",
+        "ipa": "/liːn/"
+      }
+    },
+    {
+      "id": "v-01517",
+      "term": "learn",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "শিক্ষা, পাণ্ডিত্য, জ্ঞান। | শিখতে",
+        "pronunciation_bn": "লানিং",
+        "ipa": "/ˈlɜː.nɪŋ/"
+      },
+      "after": {
+        "meaning_bn": "শেখা, জ্ঞান অর্জন করা",
+        "pronunciation_bn": "লার্ন",
+        "ipa": "/lɜːn/"
+      }
+    },
+    {
+      "id": "v-01518",
+      "term": "learning",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "ক্ষুদ্রতম, সামান্যতম।",
+        "pronunciation_bn": "লীস্ট",
+        "ipa": "/liːst/"
+      },
+      "after": {
+        "meaning_bn": "শিক্ষা, শেখা, পাণ্ডিত্য",
+        "pronunciation_bn": "লার্নিং",
+        "ipa": "/ˈlɜː.nɪŋ/"
+      }
+    },
+    {
+      "id": "v-01519",
+      "term": "least",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "চামড়া, পরিকৃত চর্ম।",
+        "pronunciation_bn": "লেদা(র)",
+        "ipa": "/ˈleð.ər/"
+      },
+      "after": {
+        "meaning_bn": "সর্বনিম্ন, ক্ষুদ্রতম",
+        "pronunciation_bn": "লেদা(র)",
+        "ipa": "/ˈleð.ər/"
+      }
+    },
+    {
+      "id": "v-01520",
+      "term": "leather",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "পরিত্যাগ করা, ছেড়ে যাওয়া",
+        "pronunciation_bn": "লীড",
+        "ipa": "/liːv/"
+      },
+      "after": {
+        "meaning_bn": "চামড়া",
+        "pronunciation_bn": "লেদার",
+        "ipa": "/ˈleð.ə/"
+      }
+    },
+    {
+      "id": "v-01521",
+      "term": "leave",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "বাঁ, বাম দিক। | ছেড়ে যেতে | চুটি",
+        "pronunciation_bn": "লেফঠ",
+        "ipa": "/left/"
+      },
+      "after": {
+        "meaning_bn": "ছেড়ে যাওয়া, পরিত্যাগ করা",
+        "pronunciation_bn": "লেফঠ",
+        "ipa": "/left/"
+      }
+    },
+    {
+      "id": "v-01522",
+      "term": "left",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "পা। | বাম",
+        "pronunciation_bn": "লেগ",
+        "ipa": "/leg/"
+      },
+      "after": {
+        "meaning_bn": "বাম, বাম দিক, ছেড়ে গেছে",
+        "pronunciation_bn": "লেগ",
+        "ipa": "/leg/"
+      }
+    },
+    {
+      "id": "v-01523",
+      "term": "leg",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "উত্তরাধিকার। | পা",
+        "pronunciation_bn": "লেগাসি",
+        "ipa": "/ˈleg.ə.si/"
+      },
+      "after": {
+        "meaning_bn": "পা",
+        "pronunciation_bn": "লেগাসি",
+        "ipa": "/ˈleg.ə.si/"
+      }
+    },
+    {
+      "id": "v-01524",
+      "term": "legacy",
+      "changes": [
+        "meaning_correction",
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "আইন সম্বন্ধীয়।",
+        "pronunciation_bn": "লীগাল",
+        "ipa": "/ˈliː.gəl/"
+      },
+      "after": {
+        "meaning_bn": "উত্তরাধিকার",
+        "pronunciation_bn": "লেগেসি",
+        "ipa": "/ˈleg.ə.si/"
+      }
+    },
+    {
+      "id": "v-01525",
+      "term": "legal",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "",
+        "pronunciation_bn": "",
+        "ipa": ""
+      },
+      "after": {
+        "meaning_bn": "আইনসম্মত, আইনি",
+        "pronunciation_bn": "",
+        "ipa": ""
+      }
+    },
+    {
+      "id": "v-01553",
+      "term": "list",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "তালিকা, ফর্দ। | শুনতে করতে",
+        "pronunciation_bn": "লিস্ট",
+        "ipa": "/lɪst/"
+      },
+      "after": {
+        "meaning_bn": "তালিকা, ফর্দ",
+        "pronunciation_bn": "লিস্ট",
+        "ipa": "/lɪst/"
+      }
+    },
+    {
+      "id": "v-02639",
+      "term": "talent",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "গল্প, কাহিনী, উপকথা।",
+        "pronunciation_bn": "ট্যালেন্ট",
+        "ipa": "/'tæl.ənt/"
+      },
+      "after": {
+        "meaning_bn": "প্রতিভা, মেধা",
+        "pronunciation_bn": "ট্যালেন্ট",
+        "ipa": "/'tæl.ənt/"
+      }
+    },
+    {
+      "id": "v-02640",
+      "term": "talk",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "প্রতিভা। | কথা বলতে",
+        "pronunciation_bn": "টোক",
+        "ipa": "/tɔːk/"
+      },
+      "after": {
+        "meaning_bn": "কথা বলা, বক্তৃতা করা",
+        "pronunciation_bn": "টোক",
+        "ipa": "/tɔːk/"
+      }
+    },
+    {
+      "id": "v-02641",
+      "term": "tall",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "কথা বলা, বক্তৃতা দেওয়া।",
+        "pronunciation_bn": "টোল",
+        "ipa": "/tɔːl/"
+      },
+      "after": {
+        "meaning_bn": "লম্বা, উঁচু",
+        "pronunciation_bn": "টোল",
+        "ipa": "/tɔːl/"
+      }
+    },
+    {
+      "id": "v-02642",
+      "term": "tank",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "উঁচু, লম্বা, মস্ত বা মহৎ।",
+        "pronunciation_bn": "ট্যাংক",
+        "ipa": "/tæŋk/"
+      },
+      "after": {
+        "meaning_bn": "ট্যাঙ্ক, জলাধার",
+        "pronunciation_bn": "ট্যাংক",
+        "ipa": "/tæŋk/"
+      }
+    },
+    {
+      "id": "v-02643",
+      "term": "tap",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "পুকুর, জলাধার। | টোকা মারতে",
+        "pronunciation_bn": "ট্যাপ",
+        "ipa": "/tæp/"
+      },
+      "after": {
+        "meaning_bn": "টোকা দেওয়া, কল বা নল",
+        "pronunciation_bn": "ট্যাপ",
+        "ipa": "/tæp/"
+      }
+    },
+    {
+      "id": "v-02644",
+      "term": "tape",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "ছিপি কল, টোকা। | ফিতা",
+        "pronunciation_bn": "টেইপ",
+        "ipa": "/teɪp/"
+      },
+      "after": {
+        "meaning_bn": "ফিতা, টেপ",
+        "pronunciation_bn": "টেইপ",
+        "ipa": "/teɪp/"
+      }
+    },
+    {
+      "id": "v-02645",
+      "term": "target",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "ফিতা। | নিশানা করতে",
+        "pronunciation_bn": "টাগিট",
+        "ipa": "/'tɑː.gɪt/"
+      },
+      "after": {
+        "meaning_bn": "লক্ষ্য, নিশানা",
+        "pronunciation_bn": "টাগিট",
+        "ipa": "/'tɑː.gɪt/"
+      }
+    },
+    {
+      "id": "v-02646",
+      "term": "task",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "কাজের ভার, করণীয় কাজ।",
+        "pronunciation_bn": "টাস্ক",
+        "ipa": "/tɑːsk/"
+      },
+      "after": {
+        "meaning_bn": "কাজ, দায়িত্ব",
+        "pronunciation_bn": "টাস্ক",
+        "ipa": "/tɑːsk/"
+      }
+    },
+    {
+      "id": "v-02647",
+      "term": "taste",
+      "changes": [
+        "meaning_correction"
+      ],
+      "before": {
+        "meaning_bn": "স্বাদ, রুচি, আচ্ছাদন। | রসায়ন করতে",
+        "pronunciation_bn": "টেইস্ট",
+        "ipa": "/teɪst/"
+      },
+      "after": {
+        "meaning_bn": "স্বাদ, রুচি",
+        "pronunciation_bn": "টেইস্ট",
+        "ipa": "/teɪst/"
+      }
+    },
+    {
+      "id": "v-02726",
+      "term": "time",
+      "changes": [
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "সময়, বেলা, কাল",
+        "pronunciation_bn": "ঠাইম",
+        "ipa": "/'taɪt/"
+      },
+      "after": {
+        "meaning_bn": "সময়, বেলা, কাল",
+        "pronunciation_bn": "টাইম",
+        "ipa": "/taɪm/"
+      }
+    },
+    {
+      "id": "v-02839",
+      "term": "used",
+      "changes": [
+        "pronunciation_correction"
+      ],
+      "before": {
+        "meaning_bn": "ব্যবহৃত, পুরাতন।",
+        "pronunciation_bn": "ইউস্ট",
+        "ipa": "/'juːst/"
+      },
+      "after": {
+        "meaning_bn": "ব্যবহৃত, পুরাতন",
+        "pronunciation_bn": "ইউজড",
+        "ipa": "/juːzd/"
+      }
+    }
+  ]
+}
