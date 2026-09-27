@@ -1,3 +1,0 @@
-requests==2.32.5
-Pillow>=11.0,<13
-edge-tts>=7,<9
