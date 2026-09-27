@@ -45,7 +45,7 @@ jobs:
       DOWNLOAD_FONTS: "true"
       ALLOW_FONT_FALLBACK: "false"
       CONTENT_VERSION: "1.2.4"
-      MEDIA_VERSION: "1.2.4"
+      MEDIA_VERSION: "1.2.5"
       FAIL_CLOSED_ON_INCOMPLETE_CONTENT: "true"
       TELEGRAM_RETRY_UNKNOWN_OUTCOME: "false"
       TELEGRAM_PREFLIGHT: "true"
