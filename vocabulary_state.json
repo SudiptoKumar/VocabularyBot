@@ -585,6 +585,59 @@
         }
       ]
     },
+    "v-00566": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
+      "antonyms": [],
+      "cefr": "C1",
+      "collocations": [
+        "congressional hearing",
+        "congressional budget",
+        "congressional report",
+        "congressional authority",
+        "congressional vote"
+      ],
+      "common_mistake_correct": "congressional (adjective) is correct",
+      "common_mistake_wrong": "congress (noun) used as adjective",
+      "definition_en": "relating to a congress or its members, especially a legislative body",
+      "example_bn": "কংগ্রেস সংক্রান্ত কমিটি বিলের উপর একটি শুনানি আয়োজন করেছে।",
+      "example_en": "The congressional committee held a hearing on the bill.",
+      "memory_hook": "Add \"‑ional\" to \"congress\" to make it an adjective, like \"institutional\".",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The congressional budget was approved.",
+        "Congressional members voted yesterday.",
+        "He attended a congressional meeting.",
+        "The congressional was noisy."
+      ],
+      "quiz_question": "Select the sentence that uses \"congressional\" correctly.",
+      "short_meaning_en": "congress‑related",
+      "synonyms": [
+        {
+          "meaning": "pertaining to lawmaking",
+          "word": "legislative"
+        },
+        {
+          "meaning": "relating to a parliament",
+          "word": "parliamentary"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "congress"
+        },
+        {
+          "type": "noun",
+          "word": "congressman"
+        },
+        {
+          "type": "noun",
+          "word": "congressionalism"
+        }
+      ]
+    },
     "v-00596": {
       "antonyms": [],
       "cefr": "",
@@ -717,6 +770,68 @@
         {
           "type": "verb",
           "word": "darken"
+        }
+      ]
+    },
+    "v-00708": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1b00164c1ab24b95f4827d5d73eda83ad4b1b7f62329f1c44226baca2723514c",
+      "antonyms": [
+        {
+          "meaning": "to be defeated",
+          "word": "lose"
+        },
+        {
+          "meaning": "to give up",
+          "word": "surrender"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "defeat an opponent",
+        "suffer a defeat",
+        "defeat in battle",
+        "defeat the odds",
+        "total defeat"
+      ],
+      "common_mistake_correct": "defeat (verb) is correct",
+      "common_mistake_wrong": "defeated (noun) used as verb",
+      "definition_en": "to win against someone or something, causing them to lose",
+      "example_bn": "হোম টিম তাদের প্রতিদ্বন্দ্বীদের ৩-১ স্কোরে পরাজিত করেছে।",
+      "example_en": "The home team defeated their rivals 3-1.",
+      "memory_hook": "Think of \"defeat\" as \"de-FEAT\" – you take the FEAT away from the opponent.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The team will defeat the championship tomorrow.",
+        "She felt defeat after the exam.",
+        "He was a defeat in the race.",
+        "Defeat is a noun here."
+      ],
+      "quiz_question": "Which sentence uses \"defeat\" correctly?",
+      "short_meaning_en": "win over",
+      "synonyms": [
+        {
+          "meaning": "to overcome in competition",
+          "word": "beat"
+        },
+        {
+          "meaning": "to overcome completely",
+          "word": "conquer"
+        },
+        {
+          "meaning": "to succeed in dealing with",
+          "word": "overcome"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "defeated"
+        },
+        {
+          "type": "verb",
+          "word": "defeating"
         }
       ]
     },
@@ -993,6 +1108,72 @@
         {
           "type": "adjective",
           "word": "employable"
+        }
+      ]
+    },
+    "v-01038": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d7295557a3c450f834f7939665861b3a3b4ab71fabc4eb73067df81def4ea510",
+      "antonyms": [
+        {
+          "meaning": "bravery",
+          "word": "courage"
+        },
+        {
+          "meaning": "self‑assurance",
+          "word": "confidence"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "fear of heights",
+        "deep fear",
+        "fear and anxiety",
+        "overcome fear",
+        "fear of the unknown"
+      ],
+      "common_mistake_correct": "fear (noun) is correct in this sense",
+      "common_mistake_wrong": "fear (verb) used as noun without context",
+      "definition_en": "a feeling of anxiety or dread about something that may happen",
+      "example_bn": "আলো নিভে যাওয়ার সময় তিনি হঠাৎ ভয় অনুভব করলেন।",
+      "example_en": "She felt a sudden fear when the lights went out.",
+      "memory_hook": "\"Fear\" sounds like \"far\" – think of something far away that scares you.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "His fear was obvious during the storm.",
+        "He will fear the exam tomorrow.",
+        "She fears the dog.",
+        "Fear is an adjective here."
+      ],
+      "quiz_question": "Which sentence uses \"fear\" correctly as a noun?",
+      "short_meaning_en": "anxiety",
+      "synonyms": [
+        {
+          "meaning": "intense fear",
+          "word": "terror"
+        },
+        {
+          "meaning": "deep fear",
+          "word": "dread"
+        },
+        {
+          "meaning": "uneasy expectation",
+          "word": "apprehension"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "fearful"
+        },
+        {
+          "type": "adverb",
+          "word": "fearlessly"
+        },
+        {
+          "type": "noun",
+          "word": "fearlessness"
         }
       ]
     },
@@ -2136,6 +2317,63 @@
         }
       ]
     },
+    "v-02035": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "dd1c6723dab8441b011c629d449742f02e4b496f63f524baf31cc47c9e48195b",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "give a presentation",
+        "presentation slides",
+        "presentation skills",
+        "powerful presentation",
+        "presentation tomorrow"
+      ],
+      "common_mistake_correct": "presentation (noun) is correct",
+      "common_mistake_wrong": "presenting (verb) used as noun",
+      "definition_en": "the act of showing or explaining something to an audience",
+      "example_bn": "আবহাওয়া পরিবর্তন নিয়ে তার উপস্থাপনাটি সবাইকে মুগ্ধ করেছে।",
+      "example_en": "Her presentation on climate change impressed everyone.",
+      "memory_hook": "\"Present\" + \"-ation\" = the act of presenting.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The presentation was very clear.",
+        "She will presentation the report tomorrow.",
+        "Presentation is his favorite hobby.",
+        "We need a presentation of the data."
+      ],
+      "quiz_question": "Choose the correct use of \"presentation\".",
+      "short_meaning_en": "showing",
+      "synonyms": [
+        {
+          "meaning": "showing how something works",
+          "word": "demonstration"
+        },
+        {
+          "meaning": "formal talk",
+          "word": "lecture"
+        },
+        {
+          "meaning": "public display",
+          "word": "exhibition"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "present"
+        },
+        {
+          "type": "noun",
+          "word": "presenter"
+        },
+        {
+          "type": "adjective",
+          "word": "presentational"
+        }
+      ]
+    },
     "v-02336": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
@@ -2373,6 +2611,72 @@
         {
           "type": "noun",
           "word": "societies"
+        }
+      ]
+    },
+    "v-02620": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
+      "antonyms": [
+        {
+          "meaning": "to die",
+          "word": "perish"
+        },
+        {
+          "meaning": "to cease living",
+          "word": "die"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "survive a disaster",
+        "barely survive",
+        "survive the night",
+        "survive on a diet",
+        "survive the test"
+      ],
+      "common_mistake_correct": "survive (verb) is correct",
+      "common_mistake_wrong": "survive (noun) used as verb",
+      "definition_en": "to continue living or existing after a difficult situation",
+      "example_bn": "গাছটি কঠিন শীতের পরেও বেঁচে রইল।",
+      "example_en": "The plant survived the harsh winter.",
+      "memory_hook": "\"Survive\" sounds like \"sure‑vive\" – be sure you stay alive.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The hikers managed to survive the storm.",
+        "She will survive the cake.",
+        "They survived a new hobby.",
+        "Survive is a noun here."
+      ],
+      "quiz_question": "Which sentence correctly uses \"survive\"?",
+      "short_meaning_en": "live on",
+      "synonyms": [
+        {
+          "meaning": "to last despite hardship",
+          "word": "endure"
+        },
+        {
+          "meaning": "to keep going",
+          "word": "persist"
+        },
+        {
+          "meaning": "to resist",
+          "word": "withstand"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "survival"
+        },
+        {
+          "type": "noun",
+          "word": "survivor"
+        },
+        {
+          "type": "adjective",
+          "word": "surviving"
         }
       ]
     },
@@ -3160,6 +3464,22 @@
       "source_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
       "status": "valid"
     },
+    "v-00566": {
+      "audited_at": "2026-09-27T07:39:03.577489+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "কংগ্রেসসম্পর্কিত",
+      "reason": "The meaning matches the adjective 'congressional'.",
+      "source_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
+      "status": "valid"
+    },
+    "v-00708": {
+      "audited_at": "2026-09-27T07:39:03.577361+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পরাজিত করা, পরাস্ত করতে",
+      "reason": "The Bangla meaning accurately reflects the verb 'defeat'.",
+      "source_fingerprint": "1b00164c1ab24b95f4827d5d73eda83ad4b1b7f62329f1c44226baca2723514c",
+      "status": "valid"
+    },
     "v-00762": {
       "audited_at": "2026-09-27T00:35:50.172670+00:00",
       "confidence": 0.99,
@@ -3183,6 +3503,14 @@
       "reason": "The term 'মনিব' is unrelated to 'employer'; the appropriate Bangla meaning is 'নিয়োগকর্তা'.",
       "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
       "status": "corrected"
+    },
+    "v-01038": {
+      "audited_at": "2026-09-27T07:39:03.577521+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভয়, আশঙ্কা, আতংকা, ভয় পেতে",
+      "reason": "The Bangla meaning includes both noun and verb senses of 'fear'.",
+      "source_fingerprint": "d7295557a3c450f834f7939665861b3a3b4ab71fabc4eb73067df81def4ea510",
+      "status": "valid"
     },
     "v-01055": {
       "audited_at": "2026-09-26T23:32:05.945849+00:00",
@@ -3264,6 +3592,14 @@
       "source_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
       "status": "valid"
     },
+    "v-02035": {
+      "audited_at": "2026-09-27T07:39:03.577420+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "উপস্থাপন, উপস্থাপনা",
+      "reason": "The supplied meaning 'উপহার, দান' corresponds to 'gift' not 'presentation'.",
+      "source_fingerprint": "be8b368d03738013061f6f2a12ccfe8d96bfe1547760e6c216e02aef19fad739",
+      "status": "corrected"
+    },
     "v-02336": {
       "audited_at": "2026-09-26T23:58:20.821283+00:00",
       "confidence": 0.99,
@@ -3294,6 +3630,14 @@
       "meaning_bn": "সমাজ, সম্প্রদায়",
       "reason": "The provided Bengali meaning accurately reflects the noun \"society\".",
       "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
+      "status": "valid"
+    },
+    "v-02620": {
+      "audited_at": "2026-09-27T07:39:03.577461+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বাঁচিয়া বা টিকিয়া থাকার অবস্থা, টিকে থাকতে",
+      "reason": "The Bangla meaning correctly captures the verb 'survive'.",
+      "source_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
       "status": "valid"
     },
     "v-02806": {
@@ -3394,6 +3738,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk7_SAnVv_8zB7Oc946zR6fKYAAhAUaxucC8lVbnBTQnoRKP0BAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00566": {
+      "audio_file_id": "CQACAgUAAxUHarjIIYm_QpziEH-iaV_CuyBoFCgAAsUiAAKcC8lVtSp9zjZ6q3g9BA",
+      "cached_at": "2026-09-27T07:39:14.141266+00:00",
+      "photo_file_id": "AgACAgUAAxUHarjIITNbttvJymvC2C9KD33w5bgAApYUaxucC8lVobebffT9D34BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00596": {
       "cached_at": "2026-09-25T14:03:35.808387+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
@@ -3411,6 +3761,12 @@
       "photo_file_id": "AgACAgUAAxUHaraL_ii8aBO2cRcBq3UFUGuFy4QAAjwRaxvpIblVCRYOZpnsfe8BAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraL_kPM6caItZkmytQt7sv_CeYAAvoeAALpIblVaxByrzoloOQ9BA"
+    },
+    "v-00708": {
+      "audio_file_id": "CQACAgUAAxUHarjIG4XGNbjHjaPg4DOIws9u8A8AAsEiAAKcC8lVtZaPUQp8vVk9BA",
+      "cached_at": "2026-09-27T07:39:07.692429+00:00",
+      "photo_file_id": "AgACAgUAAxUHarjIG8__kNt9nIQdVxukfsQFxtAAApMUaxucC8lVeJjhCmREClEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00756": {
       "cached_at": "2026-09-25T12:21:26.261504+00:00",
@@ -3441,6 +3797,12 @@
       "cached_at": "2026-09-27T00:35:57.693202+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-01038": {
+      "audio_file_id": "CQACAgUAAxUHarjII82LdTlNLUW5xOK02ebQpkIAAsYiAAKcC8lVQDkstueo8wU9BA",
+      "cached_at": "2026-09-27T07:39:16.190151+00:00",
+      "photo_file_id": "AgACAgUAAxUHarjIIywqNhEhjXCX5BaUTIOunPYAApcUaxucC8lVN8SfEgXnxrUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01055": {
       "audio_file_id": "AwACAgUAAxUHarhWAbLu-6p3uum15jf4zfg8zWEAAkghAAKcC8lVMzpoCpQ4kPg9BA",
@@ -3570,6 +3932,12 @@
       "photo_file_id": "AgACAgUAAxUHare9L_lNVUCd2zehl6HIV9whJa8AAiATaxvpIcFVqQuxHVEYD6EBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-02035": {
+      "audio_file_id": "CQACAgUAAxUHarjIHZUI0TWakoPnb-hC-qQaoCEAAsIiAAKcC8lV9SPCYR3e4bA9BA",
+      "cached_at": "2026-09-27T07:39:10.074918+00:00",
+      "photo_file_id": "AgACAgUAAxUHarjIHTaFHmitXhQF5wRSq71V9hEAApQUaxucC8lVq1rO99bGWVkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02336": {
       "audio_file_id": "AwACAgUAAxUHarhcJKQyOP2b9TQwejZggzDxDTcAAk8hAAKcC8lVI1qqil53f2M9BA",
       "cached_at": "2026-09-26T23:58:29.287653+00:00",
@@ -3593,6 +3961,12 @@
       "cached_at": "2026-09-26T12:40:08.781838+00:00",
       "photo_file_id": "AgACAgUAAxUHare9KLdwTWTSEvFqOeVdn4fPdpIAAh0TaxvpIcFVjjRxVIq3RLsBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-02620": {
+      "audio_file_id": "CQACAgUAAxUHarjIH9nXRpMzn0cdPzfGHYOQZjwAAsQiAAKcC8lVhw1nTx2EaMQ9BA",
+      "cached_at": "2026-09-27T07:39:12.169260+00:00",
+      "photo_file_id": "AgACAgUAAxUHarjIH_9gVhLSttQsv-GqAjEq8_MAApUUaxucC8lVtzd4Y4WHV-IBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02641": {
       "cached_at": "2026-09-26T07:07:17.058604+00:00",
@@ -3755,6 +4129,12 @@
       "last_message_id": 81,
       "published_at": "2026-09-27T00:35:59.667640+00:00"
     },
+    "v-00566": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 91,
+      "published_at": "2026-09-27T07:39:14.141288+00:00"
+    },
     "v-00596": {
       "count": 1,
       "last_cycle": 1,
@@ -3773,6 +4153,12 @@
       "last_message_id": 33,
       "published_at": "2026-09-25T14:58:07.121359+00:00",
       "quiz_message_id": 34
+    },
+    "v-00708": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 88,
+      "published_at": "2026-09-27T07:39:07.692455+00:00"
     },
     "v-00756": {
       "count": 1,
@@ -3805,6 +4191,12 @@
       "last_cycle": 1,
       "last_message_id": 80,
       "published_at": "2026-09-27T00:35:57.693224+00:00"
+    },
+    "v-01038": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 92,
+      "published_at": "2026-09-27T07:39:16.190175+00:00"
     },
     "v-01055": {
       "count": 1,
@@ -3947,6 +4339,12 @@
       "last_message_id": 67,
       "published_at": "2026-09-26T12:40:15.747959+00:00"
     },
+    "v-02035": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 89,
+      "published_at": "2026-09-27T07:39:10.074979+00:00"
+    },
     "v-02336": {
       "count": 1,
       "last_cycle": 1,
@@ -3970,6 +4368,12 @@
       "last_cycle": 1,
       "last_message_id": 64,
       "published_at": "2026-09-26T12:40:08.781891+00:00"
+    },
+    "v-02620": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 90,
+      "published_at": "2026-09-27T07:39:12.169280+00:00"
     },
     "v-02641": {
       "count": 1,
@@ -4064,11 +4468,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00708",
-    "v-02035",
-    "v-02620",
-    "v-00566",
-    "v-01038",
     "v-02680",
     "v-02378",
     "v-02338",
@@ -7970,6 +8369,41 @@
         "v-01612"
       ],
       "status": "completed"
+    },
+    "20260927T073903Z-0cc1c65f": {
+      "completed_at": "2026-09-27T07:39:16.200588+00:00",
+      "created_at": "2026-09-27T07:39:03.148789+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00708"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02035"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02620"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00566"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01038"
+        }
+      ],
+      "published_ids": [
+        "v-00708",
+        "v-02035",
+        "v-02620",
+        "v-00566",
+        "v-01038"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -8448,6 +8882,43 @@
         "v-01612"
       ],
       "run_id": "20260927T005033Z-4ec9b2fd",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-27T07:39:16.200588+00:00",
+      "created_at": "2026-09-27T07:39:03.148789+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00708"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02035"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02620"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00566"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01038"
+        }
+      ],
+      "published_ids": [
+        "v-00708",
+        "v-02035",
+        "v-02620",
+        "v-00566",
+        "v-01038"
+      ],
+      "run_id": "20260927T073903Z-0cc1c65f",
       "status": "completed",
       "unknown_ids": []
     }
