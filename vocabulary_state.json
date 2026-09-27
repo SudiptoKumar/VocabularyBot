@@ -528,6 +528,63 @@
         }
       ]
     },
+    "v-00483": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "clock face",
+        "clock tower",
+        "clock hands",
+        "clock speed",
+        "clock in"
+      ],
+      "common_mistake_correct": "Use \"clock\" for a wall or tower device, \"watch\" for a wrist device",
+      "common_mistake_wrong": "Calling a watch a \"clock\"",
+      "definition_en": "A device that shows the time of day, usually with hands or a digital display.",
+      "example_bn": "দেয়ালের ঘড়ি মধ্যরাতে থেমে গেল।",
+      "example_en": "The clock on the wall stopped at midnight.",
+      "memory_hook": "Clock has a \"c\" like \"circular\" hands that go round.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Clock",
+        "Watch",
+        "Phone",
+        "Calendar"
+      ],
+      "quiz_question": "Which item tells the time on a wall?",
+      "short_meaning_en": "time device",
+      "synonyms": [
+        {
+          "meaning": "device that tells time",
+          "word": "timepiece"
+        },
+        {
+          "meaning": "portable timekeeper",
+          "word": "watch"
+        },
+        {
+          "meaning": "device that counts time",
+          "word": "timer"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "clockwise"
+        },
+        {
+          "type": "noun",
+          "word": "clockwork"
+        },
+        {
+          "type": "verb",
+          "word": "clocked"
+        }
+      ]
+    },
     "v-00596": {
       "antonyms": [],
       "cefr": "",
@@ -709,6 +766,72 @@
         }
       ]
     },
+    "v-00762": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c65b7c30c31037cab1445cf48591fa96f116c19d1a2b2f26995a9fe04ee8bd83",
+      "antonyms": [
+        {
+          "meaning": "state of being alike",
+          "word": "similarity"
+        },
+        {
+          "meaning": "lack of difference",
+          "word": "sameness"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "make a difference",
+        "difference of opinion",
+        "difference in size",
+        "cultural difference",
+        "difference between"
+      ],
+      "common_mistake_correct": "Use \"difference\" when comparing two or more things",
+      "common_mistake_wrong": "Using \"difference\" for a single item (e.g., *the difference is a pen)",
+      "definition_en": "The quality or condition of being unlike or distinct from something else.",
+      "example_bn": "দুটি প্রস্তাবের মধ্যে বড় পার্থক্য আছে।",
+      "example_en": "There is a big difference between the two proposals.",
+      "memory_hook": "Think of \"difference\" as the \"diff\" you see when comparing two files.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "difference",
+        "similarity",
+        "identity",
+        "uniformity"
+      ],
+      "quiz_question": "Select the word that fits: \"There is ___ between the twins' personalities.\"",
+      "short_meaning_en": "distinction",
+      "synonyms": [
+        {
+          "meaning": "lack of similarity",
+          "word": "disparity"
+        },
+        {
+          "meaning": "change",
+          "word": "variation"
+        },
+        {
+          "meaning": "opposite qualities",
+          "word": "contrast"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "different"
+        },
+        {
+          "type": "verb",
+          "word": "differ"
+        },
+        {
+          "type": "adverb",
+          "word": "differently"
+        }
+      ]
+    },
     "v-00849": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -767,6 +890,68 @@
         {
           "type": "noun",
           "word": "easiness"
+        }
+      ]
+    },
+    "v-00897": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ea93d142350767e22116865eb822156abe86190bfcbae985a0d8c3bcffeb7b1e",
+      "antonyms": [
+        {
+          "meaning": "person who works for an employer",
+          "word": "employee"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "employer benefits",
+        "employer responsibilities",
+        "employer brand",
+        "employer of record",
+        "employer support"
+      ],
+      "common_mistake_correct": "Employer = the one who hires; employee = the one who works",
+      "common_mistake_wrong": "Confusing \"employer\" with \"employee\"",
+      "definition_en": "A person or organization that hires people to work for them.",
+      "example_bn": "আমার নিয়োগকর্তা সকল কর্মচারীর জন্য স্বাস্থ্য বীমা প্রদান করে।",
+      "example_en": "My employer offers health insurance to all staff.",
+      "memory_hook": "Employer starts with \"emp-\" like \"empower\" – they empower jobs.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Employer",
+        "Employee",
+        "Client",
+        "Supplier"
+      ],
+      "quiz_question": "Who pays your salary?",
+      "short_meaning_en": "hiring org",
+      "synonyms": [
+        {
+          "meaning": "person in charge",
+          "word": "boss"
+        },
+        {
+          "meaning": "one who hires",
+          "word": "hirer"
+        },
+        {
+          "meaning": "business entity",
+          "word": "company"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "employ"
+        },
+        {
+          "type": "noun",
+          "word": "employment"
+        },
+        {
+          "type": "adjective",
+          "word": "employable"
         }
       ]
     },
@@ -1515,6 +1700,55 @@
         }
       ]
     },
+    "v-01694": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
+      "antonyms": [
+        {
+          "meaning": "the smallest amount",
+          "word": "least"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "most people",
+        "most important",
+        "most likely",
+        "most of all",
+        "most recent"
+      ],
+      "common_mistake_correct": "most + adjective (most beautiful)",
+      "common_mistake_wrong": "most + adjective without -ly (e.g., *most beautiful)",
+      "definition_en": "Used to indicate the greatest degree of something compared with all others.",
+      "example_bn": "তিনি দলের সবচেয়ে প্রতিভাবান গায়িকা।",
+      "example_en": "She is the most talented singer in the group.",
+      "memory_hook": "Think of \"most\" as the \"most\" of a toast – the biggest slice.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "most",
+        "more",
+        "much",
+        "very"
+      ],
+      "quiz_question": "Which word completes the sentence: \"This is ___ interesting story I've heard.\"",
+      "short_meaning_en": "greatest",
+      "synonyms": [
+        {
+          "meaning": "most extreme",
+          "word": "greatest"
+        },
+        {
+          "meaning": "most elevated",
+          "word": "highest"
+        },
+        {
+          "meaning": "at the highest point",
+          "word": "topmost"
+        }
+      ],
+      "word_family": []
+    },
     "v-01769": {
       "_content_version": "1.0.6",
       "antonyms": [],
@@ -1808,6 +2042,68 @@
         {
           "type": "adverb",
           "word": "seasonally"
+        }
+      ]
+    },
+    "v-02370": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6c0f8fed8314a563e8bb153625df9c270e5c84dddae343105c7aad46d70549bc",
+      "antonyms": [
+        {
+          "meaning": "take away",
+          "word": "remove"
+        },
+        {
+          "meaning": "reverse a setting",
+          "word": "unset"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "set a goal",
+        "set the alarm",
+        "set the scene",
+        "set up",
+        "set aside"
+      ],
+      "common_mistake_correct": "Use \"put\" for a single placement, \"set\" for arranging or fixing",
+      "common_mistake_wrong": "Using \"set\" for a one‑time action when \"put\" is clearer (e.g., *set the book on the shelf)",
+      "definition_en": "To put something in a particular place or to decide on a value or rule.",
+      "example_bn": "দয়া করে রাতের খাবারের আগে টেবিল সাজিয়ে রাখুন।",
+      "example_en": "Please set the table before dinner.",
+      "memory_hook": "Imagine a TV set: you \"set\" it up before watching.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "set",
+        "make",
+        "hold",
+        "arrange"
+      ],
+      "quiz_question": "Choose the correct verb: \"She will ___ the meeting for 3 p.m.\"",
+      "short_meaning_en": "place/decide",
+      "synonyms": [
+        {
+          "meaning": "put in a location",
+          "word": "place"
+        },
+        {
+          "meaning": "organize",
+          "word": "arrange"
+        },
+        {
+          "meaning": "decide",
+          "word": "determine"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "setting"
+        },
+        {
+          "type": "noun",
+          "word": "setter"
         }
       ]
     },
@@ -2629,6 +2925,30 @@
       "source_fingerprint": "9150bfd9a11927111837cd1f4cd3e6eb73f0bac01595ab7deff35978dad99c90",
       "status": "valid"
     },
+    "v-00483": {
+      "audited_at": "2026-09-27T00:35:50.172645+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঘড়ি",
+      "reason": "The Bangla meaning correctly translates the noun 'clock'.",
+      "source_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
+      "status": "valid"
+    },
+    "v-00762": {
+      "audited_at": "2026-09-27T00:35:50.172670+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পার্থক্য",
+      "reason": "The Bangla meaning accurately conveys the meaning of 'difference'.",
+      "source_fingerprint": "c65b7c30c31037cab1445cf48591fa96f116c19d1a2b2f26995a9fe04ee8bd83",
+      "status": "valid"
+    },
+    "v-00897": {
+      "audited_at": "2026-09-27T00:35:50.172618+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "নিয়োগকর্তা",
+      "reason": "The term 'মনিব' is unrelated to 'employer'; the appropriate Bangla meaning is 'নিয়োগকর্তা'.",
+      "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
+      "status": "corrected"
+    },
     "v-01055": {
       "audited_at": "2026-09-26T23:32:05.945849+00:00",
       "confidence": 0.99,
@@ -2677,6 +2997,14 @@
       "source_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
       "status": "valid"
     },
+    "v-01694": {
+      "audited_at": "2026-09-27T00:35:50.172508+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অধিকতর, সর্বপেক্ষা",
+      "reason": "The Bangla meaning accurately reflects the common senses of the adjective 'most'.",
+      "source_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
+      "status": "valid"
+    },
     "v-02022": {
       "audited_at": "2026-09-26T12:40:01.907949+00:00",
       "confidence": 0.95,
@@ -2692,6 +3020,14 @@
       "reason": "Both senses of 'season' are correctly represented in Bangla.",
       "source_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
       "status": "valid"
+    },
+    "v-02370": {
+      "audited_at": "2026-09-27T00:35:50.172577+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "স্থাপন করা, নির্ধারণ করা",
+      "reason": "The supplied meaning contains an erroneous fragment 'অন্ত যাওয়া' which does not correspond to any sense of 'set'; the correct Bangla meanings are 'স্থাপন করা' and 'নির্ধারণ করা'.",
+      "source_fingerprint": "f13cf166002c1684cf4e41dc5f57e7b1e65c8965d61a9f183fa60ca46bee3def",
+      "status": "corrected"
     },
     "v-02423": {
       "audited_at": "2026-09-26T12:40:01.633555+00:00",
@@ -2785,6 +3121,12 @@
       "photo_file_id": "AgACAgUAAxUHarhcKGXi_VFRrlqwic30cCvIK_YAAgYUaxucC8lV0YclxQsFiKkBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-00483": {
+      "audio_file_id": "CQACAgUAAxUHarhk77g0J42IuFCKdcffopO3vMIAAnEhAAKcC8lVFr2TXmNagxc9BA",
+      "cached_at": "2026-09-27T00:35:59.667617+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhk7_SAnVv_8zB7Oc946zR6fKYAAhAUaxucC8lVbnBTQnoRKP0BAAMCAANzAAM9BA",
+      "version": "1.2.4"
+    },
     "v-00596": {
       "cached_at": "2026-09-25T14:03:35.808387+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_N6n7T1xGoMuYC4HXVgSncbQAAiMRaxvpIblV0qyz78jRLUoBAAMCAANzAAM9BA",
@@ -2809,11 +3151,23 @@
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnRdGr0NiN4rACqkNhbQoTDskAAukkAALpIbFVpefs4qt3w-E9BA"
     },
+    "v-00762": {
+      "audio_file_id": "CQACAgUAAxUHarhk8Usn9GUSxJKtuyD8czaz94oAAnIhAAKcC8lVz5V6xc5EtQw9BA",
+      "cached_at": "2026-09-27T00:36:01.625850+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhk8XGj1wPMxl6BUZbWRH9Nhr8AAhEUaxucC8lV6s0pjg61d9MBAAMCAANzAAM9BA",
+      "version": "1.2.4"
+    },
     "v-00849": {
       "cached_at": "2026-09-25T14:58:20.276684+00:00",
       "photo_file_id": "AgACAgUAAxUHaraMC3VQ1rOlm7izARjl_OK_lAcAAkARaxvpIblVNUM9n__me0sBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMC6ChBkKONcRNacmi1oeqW7YAAv4eAALpIblVioynB0BYZbk9BA"
+    },
+    "v-00897": {
+      "audio_file_id": "CQACAgUAAxUHarhk7ZP7rjyhhqDYwAYXsN76r6QAAnAhAAKcC8lVx8Fpk_tlJwM9BA",
+      "cached_at": "2026-09-27T00:35:57.693202+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
+      "version": "1.2.4"
     },
     "v-01055": {
       "audio_file_id": "AwACAgUAAxUHarhWAbLu-6p3uum15jf4zfg8zWEAAkghAAKcC8lVMzpoCpQ4kPg9BA",
@@ -2889,6 +3243,12 @@
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMs9gMqHi-58lFTpSe8T2HswAAloRaxvpIbFV5GiVivr2BYIBAAMCAANzAAM9BA"
     },
+    "v-01694": {
+      "audio_file_id": "CQACAgUAAxUHarhk6M5tYeT4DM9A3XR-Kjd83v8AAm4hAAKcC8lV3Av3ejPloAo9BA",
+      "cached_at": "2026-09-27T00:35:53.501100+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhk6enuBqLKyv6A-3FBuSFmdjgAAg0UaxucC8lV61lfr_6mCbABAAMCAANzAAM9BA",
+      "version": "1.2.4"
+    },
     "v-01769": {
       "cached_at": "2026-09-25T16:13:08.961078+00:00",
       "photo_file_id": "AgACAgUAAxUHaradlBysZRqQ9QPCTm8jGKbfcuAAAlkRaxvpIblVOUCKf1sjKEoBAAMCAANzAAM9BA",
@@ -2930,6 +3290,12 @@
       "cached_at": "2026-09-26T23:58:29.287653+00:00",
       "photo_file_id": "AgACAgUAAxUHarhcJAUIuRflajO06JUQZuGKF9EAAgQUaxucC8lVZKch-ScN-agBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-02370": {
+      "audio_file_id": "CQACAgUAAxUHarhk6xkfr-CmvLQkBOEkbqQrEMQAAm8hAAKcC8lVesu6rnxtd1U9BA",
+      "cached_at": "2026-09-27T00:35:55.648403+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhk6-CmlVcgIdgBe2mc7hQhmg8AAg4UaxucC8lVxgKDTSyfcM8BAAMCAANzAAM9BA",
+      "version": "1.2.4"
     },
     "v-02423": {
       "audio_file_id": "CQACAgUAAxUHare9KihEAu8PQq3E49wYa1Vh4uMAApghAALpIcFVmvMM6yWI7g49BA",
@@ -3086,6 +3452,12 @@
       "last_message_id": 77,
       "published_at": "2026-09-26T23:58:33.422270+00:00"
     },
+    "v-00483": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 81,
+      "published_at": "2026-09-27T00:35:59.667640+00:00"
+    },
     "v-00596": {
       "count": 1,
       "last_cycle": 1,
@@ -3112,12 +3484,24 @@
       "published_at": "2026-09-25T12:21:26.261530+00:00",
       "quiz_message_id": 21
     },
+    "v-00762": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 82,
+      "published_at": "2026-09-27T00:36:01.625898+00:00"
+    },
     "v-00849": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 41,
       "published_at": "2026-09-25T14:58:20.276706+00:00",
       "quiz_message_id": 42
+    },
+    "v-00897": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 80,
+      "published_at": "2026-09-27T00:35:57.693224+00:00"
     },
     "v-01055": {
       "count": 1,
@@ -3204,6 +3588,12 @@
       "published_at": "2026-09-25T11:21:23.177278+00:00",
       "quiz_message_id": 9
     },
+    "v-01694": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 78,
+      "published_at": "2026-09-27T00:35:53.501125+00:00"
+    },
     "v-01769": {
       "count": 1,
       "last_cycle": 1,
@@ -3247,6 +3637,12 @@
       "last_cycle": 1,
       "last_message_id": 75,
       "published_at": "2026-09-26T23:58:29.287677+00:00"
+    },
+    "v-02370": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 79,
+      "published_at": "2026-09-27T00:35:55.648428+00:00"
     },
     "v-02423": {
       "count": 1,
@@ -3341,11 +3737,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01694",
-    "v-02370",
-    "v-00897",
-    "v-00483",
-    "v-00762",
     "v-03855",
     "v-03661",
     "v-01943",
@@ -7187,6 +7578,41 @@
         "v-00426"
       ],
       "status": "completed"
+    },
+    "20260927T003549Z-82e95dd0": {
+      "completed_at": "2026-09-27T00:36:01.634755+00:00",
+      "created_at": "2026-09-27T00:35:49.746299+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01694"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02370"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00897"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00483"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00762"
+        }
+      ],
+      "published_ids": [
+        "v-01694",
+        "v-02370",
+        "v-00897",
+        "v-00483",
+        "v-00762"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -7591,6 +8017,43 @@
         "v-00426"
       ],
       "run_id": "20260926T235819Z-68cfebaf",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-27T00:36:01.634755+00:00",
+      "created_at": "2026-09-27T00:35:49.746299+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01694"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02370"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00897"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00483"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00762"
+        }
+      ],
+      "published_ids": [
+        "v-01694",
+        "v-02370",
+        "v-00897",
+        "v-00483",
+        "v-00762"
+      ],
+      "run_id": "20260927T003549Z-82e95dd0",
       "status": "completed",
       "unknown_ids": []
     }
