@@ -154,15 +154,16 @@ def build_rich_message(
             blocks.append(paragraph([bold("অর্থ⦂ "), bn]))
 
     if audio_media or audio_attach:
-        # Use Telegram's native voice-note block for pronunciation. This matches
-        # the earlier UX: the client may download once, then the cached voice
-        # message can be replayed repeatedly. The bot cannot force client-side
-        # preloading; that remains controlled by Telegram/media settings.
+        # Use Telegram's standard audio player so the pronunciation has a
+        # visible title such as "Vocabulary - Century" and can be downloaded
+        # once and replayed from the cached media on the client.
         blocks.append({
-            "type": "voice_note",
-            "voice_note": {
-                "type": "voice_note",
+            "type": "audio",
+            "audio": {
+                "type": "audio",
                 "media": audio_media or f"attach://{audio_attach}",
+                "title": f"Vocabulary - {display_word}",
+                "performer": "Vocabulary",
             },
         })
 

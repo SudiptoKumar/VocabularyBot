@@ -12,7 +12,7 @@ from config import AUDIO_DIR, SETTINGS
 
 logger = logging.getLogger("vocabulary.audio")
 
-AUDIO_PROFILE_VERSION = "1.2.2-voice-note-dynamic"
+AUDIO_PROFILE_VERSION = "1.2.4-standard-audio-dynamic-normal-speed"
 
 
 def _estimate_syllables(word: str) -> int:
@@ -30,9 +30,13 @@ def _estimate_syllables(word: str) -> int:
 
 
 def target_duration_seconds(word: str) -> float:
-    """Target a short natural pronunciation: ~1s for short words, up to 2s for long ones."""
+    """Choose a minimum playback bucket without changing speaking speed."""
     syllables = _estimate_syllables(word)
-    return round(min(2.0, max(1.0, 1.0 + 0.33 * (syllables - 1))), 1)
+    if syllables <= 2:
+        return 1.0
+    if syllables == 3:
+        return 1.5
+    return 2.0
 
 
 def _audio_path(word: str) -> Path:
@@ -116,22 +120,20 @@ def _espeak_fallback(word: str, output: Path) -> bool:
 
 
 def _optimize_duration(source: Path, output: Path, target_seconds: float) -> bool:
-    """Trim dead air and, when necessary, speed up playback to the target duration."""
+    """Trim only dead air and pad silence to the target bucket; never change speech speed."""
     ffmpeg = shutil.which("ffmpeg")
     if not ffmpeg:
         return False
 
     trimmed = output.with_suffix(".trim.mp3")
-    sped = output.with_suffix(".speed.mp3")
-    for p in (trimmed, sped):
+    padded = output.with_suffix(".pad.mp3")
+    for p in (trimmed, padded):
         try:
             p.unlink(missing_ok=True)
         except Exception:
             pass
 
     try:
-        # Remove only leading/trailing near-silence. Do not normalize volume or
-        # apply compression that could change the natural pronunciation.
         subprocess.run(
             [
                 ffmpeg, "-y", "-loglevel", "error",
@@ -149,36 +151,39 @@ def _optimize_duration(source: Path, output: Path, target_seconds: float) -> boo
         if not duration:
             return False
 
-        # We shorten audio when it materially exceeds the target. We never
-        # artificially stretch a very short word just to hit 1 second.
-        if duration <= target_seconds * 1.03:
+        # Normal-speed speech is preserved. If naturally shorter than the
+        # chosen bucket, add trailing silence so the file is never below 1s.
+        # If naturally longer than the bucket, keep the natural duration.
+        if duration >= target_seconds:
             trimmed.replace(output)
             return output.exists() and output.stat().st_size > 1000
 
-        tempo = min(2.0, max(1.0, duration / target_seconds))
+        pad_target = target_seconds + 0.05
+        pad_seconds = max(0.0, pad_target - duration)
         subprocess.run(
             [
                 ffmpeg, "-y", "-loglevel", "error",
                 "-i", str(trimmed),
-                "-filter:a", f"atempo={tempo:.4f}",
+                "-af", f"apad=pad_dur={pad_seconds:.3f}",
+                "-t", f"{pad_target:.3f}",
                 "-codec:a", "libmp3lame", "-q:a", "5",
-                str(sped),
+                str(padded),
             ],
             check=True,
             timeout=30,
         )
-        sped.replace(output)
-        return output.exists() and output.stat().st_size > 1000
+        padded.replace(output)
+        final_duration = _probe_duration(output)
+        return bool(final_duration and final_duration >= 1.0 and output.stat().st_size > 1000)
     except Exception as exc:
         logger.warning("duration optimization failed for %s: %s", source, exc)
         return False
     finally:
-        for p in (trimmed, sped):
+        for p in (trimmed, padded):
             try:
                 p.unlink(missing_ok=True)
             except Exception:
                 pass
-
 
 def ensure_audio(word: str) -> Path | None:
     if not SETTINGS.audio_enabled or not word.strip():

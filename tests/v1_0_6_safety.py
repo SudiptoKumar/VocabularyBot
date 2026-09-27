@@ -310,15 +310,17 @@ def test_content_cache_invalidates_when_verified_meaning_changes() -> None:
     assert word.id not in app._enrichment_from_cache(state, [word])
 
 
-def test_audio_uses_voice_note_rich_block() -> None:
+def test_audio_uses_standard_audio_rich_block() -> None:
     words = load_all()
     from rich_message import build_rich_message
     content = rich()
     msg = build_rich_message(words[0], content, audio_media="attach://audio_test", audio_attach="audio_test")
-    voice_blocks = [b for b in msg["blocks"] if b.get("type") == "voice_note"]
-    assert len(voice_blocks) == 1
-    assert voice_blocks[0]["voice_note"]["type"] == "voice_note"
-    assert voice_blocks[0]["voice_note"]["media"] == "attach://audio_test"
+    audio_blocks = [b for b in msg["blocks"] if b.get("type") == "audio"]
+    assert len(audio_blocks) == 1
+    assert audio_blocks[0]["audio"]["type"] == "audio"
+    assert audio_blocks[0]["audio"]["media"] == "attach://audio_test"
+    assert audio_blocks[0]["audio"]["title"] == f"Vocabulary - {words[0].term[:1].upper() + words[0].term[1:]}"
+    assert audio_blocks[0]["audio"]["performer"] == "Vocabulary"
 
 
 
@@ -332,7 +334,7 @@ def test_voice_file_id_is_cached_from_rich_result() -> None:
 def test_audio_target_duration_is_dynamic() -> None:
     from audio import target_duration_seconds
     assert target_duration_seconds("buy") == 1.0
-    assert 1.2 <= target_duration_seconds("medicine") <= 1.8
+    assert target_duration_seconds("medicine") == 1.5
     assert target_duration_seconds("pronunciation") == 2.0
 
 if __name__ == "__main__":
@@ -350,8 +352,8 @@ if __name__ == "__main__":
     test_http_5xx_is_unknown_outcome()
     test_table_initial_capitalization()
     test_meaning_audit_correction_propagates_to_all_variants()
-    test_audio_uses_voice_note_rich_block()
+    test_audio_uses_standard_audio_rich_block()
     test_audio_target_duration_is_dynamic()
     test_voice_file_id_is_cached_from_rich_result()
     test_content_cache_invalidates_when_verified_meaning_changes()
-    print("V1.2.2 AUDIO/SAFETY REGRESSIONS PASS")
+    print("V1.2.4 AUDIO/SAFETY REGRESSIONS PASS")

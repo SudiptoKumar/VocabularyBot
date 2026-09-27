@@ -61,8 +61,8 @@ class Settings:
 
     protect_content: bool = env_bool("PROTECT_CONTENT", False)
     silent_posts: bool = env_bool("SILENT_POSTS", False)
-    media_version: str = os.getenv("MEDIA_VERSION", "1.2.2")
-    content_version: str = os.getenv("CONTENT_VERSION", "1.2.3")
+    media_version: str = os.getenv("MEDIA_VERSION", "1.2.4")
+    content_version: str = os.getenv("CONTENT_VERSION", "1.2.4")
     fail_closed_on_incomplete_content: bool = env_bool("FAIL_CLOSED_ON_INCOMPLETE_CONTENT", True)
     telegram_retry_unknown_outcome: bool = env_bool("TELEGRAM_RETRY_UNKNOWN_OUTCOME", False)
     telegram_preflight: bool = env_bool("TELEGRAM_PREFLIGHT", True)

@@ -432,7 +432,7 @@ def self_test() -> int:
         audio_attach="audio_test",
     )
     assert msg.get("blocks") and any(x.get("type") == "photo" for x in msg["blocks"])
-    assert any(x.get("type") == "voice_note" for x in msg["blocks"])
+    assert any(x.get("type") == "audio" for x in msg["blocks"])
 
     # Exact post-format regression checks for V1.1:
     # - Meaning is a bold standalone section heading followed by definition.

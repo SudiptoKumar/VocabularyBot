@@ -1,4 +1,4 @@
-# Vocabulary Bot V1.2.3
+# Vocabulary Bot V1.2.4
 
 This release keeps the approved photo-card design unchanged and hardens semantic meaning protection.
 
@@ -45,3 +45,9 @@ The production source is Vocabulary Database V2 (schema 2.0) with 3,521 records.
 Database V2 currently has 3,503 production-eligible records. 18 records are intentionally held out of the live shuffle because they are flagged for deeper review or do not yet have a production Bangla meaning. They remain in the database and can be enabled after a later verification pass.
 
 The production state branch is compatible because the database IDs and normalized terms remain unchanged.
+
+
+## V1.2.4 updates
+- Corrected `century` pronunciation display to `সেঞ্চুরি`.
+- Restored the standard Telegram audio player with visible title `Vocabulary - <Word>`.
+- Audio is generated at normal speaking speed and padded with silence when needed to hit a dynamic 1.0 / 1.5 / 2.0 second minimum bucket; speech is never time-compressed.

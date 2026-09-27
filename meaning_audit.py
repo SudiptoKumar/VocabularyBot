@@ -15,7 +15,7 @@ from dataset import WordEntry
 
 logger = logging.getLogger("vocabulary.meaning_audit")
 CEREBRAS_URL = "https://api.cerebras.ai/v1/chat/completions"
-AUDIT_VERSION = "1.2.3"
+AUDIT_VERSION = "1.2.4"
 UA = f"VocabularyBot/{AUDIT_VERSION}"
 
 

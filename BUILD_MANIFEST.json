@@ -1,8 +1,12 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "name": "Vocabulary Bot",
   "purpose": "Production-ready bilingual English vocabulary Telegram bot",
   "changes": [
+    "Integrate corrected Vocabulary Database V2 pronunciation record for century (সেঞ্চুরি)",
+    "Restore standard Telegram RichBlockAudio player with visible Vocabulary - <Word> title",
+    "Generate pronunciation at normal speaking speed with dynamic 1.0 / 1.5 / 2.0 second minimum-duration buckets using silence padding only",
+    "Never time-compress or slow the spoken pronunciation to meet the duration bucket",
     "Two-stage semantic Bangla-meaning audit with conservative correction overlay",
     "Confirmed-wrong meanings can be corrected at runtime; confirmed-correct meanings remain unchanged",
     "Uncertain meaning audits retain the original source meaning and no longer abort the entire five-word run",
@@ -38,5 +42,17 @@
       "data/verification_report.json",
       "data/DATABASE_README.md"
     ]
+  },
+  "audio": {
+    "profile_version": "1.2.4-standard-audio-dynamic-normal-speed",
+    "player": "RichBlockAudio",
+    "title_pattern": "Vocabulary - <Word>",
+    "rate": "0%",
+    "duration_buckets": {
+      "<=2_syllables": 1.0,
+      "3_syllables": 1.5,
+      "4+_syllables": 2.0
+    },
+    "time_compression": false
   }
 }

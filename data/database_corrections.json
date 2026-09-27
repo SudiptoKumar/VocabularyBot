@@ -735,5 +735,20 @@
       "pronunciation_bn": "ইউজড",
       "ipa": "/juːzd/"
     }
+  },
+  {
+    "id": "v-00414",
+    "term": "century",
+    "changes": [
+      "pronunciation_correction"
+    ],
+    "before": {
+      "pronunciation_bn": "সেধুরি",
+      "ipa": "/ˈsen.tʃər.i/"
+    },
+    "after": {
+      "pronunciation_bn": "সেঞ্চুরি",
+      "ipa": "/ˈsen.tʃər.i/"
+    }
   }
 ]

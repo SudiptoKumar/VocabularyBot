@@ -1,7 +1,7 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "3",
   "created_at": "2026-09-26T23:43:19.353237+00:00",
-  "source": "/mnt/data/VocabularyBot_V1.2.2.zip data/vocabulary.json",
+  "source": "Vocabulary Database V2 with V1.2.4 verified pronunciation correction for century",
   "record_count": 3521,
   "high_confidence_corrections": 42,
   "needs_manual_or_runtime_review": 12,
@@ -742,6 +742,21 @@
         "meaning_bn": "ব্যবহৃত, পুরাতন",
         "pronunciation_bn": "ইউজড",
         "ipa": "/juːzd/"
+      }
+    },
+    {
+      "id": "v-00414",
+      "term": "century",
+      "changes": [
+        "pronunciation_correction"
+      ],
+      "before": {
+        "pronunciation_bn": "সেধুরি",
+        "ipa": "/ˈsen.tʃər.i/"
+      },
+      "after": {
+        "pronunciation_bn": "সেঞ্চুরি",
+        "ipa": "/ˈsen.tʃər.i/"
       }
     }
   ]

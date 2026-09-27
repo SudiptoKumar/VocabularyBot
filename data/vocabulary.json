@@ -18091,7 +18091,7 @@
       "id": "v-00414",
       "term": "century",
       "normalized_term": "century",
-      "pronunciation_bn": "সেধুরি",
+      "pronunciation_bn": "সেঞ্চুরি",
       "ipa": "/ˈsen.tʃər.i/",
       "meaning_bn": "শতাব্দী, শতবর্ষ",
       "source_numbers": [
@@ -18131,11 +18131,14 @@
       "source_fields": {
         "meaning_bn": "শতাব্দী, শতবর্ষ। | শতাব্দী",
         "pronunciation_bn": "সেধুরি",
-        "ipa": "/ˈsen.tʃər.i/"
+        "ipa": "/ˈsen.tʃər.i/",
+        "pronunciation_bn_original": "সেধুরি"
       },
       "verification": {
-        "status": "source_retained",
-        "corrections": [],
+        "status": "corrected",
+        "corrections": [
+          "pronunciation_bn corrected from extracted source to সেঞ্চুরি after pronunciation verification."
+        ],
         "needs_review": false
       }
     },
