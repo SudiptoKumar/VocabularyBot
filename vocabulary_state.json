@@ -832,6 +832,47 @@
         }
       ]
     },
+    "v-00838": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4c88803e2e8302e4051aba0ea29728578f881a9154c3ae00e99cc31bf4a51878",
+      "antonyms": [
+        {
+          "meaning": "following the period",
+          "word": "after"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "during the night",
+        "during the meeting",
+        "during the war",
+        "during the concert",
+        "during the exam"
+      ],
+      "common_mistake_correct": "during is only a preposition",
+      "common_mistake_wrong": "during (as a noun)",
+      "definition_en": "Throughout the time that something happens; used to indicate a period.",
+      "example_bn": "আমরা গ্রীষ্মের ছুটির সময় সমুদ্রতটে থাকলাম।",
+      "example_en": "We stayed at the beach during the summer holidays.",
+      "memory_hook": "Think of “during” as “durr‑ing” a long ride.",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I will call you during tomorrow.",
+        "She arrived during the party.",
+        "We will meet during 5pm.",
+        "He left during the house."
+      ],
+      "quiz_question": "Which sentence uses during correctly?",
+      "short_meaning_en": "throughout time",
+      "synonyms": [
+        {
+          "meaning": "during the whole period",
+          "word": "throughout"
+        }
+      ],
+      "word_family": []
+    },
     "v-00849": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -1581,6 +1622,60 @@
         }
       ]
     },
+    "v-01612": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
+      "antonyms": [
+        {
+          "meaning": "permanent shop",
+          "word": "store"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "stock market",
+        "farmers market",
+        "local market",
+        "market price",
+        "market stall"
+      ],
+      "common_mistake_correct": "Use market as a noun for a place, or as a verb for promoting",
+      "common_mistake_wrong": "market (as a verb) when meaning a place",
+      "definition_en": "A place where goods are bought and sold, often outdoors or in a building.",
+      "example_bn": "কৃষক তার সবজি স্থানীয় বাজারে বিক্রি করলেন।",
+      "example_en": "The farmer sold his vegetables at the local market.",
+      "memory_hook": "Imagine a market full of “mark‑ets” (marks) on every stall.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Supermarket",
+        "Mountain",
+        "River",
+        "Computer"
+      ],
+      "quiz_question": "Which of these is a type of market?",
+      "short_meaning_en": "place to buy",
+      "synonyms": [
+        {
+          "meaning": "market in many Asian countries",
+          "word": "bazaar"
+        },
+        {
+          "meaning": "temporary market",
+          "word": "fair"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural",
+          "word": "markets"
+        },
+        {
+          "type": "verb",
+          "word": "marketed"
+        }
+      ]
+    },
     "v-01640": {
       "antonyms": [
         {
@@ -1910,6 +2005,56 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-01943": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8be3475295c9b9cccf67dac03034dfc0677f9c9248d05a7c799a790722e2bf2c",
+      "antonyms": [
+        {
+          "meaning": "computer that serves others",
+          "word": "server"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "PC hardware",
+        "PC software",
+        "PC user",
+        "PC screen",
+        "PC desk"
+      ],
+      "common_mistake_correct": "PC is a noun, not a verb",
+      "common_mistake_wrong": "PC (as a verb)",
+      "definition_en": "A personal computer, a device for processing data and running software.",
+      "example_bn": "তিনি বাড়ি থেকে কাজ করার জন্য নতুন পিসি কিনলেন।",
+      "example_en": "She bought a new PC to work from home.",
+      "memory_hook": "Picture a personal computer with a tiny crown (P‑C).",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Personal Computer",
+        "Public Call",
+        "Power Cable",
+        "Program Code"
+      ],
+      "quiz_question": "What does PC stand for?",
+      "short_meaning_en": "personal computer",
+      "synonyms": [
+        {
+          "meaning": "type of PC",
+          "word": "desktop"
+        },
+        {
+          "meaning": "portable PC",
+          "word": "laptop"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural",
+          "word": "PC's"
+        }
+      ]
     },
     "v-01972": {
       "antonyms": [],
@@ -2796,6 +2941,47 @@
         }
       ]
     },
+    "v-03661": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4fd033f5eae84ec5af298629b074b11a818c3b6354c6912596713d348aea9349",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "giraffe neck",
+        "giraffe spots",
+        "giraffe herd",
+        "giraffe sanctuary",
+        "giraffe height"
+      ],
+      "common_mistake_correct": "giraffe is only a noun",
+      "common_mistake_wrong": "giraffe (as a verb)",
+      "definition_en": "A tall African mammal with a very long neck.",
+      "example_bn": "জিরাফটি আকাসিয়া গাছের শীর্ষ পাতায় পৌঁছল।",
+      "example_en": "The giraffe reached the top leaves of the acacia tree.",
+      "memory_hook": "Imagine a giraffe wearing a giraffe‑patterned scarf.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Grass",
+        "Leaves",
+        "Fish",
+        "Insects"
+      ],
+      "quiz_question": "What does a giraffe mainly eat?",
+      "short_meaning_en": "tall mammal",
+      "synonyms": [
+        {
+          "meaning": "old term for giraffe",
+          "word": "camelopard"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural",
+          "word": "giraffes"
+        }
+      ]
+    },
     "v-03712": {
       "antonyms": [],
       "cefr": "A1",
@@ -2835,6 +3021,47 @@
         {
           "type": "noun",
           "word": "curdiness"
+        }
+      ]
+    },
+    "v-03855": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "kingfisher habitat",
+        "kingfisher nest",
+        "kingfisher species",
+        "kingfisher plumage",
+        "kingfisher dive"
+      ],
+      "common_mistake_correct": "kingfisher is a noun, not a verb",
+      "common_mistake_wrong": "kingfisher (as a verb)",
+      "definition_en": "A brightly colored bird that dives to catch fish.",
+      "example_bn": "কিংফিশারটি নদীতে ঝাঁপিয়ে মাছ ধরল।",
+      "example_en": "The kingfisher swooped down into the river and caught a fish.",
+      "memory_hook": "Think of a king wearing a fish‑shaped crown.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A small mammal",
+        "A bright bird that catches fish",
+        "A type of car",
+        "A kind of fruit"
+      ],
+      "quiz_question": "Which of these is a kingfisher?",
+      "short_meaning_en": "colorful bird",
+      "synonyms": [
+        {
+          "meaning": "another name for kingfisher",
+          "word": "river king"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "possessive",
+          "word": "kingfisher's"
         }
       ]
     },
@@ -2941,6 +3168,14 @@
       "source_fingerprint": "c65b7c30c31037cab1445cf48591fa96f116c19d1a2b2f26995a9fe04ee8bd83",
       "status": "valid"
     },
+    "v-00838": {
+      "audited_at": "2026-09-27T00:50:34.245172+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "ধরিয়া, স্থায়িত্বকাল জুড়ে",
+      "reason": "The Bangla phrase conveys the sense of 'during' as a temporal preposition, matching the English usage.",
+      "source_fingerprint": "4c88803e2e8302e4051aba0ea29728578f881a9154c3ae00e99cc31bf4a51878",
+      "status": "valid"
+    },
     "v-00897": {
       "audited_at": "2026-09-27T00:35:50.172618+00:00",
       "confidence": 0.96,
@@ -2997,12 +3232,28 @@
       "source_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
       "status": "valid"
     },
+    "v-01612": {
+      "audited_at": "2026-09-27T00:50:34.245202+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বাজার, মার্কেট",
+      "reason": "The Bangla meaning correctly lists the common senses of the word market.",
+      "source_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
+      "status": "valid"
+    },
     "v-01694": {
       "audited_at": "2026-09-27T00:35:50.172508+00:00",
       "confidence": 0.99,
       "meaning_bn": "অধিকতর, সর্বপেক্ষা",
       "reason": "The Bangla meaning accurately reflects the common senses of the adjective 'most'.",
       "source_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
+      "status": "valid"
+    },
+    "v-01943": {
+      "audited_at": "2026-09-27T00:50:34.245136+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ব্যক্তিগত কম্পিউটার",
+      "reason": "The Bangla meaning accurately defines PC as a personal computer.",
+      "source_fingerprint": "8be3475295c9b9cccf67dac03034dfc0677f9c9248d05a7c799a790722e2bf2c",
       "status": "valid"
     },
     "v-02022": {
@@ -3051,6 +3302,22 @@
       "meaning_bn": "নমুনা বা আদর্শরূপ",
       "reason": "The meaning correctly corresponds to the adjective 'typical'.",
       "source_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
+      "status": "valid"
+    },
+    "v-03661": {
+      "audited_at": "2026-09-27T00:50:34.245084+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "জিরাফ",
+      "reason": "The Bangla meaning is the direct translation of the animal Giraffe.",
+      "source_fingerprint": "4fd033f5eae84ec5af298629b074b11a818c3b6354c6912596713d348aea9349",
+      "status": "valid"
+    },
+    "v-03855": {
+      "audited_at": "2026-09-27T00:50:34.245030+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মাছরাঙ্গা",
+      "reason": "The Bangla meaning correctly matches the English word Kingfisher as a bird.",
+      "source_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
       "status": "valid"
     }
   },
@@ -3157,6 +3424,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk8XGj1wPMxl6BUZbWRH9Nhr8AAhEUaxucC8lV6s0pjg61d9MBAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00838": {
+      "audio_file_id": "CQACAgUAAxUHarhoZGlGJWUj_aftlPzL8EQLUKIAAoIhAAKcC8lVnWj74AVsxdY9BA",
+      "cached_at": "2026-09-27T00:50:45.095763+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhoZPHqYHv8P-XiqZrnGrbRD0UAAhgUaxucC8lVOavgAAF0bQzZAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-00849": {
       "cached_at": "2026-09-25T14:58:20.276684+00:00",
       "photo_file_id": "AgACAgUAAxUHaraMC3VQ1rOlm7izARjl_OK_lAcAAkARaxvpIblVNUM9n__me0sBAAMCAANzAAM9BA",
@@ -3233,6 +3506,12 @@
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMGzS86g_4q4U3kWy9TqBzToAAlkRaxvpIbFVMjF8a4eoQMMBAAMCAANzAAM9BA"
     },
+    "v-01612": {
+      "audio_file_id": "CQACAgUAAxUHarhoZlxpH_uqVMMDJnTzFckX9P0AAoMhAAKcC8lVSPJW8ZhRQyw9BA",
+      "cached_at": "2026-09-27T00:50:47.328665+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhoZgZ77tf1fsTgAz712b0P3uEAAhkUaxucC8lVyKSuuyzAQLcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01640": {
       "audio_file_id": "CQACAgUAAxUHarZZOpX-mbHJKtJn-GwsBxLPluQAAsgkAALpIbFV5pc4JxQ3oGM9BA",
       "cached_at": "2026-09-25T11:21:30.767200+00:00",
@@ -3272,6 +3551,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_PHEAAa_tv6Y8gRSUvrIjn3m7AAIlEWsb6SG5VYcm9HI-ZIKlAQADAgADcwADPQQ",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PNAH31lX692h0FlVinDwhF8AAtIeAALpIblVgi7t3bJUBek9BA"
+    },
+    "v-01943": {
+      "audio_file_id": "CQACAgUAAxUHarhoYR-5Du_Pcl7zKoqH24bw7lgAAoEhAAKcC8lVzs4k8Bt_POc9BA",
+      "cached_at": "2026-09-27T00:50:42.744414+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhoYrjcuwERF5TAy0IQJeFebtkAAhcUaxucC8lVJHTHIqTbre0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01972": {
       "cached_at": "2026-09-25T14:03:38.200083+00:00",
@@ -3368,11 +3653,23 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvIYvJQ-jqoqTogXMRJYF0QGkAAnwgAALpIcFVxrcEtNfWmF09BA"
     },
+    "v-03661": {
+      "audio_file_id": "CQACAgUAAxUHarhoXx5Tm0ASd3UwnWHIhJlOL68AAoAhAAKcC8lV_-qngBQvr9o9BA",
+      "cached_at": "2026-09-27T00:50:40.486069+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhoYDwkxm_N4OPxfGYm7VOArisAAhYUaxucC8lVWR36sEk61a0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03712": {
       "cached_at": "2026-09-25T12:21:23.376498+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnQj4PXcUn73cD5U08Ah5jjDkAAm4RaxvpIbFVn4sBwp-qjzoBAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnQiieY-BfWR74-o0pvnkkKFwAAugkAALpIbFVw1HDmXMy2es9BA"
+    },
+    "v-03855": {
+      "audio_file_id": "CQACAgUAAxUHarhoXQlsgXOaMk23tVnHL_6I3tQAAn8hAAKcC8lVJbpqm2mP1gE9BA",
+      "cached_at": "2026-09-27T00:50:38.337514+00:00",
+      "photo_file_id": "AgACAgUAAxUHarhoXbbhr4E9TvjrGmRso1p6TnUAAhUUaxucC8lVuEaXaKTS5mcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-04190": {
       "cached_at": "2026-09-25T16:45:11.040062+00:00",
@@ -3490,6 +3787,12 @@
       "last_message_id": 82,
       "published_at": "2026-09-27T00:36:01.625898+00:00"
     },
+    "v-00838": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 86,
+      "published_at": "2026-09-27T00:50:45.095788+00:00"
+    },
     "v-00849": {
       "count": 1,
       "last_cycle": 1,
@@ -3574,6 +3877,12 @@
       "published_at": "2026-09-25T11:21:20.729393+00:00",
       "quiz_message_id": 7
     },
+    "v-01612": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 87,
+      "published_at": "2026-09-27T00:50:47.328690+00:00"
+    },
     "v-01640": {
       "count": 1,
       "last_cycle": 1,
@@ -3619,6 +3928,12 @@
       "last_cycle": 1,
       "last_message_id": 30,
       "published_at": "2026-09-25T14:03:41.448689+00:00"
+    },
+    "v-01943": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 85,
+      "published_at": "2026-09-27T00:50:42.744437+00:00"
     },
     "v-01972": {
       "count": 1,
@@ -3721,12 +4036,24 @@
       "last_message_id": 59,
       "published_at": "2026-09-26T07:07:14.709505+00:00"
     },
+    "v-03661": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 84,
+      "published_at": "2026-09-27T00:50:40.486094+00:00"
+    },
     "v-03712": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 18,
       "published_at": "2026-09-25T12:21:23.376524+00:00",
       "quiz_message_id": 19
+    },
+    "v-03855": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 83,
+      "published_at": "2026-09-27T00:50:38.337540+00:00"
     },
     "v-04190": {
       "count": 1,
@@ -3737,11 +4064,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03855",
-    "v-03661",
-    "v-01943",
-    "v-00838",
-    "v-01612",
     "v-00708",
     "v-02035",
     "v-02620",
@@ -7613,6 +7935,41 @@
         "v-00762"
       ],
       "status": "completed"
+    },
+    "20260927T005033Z-4ec9b2fd": {
+      "completed_at": "2026-09-27T00:50:47.338400+00:00",
+      "created_at": "2026-09-27T00:50:33.721374+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03855"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03661"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01943"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00838"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01612"
+        }
+      ],
+      "published_ids": [
+        "v-03855",
+        "v-03661",
+        "v-01943",
+        "v-00838",
+        "v-01612"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -8054,6 +8411,43 @@
         "v-00762"
       ],
       "run_id": "20260927T003549Z-82e95dd0",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-27T00:50:47.338400+00:00",
+      "created_at": "2026-09-27T00:50:33.721374+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03855"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03661"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01943"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00838"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01612"
+        }
+      ],
+      "published_ids": [
+        "v-03855",
+        "v-03661",
+        "v-01943",
+        "v-00838",
+        "v-01612"
+      ],
+      "run_id": "20260927T005033Z-4ec9b2fd",
       "status": "completed",
       "unknown_ids": []
     }
