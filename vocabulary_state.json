@@ -1111,6 +1111,60 @@
         }
       ]
     },
+    "v-01009": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "759844297045b25ca5b8d67474818a2f5a37413ff59d07b8cd604618f52167d0",
+      "antonyms": [
+        {
+          "meaning": "something that hinders",
+          "word": "obstacle"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "sports facility",
+        "medical facility",
+        "facility management",
+        "state-of-the-art facility",
+        "facility fee"
+      ],
+      "common_mistake_correct": "facility means a place or service that provides ease",
+      "common_mistake_wrong": "facility means flexibility",
+      "definition_en": "A place, service, or piece of equipment that makes a task easier or more convenient.",
+      "example_bn": "নতুন স্পোর্টস সেন্টারে সদস্যদের জন্য একটি সাঁতার সুবিধা রয়েছে।",
+      "example_en": "The new sports center has a swimming facility for members.",
+      "memory_hook": "'Facility' sounds like 'facilitate' – both help things run smoothly",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She showed great facility in dancing.",
+        "The hospital opened a new facility.",
+        "He has facility with his car.",
+        "Facility is a type of food."
+      ],
+      "quiz_question": "Which sentence uses \"facility\" correctly?",
+      "short_meaning_en": "ease",
+      "synonyms": [
+        {
+          "meaning": "a useful feature",
+          "word": "amenity"
+        },
+        {
+          "meaning": "something helpful",
+          "word": "resource"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "facilitate"
+        },
+        {
+          "type": "noun",
+          "word": "facilitator"
+        }
+      ]
+    },
     "v-01038": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d7295557a3c450f834f7939665861b3a3b4ab71fabc4eb73067df81def4ea510",
@@ -2428,6 +2482,60 @@
         }
       ]
     },
+    "v-02338": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3421e61e8b82c2b580e63e300c03dbc1218807fd427c1c74b9364d021ad497b2",
+      "antonyms": [
+        {
+          "meaning": "the initial one",
+          "word": "first"
+        },
+        {
+          "meaning": "coming before",
+          "word": "previous"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "second hand",
+        "second chance",
+        "second opinion",
+        "second floor",
+        "second language"
+      ],
+      "common_mistake_correct": "second can mean order or a time unit",
+      "common_mistake_wrong": "second only means a unit of time",
+      "definition_en": "Coming after the first in order or rank; also a unit of time equal to one sixtieth of a minute.",
+      "example_bn": "তিনি সম্মেলনের দ্বিতীয় দিনে পৌঁছেছিলেন।",
+      "example_en": "She arrived on the second day of the conference.",
+      "memory_hook": "Think of \"second\" as the \"2nd\" position or 2 seconds",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a unit of time",
+        "a position in order",
+        "a type of fruit",
+        "an additional chance"
+      ],
+      "quiz_question": "Which meaning does \"second\" NOT have?",
+      "short_meaning_en": "next; time unit",
+      "synonyms": [
+        {
+          "meaning": "following",
+          "word": "next"
+        },
+        {
+          "meaning": "coming after",
+          "word": "subsequent"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "secondly"
+        }
+      ]
+    },
     "v-02370": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "6c0f8fed8314a563e8bb153625df9c270e5c84dddae343105c7aad46d70549bc",
@@ -2487,6 +2595,60 @@
         {
           "type": "noun",
           "word": "setter"
+        }
+      ]
+    },
+    "v-02378": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6ee5c9456edcdf0e31c5b63d50d512e1663a16a1a5b92fa366428030556eea34",
+      "antonyms": [
+        {
+          "meaning": "lacking sexual interest",
+          "word": "asexual"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "sexual orientation",
+        "sexual assault",
+        "sexual education",
+        "sexual desire",
+        "sexual relationship"
+      ],
+      "common_mistake_correct": "sexual refers to sexual matters, not gender",
+      "common_mistake_wrong": "sexual can mean gender",
+      "definition_en": "Relating to sex or sexual activity.",
+      "example_bn": "ডকুমেন্টারিতে যৌন স্বাস্থ্যের বিষয়গুলো আলোচনা করা হয়েছে।",
+      "example_en": "The documentary covered sexual health topics.",
+      "memory_hook": "'Sex' + '-ual' = about sex",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "related to gender",
+        "related to sex",
+        "related to cooking",
+        "related to sports"
+      ],
+      "quiz_question": "Which phrase best matches the word \"sexual\"?",
+      "short_meaning_en": "sexual",
+      "synonyms": [
+        {
+          "meaning": "relating to sexual desire",
+          "word": "erotic"
+        },
+        {
+          "meaning": "relating to close personal relationships",
+          "word": "intimate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "sex"
+        },
+        {
+          "type": "noun",
+          "word": "sexuality"
         }
       ]
     },
@@ -2730,6 +2892,56 @@
         {
           "type": "noun",
           "word": "tallness"
+        }
+      ]
+    },
+    "v-02680": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0648dbc8e04c43b6b5f56227407f62daa70eb01d23766f32be975aec535342c3",
+      "antonyms": [
+        {
+          "meaning": "someone who maintains peace",
+          "word": "peacekeeper"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "terrorist attack",
+        "terrorist organization",
+        "terrorist threat",
+        "terrorist cell",
+        "terrorist group"
+      ],
+      "common_mistake_correct": "terrorist is a person, not a crime",
+      "common_mistake_wrong": "terrorist is a type of crime",
+      "definition_en": "A person who uses violence and intimidation to achieve political goals.",
+      "example_bn": "বোমা হামলার পর পুলিশ সন্ত্রাসবাদীকে গ্রেপ্তার করেছে।",
+      "example_en": "The police arrested the terrorist after the bombing.",
+      "memory_hook": "Think of 'terror' + '-ist' = a person who spreads terror",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "Writes poetry",
+        "Runs a bakery",
+        "Uses violence for political aims",
+        "Teaches math"
+      ],
+      "quiz_question": "What does a terrorist do?",
+      "short_meaning_en": "political violent",
+      "synonyms": [
+        {
+          "meaning": "someone with extreme political views",
+          "word": "extremist"
+        },
+        {
+          "meaning": "someone who seeks drastic change",
+          "word": "radical"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "terrorism"
         }
       ]
     },
@@ -3017,6 +3229,55 @@
         {
           "type": "verb",
           "word": "waited"
+        }
+      ]
+    },
+    "v-02935": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5583cedfd66deefd845f258d888099ddc88b45980cb08ab439d96de0348fd814",
+      "antonyms": [
+        {
+          "meaning": "not at any time",
+          "word": "never"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "whenever possible",
+        "whenever needed",
+        "whenever you like",
+        "whenever it works"
+      ],
+      "common_mistake_correct": "whenever means 'at any time'",
+      "common_mistake_wrong": "whenever means 'wherever'",
+      "definition_en": "At any time that something happens; whenever it occurs.",
+      "example_bn": "আপনার সাহায্যের প্রয়োজন হলে যেকোন সময় আমাকে কল করুন।",
+      "example_en": "You can call me whenever you need help.",
+      "memory_hook": "'When' + 'ever' = any time you want",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "Whenever you are, call me.",
+        "Whenever you need, call me.",
+        "Whenever you need help, call me.",
+        "Whenever you need help, call me now"
+      ],
+      "quiz_question": "Choose the correct use of \"whenever\":",
+      "short_meaning_en": "any time",
+      "synonyms": [
+        {
+          "meaning": "at any time",
+          "word": "anytime"
+        },
+        {
+          "meaning": "whenever",
+          "word": "at any time"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "conjunction",
+          "word": "when"
         }
       ]
     },
@@ -3504,6 +3765,14 @@
       "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
       "status": "corrected"
     },
+    "v-01009": {
+      "audited_at": "2026-09-28T08:17:22.471679+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "নমনীয়তা, স্বাচ্ছন্দ্য",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "759844297045b25ca5b8d67474818a2f5a37413ff59d07b8cd604618f52167d0",
+      "status": "uncertain"
+    },
     "v-01038": {
       "audited_at": "2026-09-27T07:39:03.577521+00:00",
       "confidence": 0.99,
@@ -3608,6 +3877,14 @@
       "source_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
       "status": "valid"
     },
+    "v-02338": {
+      "audited_at": "2026-09-28T08:17:22.471663+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "দ্বিতীয়, মধ্যম, সেকেন্ড",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "3421e61e8b82c2b580e63e300c03dbc1218807fd427c1c74b9364d021ad497b2",
+      "status": "uncertain"
+    },
     "v-02370": {
       "audited_at": "2026-09-27T00:35:50.172577+00:00",
       "confidence": 0.97,
@@ -3615,6 +3892,14 @@
       "reason": "The supplied meaning contains an erroneous fragment 'অন্ত যাওয়া' which does not correspond to any sense of 'set'; the correct Bangla meanings are 'স্থাপন করা' and 'নির্ধারণ করা'.",
       "source_fingerprint": "f13cf166002c1684cf4e41dc5f57e7b1e65c8965d61a9f183fa60ca46bee3def",
       "status": "corrected"
+    },
+    "v-02378": {
+      "audited_at": "2026-09-28T08:17:22.471643+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "যৌন, লিঙ্গগত",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "6ee5c9456edcdf0e31c5b63d50d512e1663a16a1a5b92fa366428030556eea34",
+      "status": "uncertain"
     },
     "v-02423": {
       "audited_at": "2026-09-26T12:40:01.633555+00:00",
@@ -3640,6 +3925,14 @@
       "source_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
       "status": "valid"
     },
+    "v-02680": {
+      "audited_at": "2026-09-28T08:17:22.471604+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "সন্ত্রাসবাদী ব্যক্তি",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "0648dbc8e04c43b6b5f56227407f62daa70eb01d23766f32be975aec535342c3",
+      "status": "uncertain"
+    },
     "v-02806": {
       "audited_at": "2026-09-26T23:32:05.945752+00:00",
       "confidence": 0.99,
@@ -3647,6 +3940,14 @@
       "reason": "The meaning correctly corresponds to the adjective 'typical'.",
       "source_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
       "status": "valid"
+    },
+    "v-02935": {
+      "audited_at": "2026-09-28T08:17:22.471694+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "যখনই, যেকোন সময়ে",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "5583cedfd66deefd845f258d888099ddc88b45980cb08ab439d96de0348fd814",
+      "status": "uncertain"
     },
     "v-03661": {
       "audited_at": "2026-09-27T00:50:34.245084+00:00",
@@ -3798,6 +4099,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-01009": {
+      "audio_file_id": "CQACAgUAAxUHaroinpt_Umi30mcXhYRPzwjtMdcAAhUfAAJT7NFVc9bJ39aIK6c9BA",
+      "cached_at": "2026-09-28T08:17:35.270945+00:00",
+      "photo_file_id": "AgACAgUAAxUHaroinhsqY7ykIAWD5CYBXgIODXMAAsUSaxtT7NFVzo4XHV2Uu1UBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01038": {
       "audio_file_id": "CQACAgUAAxUHarjII82LdTlNLUW5xOK02ebQpkIAAsYiAAKcC8lVQDkstueo8wU9BA",
       "cached_at": "2026-09-27T07:39:16.190151+00:00",
@@ -3944,11 +4251,23 @@
       "photo_file_id": "AgACAgUAAxUHarhcJAUIuRflajO06JUQZuGKF9EAAgQUaxucC8lVZKch-ScN-agBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-02338": {
+      "audio_file_id": "CQACAgUAAxUHaroim_CYUjq2LzfhKJgsURUW4mEAAhQfAAJT7NFV4IjTgP-mx2I9BA",
+      "cached_at": "2026-09-28T08:17:32.575841+00:00",
+      "photo_file_id": "AgACAgUAAxUHaroinMRrPkqQ4a9XF__mWHGtCVQAAsMSaxtT7NFV17Ocb5hA3l4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02370": {
       "audio_file_id": "CQACAgUAAxUHarhk6xkfr-CmvLQkBOEkbqQrEMQAAm8hAAKcC8lVesu6rnxtd1U9BA",
       "cached_at": "2026-09-27T00:35:55.648403+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk6-CmlVcgIdgBe2mc7hQhmg8AAg4UaxucC8lVxgKDTSyfcM8BAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-02378": {
+      "audio_file_id": "CQACAgUAAxUHaroime2fviNzY2zNYstE46FcXBYAAhMfAAJT7NFVhGRy3LbQpi09BA",
+      "cached_at": "2026-09-28T08:17:29.905954+00:00",
+      "photo_file_id": "AgACAgUAAxUHaroimY8Ic_JJioQJ4hRMjoZxOMQAAsESaxtT7NFV0RNT0WEPgusBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02423": {
       "audio_file_id": "CQACAgUAAxUHare9KihEAu8PQq3E49wYa1Vh4uMAApghAALpIcFVmvMM6yWI7g49BA",
@@ -3973,6 +4292,12 @@
       "photo_file_id": "AgACAgUAAxUHardvJMqjZUrrD4Gc_klMVyY2vtoAAuARaxvpIcFVfrIAAXMjX7v8AQADAgADcwADPQQ",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJB10KO6Mn5XXrOXSRR2invQAAn0gAALpIcFVT5TikJtb_jM9BA"
+    },
+    "v-02680": {
+      "audio_file_id": "CQACAgUAAxUHaroilgmBam_hQulII8O8vrsZEn4AAhIfAAJT7NFVcCAAAdpDxy9CPQQ",
+      "cached_at": "2026-09-28T08:17:27.473677+00:00",
+      "photo_file_id": "AgACAgUAAxUHaroil31kMzm-Gsno8dAt0ZYmvWsAAsASaxtT7NFVzvG1hO_Jvd4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02776": {
       "cached_at": "2026-09-26T07:07:19.472187+00:00",
@@ -4002,6 +4327,12 @@
       "photo_file_id": "AgACAgUAAxUHaraMBUueXe9_8cjDBZ6TBJ4im4gAAj4RaxvpIblVWQyMTvmtxfYBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMBQh-fSE7zkhjFV3XAAE7AAE1JgAC_B4AAukhuVUoG5TzI6YeLz0E"
+    },
+    "v-02935": {
+      "audio_file_id": "CQACAgUAAxUHaroioWkGSLAmB1Orf5AaS1FIimgAAhYfAAJT7NFV0GciIFf29nk9BA",
+      "cached_at": "2026-09-28T08:17:37.896798+00:00",
+      "photo_file_id": "AgACAgUAAxUHaroioZP_OeW9-KnunYKiF00dYC8AAsYSaxtT7NFVMhiw9hpd25wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-03225": {
       "cached_at": "2026-09-25T16:13:16.117878+00:00",
@@ -4192,6 +4523,12 @@
       "last_message_id": 80,
       "published_at": "2026-09-27T00:35:57.693224+00:00"
     },
+    "v-01009": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 96,
+      "published_at": "2026-09-28T08:17:35.270970+00:00"
+    },
     "v-01038": {
       "count": 1,
       "last_cycle": 1,
@@ -4351,11 +4688,23 @@
       "last_message_id": 75,
       "published_at": "2026-09-26T23:58:29.287677+00:00"
     },
+    "v-02338": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 95,
+      "published_at": "2026-09-28T08:17:32.575862+00:00"
+    },
     "v-02370": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 79,
       "published_at": "2026-09-27T00:35:55.648428+00:00"
+    },
+    "v-02378": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 94,
+      "published_at": "2026-09-28T08:17:29.905981+00:00"
     },
     "v-02423": {
       "count": 1,
@@ -4380,6 +4729,12 @@
       "last_cycle": 1,
       "last_message_id": 60,
       "published_at": "2026-09-26T07:07:17.058626+00:00"
+    },
+    "v-02680": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 93,
+      "published_at": "2026-09-28T08:17:27.473703+00:00"
     },
     "v-02776": {
       "count": 1,
@@ -4413,6 +4768,12 @@
       "last_message_id": 37,
       "published_at": "2026-09-25T14:58:13.930872+00:00",
       "quiz_message_id": 38
+    },
+    "v-02935": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 97,
+      "published_at": "2026-09-28T08:17:37.896824+00:00"
     },
     "v-03225": {
       "count": 1,
@@ -4468,11 +4829,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02680",
-    "v-02378",
-    "v-02338",
-    "v-01009",
-    "v-02935",
     "v-00601",
     "v-00797",
     "v-01940",
@@ -8404,6 +8760,41 @@
         "v-01038"
       ],
       "status": "completed"
+    },
+    "20260928T081721Z-a05877f0": {
+      "completed_at": "2026-09-28T08:17:37.908160+00:00",
+      "created_at": "2026-09-28T08:17:21.854577+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02680"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02378"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02338"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01009"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02935"
+        }
+      ],
+      "published_ids": [
+        "v-02680",
+        "v-02378",
+        "v-02338",
+        "v-01009",
+        "v-02935"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -8919,6 +9310,43 @@
         "v-01038"
       ],
       "run_id": "20260927T073903Z-0cc1c65f",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-28T08:17:37.908160+00:00",
+      "created_at": "2026-09-28T08:17:21.854577+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02680"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02378"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02338"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01009"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02935"
+        }
+      ],
+      "published_ids": [
+        "v-02680",
+        "v-02378",
+        "v-02338",
+        "v-01009",
+        "v-02935"
+      ],
+      "run_id": "20260928T081721Z-a05877f0",
       "status": "completed",
       "unknown_ids": []
     }
