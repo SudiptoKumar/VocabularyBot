@@ -656,6 +656,68 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00601": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "48df293582c30003b098fec3955c2a7d9a50dad16f30c5718c92814b3548d1a7",
+      "antonyms": [
+        {
+          "meaning": "to set free",
+          "word": "release"
+        },
+        {
+          "meaning": "to make less tight",
+          "word": "loosen"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "control the temperature",
+        "control the situation",
+        "gain control",
+        "lose control",
+        "control panel"
+      ],
+      "common_mistake_correct": "She controls the remote.",
+      "common_mistake_wrong": "control (noun) used as a verb without proper object",
+      "definition_en": "to direct or manage something, often by limiting its freedom",
+      "example_bn": "শিক্ষক শোরগোলপূর্ণ ক্লাসরুমটি দমন করার চেষ্টা করলেন।",
+      "example_en": "The teacher tried to control the noisy classroom.",
+      "memory_hook": "Think of a remote control that makes devices obey you.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The remote control is on the table.",
+        "She will control the project next month.",
+        "Control is important for safety.",
+        "They control the car."
+      ],
+      "quiz_question": "Which sentence uses 'control' correctly as a verb?",
+      "short_meaning_en": "manage",
+      "synonyms": [
+        {
+          "meaning": "to be in charge of",
+          "word": "manage"
+        },
+        {
+          "meaning": "to keep within limits",
+          "word": "regulate"
+        },
+        {
+          "meaning": "to hold back",
+          "word": "restrain"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "controllable"
+        },
+        {
+          "type": "adjective",
+          "word": "controlling"
+        }
+      ]
+    },
     "v-00666": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -709,6 +771,63 @@
         {
           "type": "verb",
           "word": "cried"
+        }
+      ]
+    },
+    "v-00669": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c89cf3bbcd55d9d0cac55204534c9e64fbf329cdd432fc739c46ac25fa0797a5",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "cup of tea",
+        "cup of coffee",
+        "cup holder",
+        "cup size",
+        "cup and saucer"
+      ],
+      "common_mistake_correct": "He drank from a cup.",
+      "common_mistake_wrong": "using 'cup' to refer to a bowl (e.g., 'a soup cup')",
+      "definition_en": "a small container used for drinking liquids",
+      "example_bn": "তিনি চা একটি কাপের মধ্যে ঢাললেন।",
+      "example_en": "She poured tea into a cup.",
+      "memory_hook": "Visualize a cup holding your favorite drink.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "cup of water",
+        "cup of sand",
+        "cup of music",
+        "cup of sky"
+      ],
+      "quiz_question": "Which phrase correctly pairs with 'cup'?",
+      "short_meaning_en": "cup",
+      "synonyms": [
+        {
+          "meaning": "a larger cup",
+          "word": "mug"
+        },
+        {
+          "meaning": "a drinking vessel",
+          "word": "glass"
+        },
+        {
+          "meaning": "a straight-sided cup",
+          "word": "tumbler"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "cupful"
+        },
+        {
+          "type": "noun",
+          "word": "cupboard"
+        },
+        {
+          "type": "noun",
+          "word": "cupcake"
         }
       ]
     },
@@ -944,6 +1063,125 @@
         {
           "type": "adverb",
           "word": "differently"
+        }
+      ]
+    },
+    "v-00797": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b2570b4ae0905285a09b620eaeeee7861b388c1c305a1cf555d0edf16d8eeba3",
+      "antonyms": [
+        {
+          "meaning": "alike",
+          "word": "similar"
+        },
+        {
+          "meaning": "exactly the same",
+          "word": "identical"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "distinct feature",
+        "distinct style",
+        "distinct advantage",
+        "distinctly different",
+        "distinct identity"
+      ],
+      "common_mistake_correct": "He has a distinct accent.",
+      "common_mistake_wrong": "using 'distinct' to mean 'distinctive' (e.g., 'a distinct person')",
+      "definition_en": "clearly different and separate from others",
+      "example_bn": "প্রতিটি শিক্ষার্থীর উত্তর অন্যদের থেকে স্বতন্ত্র ছিল।",
+      "example_en": "Each student's answer was distinct from the others.",
+      "memory_hook": "Think of a distinct fingerprint that stands out.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She wore a distinct dress.",
+        "The distinct of the painting is its color.",
+        "They are distinctively happy.",
+        "His distinctness is obvious."
+      ],
+      "quiz_question": "Choose the sentence that correctly uses 'distinct'.",
+      "short_meaning_en": "separate",
+      "synonyms": [
+        {
+          "meaning": "one of a kind",
+          "word": "unique"
+        },
+        {
+          "meaning": "separate",
+          "word": "individual"
+        },
+        {
+          "meaning": "not the same",
+          "word": "different"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "distinctly"
+        },
+        {
+          "type": "noun",
+          "word": "distinction"
+        }
+      ]
+    },
+    "v-00833": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5251610836728d88da303ea338685ae7cc0df6e8d8e8f6626b6b1d087589ce1f",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "bus driver",
+        "driver's license",
+        "driver seat",
+        "professional driver",
+        "driver training"
+      ],
+      "common_mistake_correct": "The driver was very careful.",
+      "common_mistake_wrong": "confusing 'driver' with 'driving' as a noun (e.g., 'the driving is good')",
+      "definition_en": "a person who drives a vehicle",
+      "example_bn": "ড্রাইভার লাল সিগন্যালে থেমে গেল।",
+      "example_en": "The driver stopped at the red light.",
+      "memory_hook": "Think of a car driver holding a steering wheel.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 3,
+      "quiz_options": [
+        "The driver was late today.",
+        "She enjoys driver music.",
+        "Driver is a great skill.",
+        "The driver of the car was friendly."
+      ],
+      "quiz_question": "Select the correct use of 'driver'.",
+      "short_meaning_en": "driver",
+      "synonyms": [
+        {
+          "meaning": "someone who operates a motor vehicle",
+          "word": "motorist"
+        },
+        {
+          "meaning": "a hired driver",
+          "word": "chauffeur"
+        },
+        {
+          "meaning": "person who controls a machine",
+          "word": "operator"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "drive"
+        },
+        {
+          "type": "noun",
+          "word": "driving"
+        },
+        {
+          "type": "adjective",
+          "word": "driven"
         }
       ]
     },
@@ -2240,6 +2478,68 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-01940": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3600fbdc35ce783c9b393737df6985a6b60ae8b6c7e20e658fa67e61836895db",
+      "antonyms": [
+        {
+          "meaning": "to make unhappy",
+          "word": "displease"
+        },
+        {
+          "meaning": "to cause upset",
+          "word": "offend"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "please someone",
+        "please the crowd",
+        "please yourself",
+        "please to meet",
+        "please and thank you"
+      ],
+      "common_mistake_correct": "Please, could you help?",
+      "common_mistake_wrong": "using 'please' as a noun meaning 'request' (e.g., 'I have a please')",
+      "definition_en": "to make someone feel happy or satisfied",
+      "example_bn": "আমি আশা করি এই উপহারটি আপনাকে সন্তুষ্ট করবে।",
+      "example_en": "I hope this gift will please you.",
+      "memory_hook": "Remember saying 'please' when asking politely.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Please close the door.",
+        "I said please to my mother.",
+        "She gave me a please.",
+        "Please is a polite word."
+      ],
+      "quiz_question": "Which sentence uses 'please' as a verb?",
+      "short_meaning_en": "satisfy",
+      "synonyms": [
+        {
+          "meaning": "to meet expectations",
+          "word": "satisfy"
+        },
+        {
+          "meaning": "to give great pleasure",
+          "word": "delight"
+        },
+        {
+          "meaning": "to please",
+          "word": "gratify"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "pleasing"
+        },
+        {
+          "type": "adjective",
+          "word": "pleasurable"
+        }
+      ]
     },
     "v-01943": {
       "_content_version": "1.2.4",
@@ -3733,6 +4033,22 @@
       "source_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
       "status": "valid"
     },
+    "v-00601": {
+      "audited_at": "2026-09-29T07:56:03.719983+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দমন করা, শাসন করা",
+      "reason": "Bangla meaning accurately reflects common senses of the verb/noun 'control' as given in source.",
+      "source_fingerprint": "48df293582c30003b098fec3955c2a7d9a50dad16f30c5718c92814b3548d1a7",
+      "status": "valid"
+    },
+    "v-00669": {
+      "audited_at": "2026-09-29T07:56:03.720130+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পানপাত্র, পেয়ালা, কাপ",
+      "reason": "Bangla meanings correctly represent the noun 'cup' and its common uses.",
+      "source_fingerprint": "c89cf3bbcd55d9d0cac55204534c9e64fbf329cdd432fc739c46ac25fa0797a5",
+      "status": "valid"
+    },
     "v-00708": {
       "audited_at": "2026-09-27T07:39:03.577361+00:00",
       "confidence": 0.99,
@@ -3747,6 +4063,22 @@
       "meaning_bn": "পার্থক্য",
       "reason": "The Bangla meaning accurately conveys the meaning of 'difference'.",
       "source_fingerprint": "c65b7c30c31037cab1445cf48591fa96f116c19d1a2b2f26995a9fe04ee8bd83",
+      "status": "valid"
+    },
+    "v-00797": {
+      "audited_at": "2026-09-29T07:56:03.720038+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "স্বতন্ত্র",
+      "reason": "Bangla meaning correctly matches the adjective 'distinct'.",
+      "source_fingerprint": "b2570b4ae0905285a09b620eaeeee7861b388c1c305a1cf555d0edf16d8eeba3",
+      "status": "valid"
+    },
+    "v-00833": {
+      "audited_at": "2026-09-29T07:56:03.720100+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "চালক",
+      "reason": "Bangla meaning correctly corresponds to the noun 'driver'.",
+      "source_fingerprint": "5251610836728d88da303ea338685ae7cc0df6e8d8e8f6626b6b1d087589ce1f",
       "status": "valid"
     },
     "v-00838": {
@@ -3843,6 +4175,14 @@
       "meaning_bn": "অধিকতর, সর্বপেক্ষা",
       "reason": "The Bangla meaning accurately reflects the common senses of the adjective 'most'.",
       "source_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
+      "status": "valid"
+    },
+    "v-01940": {
+      "audited_at": "2026-09-29T07:56:03.720073+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সন্তুষ্টকরা, খুশি করা",
+      "reason": "Bangla meaning accurately captures the verb sense of 'please'.",
+      "source_fingerprint": "3600fbdc35ce783c9b393737df6985a6b60ae8b6c7e20e658fa67e61836895db",
       "status": "valid"
     },
     "v-01943": {
@@ -4051,11 +4391,23 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_N5InHvti52WO_zisVMPth20AAtAeAALpIblVCU4VmkdfzpM9BA"
     },
+    "v-00601": {
+      "audio_file_id": "CQACAgUAAxUHartvFonYnmAvbJChnb0vW9RwHxoAAr4gAAJT7NlVxMZkuZ_EJMQ9BA",
+      "cached_at": "2026-09-29T07:56:07.229242+00:00",
+      "photo_file_id": "AgACAgUAAxUHartvFvds4UCvFRQkAAEaQ_p7VH4yAALHE2sbU-zZVe8zYJUSV2zUAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-00666": {
       "cached_at": "2026-09-25T16:45:18.987922+00:00",
       "photo_file_id": "AgACAgUAAxUHaralHkcNMa4j4niXkAj9P4gDFNgAAoURaxvpIblV0FLvM5btV4IBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralHm7xLIvnZtLlMbMvOfZ44ocAAikfAALpIblV2qyJGpSSAmQ9BA"
+    },
+    "v-00669": {
+      "audio_file_id": "CQACAgUAAxUHartvH0wx2peS6Fpe6xP700veNGQAAsIgAAJT7NlV_2WkXCbYiJk9BA",
+      "cached_at": "2026-09-29T07:56:15.868956+00:00",
+      "photo_file_id": "AgACAgUAAxUHartvH-qzH319cTvYMeXgU5ZDFPIAAssTaxtT7NlVyL9sIhsOvJoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00685": {
       "cached_at": "2026-09-25T14:58:07.121334+00:00",
@@ -4080,6 +4432,18 @@
       "cached_at": "2026-09-27T00:36:01.625850+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk8XGj1wPMxl6BUZbWRH9Nhr8AAhEUaxucC8lV6s0pjg61d9MBAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-00797": {
+      "audio_file_id": "CQACAgUAAxUHartvGMmg4Z4NhG-YiEBt0MDTZWYAAr8gAAJT7NlV2E4E-HsTmzY9BA",
+      "cached_at": "2026-09-29T07:56:09.424300+00:00",
+      "photo_file_id": "AgACAgUAAxUHartvGcuHNqaIGIPDElpZrKf0wKkAAsgTaxtT7NlVFuWsswM3fxIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00833": {
+      "audio_file_id": "CQACAgUAAxUHartvHc2xIK91VGARE67rMGxzowYAAsEgAAJT7NlVB3xZamFb-Ac9BA",
+      "cached_at": "2026-09-29T07:56:13.889674+00:00",
+      "photo_file_id": "AgACAgUAAxUHartvHWHsz9RI3vxbU29B2gjSHbkAAsoTaxtT7NlVvj2jMhtrmwABAQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-00838": {
       "audio_file_id": "CQACAgUAAxUHarhoZGlGJWUj_aftlPzL8EQLUKIAAoIhAAKcC8lVnWj74AVsxdY9BA",
@@ -4220,6 +4584,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_PHEAAa_tv6Y8gRSUvrIjn3m7AAIlEWsb6SG5VYcm9HI-ZIKlAQADAgADcwADPQQ",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PNAH31lX692h0FlVinDwhF8AAtIeAALpIblVgi7t3bJUBek9BA"
+    },
+    "v-01940": {
+      "audio_file_id": "CQACAgUAAxUHartvGsR2nsJ9M6ZW0Bv1gJKGnBQAAsAgAAJT7NlVaLH0IjUXGoo9BA",
+      "cached_at": "2026-09-29T07:56:11.914071+00:00",
+      "photo_file_id": "AgACAgUAAxUHartvG4jqPuaWgeZwYA7TIjhWVTEAAskTaxtT7NlV2BLi5UQr-rUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01943": {
       "audio_file_id": "CQACAgUAAxUHarhoYR-5Du_Pcl7zKoqH24bw7lgAAoEhAAKcC8lVzs4k8Bt_POc9BA",
@@ -4472,11 +4842,23 @@
       "last_message_id": 28,
       "published_at": "2026-09-25T14:03:35.808414+00:00"
     },
+    "v-00601": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 98,
+      "published_at": "2026-09-29T07:56:07.229267+00:00"
+    },
     "v-00666": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 56,
       "published_at": "2026-09-25T16:45:18.987950+00:00"
+    },
+    "v-00669": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 102,
+      "published_at": "2026-09-29T07:56:15.868980+00:00"
     },
     "v-00685": {
       "count": 1,
@@ -4503,6 +4885,18 @@
       "last_cycle": 1,
       "last_message_id": 82,
       "published_at": "2026-09-27T00:36:01.625898+00:00"
+    },
+    "v-00797": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 99,
+      "published_at": "2026-09-29T07:56:09.424355+00:00"
+    },
+    "v-00833": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 101,
+      "published_at": "2026-09-29T07:56:13.889697+00:00"
     },
     "v-00838": {
       "count": 1,
@@ -4657,6 +5051,12 @@
       "last_cycle": 1,
       "last_message_id": 30,
       "published_at": "2026-09-25T14:03:41.448689+00:00"
+    },
+    "v-01940": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 100,
+      "published_at": "2026-09-29T07:56:11.914094+00:00"
     },
     "v-01943": {
       "count": 1,
@@ -4829,11 +5229,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00601",
-    "v-00797",
-    "v-01940",
-    "v-00833",
-    "v-00669",
     "v-02015",
     "v-00585",
     "v-01309",
@@ -8795,6 +9190,41 @@
         "v-02935"
       ],
       "status": "completed"
+    },
+    "20260929T075603Z-9fbe936c": {
+      "completed_at": "2026-09-29T07:56:15.880377+00:00",
+      "created_at": "2026-09-29T07:56:03.393326+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00601"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00797"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01940"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00833"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00669"
+        }
+      ],
+      "published_ids": [
+        "v-00601",
+        "v-00797",
+        "v-01940",
+        "v-00833",
+        "v-00669"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -9347,6 +9777,43 @@
         "v-02935"
       ],
       "run_id": "20260928T081721Z-a05877f0",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-29T07:56:15.880377+00:00",
+      "created_at": "2026-09-29T07:56:03.393326+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00601"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00797"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01940"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00833"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00669"
+        }
+      ],
+      "published_ids": [
+        "v-00601",
+        "v-00797",
+        "v-01940",
+        "v-00833",
+        "v-00669"
+      ],
+      "run_id": "20260929T075603Z-9fbe936c",
       "status": "completed",
       "unknown_ids": []
     }
