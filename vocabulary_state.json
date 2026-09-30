@@ -638,6 +638,72 @@
         }
       ]
     },
+    "v-00585": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fead551a30bf5d13d4941c751ad9611af09afccbdd0e4ca79de4943f0aba6a9d",
+      "antonyms": [
+        {
+          "meaning": "to keep from being used",
+          "word": "preserve"
+        },
+        {
+          "meaning": "to keep for later",
+          "word": "save"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "consume energy",
+        "consume resources",
+        "consume food",
+        "consume quickly",
+        "consume the market"
+      ],
+      "common_mistake_correct": "She consumed the cake.",
+      "common_mistake_wrong": "She consume the cake.",
+      "definition_en": "To use up or eat something completely.",
+      "example_bn": "আগুন সব শুকনো পাতা খেয়ে শেষ করল।",
+      "example_en": "The fire consumed all the dry leaves.",
+      "memory_hook": "\"Consume\" sounds like \"cansume\" – think of a can being emptied.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "consume",
+        "consumed",
+        "consumes",
+        "consuming"
+      ],
+      "quiz_question": "Choose the correct past form of \"consume\".",
+      "short_meaning_en": "use up",
+      "synonyms": [
+        {
+          "meaning": "to exhaust",
+          "word": "use up"
+        },
+        {
+          "meaning": "to use completely",
+          "word": "exhaust"
+        },
+        {
+          "meaning": "to eat quickly",
+          "word": "devour"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "consumption"
+        },
+        {
+          "type": "noun",
+          "word": "consumer"
+        },
+        {
+          "type": "adjective",
+          "word": "consumable"
+        }
+      ]
+    },
     "v-00596": {
       "antonyms": [],
       "cefr": "",
@@ -1606,6 +1672,59 @@
           "word": "funerals"
         }
       ]
+    },
+    "v-01309": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4e6520b693217d8a663175298a989aeaab9c0c2129a1615ccd025584aed57850",
+      "antonyms": [
+        {
+          "meaning": "as a result",
+          "word": "therefore"
+        },
+        {
+          "meaning": "consequently",
+          "word": "thus"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "however you like",
+        "however much",
+        "however soon",
+        "however possible",
+        "however you think"
+      ],
+      "common_mistake_correct": "I like it; however, I will not buy it.",
+      "common_mistake_wrong": "I like it, however I will not buy it.",
+      "definition_en": "Introducing a contrast or exception to what has been said.",
+      "example_bn": "আমি যেতে চেয়েছিলাম, তবে বৃষ্টি শুরু হল।",
+      "example_en": "I wanted to go, however it started to rain.",
+      "memory_hook": "\"How ever?\" – ask how, then add an exception.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I am tired, however I will rest.",
+        "I am tired; however, I will rest.",
+        "I am tired however I will rest.",
+        "I am tired, however I rest."
+      ],
+      "quiz_question": "Which sentence uses \"however\" correctly?",
+      "short_meaning_en": "but",
+      "synonyms": [
+        {
+          "meaning": "in spite of that",
+          "word": "nevertheless"
+        },
+        {
+          "meaning": "despite that",
+          "word": "still"
+        },
+        {
+          "meaning": "but",
+          "word": "yet"
+        }
+      ],
+      "word_family": []
     },
     "v-01419": {
       "_content_version": "1.0.6",
@@ -2609,6 +2728,72 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-02015": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "7d4fa3c8d21f7754083ac2a0a7f90c9f9e8fac7770ef969f05e79f95b51879ba",
+      "antonyms": [
+        {
+          "meaning": "to cease the flow",
+          "word": "stop"
+        },
+        {
+          "meaning": "to hold within",
+          "word": "contain"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "pour water",
+        "pour a drink",
+        "pour rain",
+        "pour out feelings",
+        "pour into a glass"
+      ],
+      "common_mistake_correct": "He poured the milk into the bowl.",
+      "common_mistake_wrong": "He poured the milk in the bowl.",
+      "definition_en": "To cause a liquid to flow continuously from a container.",
+      "example_bn": "সে চা কাপটিতে ঢালল।",
+      "example_en": "She poured the tea into the cup.",
+      "memory_hook": "Think of a 'pour' as a 'pouring rain' that goes into something.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "The rain will pour tomorrow.",
+        "She poured the soup onto the plate.",
+        "He poured the water into the glass.",
+        "They pour the cake with icing."
+      ],
+      "quiz_question": "Which sentence uses \"pour\" correctly?",
+      "short_meaning_en": "flow liquid",
+      "synonyms": [
+        {
+          "meaning": "to cause liquid to flow out",
+          "word": "spill"
+        },
+        {
+          "meaning": "to let liquid fall in drops",
+          "word": "drip"
+        },
+        {
+          "meaning": "to send out in a flow",
+          "word": "stream"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "pouring"
+        },
+        {
+          "type": "noun",
+          "word": "pourer"
+        },
+        {
+          "type": "adjective",
+          "word": "pourable"
+        }
+      ]
+    },
     "v-02022": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "dafc3ca69b5ddea6f711356c0def28bf80853ec20216de8b0927c7a567a520a7",
@@ -2725,6 +2910,68 @@
         {
           "type": "adjective",
           "word": "presentational"
+        }
+      ]
+    },
+    "v-02122": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "58ac5635434a4505f9c9e84c952328b2b4eade42b1254b7ab20f3580eb725313",
+      "antonyms": [
+        {
+          "meaning": "a response",
+          "word": "answer"
+        },
+        {
+          "meaning": "a response",
+          "word": "reply"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "ask a question",
+        "answer a question",
+        "question of the day",
+        "question mark",
+        "question paper"
+      ],
+      "common_mistake_correct": "I have a question about this.",
+      "common_mistake_wrong": "I have a questioned about this.",
+      "definition_en": "A sentence or phrase that asks for information.",
+      "example_bn": "সূচি সম্পর্কে আমার একটি প্রশ্ন আছে।",
+      "example_en": "I have a question about the schedule.",
+      "memory_hook": "\"Question\" starts with \"quest\" – a quest for information.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "She answered the question.",
+        "She questioned the answer.",
+        "She asked a question.",
+        "She question the topic."
+      ],
+      "quiz_question": "Which phrase correctly uses the word \"question\"?",
+      "short_meaning_en": "ask",
+      "synonyms": [
+        {
+          "meaning": "a request for information",
+          "word": "inquiry"
+        },
+        {
+          "meaning": "a question",
+          "word": "query"
+        },
+        {
+          "meaning": "formal questioning",
+          "word": "interrogation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "questioning"
+        },
+        {
+          "type": "verb",
+          "word": "questioned"
         }
       ]
     },
@@ -3361,6 +3608,51 @@
         {
           "type": "adverb",
           "word": "typically"
+        }
+      ]
+    },
+    "v-02837": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "for us",
+        "help us",
+        "tell us",
+        "give us",
+        "join us"
+      ],
+      "common_mistake_correct": "Give us the keys.",
+      "common_mistake_wrong": "Give we the keys.",
+      "definition_en": "The object pronoun referring to the speaker and others.",
+      "example_bn": "দয়া করে আমাদের চাবিগুলো দিন।",
+      "example_en": "Give us the keys, please.",
+      "memory_hook": "\"Us\" ends with \"s\" like \"us\" in \"us together\".",
+      "part_of_speech": "pronoun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She gave we the book.",
+        "She gave us the book.",
+        "She gave us book.",
+        "She gave us, the book."
+      ],
+      "quiz_question": "Select the correct sentence with \"us\".",
+      "short_meaning_en": "we object",
+      "synonyms": [
+        {
+          "meaning": "subject pronoun",
+          "word": "we"
+        },
+        {
+          "meaning": "possessive form",
+          "word": "our"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "pronoun",
+          "word": "ours"
         }
       ]
     },
@@ -4033,6 +4325,14 @@
       "source_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
       "status": "valid"
     },
+    "v-00585": {
+      "audited_at": "2026-09-30T08:04:52.970885+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "ব্যয় করা, খেয়ে শেষ করা",
+      "reason": "The meanings correspond to the verb 'consume' meaning to use up or eat completely.",
+      "source_fingerprint": "fead551a30bf5d13d4941c751ad9611af09afccbdd0e4ca79de4943f0aba6a9d",
+      "status": "valid"
+    },
     "v-00601": {
       "audited_at": "2026-09-29T07:56:03.719983+00:00",
       "confidence": 0.99,
@@ -4121,6 +4421,14 @@
       "source_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
       "status": "valid"
     },
+    "v-01309": {
+      "audited_at": "2026-09-30T08:04:52.970921+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "তবে, যদিও",
+      "reason": "The supplied meaning 'যে কোন উপায়ে' does not match the conjunctive adverb 'however' which means 'however, nevertheless'.",
+      "source_fingerprint": "2383685fdb5ba3564f39c5f9e5109c665cd5bb1e4514272fafa559b83dc02156",
+      "status": "corrected"
+    },
     "v-01512": {
       "audited_at": "2026-09-26T23:32:05.945786+00:00",
       "confidence": 0.97,
@@ -4193,6 +4501,14 @@
       "source_fingerprint": "8be3475295c9b9cccf67dac03034dfc0677f9c9248d05a7c799a790722e2bf2c",
       "status": "valid"
     },
+    "v-02015": {
+      "audited_at": "2026-09-30T08:04:52.970803+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঢালা, বর্ষণ করা, ঢালতে",
+      "reason": "The Bangla meaning accurately reflects the verb 'pour' as to pour liquid.",
+      "source_fingerprint": "7d4fa3c8d21f7754083ac2a0a7f90c9f9e8fac7770ef969f05e79f95b51879ba",
+      "status": "valid"
+    },
     "v-02022": {
       "audited_at": "2026-09-26T12:40:01.907949+00:00",
       "confidence": 0.95,
@@ -4207,6 +4523,14 @@
       "meaning_bn": "উপস্থাপন, উপস্থাপনা",
       "reason": "The supplied meaning 'উপহার, দান' corresponds to 'gift' not 'presentation'.",
       "source_fingerprint": "be8b368d03738013061f6f2a12ccfe8d96bfe1547760e6c216e02aef19fad739",
+      "status": "corrected"
+    },
+    "v-02122": {
+      "audited_at": "2026-09-30T08:04:52.970975+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "প্রশ্ন",
+      "reason": "The phrase 'কর্মমুচী বানানো' is unrelated; the correct meaning for 'question' is 'প্রশ্ন'.",
+      "source_fingerprint": "af8930f2f7cacb4dfb6a8c2f67e467476551d21c4241839ec52803b1d25a92e9",
       "status": "corrected"
     },
     "v-02336": {
@@ -4279,6 +4603,14 @@
       "meaning_bn": "নমুনা বা আদর্শরূপ",
       "reason": "The meaning correctly corresponds to the adjective 'typical'.",
       "source_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
+      "status": "valid"
+    },
+    "v-02837": {
+      "audited_at": "2026-09-30T08:04:52.970948+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "আমাদেরকে",
+      "reason": "The Bangla meaning correctly represents the pronoun 'us'.",
+      "source_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
       "status": "valid"
     },
     "v-02935": {
@@ -4383,6 +4715,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIIYm_QpziEH-iaV_CuyBoFCgAAsUiAAKcC8lVtSp9zjZ6q3g9BA",
       "cached_at": "2026-09-27T07:39:14.141266+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIITNbttvJymvC2C9KD33w5bgAApYUaxucC8lVobebffT9D34BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00585": {
+      "audio_file_id": "CQACAgUAAxUHarzCqgJir-calZVMyrfQxmQHSK4AArAiAALHB-hVylduUtr2HWE9BA",
+      "cached_at": "2026-09-30T08:04:59.164638+00:00",
+      "photo_file_id": "AgACAgUAAxUHarzCqlyMOKXqynNvV315evNcDHcAAqQSaxvHB-hVN7yDcGl8dIkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00596": {
@@ -4491,6 +4829,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnT9ICsYf60DALRATVZok9TMoAAnIRaxvpIbFVAscLV8vNF2ABAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnT-zISsXl57VxKNnfeRFEBkwAAuwkAALpIbFVR9KoeBTEukg9BA"
+    },
+    "v-01309": {
+      "audio_file_id": "CQACAgUAAxUHarzCrSyJRlY2AYKopUnUcn3kw1sAArEiAALHB-hVP28lH1rtYsg9BA",
+      "cached_at": "2026-09-30T08:05:01.719977+00:00",
+      "photo_file_id": "AgACAgUAAxUHarzCrW6ZYvNmFOR5XpYC9XJ8YY4AAqUSaxvHB-hVAAGNse2OmFm7AQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-01419": {
       "cached_at": "2026-09-25T14:58:17.082564+00:00",
@@ -4603,6 +4947,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
     },
+    "v-02015": {
+      "audio_file_id": "CQACAgUAAxUHarzCp1zD6PdHGRmN1iI4oyxMEJoAAq8iAALHB-hVxHaJ-ds-90A9BA",
+      "cached_at": "2026-09-30T08:04:56.567448+00:00",
+      "photo_file_id": "AgACAgUAAxUHarzCqBYv79fWxZxlwrXLbmjPFK4AAqMSaxvHB-hVcUkE0OOVmQ0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02022": {
       "audio_file_id": "CQACAgUAAxUHare9L7P0jCciMo3kaqr-TXRf05UAApohAALpIcFVECbeYSayMfY9BA",
       "cached_at": "2026-09-26T12:40:15.747935+00:00",
@@ -4613,6 +4963,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIHZUI0TWakoPnb-hC-qQaoCEAAsIiAAKcC8lV9SPCYR3e4bA9BA",
       "cached_at": "2026-09-27T07:39:10.074918+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIHTaFHmitXhQF5wRSq71V9hEAApQUaxucC8lVq1rO99bGWVkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02122": {
+      "audio_file_id": "CQACAgUAAxUHarzCsetD9Cc36Xug-5kmMRd85bMAArMiAALHB-hVsr4Z_8POLg49BA",
+      "cached_at": "2026-09-30T08:05:06.521506+00:00",
+      "photo_file_id": "AgACAgUAAxUHarzCsqB8coE-7dW8_JFDLFFJ3lcAAqcSaxvHB-hVz6-AalN0LWMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02336": {
@@ -4680,6 +5036,12 @@
       "cached_at": "2026-09-26T23:32:12.321980+00:00",
       "photo_file_id": "AgACAgUAAxUHarhV-5zYdLkDneyBez6bnZDq6XQAAvgTaxucC8lVguWB8tWRAAE4AQADAgADcwADPQQ",
       "version": "1.2.0"
+    },
+    "v-02837": {
+      "audio_file_id": "CQACAgUAAxUHarzCrxU06SWqaYTnzAAB2NBupmaTAAKyIgACxwfoVRxwOtjSV0PsPQQ",
+      "cached_at": "2026-09-30T08:05:04.066816+00:00",
+      "photo_file_id": "AgACAgUAAxUHarzCr5eaEytw3n5Wug5LgnRbrhEAAqYSaxvHB-hVI_93TST6d98BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02843": {
       "audio_file_id": "CQACAgUAAxUHarZZNHBqYbCu-8x6mQW8hyE2o68AAsYkAALpIbFVKC6V6hqE1xg9BA",
@@ -4836,6 +5198,12 @@
       "last_message_id": 91,
       "published_at": "2026-09-27T07:39:14.141288+00:00"
     },
+    "v-00585": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 104,
+      "published_at": "2026-09-30T08:04:59.164668+00:00"
+    },
     "v-00596": {
       "count": 1,
       "last_cycle": 1,
@@ -4948,6 +5316,12 @@
       "last_message_id": 26,
       "published_at": "2026-09-25T12:21:35.598865+00:00",
       "quiz_message_id": 27
+    },
+    "v-01309": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 105,
+      "published_at": "2026-09-30T08:05:01.720005+00:00"
     },
     "v-01419": {
       "count": 1,
@@ -5070,6 +5444,12 @@
       "last_message_id": 29,
       "published_at": "2026-09-25T14:03:38.200108+00:00"
     },
+    "v-02015": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 103,
+      "published_at": "2026-09-30T08:04:56.567477+00:00"
+    },
     "v-02022": {
       "count": 1,
       "last_cycle": 1,
@@ -5081,6 +5461,12 @@
       "last_cycle": 1,
       "last_message_id": 89,
       "published_at": "2026-09-27T07:39:10.074979+00:00"
+    },
+    "v-02122": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 107,
+      "published_at": "2026-09-30T08:05:06.521533+00:00"
     },
     "v-02336": {
       "count": 1,
@@ -5147,6 +5533,12 @@
       "last_cycle": 1,
       "last_message_id": 69,
       "published_at": "2026-09-26T23:32:12.322009+00:00"
+    },
+    "v-02837": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 106,
+      "published_at": "2026-09-30T08:05:04.066844+00:00"
     },
     "v-02843": {
       "count": 1,
@@ -5229,11 +5621,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02015",
-    "v-00585",
-    "v-01309",
-    "v-02837",
-    "v-02122",
     "v-02705",
     "v-00817",
     "v-03764",
@@ -9225,6 +9612,41 @@
         "v-00669"
       ],
       "status": "completed"
+    },
+    "20260930T080452Z-1b9cd3e2": {
+      "completed_at": "2026-09-30T08:05:06.534576+00:00",
+      "created_at": "2026-09-30T08:04:52.583271+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02015"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00585"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01309"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02837"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02122"
+        }
+      ],
+      "published_ids": [
+        "v-02015",
+        "v-00585",
+        "v-01309",
+        "v-02837",
+        "v-02122"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -9814,6 +10236,43 @@
         "v-00669"
       ],
       "run_id": "20260929T075603Z-9fbe936c",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-09-30T08:05:06.534576+00:00",
+      "created_at": "2026-09-30T08:04:52.583271+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02015"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00585"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01309"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02837"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02122"
+        }
+      ],
+      "published_ids": [
+        "v-02015",
+        "v-00585",
+        "v-01309",
+        "v-02837",
+        "v-02122"
+      ],
+      "run_id": "20260930T080452Z-1b9cd3e2",
       "status": "completed",
       "unknown_ids": []
     }
