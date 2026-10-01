@@ -1194,6 +1194,68 @@
         }
       ]
     },
+    "v-00817": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f35efa17f267ea6c78a965481e14f4deb1a4782a7ef6072c594f49e0c02089e6",
+      "antonyms": [
+        {
+          "meaning": "one only",
+          "word": "single"
+        },
+        {
+          "meaning": "one half",
+          "word": "half"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "double check",
+        "double room",
+        "double the price",
+        "double meaning",
+        "double trouble"
+      ],
+      "common_mistake_correct": "He is twice as tall.",
+      "common_mistake_wrong": "He is double tall.",
+      "definition_en": "Double means twice as much or to make something twice as large.",
+      "example_bn": "সে ডাবল পরিমাণ ফ্রাইস কিনেছে।",
+      "example_en": "She bought a double portion of fries.",
+      "memory_hook": "Double = two of the same, like a pair of twins.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "half",
+        "twice",
+        "none",
+        "single"
+      ],
+      "quiz_question": "What does \"double\" mean in \"double portion\"?",
+      "short_meaning_en": "twice",
+      "synonyms": [
+        {
+          "meaning": "two times",
+          "word": "twice"
+        },
+        {
+          "meaning": "consisting of two parts",
+          "word": "dual"
+        },
+        {
+          "meaning": "in a pair",
+          "word": "paired"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "doubly"
+        },
+        {
+          "type": "noun",
+          "word": "doubling"
+        }
+      ]
+    },
     "v-00833": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5251610836728d88da303ea338685ae7cc0df6e8d8e8f6626b6b1d087589ce1f",
@@ -1412,6 +1474,68 @@
         {
           "type": "adjective",
           "word": "employable"
+        }
+      ]
+    },
+    "v-00997": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e0587d32b47d1a91486ade5e992d409d28ce6eaebfc865320930705da93b25a4",
+      "antonyms": [
+        {
+          "meaning": "to make shorter",
+          "word": "shorten"
+        },
+        {
+          "meaning": "to make smaller",
+          "word": "reduce"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "extend a hand",
+        "extend the deadline",
+        "extend an invitation",
+        "extend the contract",
+        "extend the reach"
+      ],
+      "common_mistake_correct": "She extends her hand.",
+      "common_mistake_wrong": "She extend her hand.",
+      "definition_en": "To extend means to stretch out, lengthen, or make something larger in space or time.",
+      "example_bn": "রাস্তাটি আর দশ মাইল পর্যন্ত প্রসারিত হবে।",
+      "example_en": "The road will extend for another ten miles.",
+      "memory_hook": "Extend = \"ex\" (out) + \"tend\" (stretch) – think of stretching outwards.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "extend",
+        "extends",
+        "extending",
+        "extended"
+      ],
+      "quiz_question": "Which form is correct: \"She ___ her hand\"?",
+      "short_meaning_en": "stretch",
+      "synonyms": [
+        {
+          "meaning": "to make longer",
+          "word": "stretch"
+        },
+        {
+          "meaning": "to lengthen",
+          "word": "elongate"
+        },
+        {
+          "meaning": "to make last longer",
+          "word": "prolong"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "extension"
+        },
+        {
+          "type": "verb",
+          "word": "extending"
         }
       ]
     },
@@ -3492,6 +3616,55 @@
         }
       ]
     },
+    "v-02705": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d361b0c07a4cb57a4ace51cd83a7ba2b01e0e32a57bb641144f6df60370a8095",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "a thing of beauty",
+        "the right thing",
+        "the thing itself",
+        "a thing to remember",
+        "the thing that matters"
+      ],
+      "common_mistake_correct": "I have many things.",
+      "common_mistake_wrong": "I have many thing.",
+      "definition_en": "A thing is an object, item, or matter that can be mentioned or considered.",
+      "example_bn": "আমি সমুদ্রতটে একটা অদ্ভুত জিনিস পেলাম।",
+      "example_en": "I found a strange thing on the beach.",
+      "memory_hook": "Think of a \"thing\" as a \"thingamajig\" you can hold.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "object",
+        "verb",
+        "adverb",
+        "preposition"
+      ],
+      "quiz_question": "Which word best matches the meaning \"জিনিস\"?",
+      "short_meaning_en": "object",
+      "synonyms": [
+        {
+          "meaning": "a material item",
+          "word": "object"
+        },
+        {
+          "meaning": "a single thing",
+          "word": "item"
+        },
+        {
+          "meaning": "a particular thing",
+          "word": "article"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural noun",
+          "word": "things"
+        }
+      ]
+    },
     "v-02776": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -3873,6 +4046,68 @@
         }
       ]
     },
+    "v-02992": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
+      "antonyms": [
+        {
+          "meaning": "to remove covering",
+          "word": "unwrap"
+        },
+        {
+          "meaning": "to expose",
+          "word": "uncover"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "wrap a gift",
+        "wrap up warm",
+        "wrap tightly",
+        "wrap around",
+        "wrap in foil"
+      ],
+      "common_mistake_correct": "He wrapped the blanket around the sofa.",
+      "common_mistake_wrong": "He wrapped the blanket on the sofa.",
+      "definition_en": "To wrap means to cover or enclose something by folding or turning material around it.",
+      "example_bn": "সে উপহারের চারপাশে উজ্জ্বল কাগজ দিয়ে মোড়াল।",
+      "example_en": "She wrapped the gift in bright paper.",
+      "memory_hook": "Wrap = think of a \"wrap\" around a sandwich – it goes around it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "wrap a gift",
+        "wrap a gifted",
+        "wrap a gifting",
+        "wrap a gifts"
+      ],
+      "quiz_question": "Which phrase is correct?",
+      "short_meaning_en": "cover",
+      "synonyms": [
+        {
+          "meaning": "to put something over",
+          "word": "cover"
+        },
+        {
+          "meaning": "to surround completely",
+          "word": "envelop"
+        },
+        {
+          "meaning": "to wind around",
+          "word": "coil"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "wrapper"
+        },
+        {
+          "type": "noun",
+          "word": "wrapping"
+        }
+      ]
+    },
     "v-03225": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -4181,6 +4416,55 @@
         }
       ]
     },
+    "v-03764": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fc63376e82731c693a6757e22dbade3d756e482189bc6e1ef92746b42e926f8f",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "uterus lining",
+        "uterus cancer",
+        "uterus health",
+        "uterus size",
+        "uterus contraction"
+      ],
+      "common_mistake_correct": "She has a uterus.",
+      "common_mistake_wrong": "She has a uterine organ.",
+      "definition_en": "The uterus is the hollow muscular organ in a female where a baby develops.",
+      "example_bn": "ডাক্তার চেক‑আপের সময় গর্ভাশয় পরীক্ষা করলেন।",
+      "example_en": "The doctor examined the uterus during the check‑up.",
+      "memory_hook": "Uterus sounds like \"uterus\" – think of \"uterus = uterus\" as the place for a baby.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "heart",
+        "liver",
+        "uterus",
+        "kidney"
+      ],
+      "quiz_question": "Which organ is described as \"গর্ভাশয়\"?",
+      "short_meaning_en": "womb",
+      "synonyms": [
+        {
+          "meaning": "the organ where a fetus grows",
+          "word": "womb"
+        },
+        {
+          "meaning": "the interior of the uterus",
+          "word": "uterine cavity"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "uterine"
+        },
+        {
+          "type": "possessive",
+          "word": "uterus's"
+        }
+      ]
+    },
     "v-03855": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
@@ -4373,6 +4657,14 @@
       "source_fingerprint": "b2570b4ae0905285a09b620eaeeee7861b388c1c305a1cf555d0edf16d8eeba3",
       "status": "valid"
     },
+    "v-00817": {
+      "audited_at": "2026-10-01T08:22:36.860536+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দুগুণ",
+      "reason": "The Bangla meaning correctly corresponds to the English word 'double'.",
+      "source_fingerprint": "f35efa17f267ea6c78a965481e14f4deb1a4782a7ef6072c594f49e0c02089e6",
+      "status": "valid"
+    },
     "v-00833": {
       "audited_at": "2026-09-29T07:56:03.720100+00:00",
       "confidence": 0.99,
@@ -4396,6 +4688,14 @@
       "reason": "The term 'মনিব' is unrelated to 'employer'; the appropriate Bangla meaning is 'নিয়োগকর্তা'.",
       "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
       "status": "corrected"
+    },
+    "v-00997": {
+      "audited_at": "2026-10-01T08:22:36.860599+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রসারিত হওয়া বা করা, প্রসারিত করতে",
+      "reason": "The Bangla meaning correctly captures the verb senses of 'extend'.",
+      "source_fingerprint": "e0587d32b47d1a91486ade5e992d409d28ce6eaebfc865320930705da93b25a4",
+      "status": "valid"
     },
     "v-01009": {
       "audited_at": "2026-09-28T08:17:22.471679+00:00",
@@ -4597,6 +4897,14 @@
       "source_fingerprint": "0648dbc8e04c43b6b5f56227407f62daa70eb01d23766f32be975aec535342c3",
       "status": "uncertain"
     },
+    "v-02705": {
+      "audited_at": "2026-10-01T08:22:36.860481+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "জিনিস, বিষয়, সামগ্রী",
+      "reason": "The Bangla meaning accurately reflects the common senses of the English word 'thing'.",
+      "source_fingerprint": "d361b0c07a4cb57a4ace51cd83a7ba2b01e0e32a57bb641144f6df60370a8095",
+      "status": "valid"
+    },
     "v-02806": {
       "audited_at": "2026-09-26T23:32:05.945752+00:00",
       "confidence": 0.99,
@@ -4621,12 +4929,28 @@
       "source_fingerprint": "5583cedfd66deefd845f258d888099ddc88b45980cb08ab439d96de0348fd814",
       "status": "uncertain"
     },
+    "v-02992": {
+      "audited_at": "2026-10-01T08:22:36.860633+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভাঁজ করা, মোড়া, ঢাকা, ভাঁজ করতে",
+      "reason": "The Bangla meaning accurately reflects the verb senses of 'wrap'.",
+      "source_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
+      "status": "valid"
+    },
     "v-03661": {
       "audited_at": "2026-09-27T00:50:34.245084+00:00",
       "confidence": 0.99,
       "meaning_bn": "জিরাফ",
       "reason": "The Bangla meaning is the direct translation of the animal Giraffe.",
       "source_fingerprint": "4fd033f5eae84ec5af298629b074b11a818c3b6354c6912596713d348aea9349",
+      "status": "valid"
+    },
+    "v-03764": {
+      "audited_at": "2026-10-01T08:22:36.860564+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "গর্ভাশয়",
+      "reason": "The Bangla meaning accurately matches the anatomical term 'Uterus'.",
+      "source_fingerprint": "fc63376e82731c693a6757e22dbade3d756e482189bc6e1ef92746b42e926f8f",
       "status": "valid"
     },
     "v-03855": {
@@ -4777,6 +5101,12 @@
       "photo_file_id": "AgACAgUAAxUHartvGcuHNqaIGIPDElpZrKf0wKkAAsgTaxtT7NlVFuWsswM3fxIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00817": {
+      "audio_file_id": "CQACAgUAAxUHar4YUjJ5sTLCcZc2gfahzO2TsZ0AAqAhAAKXRvBVMHNBXerN9Yw9BA",
+      "cached_at": "2026-10-01T08:22:42.965141+00:00",
+      "photo_file_id": "AgACAgUAAxUHar4YUpZdE-6Sb-2hKk7t-4u1WZQAAtoTaxuXRvBVqp17q847zugBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00833": {
       "audio_file_id": "CQACAgUAAxUHartvHc2xIK91VGARE67rMGxzowYAAsEgAAJT7NlVB3xZamFb-Ac9BA",
       "cached_at": "2026-09-29T07:56:13.889674+00:00",
@@ -4800,6 +5130,12 @@
       "cached_at": "2026-09-27T00:35:57.693202+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-00997": {
+      "audio_file_id": "CQACAgUAAxUHar4YVt5aK8e8ToZQTS5RJV2MmfkAAqIhAAKXRvBVBe11bWXaq0I9BA",
+      "cached_at": "2026-10-01T08:22:47.242861+00:00",
+      "photo_file_id": "AgACAgUAAxUHar4YViFPbAe3T6gvnC9RwiMAAXIpAALcE2sbl0bwVXXbhT5s3CuJAQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-01009": {
       "audio_file_id": "CQACAgUAAxUHaroinpt_Umi30mcXhYRPzwjtMdcAAhUfAAJT7NFVc9bJ39aIK6c9BA",
@@ -5025,6 +5361,12 @@
       "photo_file_id": "AgACAgUAAxUHaroil31kMzm-Gsno8dAt0ZYmvWsAAsASaxtT7NFVzvG1hO_Jvd4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02705": {
+      "audio_file_id": "CQACAgUAAxUHar4YTxeYT1TfulWKyYIfJvUwDroAAp8hAAKXRvBV_jyd5JC76vY9BA",
+      "cached_at": "2026-10-01T08:22:40.404923+00:00",
+      "photo_file_id": "AgACAgUAAxUHar4YTyzY85Ymj-tvv5tLp5LzAAHrAALZE2sbl0bwVaWrsw00KXANAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-02776": {
       "cached_at": "2026-09-26T07:07:19.472187+00:00",
       "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
@@ -5066,6 +5408,12 @@
       "photo_file_id": "AgACAgUAAxUHaroioZP_OeW9-KnunYKiF00dYC8AAsYSaxtT7NFVMhiw9hpd25wBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02992": {
+      "audio_file_id": "CQACAgUAAxUHar4YWK2gTGQkq_B4i46KD7c47U4AAqMhAAKXRvBVtrWwkqjmsFQ9BA",
+      "cached_at": "2026-10-01T08:22:49.555313+00:00",
+      "photo_file_id": "AgACAgUAAxUHar4YWcLL6i8IRKyzgQ78NznwMnwAAt0TaxuXRvBVQoCj9DIkUkUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03225": {
       "cached_at": "2026-09-25T16:13:16.117878+00:00",
       "photo_file_id": "AgACAgUAAxUHaradm90Ww0tiAkDb8tb3TBGy6GgAAlwRaxvpIblVO2ZwFUS3r8oBAAMCAANzAAM9BA",
@@ -5101,6 +5449,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnQj4PXcUn73cD5U08Ah5jjDkAAm4RaxvpIbFVn4sBwp-qjzoBAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnQiieY-BfWR74-o0pvnkkKFwAAugkAALpIbFVw1HDmXMy2es9BA"
+    },
+    "v-03764": {
+      "audio_file_id": "CQACAgUAAxUHar4YVB73JyUblsDX3kcRnWHpt1kAAqEhAAKXRvBVCAZ5NBHooR49BA",
+      "cached_at": "2026-10-01T08:22:45.020716+00:00",
+      "photo_file_id": "AgACAgUAAxUHar4YVFFqv-vXMPIwqNQupuxWKI0AAtsTaxuXRvBVwqaQRVZhUxwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-03855": {
       "audio_file_id": "CQACAgUAAxUHarhoXQlsgXOaMk23tVnHL_6I3tQAAn8hAAKcC8lVJbpqm2mP1gE9BA",
@@ -5260,6 +5614,12 @@
       "last_message_id": 99,
       "published_at": "2026-09-29T07:56:09.424355+00:00"
     },
+    "v-00817": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 109,
+      "published_at": "2026-10-01T08:22:42.965167+00:00"
+    },
     "v-00833": {
       "count": 1,
       "last_cycle": 1,
@@ -5284,6 +5644,12 @@
       "last_cycle": 1,
       "last_message_id": 80,
       "published_at": "2026-09-27T00:35:57.693224+00:00"
+    },
+    "v-00997": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 111,
+      "published_at": "2026-10-01T08:22:47.242886+00:00"
     },
     "v-01009": {
       "count": 1,
@@ -5522,6 +5888,12 @@
       "last_message_id": 93,
       "published_at": "2026-09-28T08:17:27.473703+00:00"
     },
+    "v-02705": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 108,
+      "published_at": "2026-10-01T08:22:40.404948+00:00"
+    },
     "v-02776": {
       "count": 1,
       "last_cycle": 1,
@@ -5567,6 +5939,12 @@
       "last_message_id": 97,
       "published_at": "2026-09-28T08:17:37.896824+00:00"
     },
+    "v-02992": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 112,
+      "published_at": "2026-10-01T08:22:49.555337+00:00"
+    },
     "v-03225": {
       "count": 1,
       "last_cycle": 1,
@@ -5606,6 +5984,12 @@
       "published_at": "2026-09-25T12:21:23.376524+00:00",
       "quiz_message_id": 19
     },
+    "v-03764": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 110,
+      "published_at": "2026-10-01T08:22:45.020775+00:00"
+    },
     "v-03855": {
       "count": 1,
       "last_cycle": 1,
@@ -5621,11 +6005,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02705",
-    "v-00817",
-    "v-03764",
-    "v-00997",
-    "v-02992",
     "v-00903",
     "v-02130",
     "v-01373",
@@ -9647,6 +10026,41 @@
         "v-02122"
       ],
       "status": "completed"
+    },
+    "20261001T082236Z-6eb5b957": {
+      "completed_at": "2026-10-01T08:22:49.568325+00:00",
+      "created_at": "2026-10-01T08:22:36.555486+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02705"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00817"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00997"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02992"
+        }
+      ],
+      "published_ids": [
+        "v-02705",
+        "v-00817",
+        "v-03764",
+        "v-00997",
+        "v-02992"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -10273,6 +10687,43 @@
         "v-02122"
       ],
       "run_id": "20260930T080452Z-1b9cd3e2",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-01T08:22:49.568325+00:00",
+      "created_at": "2026-10-01T08:22:36.555486+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02705"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00817"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00997"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02992"
+        }
+      ],
+      "published_ids": [
+        "v-02705",
+        "v-00817",
+        "v-03764",
+        "v-00997",
+        "v-02992"
+      ],
+      "run_id": "20261001T082236Z-6eb5b957",
       "status": "completed",
       "unknown_ids": []
     }
