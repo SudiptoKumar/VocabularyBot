@@ -1477,6 +1477,64 @@
         }
       ]
     },
+    "v-00903": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d108f563f0d63a22574fa5a846b946704818fdef01cd444a69c4631b052fb981",
+      "antonyms": [
+        {
+          "meaning": "start",
+          "word": "beginning"
+        },
+        {
+          "meaning": "source",
+          "word": "origin"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "at the end",
+        "end of the day",
+        "end result",
+        "end point",
+        "end up"
+      ],
+      "common_mistake_correct": "Use *end* as a verb with an object: \"They ended the meeting.\"",
+      "common_mistake_wrong": "*end* used as a verb meaning \"to cause to finish\" without object",
+      "definition_en": "The part that marks the limit or the final point of something.",
+      "example_bn": "আমরা রাস্তার শেষ অংশে পৌঁছেছি।",
+      "example_en": "We reached the end of the road.",
+      "memory_hook": "Think of the word *end* as the *edge* where something stops.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a) beginning",
+        "b) middle",
+        "c) final point",
+        "d) start"
+      ],
+      "quiz_question": "What does \"end\" mean in the sentence \"She finally reached the end of the marathon\"?",
+      "short_meaning_en": "limit, final point",
+      "synonyms": [
+        {
+          "meaning": "final point",
+          "word": "terminus"
+        },
+        {
+          "meaning": "limit",
+          "word": "boundary"
+        },
+        {
+          "meaning": "ending",
+          "word": "conclusion"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "ending"
+        }
+      ]
+    },
     "v-00997": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "e0587d32b47d1a91486ade5e992d409d28ce6eaebfc865320930705da93b25a4",
@@ -1797,6 +1855,68 @@
         }
       ]
     },
+    "v-01216": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
+      "antonyms": [
+        {
+          "meaning": "to become smaller",
+          "word": "shrink"
+        },
+        {
+          "meaning": "to decrease",
+          "word": "decline"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "grow up",
+        "grow rapidly",
+        "grow by",
+        "grow together",
+        "grow into"
+      ],
+      "common_mistake_correct": "Say \"The company developed a new product\" or \"The company grew its sales.\"",
+      "common_mistake_wrong": "Using *grow* with an inanimate object without a natural process, e.g., \"The company grew a new product.\"",
+      "definition_en": "To increase in size, number, or amount over time.",
+      "example_bn": "সূর্যালোক বেশি পেলে গাছ দ্রুত বাড়ে।",
+      "example_en": "Plants grow faster when they get more sunlight.",
+      "memory_hook": "Imagine a seed *growing* into a tree as it gets bigger.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a) shrink",
+        "b) stay the same",
+        "c) increase",
+        "d) disappear"
+      ],
+      "quiz_question": "What does \"grow\" mean in \"The market grew by 10% last year\"?",
+      "short_meaning_en": "increase",
+      "synonyms": [
+        {
+          "meaning": "to become larger",
+          "word": "increase"
+        },
+        {
+          "meaning": "to spread out",
+          "word": "expand"
+        },
+        {
+          "meaning": "to evolve",
+          "word": "develop"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "growth"
+        },
+        {
+          "type": "adjective",
+          "word": "grown"
+        }
+      ]
+    },
     "v-01309": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4e6520b693217d8a663175298a989aeaab9c0c2129a1615ccd025584aed57850",
@@ -1849,6 +1969,59 @@
         }
       ],
       "word_family": []
+    },
+    "v-01373": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "650aa1628ca3a5b7a83eb2250621b8e44150fe89e29d77ae7e115c46c1e35c67",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "heavy industry",
+        "service industry",
+        "industry standards",
+        "industry growth",
+        "local industry"
+      ],
+      "common_mistake_correct": "Use *industry* as a noun for a business sector, not as an adjective.",
+      "common_mistake_wrong": "Confusing *industry* with *industrious* (adjective meaning hardworking)",
+      "definition_en": "A sector of the economy that produces goods or services, often involving factories.",
+      "example_bn": "এই অঞ্চলে টেক্সটাইল শিল্পে অনেক মানুষ কাজ করে।",
+      "example_en": "The textile industry employs many people in this region.",
+      "memory_hook": "Think of *industry* as the *industrial* area where factories stand.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a) She is very industry in her work.",
+        "b) The automotive industry is expanding.",
+        "c) He likes to industry his hobbies.",
+        "d) Industry is a type of fruit."
+      ],
+      "quiz_question": "Which sentence uses \"industry\" correctly?",
+      "short_meaning_en": "production sector",
+      "synonyms": [
+        {
+          "meaning": "area of activity",
+          "word": "sector"
+        },
+        {
+          "meaning": "area of work",
+          "word": "field"
+        },
+        {
+          "meaning": "production of goods",
+          "word": "manufacturing"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "industrial"
+        },
+        {
+          "type": "noun",
+          "word": "industrialist"
+        }
+      ]
     },
     "v-01419": {
       "_content_version": "1.0.6",
@@ -1957,6 +2130,68 @@
         {
           "type": "adverb",
           "word": "Islamically"
+        }
+      ]
+    },
+    "v-01471": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
+      "antonyms": [
+        {
+          "meaning": "to keep alive",
+          "word": "save"
+        },
+        {
+          "meaning": "to not kill",
+          "word": "spare"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "kill a virus",
+        "kill time",
+        "kill the lights",
+        "kill the mood",
+        "kill the project"
+      ],
+      "common_mistake_correct": "Use figurative phrases like \"kill time\" or choose a different verb for literal tasks.",
+      "common_mistake_wrong": "Using *kill* for non‑lethal contexts without a figurative cue, e.g., \"He killed the homework.\"",
+      "definition_en": "To cause the death of a living being or to destroy something completely.",
+      "example_bn": "শিকারী খাবারের জন্য একটি হরিণকে হত্যা করেছিল।",
+      "example_en": "The hunter killed a deer for food.",
+      "memory_hook": "Think of *kill* as a *killing* blow that ends life.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 3,
+      "quiz_options": [
+        "a) She will kill the cake after baking it.",
+        "b) He killed the lights before leaving.",
+        "c) They kill the meeting early.",
+        "d) The cat will kill the mouse."
+      ],
+      "quiz_question": "Which sentence uses \"kill\" correctly?",
+      "short_meaning_en": "cause death",
+      "synonyms": [
+        {
+          "meaning": "to kill",
+          "word": "slay"
+        },
+        {
+          "meaning": "to kill unlawfully",
+          "word": "murder"
+        },
+        {
+          "meaning": "to ruin",
+          "word": "destroy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "killer"
+        },
+        {
+          "type": "noun",
+          "word": "killing"
         }
       ]
     },
@@ -3096,6 +3331,55 @@
         {
           "type": "verb",
           "word": "questioned"
+        }
+      ]
+    },
+    "v-02130": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b41db6e2c5ab5e731adbb1076ac864075098bc7c7a311e92fc3dc245205ea3d3",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "track race",
+        "horse race",
+        "race against time",
+        "race day",
+        "race finish"
+      ],
+      "common_mistake_correct": "When used as a verb, add a purpose: \"He raced to catch the bus.\"",
+      "common_mistake_wrong": "Using *race* as a verb meaning \"to hurry\" without context",
+      "definition_en": "A competition in which participants try to run faster than each other.",
+      "example_bn": "তিনি গতকাল ৫ কিলোমিটার দৌড়ে অংশ নিলেন।",
+      "example_en": "She entered the 5‑kilometre race yesterday.",
+      "memory_hook": "Imagine a *race* as a *racing* line on a track.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "a) a competition",
+        "b) a speed limit",
+        "c) a type of car",
+        "d) a marathon"
+      ],
+      "quiz_question": "In \"The race was cancelled due to rain,\" what does \"race\" refer to?",
+      "short_meaning_en": "running competition",
+      "synonyms": [
+        {
+          "meaning": "a running contest",
+          "word": "run"
+        },
+        {
+          "meaning": "competition",
+          "word": "contest"
+        },
+        {
+          "meaning": "long-distance race",
+          "word": "marathon"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "racer"
         }
       ]
     },
@@ -4689,6 +4973,14 @@
       "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
       "status": "corrected"
     },
+    "v-00903": {
+      "audited_at": "2026-10-02T07:58:58.609196+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "প্রান্তভাগ, সীমা, শেষ, সমাপ্ত করা",
+      "reason": "The Bangla meaning accurately captures both noun and verb senses of 'end'.",
+      "source_fingerprint": "d108f563f0d63a22574fa5a846b946704818fdef01cd444a69c4631b052fb981",
+      "status": "valid"
+    },
     "v-00997": {
       "audited_at": "2026-10-01T08:22:36.860599+00:00",
       "confidence": 0.99,
@@ -4721,6 +5013,14 @@
       "source_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
       "status": "valid"
     },
+    "v-01216": {
+      "audited_at": "2026-10-02T07:58:58.833730+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বড় হওয়া, উৎপাদন করা, বৃদ্ধি করতে",
+      "reason": "The Bangla meaning correctly reflects the noun and verb senses of 'grow'.",
+      "source_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
+      "status": "valid"
+    },
     "v-01309": {
       "audited_at": "2026-09-30T08:04:52.970921+00:00",
       "confidence": 0.97,
@@ -4728,6 +5028,22 @@
       "reason": "The supplied meaning 'যে কোন উপায়ে' does not match the conjunctive adverb 'however' which means 'however, nevertheless'.",
       "source_fingerprint": "2383685fdb5ba3564f39c5f9e5109c665cd5bb1e4514272fafa559b83dc02156",
       "status": "corrected"
+    },
+    "v-01373": {
+      "audited_at": "2026-10-02T07:58:58.833638+00:00",
+      "confidence": 0.94,
+      "meaning_bn": "শিল্প, কারখানা, উৎপাদন ক্ষেত্র",
+      "reason": "The source meaning includes 'অধ্যবসায়' (diligence), which is not a standard meaning of the noun 'industry'. The correct Bangla meanings are 'শিল্প', 'কারখানা', and 'উৎপাদন ক্ষেত্র'.",
+      "source_fingerprint": "a8009923034183b84e82709ef7adc994a045f76a9812797b94d242d8ca1f913e",
+      "status": "corrected"
+    },
+    "v-01471": {
+      "audited_at": "2026-10-02T07:58:58.833766+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "হত্যা করা, ধ্বংস করা",
+      "reason": "The Bangla meaning accurately represents the meaning of 'kill'.",
+      "source_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
+      "status": "valid"
     },
     "v-01512": {
       "audited_at": "2026-09-26T23:32:05.945786+00:00",
@@ -4831,6 +5147,14 @@
       "meaning_bn": "প্রশ্ন",
       "reason": "The phrase 'কর্মমুচী বানানো' is unrelated; the correct meaning for 'question' is 'প্রশ্ন'.",
       "source_fingerprint": "af8930f2f7cacb4dfb6a8c2f67e467476551d21c4241839ec52803b1d25a92e9",
+      "status": "corrected"
+    },
+    "v-02130": {
+      "audited_at": "2026-10-02T07:58:58.609269+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "দৌড়, দ্রুত চলা, প্রতিযোগিতা",
+      "reason": "The meaning contains an unrelated sense 'উদ্ধৃতি দেওয়া' (to quote) which does not belong to 'race'; corrected to only relevant senses.",
+      "source_fingerprint": "990455e9e7d07c8a0c48463facf4af6a88cd9884ff7ed74871e315bc541beb31",
       "status": "corrected"
     },
     "v-02336": {
@@ -5131,6 +5455,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00903": {
+      "audio_file_id": "CQACAgUAAxUHar9kSY6TS5VKWdmDY10hgxR6oYwAAhAhAAKXRvhVIAeMb25fWjI9BA",
+      "cached_at": "2026-10-02T07:59:06.300341+00:00",
+      "photo_file_id": "AgACAgUAAxUHar9kSZHC3juKS_vCxHVIwhzTV1wAAtIRaxuXRvhVnyhEJ4ICcy4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00997": {
       "audio_file_id": "CQACAgUAAxUHar4YVt5aK8e8ToZQTS5RJV2MmfkAAqIhAAKXRvBVBe11bWXaq0I9BA",
       "cached_at": "2026-10-01T08:22:47.242861+00:00",
@@ -5166,10 +5496,22 @@
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnT-zISsXl57VxKNnfeRFEBkwAAuwkAALpIbFVR9KoeBTEukg9BA"
     },
+    "v-01216": {
+      "audio_file_id": "CQACAgUAAxUHar9kUVwUQgp4EsUJZZRg0VFv5SgAAhMhAAKXRvhVgGgQMmenzVk9BA",
+      "cached_at": "2026-10-02T07:59:14.259461+00:00",
+      "photo_file_id": "AgACAgUAAxUHar9kUU4lY4NYbuRGeMgs3zQEF4wAAtURaxuXRvhVZzcs3yzLouQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01309": {
       "audio_file_id": "CQACAgUAAxUHarzCrSyJRlY2AYKopUnUcn3kw1sAArEiAALHB-hVP28lH1rtYsg9BA",
       "cached_at": "2026-09-30T08:05:01.719977+00:00",
       "photo_file_id": "AgACAgUAAxUHarzCrW6ZYvNmFOR5XpYC9XJ8YY4AAqUSaxvHB-hVAAGNse2OmFm7AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-01373": {
+      "audio_file_id": "CQACAgUAAxUHar9kToijohi80F_KmegxBfDItyIAAhIhAAKXRvhVaMwkSgtVxx49BA",
+      "cached_at": "2026-10-02T07:59:11.773076+00:00",
+      "photo_file_id": "AgACAgUAAxUHar9kT75rtXU08wYCRPHEg-mcyUgAAtQRaxuXRvhVk7-XgcihNZoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01419": {
@@ -5183,6 +5525,12 @@
       "photo_file_id": "AgACAgUAAxUHaradl5ACbC_tRFZfruumhkxi9hEAAloRaxvpIblVC71AeGaHhrYBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
+    },
+    "v-01471": {
+      "audio_file_id": "CQACAgUAAxUHar9kU0z26rpjEhGauJh46nG8zscAAhQhAAKXRvhVCN6c_5XxNm49BA",
+      "cached_at": "2026-10-02T07:59:16.358305+00:00",
+      "photo_file_id": "AgACAgUAAxUHar9kU4hstccmYjzJ6o17MkWgLQkAAtYRaxuXRvhVmig1-m-jU_kBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01512": {
       "audio_file_id": "AwACAgUAAxUHarhV_Ra_MPTEPIN-b1CFElFWpNwAAkYhAAKcC8lVoinMiGPklJc9BA",
@@ -5305,6 +5653,12 @@
       "audio_file_id": "CQACAgUAAxUHarzCsetD9Cc36Xug-5kmMRd85bMAArMiAALHB-hVsr4Z_8POLg49BA",
       "cached_at": "2026-09-30T08:05:06.521506+00:00",
       "photo_file_id": "AgACAgUAAxUHarzCsqB8coE-7dW8_JFDLFFJ3lcAAqcSaxvHB-hVz6-AalN0LWMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02130": {
+      "audio_file_id": "CQACAgUAAxUHar9kTKoctbM2BeuLdiNblUusRUAAAhEhAAKXRvhVH8mCe3vMl-M9BA",
+      "cached_at": "2026-10-02T07:59:08.912195+00:00",
+      "photo_file_id": "AgACAgUAAxUHar9kTOXfgBTkFnyMQZ3bdOXtod4AAtMRaxuXRvhV8BBgl6R_YNABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02336": {
@@ -5645,6 +5999,12 @@
       "last_message_id": 80,
       "published_at": "2026-09-27T00:35:57.693224+00:00"
     },
+    "v-00903": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 113,
+      "published_at": "2026-10-02T07:59:06.300538+00:00"
+    },
     "v-00997": {
       "count": 1,
       "last_cycle": 1,
@@ -5683,11 +6043,23 @@
       "published_at": "2026-09-25T12:21:35.598865+00:00",
       "quiz_message_id": 27
     },
+    "v-01216": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 116,
+      "published_at": "2026-10-02T07:59:14.259488+00:00"
+    },
     "v-01309": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 105,
       "published_at": "2026-09-30T08:05:01.720005+00:00"
+    },
+    "v-01373": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 115,
+      "published_at": "2026-10-02T07:59:11.773104+00:00"
     },
     "v-01419": {
       "count": 1,
@@ -5702,6 +6074,12 @@
       "last_message_id": 47,
       "published_at": "2026-09-25T16:13:11.478231+00:00",
       "quiz_message_id": 48
+    },
+    "v-01471": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 117,
+      "published_at": "2026-10-02T07:59:16.358333+00:00"
     },
     "v-01512": {
       "count": 1,
@@ -5833,6 +6211,12 @@
       "last_cycle": 1,
       "last_message_id": 107,
       "published_at": "2026-09-30T08:05:06.521533+00:00"
+    },
+    "v-02130": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 114,
+      "published_at": "2026-10-02T07:59:08.912224+00:00"
     },
     "v-02336": {
       "count": 1,
@@ -6005,11 +6389,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00903",
-    "v-02130",
-    "v-01373",
-    "v-01216",
-    "v-01471",
     "v-02049",
     "v-00516",
     "v-00499",
@@ -10061,6 +10440,41 @@
         "v-02992"
       ],
       "status": "completed"
+    },
+    "20261002T075858Z-fdce9e4b": {
+      "completed_at": "2026-10-02T07:59:16.372288+00:00",
+      "created_at": "2026-10-02T07:58:58.008510+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00903"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02130"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01373"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01216"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01471"
+        }
+      ],
+      "published_ids": [
+        "v-00903",
+        "v-02130",
+        "v-01373",
+        "v-01216",
+        "v-01471"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -10724,6 +11138,43 @@
         "v-02992"
       ],
       "run_id": "20261001T082236Z-6eb5b957",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-02T07:59:16.372288+00:00",
+      "created_at": "2026-10-02T07:58:58.008510+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00903"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02130"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01373"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01216"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01471"
+        }
+      ],
+      "published_ids": [
+        "v-00903",
+        "v-02130",
+        "v-01373",
+        "v-01216",
+        "v-01471"
+      ],
+      "run_id": "20261002T075858Z-fdce9e4b",
       "status": "completed",
       "unknown_ids": []
     }
