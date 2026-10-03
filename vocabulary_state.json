@@ -585,6 +585,127 @@
         }
       ]
     },
+    "v-00499": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f26df87635cae96e831dfcda5526849e3c9c3a442d429c923f0e15699fc41922",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "cup of coffee",
+        "coffee shop",
+        "coffee break",
+        "black coffee"
+      ],
+      "common_mistake_correct": "coffee has two f's and an e at the end",
+      "common_mistake_wrong": "coffe",
+      "definition_en": "A hot drink made from roasted and ground coffee beans.",
+      "example_bn": "আমি প্রতিদিন সকালে এক কাপ কফি পান করি।",
+      "example_en": "I drink a cup of coffee every morning.",
+      "memory_hook": "\"Coffee\" looks like \"café\" – both are places to drink the same drink.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a fruit",
+        "a beverage",
+        "a vehicle",
+        "a tool"
+      ],
+      "quiz_question": "What is \"coffee\"?",
+      "short_meaning_en": "beverage",
+      "synonyms": [
+        {
+          "meaning": "coffee slang",
+          "word": "java"
+        },
+        {
+          "meaning": "prepared coffee",
+          "word": "brew"
+        },
+        {
+          "meaning": "slang for coffee",
+          "word": "joe"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "coffees"
+        },
+        {
+          "type": "noun",
+          "word": "coffeehouse"
+        },
+        {
+          "type": "noun",
+          "word": "coffee‑maker"
+        }
+      ]
+    },
+    "v-00516": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "20bf3486a5f08d813b330d57d58b9cb4ea7287a2d9e578674717b43ea56a165a",
+      "antonyms": [
+        {
+          "meaning": "not comfortable",
+          "word": "uncomfortable"
+        },
+        {
+          "meaning": "not at ease",
+          "word": "uneasy"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "comfortable chair",
+        "feel comfortable",
+        "comfortable shoes",
+        "comfortable temperature"
+      ],
+      "common_mistake_correct": "comfortable is an adjective; use \"comfort\" as a verb",
+      "common_mistake_wrong": "comfortable as a verb",
+      "definition_en": "Providing physical ease and comfort; free from hardship or strain.",
+      "example_bn": "সোফাটি এত আরামপ্রদ যে আমি এখানে সারাদিন বসে থাকতে পারি।",
+      "example_en": "The sofa is so comfortable that I could sit here all day.",
+      "memory_hook": "\"Comfort\" sounds like \"come\" + \"fort\" – a strong place that makes you feel safe.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "painful",
+        "cozy",
+        "hard",
+        "cold"
+      ],
+      "quiz_question": "Which word best matches \"comfortable\"?",
+      "short_meaning_en": "cozy",
+      "synonyms": [
+        {
+          "meaning": "snug",
+          "word": "cozy"
+        },
+        {
+          "meaning": "tight and comfortable",
+          "word": "snug"
+        },
+        {
+          "meaning": "relaxed",
+          "word": "at ease"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "comfort"
+        },
+        {
+          "type": "adverb",
+          "word": "comfortably"
+        },
+        {
+          "type": "verb",
+          "word": "comforted"
+        }
+      ]
+    },
     "v-00566": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
@@ -1814,6 +1935,67 @@
         {
           "type": "noun",
           "word": "fishery"
+        }
+      ]
+    },
+    "v-01101": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
+      "antonyms": [
+        {
+          "meaning": "let freely",
+          "word": "allow"
+        },
+        {
+          "meaning": "grant permission",
+          "word": "permit"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "force someone",
+        "force entry",
+        "force the issue",
+        "force a decision"
+      ],
+      "common_mistake_correct": "use the verb \"force\" to mean compel",
+      "common_mistake_wrong": "force as a noun in \"force him\"",
+      "definition_en": "To make someone do something by using pressure or threats.",
+      "example_bn": "পুলিশ গাড়ি চালকের গাড়ি থামাতে জোর করেছিল।",
+      "example_en": "The police forced the driver to stop the car.",
+      "memory_hook": "\"Force\" sounds like \"forceful push\" – you push someone to act.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "allow",
+        "compel",
+        "ignore",
+        "help"
+      ],
+      "quiz_question": "What does \"force\" mean in the sentence \"They forced him to sign\"?",
+      "short_meaning_en": "compel",
+      "synonyms": [
+        {
+          "meaning": "force",
+          "word": "compel"
+        },
+        {
+          "meaning": "force by threats",
+          "word": "coerce"
+        },
+        {
+          "meaning": "make someone do",
+          "word": "oblige"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "forceful"
+        },
+        {
+          "type": "verb",
+          "word": "forced"
         }
       ]
     },
@@ -3269,6 +3451,59 @@
         {
           "type": "adjective",
           "word": "presentational"
+        }
+      ]
+    },
+    "v-02049": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b58d182b2f16280b8fe6d090fee1acc85bfde71ff8135fc3365e6d889a896b0b",
+      "antonyms": [
+        {
+          "meaning": "as a secondary reason",
+          "word": "secondarily"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "primarily because",
+        "primarily used for",
+        "primarily focused on",
+        "primarily concerned with"
+      ],
+      "common_mistake_correct": "primarily is an adverb, not an adjective",
+      "common_mistake_wrong": "primarily = primary",
+      "definition_en": "Used to indicate that something is the main or first reason or purpose.",
+      "example_bn": "সে মূলত বেতনের কারণে চাকরিটি বেছে নিয়েছে।",
+      "example_en": "She chose the job primarily because of the salary.",
+      "memory_hook": "Think of \"prime\" – the first, then add \"-ly\" to make it an adverb.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "later",
+        "first",
+        "rarely",
+        "quickly"
+      ],
+      "quiz_question": "What does \"primarily\" mean?",
+      "short_meaning_en": "first",
+      "synonyms": [
+        {
+          "meaning": "mainly",
+          "word": "chiefly"
+        },
+        {
+          "meaning": "predominantly",
+          "word": "mainly"
+        },
+        {
+          "meaning": "for the most part",
+          "word": "principally"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "primary"
         }
       ]
     },
@@ -4749,6 +4984,55 @@
         }
       ]
     },
+    "v-03828": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "dd9b2ca011709a417c93478b50d3483d355f6139d5111d1a793541e6130c3be1",
+      "antonyms": [
+        {
+          "meaning": "animal being hunted",
+          "word": "prey"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "bald eagle",
+        "soaring eagle",
+        "eagle eyes",
+        "eagle's nest"
+      ],
+      "common_mistake_correct": "eagle ends with \"le\" not \"el\"",
+      "common_mistake_wrong": "eagel",
+      "definition_en": "A large bird of prey with a sharp beak and powerful wings.",
+      "example_bn": "ঈগলটি নিচে নামল এবং একটি মাছ ধরল।",
+      "example_en": "The eagle swooped down and caught a fish.",
+      "memory_hook": "\"Eagle\" starts with \"E\" like \"eye\" – it has sharp eyes.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a small sparrow",
+        "a large bird of prey",
+        "a fish",
+        "a reptile"
+      ],
+      "quiz_question": "Which of these is an eagle?",
+      "short_meaning_en": "bird of prey",
+      "synonyms": [
+        {
+          "meaning": "bird of prey",
+          "word": "raptor"
+        },
+        {
+          "meaning": "eagle",
+          "word": "bird of prey"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "eagles"
+        }
+      ]
+    },
     "v-03855": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
@@ -4885,6 +5169,22 @@
       "source_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
       "status": "valid"
     },
+    "v-00499": {
+      "audited_at": "2026-10-03T07:40:03.836841+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "কফি",
+      "reason": "The Bangla term directly corresponds to the English word 'coffee'.",
+      "source_fingerprint": "f26df87635cae96e831dfcda5526849e3c9c3a442d429c923f0e15699fc41922",
+      "status": "valid"
+    },
+    "v-00516": {
+      "audited_at": "2026-10-03T07:40:03.836811+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "আরামপ্রদ, স্বচ্ছন্দ",
+      "reason": "Both Bangla translations accurately reflect the meaning of 'comfortable'.",
+      "source_fingerprint": "20bf3486a5f08d813b330d57d58b9cb4ea7287a2d9e578674717b43ea56a165a",
+      "status": "valid"
+    },
     "v-00566": {
       "audited_at": "2026-09-27T07:39:03.577489+00:00",
       "confidence": 0.99,
@@ -5011,6 +5311,14 @@
       "meaning_bn": "পঞ্চাশ",
       "reason": "The meaning accurately translates the cardinal number 'fifty'.",
       "source_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
+      "status": "valid"
+    },
+    "v-01101": {
+      "audited_at": "2026-10-03T07:40:03.836902+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "সশস্ত্রবাহিনী, জোর করতে",
+      "reason": "Both senses—military force and the verb 'to force'—are accurately represented in Bangla.",
+      "source_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
       "status": "valid"
     },
     "v-01216": {
@@ -5140,6 +5448,14 @@
       "reason": "The supplied meaning 'উপহার, দান' corresponds to 'gift' not 'presentation'.",
       "source_fingerprint": "be8b368d03738013061f6f2a12ccfe8d96bfe1547760e6c216e02aef19fad739",
       "status": "corrected"
+    },
+    "v-02049": {
+      "audited_at": "2026-10-03T07:40:03.836746+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "প্রথমত",
+      "reason": "The Bangla meaning captures the primary sense of 'primarily' as 'firstly' which aligns with the common usage of the word.",
+      "source_fingerprint": "b58d182b2f16280b8fe6d090fee1acc85bfde71ff8135fc3365e6d889a896b0b",
+      "status": "valid"
     },
     "v-02122": {
       "audited_at": "2026-09-30T08:04:52.970975+00:00",
@@ -5277,6 +5593,14 @@
       "source_fingerprint": "fc63376e82731c693a6757e22dbade3d756e482189bc6e1ef92746b42e926f8f",
       "status": "valid"
     },
+    "v-03828": {
+      "audited_at": "2026-10-03T07:40:03.836867+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "ঈগল",
+      "reason": "The Bangla meaning correctly names the bird 'Eagle'.",
+      "source_fingerprint": "dd9b2ca011709a417c93478b50d3483d355f6139d5111d1a793541e6130c3be1",
+      "status": "valid"
+    },
     "v-03855": {
       "audited_at": "2026-09-27T00:50:34.245030+00:00",
       "confidence": 0.99,
@@ -5358,6 +5682,18 @@
       "cached_at": "2026-09-27T00:35:59.667617+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk7_SAnVv_8zB7Oc946zR6fKYAAhAUaxucC8lVbnBTQnoRKP0BAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-00499": {
+      "audio_file_id": "CQACAgUAAxUHasCxZHl9YfrKYmzaMWwcqEm3tZMAAsYiAAKvhgFWzjn3Q9buqng9BA",
+      "cached_at": "2026-10-03T07:40:21.188607+00:00",
+      "photo_file_id": "AgACAgUAAxUHasCxZF1vUbW0TeOm4_nThjaKc_EAAqYSaxuvhgFWg5hpliGQlwIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00516": {
+      "audio_file_id": "CQACAgUAAxUHasCxYSVMSXADBVMgte4eUvAJ4KUAAsUiAAKvhgFWo3sUpxXhcIM9BA",
+      "cached_at": "2026-10-03T07:40:18.334913+00:00",
+      "photo_file_id": "AgACAgUAAxUHasCxYZ-YUeAJNXch6dzFroqF_QQAAqUSaxuvhgFWa_okAAEGv8vaAQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-00566": {
       "audio_file_id": "CQACAgUAAxUHarjIIYm_QpziEH-iaV_CuyBoFCgAAsUiAAKcC8lVtSp9zjZ6q3g9BA",
@@ -5489,6 +5825,12 @@
       "audio_file_id": "CQACAgUAAxUHarZZNwHQGYtYWJuUYNXmI-021vMAAsckAALpIbFVM-IBUsQCA889BA",
       "cached_at": "2026-09-25T11:21:28.101665+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZN9xKshMf1vR_Vg-ux8v3HvgAAlwRaxvpIbFVrzXitNgjQNMBAAMCAANzAAM9BA"
+    },
+    "v-01101": {
+      "audio_file_id": "CQACAgUAAxUHasCxa4y9aq_8hqPh8u9nwB77v4MAAsgiAAKvhgFWQZUcV54rRGY9BA",
+      "cached_at": "2026-10-03T07:40:27.539005+00:00",
+      "photo_file_id": "AgACAgUAAxUHasCxa1-NxC-uMIzlqCgPc4rrXkEAAqgSaxuvhgFWfU360voU4VIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01144": {
       "cached_at": "2026-09-25T12:21:35.598843+00:00",
@@ -5647,6 +5989,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIHZUI0TWakoPnb-hC-qQaoCEAAsIiAAKcC8lV9SPCYR3e4bA9BA",
       "cached_at": "2026-09-27T07:39:10.074918+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIHTaFHmitXhQF5wRSq71V9hEAApQUaxucC8lVq1rO99bGWVkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02049": {
+      "audio_file_id": "CQACAgUAAxUHasCxXgYsjWIZSqiO5eySKda3AAE5AALEIgACr4YBVufNg4d_UAvWPQQ",
+      "cached_at": "2026-10-03T07:40:15.514612+00:00",
+      "photo_file_id": "AgACAgUAAxUHasCxXxPDBz_9FXKL39gkHptI8fAAAqQSaxuvhgFWv4ClyA-AJlkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02122": {
@@ -5810,6 +6158,12 @@
       "photo_file_id": "AgACAgUAAxUHar4YVFFqv-vXMPIwqNQupuxWKI0AAtsTaxuXRvBVwqaQRVZhUxwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03828": {
+      "audio_file_id": "CQACAgUAAxUHasCxaBQ3MfW-vU0wurx8EQfXvCYAAsciAAKvhgFWcXCwQVzfOJ49BA",
+      "cached_at": "2026-10-03T07:40:24.711283+00:00",
+      "photo_file_id": "AgACAgUAAxUHasCxaP1SPZ0cTb5RFAOv8p61oVQAAqcSaxuvhgFWaDb_9LBoAAFCAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-03855": {
       "audio_file_id": "CQACAgUAAxUHarhoXQlsgXOaMk23tVnHL_6I3tQAAn8hAAKcC8lVJbpqm2mP1gE9BA",
       "cached_at": "2026-09-27T00:50:38.337514+00:00",
@@ -5899,6 +6253,18 @@
       "last_cycle": 1,
       "last_message_id": 81,
       "published_at": "2026-09-27T00:35:59.667640+00:00"
+    },
+    "v-00499": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 120,
+      "published_at": "2026-10-03T07:40:21.188631+00:00"
+    },
+    "v-00516": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 119,
+      "published_at": "2026-10-03T07:40:18.334942+00:00"
     },
     "v-00566": {
       "count": 1,
@@ -6035,6 +6401,12 @@
       "last_message_id": 12,
       "published_at": "2026-09-25T11:21:28.101708+00:00",
       "quiz_message_id": 13
+    },
+    "v-01101": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 122,
+      "published_at": "2026-10-03T07:40:27.539031+00:00"
     },
     "v-01144": {
       "count": 1,
@@ -6206,6 +6578,12 @@
       "last_message_id": 89,
       "published_at": "2026-09-27T07:39:10.074979+00:00"
     },
+    "v-02049": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 118,
+      "published_at": "2026-10-03T07:40:15.514640+00:00"
+    },
     "v-02122": {
       "count": 1,
       "last_cycle": 1,
@@ -6374,6 +6752,12 @@
       "last_message_id": 110,
       "published_at": "2026-10-01T08:22:45.020775+00:00"
     },
+    "v-03828": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 121,
+      "published_at": "2026-10-03T07:40:24.711338+00:00"
+    },
     "v-03855": {
       "count": 1,
       "last_cycle": 1,
@@ -6389,11 +6773,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02049",
-    "v-00516",
-    "v-00499",
-    "v-03828",
-    "v-01101",
     "v-00548",
     "v-00128",
     "v-00105",
@@ -10475,6 +10854,41 @@
         "v-01471"
       ],
       "status": "completed"
+    },
+    "20261003T074003Z-0eb1daf5": {
+      "completed_at": "2026-10-03T07:40:27.553920+00:00",
+      "created_at": "2026-10-03T07:40:03.354440+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02049"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00516"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00499"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03828"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01101"
+        }
+      ],
+      "published_ids": [
+        "v-02049",
+        "v-00516",
+        "v-00499",
+        "v-03828",
+        "v-01101"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -11175,6 +11589,43 @@
         "v-01471"
       ],
       "run_id": "20261002T075858Z-fdce9e4b",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-03T07:40:27.553920+00:00",
+      "created_at": "2026-10-03T07:40:03.354440+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02049"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00516"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00499"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03828"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01101"
+        }
+      ],
+      "published_ids": [
+        "v-02049",
+        "v-00516",
+        "v-00499",
+        "v-03828",
+        "v-01101"
+      ],
+      "run_id": "20261003T074003Z-0eb1daf5",
       "status": "completed",
       "unknown_ids": []
     }
