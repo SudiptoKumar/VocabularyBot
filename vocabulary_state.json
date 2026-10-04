@@ -135,6 +135,117 @@
         }
       ]
     },
+    "v-00105": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b5c569e80de4aa03be7f972a9642b08f24396e971f8250628790568d03e60451",
+      "antonyms": [
+        {
+          "meaning": "not yet",
+          "word": "still"
+        },
+        {
+          "meaning": "up to now not",
+          "word": "yet"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "already known",
+        "already done",
+        "already finished",
+        "already decided",
+        "already there"
+      ],
+      "common_mistake_correct": "She has already finished.",
+      "common_mistake_wrong": "She already have finished.",
+      "definition_en": "Indicating that something has happened before now or earlier than expected.",
+      "example_bn": "সে ইতিমধ্যে তার হোমওয়ার্ক শেষ করেছে।",
+      "example_en": "She has already finished her homework.",
+      "memory_hook": "\"Already\" sounds like \"all ready\" – everything is ready already.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "a) I already ate breakfast.",
+        "b) I already will go.",
+        "c) I already am happy.",
+        "d) I already can."
+      ],
+      "quiz_question": "Choose the correct use of \"already\".",
+      "short_meaning_en": "previously",
+      "synonyms": [
+        {
+          "meaning": "before now",
+          "word": "previously"
+        },
+        {
+          "meaning": "before the expected time",
+          "word": "earlier"
+        },
+        {
+          "meaning": "by this time",
+          "word": "by now"
+        }
+      ],
+      "word_family": []
+    },
+    "v-00128": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ebb07d122ad933c4a7f7936a624843ef09f60389dbfcbfb8a74f03aed6e83ab3",
+      "antonyms": [
+        {
+          "meaning": "identical",
+          "word": "same"
+        },
+        {
+          "meaning": "exactly alike",
+          "word": "identical"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "another day",
+        "another time",
+        "another chance",
+        "another person",
+        "another one"
+      ],
+      "common_mistake_correct": "I need another book.",
+      "common_mistake_wrong": "I need an another book.",
+      "definition_en": "Referring to a different person or thing besides the one already mentioned.",
+      "example_bn": "আপনি কি আরেকটি চা চান?",
+      "example_en": "Would you like another cup of tea?",
+      "memory_hook": "\"Another\" = \"an\" + \"other\" – one more of the other.",
+      "part_of_speech": "determiner",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "a) I have another apple.",
+        "b) I have an another apple.",
+        "c) I have other apple.",
+        "d) I have an other apple."
+      ],
+      "quiz_question": "Which sentence uses \"another\" correctly?",
+      "short_meaning_en": "different",
+      "synonyms": [
+        {
+          "meaning": "different",
+          "word": "other"
+        },
+        {
+          "meaning": "not the same",
+          "word": "different"
+        },
+        {
+          "meaning": "extra",
+          "word": "additional"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "possessive",
+          "word": "another's"
+        }
+      ]
+    },
     "v-00218": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -703,6 +814,72 @@
         {
           "type": "verb",
           "word": "comforted"
+        }
+      ]
+    },
+    "v-00548": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "55d15c78ab45fd27c0e0fb4c5cee8039c1346c2b60e999a8cca75d42c0b14f8b",
+      "antonyms": [
+        {
+          "meaning": "loss of focus",
+          "word": "distraction"
+        },
+        {
+          "meaning": "failure to pay attention",
+          "word": "neglect"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "concentration of power",
+        "concentration camp",
+        "lack of concentration",
+        "improve concentration",
+        "high concentration level"
+      ],
+      "common_mistake_correct": "He has a high level of concentration.",
+      "common_mistake_wrong": "He has a high concentration.",
+      "definition_en": "The act of focusing one's attention on a single thing.",
+      "example_bn": "পড়াশোনার সময় তার একাগ্রতা বাড়াতে তাকে একটি শান্ত ঘর দরকার।",
+      "example_en": "She needs a quiet room to improve her concentration while studying.",
+      "memory_hook": "Think of \"con-cent\" – putting everything in the centre of your mind.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a) a type of newspaper",
+        "b) focusing attention",
+        "c) a political party",
+        "d) already done"
+      ],
+      "quiz_question": "What does \"concentration\" mean?",
+      "short_meaning_en": "focus",
+      "synonyms": [
+        {
+          "meaning": "the center of attention",
+          "word": "focus"
+        },
+        {
+          "meaning": "the act of noticing",
+          "word": "attention"
+        },
+        {
+          "meaning": "deep involvement",
+          "word": "absorption"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "concentrate"
+        },
+        {
+          "type": "adjective",
+          "word": "concentrated"
+        },
+        {
+          "type": "verb",
+          "word": "concentrating"
         }
       ]
     },
@@ -2977,6 +3154,59 @@
       ],
       "word_family": []
     },
+    "v-01757": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "daily newspaper",
+        "local newspaper",
+        "newspaper article",
+        "newspaper headline",
+        "newspaper subscription"
+      ],
+      "common_mistake_correct": "I bought a newspaper yesterday and read it at home.",
+      "common_mistake_wrong": "I bought a newspaper yesterday and read it on the internet.",
+      "definition_en": "A printed publication issued regularly containing news, articles, and advertisements.",
+      "example_bn": "আমি প্রতিদিন সকালে কফির সঙ্গে সংবাদপত্র পড়ি।",
+      "example_en": "I read the newspaper every morning with my coffee.",
+      "memory_hook": "\"News\" + \"paper\" – a paper that carries news.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a) I watched the newspaper on TV.",
+        "b) I read the newspaper yesterday.",
+        "c) I listened to the newspaper.",
+        "d) I ate the newspaper."
+      ],
+      "quiz_question": "Which sentence correctly uses \"newspaper\"?",
+      "short_meaning_en": "news paper",
+      "synonyms": [
+        {
+          "meaning": "printed news source",
+          "word": "paper"
+        },
+        {
+          "meaning": "news media",
+          "word": "press"
+        },
+        {
+          "meaning": "periodical",
+          "word": "journal"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "newspaperman"
+        },
+        {
+          "type": "adjective",
+          "word": "newspapery"
+        }
+      ]
+    },
     "v-01769": {
       "_content_version": "1.0.6",
       "antonyms": [],
@@ -3268,6 +3498,64 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-01987": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1002ccb16cdd4a51f83c7b6ba12be250e2000eadbc49c3bf5582bfed0ea76b6d",
+      "antonyms": [
+        {
+          "meaning": "without political involvement",
+          "word": "apolitically"
+        },
+        {
+          "meaning": "not political",
+          "word": "nonpolitically"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "politically correct",
+        "politically motivated",
+        "politically active",
+        "politically charged",
+        "politically unstable"
+      ],
+      "common_mistake_correct": "He spoke politically about the election.",
+      "common_mistake_wrong": "He spoke politically about the weather.",
+      "definition_en": "Relating to government, public affairs, or the way a country is run.",
+      "example_bn": "আলোচনায় বিষয়টি রাজনৈতিকভাবে আলোচনা করা হয়েছিল।",
+      "example_en": "The issue was discussed politically during the debate.",
+      "memory_hook": "\"Politically\" ends with \"-ly\", turning the adjective \"political\" into an adverb.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a) The cake was politically baked.",
+        "b) She voted politically.",
+        "c) The car runs politically.",
+        "d) The tree grew politically."
+      ],
+      "quiz_question": "Which context fits the word \"politically\"?",
+      "short_meaning_en": "governmental",
+      "synonyms": [
+        {
+          "meaning": "as a citizen",
+          "word": "civically"
+        },
+        {
+          "meaning": "pertaining to government",
+          "word": "governmentally"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "political"
+        },
+        {
+          "type": "noun",
+          "word": "politics"
+        }
+      ]
     },
     "v-02015": {
       "_content_version": "1.2.4",
@@ -5129,6 +5417,22 @@
   },
   "cycle": 1,
   "meaning_audit": {
+    "v-00105": {
+      "audited_at": "2026-10-04T07:49:08.754017+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ইতোমধ্যে, ইতোপূর্বে",
+      "reason": "The provided Bangla meanings correspond to the adverb 'already' indicating prior occurrence.",
+      "source_fingerprint": "b5c569e80de4aa03be7f972a9642b08f24396e971f8250628790568d03e60451",
+      "status": "valid"
+    },
+    "v-00128": {
+      "audited_at": "2026-10-04T07:49:08.753990+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অন্য, অপর",
+      "reason": "Both Bangla translations correctly convey the meaning of the English word 'another'.",
+      "source_fingerprint": "ebb07d122ad933c4a7f7936a624843ef09f60389dbfcbfb8a74f03aed6e83ab3",
+      "status": "valid"
+    },
     "v-00337": {
       "audited_at": "2026-09-26T12:40:01.633580+00:00",
       "confidence": 1.0,
@@ -5183,6 +5487,14 @@
       "meaning_bn": "আরামপ্রদ, স্বচ্ছন্দ",
       "reason": "Both Bangla translations accurately reflect the meaning of 'comfortable'.",
       "source_fingerprint": "20bf3486a5f08d813b330d57d58b9cb4ea7287a2d9e578674717b43ea56a165a",
+      "status": "valid"
+    },
+    "v-00548": {
+      "audited_at": "2026-10-04T07:49:08.753923+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "একাগ্রতা",
+      "reason": "The Bangla meaning accurately matches the English word 'concentration' as a noun meaning focus or attention.",
+      "source_fingerprint": "55d15c78ab45fd27c0e0fb4c5cee8039c1346c2b60e999a8cca75d42c0b14f8b",
       "status": "valid"
     },
     "v-00566": {
@@ -5409,6 +5721,14 @@
       "source_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
       "status": "valid"
     },
+    "v-01757": {
+      "audited_at": "2026-10-04T07:49:08.754058+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সংবাদপত্র, পত্রিকা",
+      "reason": "Both Bangla meanings correctly represent the noun 'newspaper'.",
+      "source_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
+      "status": "valid"
+    },
     "v-01940": {
       "audited_at": "2026-09-29T07:56:03.720073+00:00",
       "confidence": 0.99,
@@ -5423,6 +5743,14 @@
       "meaning_bn": "ব্যক্তিগত কম্পিউটার",
       "reason": "The Bangla meaning accurately defines PC as a personal computer.",
       "source_fingerprint": "8be3475295c9b9cccf67dac03034dfc0677f9c9248d05a7c799a790722e2bf2c",
+      "status": "valid"
+    },
+    "v-01987": {
+      "audited_at": "2026-10-04T07:49:08.754037+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "রাজনৈতিক",
+      "reason": "The Bangla term accurately reflects the adjective 'politically' meaning relating to politics.",
+      "source_fingerprint": "1002ccb16cdd4a51f83c7b6ba12be250e2000eadbc49c3bf5582bfed0ea76b6d",
       "status": "valid"
     },
     "v-02015": {
@@ -5629,6 +5957,18 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralGrRW_4TqXdUvLD9S0FhTeCoAAicfAALpIblVQHzswxj6eRg9BA"
     },
+    "v-00105": {
+      "audio_file_id": "CQACAgUAAxUHasIFAq4bTaTVTac56kD7qAABiYvdAAIJIAACQiUQVs-6x01QI3WCPQQ",
+      "cached_at": "2026-10-04T07:49:22.771606+00:00",
+      "photo_file_id": "AgACAgUAAxUHasIFAi6fRFV8axa3XxcebrSAjwADDBhrG0IlEFasS589s0bK3gEAAwIAA3MAAz0E",
+      "version": "1.2.5"
+    },
+    "v-00128": {
+      "audio_file_id": "CQACAgUAAxUHasIE__OYcrv15PVK3C7GNqGR_X8AAgggAAJCJRBWbthQvH4lQL49BA",
+      "cached_at": "2026-10-04T07:49:19.838680+00:00",
+      "photo_file_id": "AgACAgUAAxUHasIE_wixQvhnCVKxdvy1oGSzA3sAAgsYaxtCJRBW31-YQDDduW0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00218": {
       "cached_at": "2026-09-25T16:45:17.189571+00:00",
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
@@ -5693,6 +6033,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxYSVMSXADBVMgte4eUvAJ4KUAAsUiAAKvhgFWo3sUpxXhcIM9BA",
       "cached_at": "2026-10-03T07:40:18.334913+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxYZ-YUeAJNXch6dzFroqF_QQAAqUSaxuvhgFWa_okAAEGv8vaAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-00548": {
+      "audio_file_id": "CQACAgUAAxUHasIE-BuPC8J7ssSzfXBGFodksegAAgcgAAJCJRBWBjSmtPiUNk49BA",
+      "cached_at": "2026-10-04T07:49:12.793880+00:00",
+      "photo_file_id": "AgACAgUAAxUHasIE-KqxNQ7W0i82IxlsG0IAASVkAAIKGGsbQiUQVivX6RCbYClNAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-00566": {
@@ -5931,6 +6277,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk6enuBqLKyv6A-3FBuSFmdjgAAg0UaxucC8lV61lfr_6mCbABAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-01757": {
+      "audio_file_id": "CQACAgUAAxUHasIFB5uO4Rnyh7z8Ug-NHYoO_fUAAgsgAAJCJRBWz0tCmnDPmn49BA",
+      "cached_at": "2026-10-04T07:49:27.941730+00:00",
+      "photo_file_id": "AgACAgUAAxUHasIFB9l3lhWsItcgi6G8JMa2NlgAAg4YaxtCJRBW8qm8ewixVxgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01769": {
       "cached_at": "2026-09-25T16:13:08.961078+00:00",
       "photo_file_id": "AgACAgUAAxUHaradlBysZRqQ9QPCTm8jGKbfcuAAAlkRaxvpIblVOUCKf1sjKEoBAAMCAANzAAM9BA",
@@ -5972,6 +6324,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_OfYhHU79Zex-7IhiCr_thGQAAiQRaxvpIblVxt2oMAyAVEABAAMCAANzAAM9BA",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
+    },
+    "v-01987": {
+      "audio_file_id": "CQACAgUAAxUHasIFBPvztYLduLwL1l1AlYAo3-8AAgogAAJCJRBW3JUAAWOpcnKuPQQ",
+      "cached_at": "2026-10-04T07:49:25.178588+00:00",
+      "photo_file_id": "AgACAgUAAxUHasIFBI4P66-hTEukiHQL8V_Ut-EAAg0YaxtCJRBWss4TyreHzhcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02015": {
       "audio_file_id": "CQACAgUAAxUHarzCp1zD6PdHGRmN1iI4oyxMEJoAAq8iAALHB-hVxHaJ-ds-90A9BA",
@@ -6199,6 +6557,18 @@
       "last_message_id": 54,
       "published_at": "2026-09-25T16:45:15.237268+00:00"
     },
+    "v-00105": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 125,
+      "published_at": "2026-10-04T07:49:22.771631+00:00"
+    },
+    "v-00128": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 124,
+      "published_at": "2026-10-04T07:49:19.838707+00:00"
+    },
     "v-00218": {
       "count": 1,
       "last_cycle": 1,
@@ -6265,6 +6635,12 @@
       "last_cycle": 1,
       "last_message_id": 119,
       "published_at": "2026-10-03T07:40:18.334942+00:00"
+    },
+    "v-00548": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 123,
+      "published_at": "2026-10-04T07:49:12.793905+00:00"
     },
     "v-00566": {
       "count": 1,
@@ -6516,6 +6892,12 @@
       "last_message_id": 78,
       "published_at": "2026-09-27T00:35:53.501125+00:00"
     },
+    "v-01757": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 127,
+      "published_at": "2026-10-04T07:49:27.941754+00:00"
+    },
     "v-01769": {
       "count": 1,
       "last_cycle": 1,
@@ -6559,6 +6941,12 @@
       "last_cycle": 1,
       "last_message_id": 29,
       "published_at": "2026-09-25T14:03:38.200108+00:00"
+    },
+    "v-01987": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 126,
+      "published_at": "2026-10-04T07:49:25.178612+00:00"
     },
     "v-02015": {
       "count": 1,
@@ -6773,11 +7161,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00548",
-    "v-00128",
-    "v-00105",
-    "v-01987",
-    "v-01757",
     "v-01659",
     "v-02375",
     "v-02238",
@@ -10889,6 +11272,41 @@
         "v-01101"
       ],
       "status": "completed"
+    },
+    "20261004T074908Z-b5c8c915": {
+      "completed_at": "2026-10-04T07:49:27.954282+00:00",
+      "created_at": "2026-10-04T07:49:08.340753+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00548"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00128"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00105"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01987"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01757"
+        }
+      ],
+      "published_ids": [
+        "v-00548",
+        "v-00128",
+        "v-00105",
+        "v-01987",
+        "v-01757"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -11626,6 +12044,43 @@
         "v-01101"
       ],
       "run_id": "20261003T074003Z-0eb1daf5",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-04T07:49:27.954282+00:00",
+      "created_at": "2026-10-04T07:49:08.340753+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00548"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00128"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00105"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01987"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01757"
+        }
+      ],
+      "published_ids": [
+        "v-00548",
+        "v-00128",
+        "v-00105",
+        "v-01987",
+        "v-01757"
+      ],
+      "run_id": "20261004T074908Z-b5c8c915",
       "status": "completed",
       "unknown_ids": []
     }
