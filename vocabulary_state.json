@@ -1,5 +1,63 @@
 {
   "content_cache": {
+    "v-00013": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6b91dc8101a59310ced6e66b8c980ea32e3c21a4033df540f712b6c34bef6c79",
+      "antonyms": [
+        {
+          "meaning": "treat with esteem",
+          "word": "respect"
+        },
+        {
+          "meaning": "keep safe",
+          "word": "protect"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "abuse of power",
+        "abuse the law",
+        "abuse substances",
+        "verbal abuse",
+        "child abuse"
+      ],
+      "common_mistake_correct": "Reserve \"abuse\" for harmful or illegal misuse, not mild criticism",
+      "common_mistake_wrong": "Using \"abuse\" as a polite term for criticism",
+      "definition_en": "To treat someone or something badly or to use in a harmful way.",
+      "example_bn": "তার ক্ষমতা অপব্যবহার করার অভিযোগে অভিযুক্ত করা হয়েছিল।",
+      "example_en": "He was accused of abusing his power.",
+      "memory_hook": "\"A\"buse starts with \"A\" for \"attack\" on rights.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "She abused the computer by installing many games.",
+        "He was praised for his abuse of the new policy.",
+        "The teacher abused the student’s trust.",
+        "They abused the new software to speed up work."
+      ],
+      "quiz_question": "Which sentence shows the verb meaning \"mistreat\"?",
+      "short_meaning_en": "mistreat",
+      "synonyms": [
+        {
+          "meaning": "treat badly",
+          "word": "mistreat"
+        },
+        {
+          "meaning": "use wrongly",
+          "word": "misuse"
+        },
+        {
+          "meaning": "take unfair advantage of",
+          "word": "exploit"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "abusive"
+        }
+      ]
+    },
     "v-00015": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -3050,6 +3108,64 @@
         }
       ]
     },
+    "v-01659": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5407b3ab85d5cf82d7bb7e4b90b443ee1e0ab9fa888e340e7bf4077c09f18494",
+      "antonyms": [
+        {
+          "meaning": "lack of strength",
+          "word": "weakness"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "great might",
+        "military might",
+        "with might",
+        "show might",
+        "absolute might"
+      ],
+      "common_mistake_correct": "Use \"might\" (noun) for power and \"might\" (modal) for possibility",
+      "common_mistake_wrong": "Using \"might\" as a modal verb when meaning power",
+      "definition_en": "The ability to exert force or influence.",
+      "example_bn": "রাজ্যের শক্তি তার প্রতিবেশীদের ভয় দেখাত।",
+      "example_en": "The kingdom's might was feared by its neighbors.",
+      "memory_hook": "Think of a knight’s might – his strong arm and sword.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She might go to the party tomorrow.",
+        "The army displayed great might.",
+        "I might finish the work later.",
+        "He might be right."
+      ],
+      "quiz_question": "Which sentence uses \"might\" to mean power?",
+      "short_meaning_en": "power",
+      "synonyms": [
+        {
+          "meaning": "physical or mental power",
+          "word": "strength"
+        },
+        {
+          "meaning": "capacity to act",
+          "word": "power"
+        },
+        {
+          "meaning": "strength or energy",
+          "word": "force"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "mightily"
+        },
+        {
+          "type": "noun",
+          "word": "mightiness"
+        }
+      ]
+    },
     "v-01678": {
       "antonyms": [],
       "cefr": "B1",
@@ -3906,6 +4022,72 @@
         }
       ]
     },
+    "v-02238": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "deb4d81056f65d3cca7bed9cbbb62574fe2e0022c6ca92d160857dd1bff382c2",
+      "antonyms": [
+        {
+          "meaning": "lack of decision",
+          "word": "indecision"
+        },
+        {
+          "meaning": "lack of solution",
+          "word": "failure"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "resolution board",
+        "resolution passed",
+        "resolution of conflict",
+        "high resolution",
+        "resolution statement"
+      ],
+      "common_mistake_correct": "Use \"resolution\" for a decision or solution, not for an uprising",
+      "common_mistake_wrong": "Confusing \"resolution\" (decision) with \"revolution\"",
+      "definition_en": "A firm decision to do something or a formal statement of a problem's solution.",
+      "example_bn": "তার নতুন বছরের সিদ্ধান্ত ছিল প্রতিদিন ব্যায়াম করা।",
+      "example_en": "Her New Year's resolution was to exercise every day.",
+      "memory_hook": "Think of a picture’s resolution – the clearer the picture, the stronger the decision.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "The screen has a high resolution.",
+        "The council adopted a new resolution.",
+        "She showed great resolution in the race.",
+        "We need a resolution to the puzzle."
+      ],
+      "quiz_question": "Which use of \"resolution\" refers to a decision?",
+      "short_meaning_en": "decision",
+      "synonyms": [
+        {
+          "meaning": "firmness of purpose",
+          "word": "determination"
+        },
+        {
+          "meaning": "a firm decision",
+          "word": "resolve"
+        },
+        {
+          "meaning": "answer to a problem",
+          "word": "solution"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "resolve"
+        },
+        {
+          "type": "adjective",
+          "word": "resolved"
+        },
+        {
+          "type": "adjective",
+          "word": "resolute"
+        }
+      ]
+    },
     "v-02336": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
@@ -4073,6 +4255,64 @@
         {
           "type": "noun",
           "word": "setter"
+        }
+      ]
+    },
+    "v-02375": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0dade372e2dd654a6cad6af45098ed02d20b383d83878de01e715d26c91a7187",
+      "antonyms": [
+        {
+          "meaning": "not any",
+          "word": "none"
+        },
+        {
+          "meaning": "every one",
+          "word": "all"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "several times",
+        "several people",
+        "several reasons",
+        "several options",
+        "several years"
+      ],
+      "common_mistake_correct": "Use \"several\" for a small, countable number (2‑5)",
+      "common_mistake_wrong": "Using \"several\" for a large number",
+      "definition_en": "More than one but not many; a few.",
+      "example_bn": "কয়েকজন ছাত্র হাত তুলল উত্তর দিতে।",
+      "example_en": "Several students raised their hands to answer.",
+      "memory_hook": "\"Sev\" sounds like \"seven\", a small group.",
+      "part_of_speech": "determiner",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "There were several hundred guests at the banquet.",
+        "She bought several apples from the market.",
+        "He has several thousand books in his library.",
+        "They visited several continents on their trip."
+      ],
+      "quiz_question": "Which sentence correctly uses \"several\"?",
+      "short_meaning_en": "a few",
+      "synonyms": [
+        {
+          "meaning": "an unspecified number",
+          "word": "some"
+        },
+        {
+          "meaning": "a small number",
+          "word": "a few"
+        },
+        {
+          "meaning": "different kinds",
+          "word": "various"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "severally"
         }
       ]
     },
@@ -4526,6 +4766,68 @@
         {
           "type": "verb",
           "word": "transported"
+        }
+      ]
+    },
+    "v-02786": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d6ff26d6eeaa5e2a583dc284a4da042dfd80e0da36a84bef1ffb45f5ca111b03",
+      "antonyms": [
+        {
+          "meaning": "truthfulness",
+          "word": "honesty"
+        },
+        {
+          "meaning": "fact",
+          "word": "truth"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "card trick",
+        "trick question",
+        "trick the system",
+        "trick of light",
+        "magic trick"
+      ],
+      "common_mistake_correct": "Use \"trick\" for a deliberate deception, not an accident",
+      "common_mistake_wrong": "Using \"trick\" for a simple mistake",
+      "definition_en": "A clever or deceitful action intended to trick someone.",
+      "example_bn": "যাদুকরের চালাকি দর্শকদের মুগ্ধ করল।",
+      "example_en": "The magician’s trick amazed the audience.",
+      "memory_hook": "Think of a \"trick\" as a magician’s clever move.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She fell into a trick and broke her leg.",
+        "He performed a card trick for the children.",
+        "The software has a trick that speeds up loading.",
+        "They used a trick to hide the truth."
+      ],
+      "quiz_question": "Which sentence uses \"trick\" in the sense of deception?",
+      "short_meaning_en": "deception",
+      "synonyms": [
+        {
+          "meaning": "a cunning plan",
+          "word": "ruse"
+        },
+        {
+          "meaning": "a cunning action",
+          "word": "ploy"
+        },
+        {
+          "meaning": "the act of deceiving",
+          "word": "deception"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "tricky"
+        },
+        {
+          "type": "noun",
+          "word": "trickery"
         }
       ]
     },
@@ -5417,6 +5719,14 @@
   },
   "cycle": 1,
   "meaning_audit": {
+    "v-00013": {
+      "audited_at": "2026-10-05T08:26:36.600169+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অপব্যবহার করা, অপব্যবহার করতে",
+      "reason": "The Bangla meaning correctly reflects the verb sense of \"abuse\".",
+      "source_fingerprint": "6b91dc8101a59310ced6e66b8c980ea32e3c21a4033df540f712b6c34bef6c79",
+      "status": "valid"
+    },
     "v-00105": {
       "audited_at": "2026-10-04T07:49:08.754017+00:00",
       "confidence": 0.99,
@@ -5713,6 +6023,14 @@
       "source_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
       "status": "valid"
     },
+    "v-01659": {
+      "audited_at": "2026-10-05T08:26:36.600075+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শক্তি, ক্ষমতা, বল",
+      "reason": "The Bangla meaning accurately captures the noun sense of \"might\" as power or strength.",
+      "source_fingerprint": "5407b3ab85d5cf82d7bb7e4b90b443ee1e0ab9fa888e340e7bf4077c09f18494",
+      "status": "valid"
+    },
     "v-01694": {
       "audited_at": "2026-09-27T00:35:50.172508+00:00",
       "confidence": 0.99,
@@ -5801,6 +6119,14 @@
       "source_fingerprint": "990455e9e7d07c8a0c48463facf4af6a88cd9884ff7ed74871e315bc541beb31",
       "status": "corrected"
     },
+    "v-02238": {
+      "audited_at": "2026-10-05T08:26:36.600149+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "সিদ্ধান্ত, সমাধান, দৃঢ়সংকল্প",
+      "reason": "The given meanings (প্রতিরোধ, সহানুভূতি) do not correspond to any sense of \"resolution\". Correct senses are decision, solution, or determination.",
+      "source_fingerprint": "7a5cd88d62919f0837cf05e03c4e52874deb16e1a1a952597c6ec9128c270512",
+      "status": "corrected"
+    },
     "v-02336": {
       "audited_at": "2026-09-26T23:58:20.821283+00:00",
       "confidence": 0.99,
@@ -5823,6 +6149,14 @@
       "meaning_bn": "স্থাপন করা, নির্ধারণ করা",
       "reason": "The supplied meaning contains an erroneous fragment 'অন্ত যাওয়া' which does not correspond to any sense of 'set'; the correct Bangla meanings are 'স্থাপন করা' and 'নির্ধারণ করা'.",
       "source_fingerprint": "f13cf166002c1684cf4e41dc5f57e7b1e65c8965d61a9f183fa60ca46bee3def",
+      "status": "corrected"
+    },
+    "v-02375": {
+      "audited_at": "2026-10-05T08:26:36.600126+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "কয়েকটি, কিছু",
+      "reason": "The supplied meaning mixes a correct sense (কতিপয়) with an incorrect one (সামান্য). The accurate Bangla translation for \"several\" is \"কয়েকটি, কিছু\".",
+      "source_fingerprint": "e031ccf962f3f56bc6fcb9dc041c0da4fed0a9de9057c308bdd0dafc60272fa5",
       "status": "corrected"
     },
     "v-02378": {
@@ -5871,6 +6205,14 @@
       "meaning_bn": "জিনিস, বিষয়, সামগ্রী",
       "reason": "The Bangla meaning accurately reflects the common senses of the English word 'thing'.",
       "source_fingerprint": "d361b0c07a4cb57a4ace51cd83a7ba2b01e0e32a57bb641144f6df60370a8095",
+      "status": "valid"
+    },
+    "v-02786": {
+      "audited_at": "2026-10-05T08:26:36.600185+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতারণা, চালাকি",
+      "reason": "The meaning accurately represents the noun sense of \"trick\" as deception or cunning.",
+      "source_fingerprint": "d6ff26d6eeaa5e2a583dc284a4da042dfd80e0da36a84bef1ffb45f5ca111b03",
       "status": "valid"
     },
     "v-02806": {
@@ -5939,6 +6281,12 @@
     }
   },
   "media_cache": {
+    "v-00013": {
+      "audio_file_id": "CQACAgUAAxUHasNfR9nioIeo9wvDNNVYbnZXzPMAAh4hAAJCJRhWnlYvtBo72lc9BA",
+      "cached_at": "2026-10-05T08:26:48.035525+00:00",
+      "photo_file_id": "AgACAgUAAxUHasNfR_7TQbbZLcxoqnZdW9Lr-XYAAmgUaxtCJRhWU9TGRNjNXocBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00015": {
       "cached_at": "2026-09-25T16:13:06.516307+00:00",
       "photo_file_id": "AgACAgUAAxUHaradkQN6ZG4lEjjUpfsdRcJYle8AAlgRaxvpIblVQjB4qXeXEeUBAAMCAANzAAM9BA",
@@ -6266,6 +6614,12 @@
       "cached_at": "2026-09-25T11:21:30.767200+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZOminK8xgIQRjk8VYUThGqAQAAl0RaxvpIbFV3-JfJte5vbEBAAMCAANzAAM9BA"
     },
+    "v-01659": {
+      "audio_file_id": "CQACAgUAAxUHasNfP9tFfFt5Aw1isjs6b-vULmAAAhshAAJCJRhWIt4u3yPJrb09BA",
+      "cached_at": "2026-10-05T08:26:40.389064+00:00",
+      "photo_file_id": "AgACAgUAAxUHasNfP_hSylXKVRhZEWdtVyhawQoAAmUUaxtCJRhWdC7rCtkCTmMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01678": {
       "audio_file_id": "CQACAgUAAxUHarZZMhBkj7QPAbzJvZT05PrWkOwAAsUkAALpIbFV-XfvaKXdOuo9BA",
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
@@ -6367,6 +6721,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kTOXfgBTkFnyMQZ3bdOXtod4AAtMRaxuXRvhV8BBgl6R_YNABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02238": {
+      "audio_file_id": "CQACAgUAAxUHasNfRGqdAuzt01--KdFA9klFgAYAAh0hAAJCJRhW__uqy4cKQ4c9BA",
+      "cached_at": "2026-10-05T08:26:45.270650+00:00",
+      "photo_file_id": "AgACAgUAAxUHasNfRLjYs_PW11HDMVHUdRtQcxEAAmcUaxtCJRhW5wVfA3Tr5T0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02336": {
       "audio_file_id": "AwACAgUAAxUHarhcJKQyOP2b9TQwejZggzDxDTcAAk8hAAKcC8lVI1qqil53f2M9BA",
       "cached_at": "2026-09-26T23:58:29.287653+00:00",
@@ -6384,6 +6744,12 @@
       "cached_at": "2026-09-27T00:35:55.648403+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk6-CmlVcgIdgBe2mc7hQhmg8AAg4UaxucC8lVxgKDTSyfcM8BAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-02375": {
+      "audio_file_id": "CQACAgUAAxUHasNfQocFhAumnowdJAJSauesSE4AAhwhAAJCJRhWAt5_ji8PJTg9BA",
+      "cached_at": "2026-10-05T08:26:42.867274+00:00",
+      "photo_file_id": "AgACAgUAAxUHasNfQmBSdXaa4hqGtSJv2eyunhEAAmYUaxtCJRhWyo55eHiYYegBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02378": {
       "audio_file_id": "CQACAgUAAxUHaroime2fviNzY2zNYstE46FcXBYAAhMfAAJT7NFVhGRy3LbQpi09BA",
@@ -6432,6 +6798,12 @@
       "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJglRCnRdMamaqH1_TENci_cAAn4gAALpIcFVBTX4Nn9cXic9BA"
+    },
+    "v-02786": {
+      "audio_file_id": "CQACAgUAAxUHasNfSQABTY-VjrhGn8zkVPZcs5fjAAIfIQACQiUYVjqXfNLzf5ypPQQ",
+      "cached_at": "2026-10-05T08:26:50.318284+00:00",
+      "photo_file_id": "AgACAgUAAxUHasNfSQ-F4nTeRcYfL29FMV8XuHkAAmkUaxtCJRhW2vQLxtwG-1IBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02806": {
       "audio_file_id": "AwACAgUAAxUHarhV-2WnEApa9MWJnNVhYSA2KXMAAkUhAAKcC8lVsy2RXnaGzXc9BA",
@@ -6538,6 +6910,12 @@
   "migrations": [],
   "pool_fingerprint": "fc9c89f0fa9d6d4654602a25413d66ca9dc0c5d9cd9392106210317305071e79",
   "published": {
+    "v-00013": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 131,
+      "published_at": "2026-10-05T08:26:48.035567+00:00"
+    },
     "v-00015": {
       "count": 1,
       "last_cycle": 1,
@@ -6879,6 +7257,12 @@
       "published_at": "2026-09-25T11:21:30.767226+00:00",
       "quiz_message_id": 15
     },
+    "v-01659": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 128,
+      "published_at": "2026-10-05T08:26:40.389092+00:00"
+    },
     "v-01678": {
       "count": 1,
       "last_cycle": 1,
@@ -6984,6 +7368,12 @@
       "last_message_id": 114,
       "published_at": "2026-10-02T07:59:08.912224+00:00"
     },
+    "v-02238": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 130,
+      "published_at": "2026-10-05T08:26:45.270677+00:00"
+    },
     "v-02336": {
       "count": 1,
       "last_cycle": 1,
@@ -7001,6 +7391,12 @@
       "last_cycle": 1,
       "last_message_id": 79,
       "published_at": "2026-09-27T00:35:55.648428+00:00"
+    },
+    "v-02375": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 129,
+      "published_at": "2026-10-05T08:26:42.867303+00:00"
     },
     "v-02378": {
       "count": 1,
@@ -7049,6 +7445,12 @@
       "last_cycle": 1,
       "last_message_id": 61,
       "published_at": "2026-09-26T07:07:19.472210+00:00"
+    },
+    "v-02786": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 132,
+      "published_at": "2026-10-05T08:26:50.318310+00:00"
     },
     "v-02806": {
       "count": 1,
@@ -7161,11 +7563,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01659",
-    "v-02375",
-    "v-02238",
-    "v-00013",
-    "v-02786",
     "v-02684",
     "v-01918",
     "v-01520",
@@ -11307,6 +11704,41 @@
         "v-01757"
       ],
       "status": "completed"
+    },
+    "20261005T082635Z-192e803e": {
+      "completed_at": "2026-10-05T08:26:50.328270+00:00",
+      "created_at": "2026-10-05T08:26:35.945594+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01659"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02375"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02238"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00013"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02786"
+        }
+      ],
+      "published_ids": [
+        "v-01659",
+        "v-02375",
+        "v-02238",
+        "v-00013",
+        "v-02786"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -12081,6 +12513,43 @@
         "v-01757"
       ],
       "run_id": "20261004T074908Z-b5c8c915",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-05T08:26:50.328270+00:00",
+      "created_at": "2026-10-05T08:26:35.945594+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01659"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02375"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02238"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00013"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02786"
+        }
+      ],
+      "published_ids": [
+        "v-01659",
+        "v-02375",
+        "v-02238",
+        "v-00013",
+        "v-02786"
+      ],
+      "run_id": "20261005T082635Z-192e803e",
       "status": "completed",
       "unknown_ids": []
     }
