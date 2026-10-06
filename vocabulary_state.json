@@ -2612,6 +2612,64 @@
         }
       ]
     },
+    "v-01491": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d556aeba90fe2223c92cd7bff43b7e8c1976dd734ce4262f067c209be7e4f0ff",
+      "antonyms": [
+        {
+          "meaning": "inside view",
+          "word": "interior"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "rural landscape",
+        "urban landscape",
+        "landscape photography",
+        "landscape design",
+        "natural landscape"
+      ],
+      "common_mistake_correct": "landscape as a noun meaning scenery",
+      "common_mistake_wrong": "landscape as a verb meaning to paint",
+      "definition_en": "The visible features of an area of land, especially its natural scenery.",
+      "example_bn": "চিত্রটি একটি সুন্দর পর্বত ভূদৃশ্যকে ধারণ করেছে।",
+      "example_en": "The painting captures a beautiful mountain landscape.",
+      "memory_hook": "Landscape = land + scape (view) – think of a land view.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A type of music",
+        "A view of natural scenery",
+        "A cooking method",
+        "A sports equipment"
+      ],
+      "quiz_question": "What does \"landscape\" refer to?",
+      "short_meaning_en": "scenery",
+      "synonyms": [
+        {
+          "meaning": "view",
+          "word": "scenery"
+        },
+        {
+          "meaning": "panoramic view",
+          "word": "vista"
+        },
+        {
+          "meaning": "wide view",
+          "word": "panorama"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "landscaped"
+        },
+        {
+          "type": "noun",
+          "word": "landscaper"
+        }
+      ]
+    },
     "v-01512": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "45e9b56d8d50f82ad5f9c8f5e4ae108016048eabe8488538dfff93f5ce9d11a2",
@@ -2675,6 +2733,64 @@
         {
           "type": "noun",
           "word": "leaderships"
+        }
+      ]
+    },
+    "v-01520": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "eddd0b7ac78fbadf590b5b6dd06baa84c744cec0d8c0fa75b8985f2e71c29950",
+      "antonyms": [
+        {
+          "meaning": "cloth",
+          "word": "fabric"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "leather jacket",
+        "leather shoes",
+        "leather bag",
+        "leather upholstery",
+        "leather strap"
+      ],
+      "common_mistake_correct": "leather as a noun",
+      "common_mistake_wrong": "leather as a verb",
+      "definition_en": "Material made from animal skin that is used for making goods such as shoes, bags, and clothing.",
+      "example_bn": "জ্যাকেটটি আসল চামড়া দিয়ে তৈরি।",
+      "example_en": "The jacket is made of genuine leather.",
+      "memory_hook": "Leather sounds like \"let her\" – imagine letting a cow become leather.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A type of metal",
+        "A type of fabric made from animal skin",
+        "A type of plastic",
+        "A type of wood"
+      ],
+      "quiz_question": "What is leather?",
+      "short_meaning_en": "animal skin",
+      "synonyms": [
+        {
+          "meaning": "animal skin",
+          "word": "hide"
+        },
+        {
+          "meaning": "outer covering",
+          "word": "skin"
+        },
+        {
+          "meaning": "processed leather",
+          "word": "tanned hide"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "leathered"
+        },
+        {
+          "type": "noun",
+          "word": "leatherwork"
         }
       ]
     },
@@ -3467,6 +3583,59 @@
         }
       ]
     },
+    "v-01918": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4e169599fc2764ede7959ba1115ba7cd60cb0644e83f1d3fa856ec5c138b46d4",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "play the piano",
+        "piano lesson",
+        "piano music",
+        "piano keys",
+        "piano bench"
+      ],
+      "common_mistake_correct": "piano as a noun",
+      "common_mistake_wrong": "piano as a verb",
+      "definition_en": "A large keyboard musical instrument with strings that are struck by hammers.",
+      "example_bn": "তিনি প্রতিদিন এক ঘন্টা পিয়ানো অনুশীলন করতেন।",
+      "example_en": "She practiced the piano for an hour every day.",
+      "memory_hook": "Piano sounds like \"piano\" – the instrument you sit at.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A drum set",
+        "A keyboard instrument",
+        "A violin",
+        "A trumpet"
+      ],
+      "quiz_question": "Which of these is a piano?",
+      "short_meaning_en": "musical instrument",
+      "synonyms": [
+        {
+          "meaning": "instrument with keys",
+          "word": "keyboard"
+        },
+        {
+          "meaning": "large piano",
+          "word": "grand"
+        },
+        {
+          "meaning": "vertical piano",
+          "word": "upright"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "pianist"
+        },
+        {
+          "type": "adjective",
+          "word": "pianistic"
+        }
+      ]
+    },
     "v-01924": {
       "antonyms": [],
       "cefr": "",
@@ -3908,6 +4077,64 @@
         {
           "type": "adjective",
           "word": "primary"
+        }
+      ]
+    },
+    "v-02094": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9fa5321f6e8725e0912946b5d223e5797022804979ecbdc83fdf9a099bd41b7e",
+      "antonyms": [
+        {
+          "meaning": "another macronutrient",
+          "word": "carbohydrate"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "protein intake",
+        "protein powder",
+        "protein source",
+        "high-protein diet",
+        "protein synthesis"
+      ],
+      "common_mistake_correct": "protein as a noun",
+      "common_mistake_wrong": "protein as a verb",
+      "definition_en": "A nutrient found in food that builds and repairs body tissues and is essential for growth.",
+      "example_bn": "ডিম প্রোটিনের একটি ভাল উৎস।",
+      "example_en": "Eggs are a good source of protein.",
+      "memory_hook": "Protein starts with \"pro\" like \"professional\" – professionals need strong bodies.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Bread",
+        "Eggs",
+        "Sugar",
+        "Oil"
+      ],
+      "quiz_question": "Which food is high in protein?",
+      "short_meaning_en": "nutrient",
+      "synonyms": [
+        {
+          "meaning": "food substance",
+          "word": "nutrient"
+        },
+        {
+          "meaning": "building block",
+          "word": "amino acid"
+        },
+        {
+          "meaning": "large nutrient",
+          "word": "macronutrient"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "proteinaceous"
+        },
+        {
+          "type": "noun",
+          "word": "proteins"
         }
       ]
     },
@@ -4660,6 +4887,68 @@
         {
           "type": "noun",
           "word": "terrorism"
+        }
+      ]
+    },
+    "v-02684": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "444b128a0116fbc6a26080fd455e84ef2e78aa10f66233fa8bd9b850afb78f2a",
+      "antonyms": [
+        {
+          "meaning": "paying no attention",
+          "word": "ignoring"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "testing phase",
+        "testing equipment",
+        "testing procedure",
+        "testing environment",
+        "testing results"
+      ],
+      "common_mistake_correct": "testing the product",
+      "common_mistake_wrong": "testing the exam",
+      "definition_en": "To carry out an examination or trial of something to assess its qualities or performance.",
+      "example_bn": "ইঞ্জিনিয়াররা নতুন সেতুটি নিরাপত্তার জন্য পরীক্ষা করছেন।",
+      "example_en": "The engineers are testing the new bridge for safety.",
+      "memory_hook": "Think of a 'test' in a lab, you are testing it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Playing a game",
+        "Examining its function",
+        "Cooking it",
+        "Painting it"
+      ],
+      "quiz_question": "What does \"testing\" mean in the sentence: \"They are testing the software\"?",
+      "short_meaning_en": "examination",
+      "synonyms": [
+        {
+          "meaning": "checking",
+          "word": "examining"
+        },
+        {
+          "meaning": "assessing",
+          "word": "evaluating"
+        },
+        {
+          "meaning": "trying out",
+          "word": "trialing"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "test"
+        },
+        {
+          "type": "noun",
+          "word": "tester"
+        },
+        {
+          "type": "adjective",
+          "word": "tested"
         }
       ]
     },
@@ -5975,6 +6264,14 @@
       "source_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
       "status": "valid"
     },
+    "v-01491": {
+      "audited_at": "2026-10-06T08:37:14.289909+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "ভূদৃশ্য",
+      "reason": "The meaning correctly corresponds to the English word 'landscape'.",
+      "source_fingerprint": "d556aeba90fe2223c92cd7bff43b7e8c1976dd734ce4262f067c209be7e4f0ff",
+      "status": "valid"
+    },
     "v-01512": {
       "audited_at": "2026-09-26T23:32:05.945786+00:00",
       "confidence": 0.97,
@@ -5982,6 +6279,14 @@
       "reason": "The supplied meaning 'প্রধান, মূখ্য' does not match the noun 'leadership', which should be translated as 'নেতৃত্ব'.",
       "source_fingerprint": "0c7ae9288bee02805640b29950f632d8e82a1454affd5679e77630cb3ecabdf0",
       "status": "corrected"
+    },
+    "v-01520": {
+      "audited_at": "2026-10-06T08:37:14.289878+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "চামড়া",
+      "reason": "The meaning correctly translates the English word 'leather'.",
+      "source_fingerprint": "eddd0b7ac78fbadf590b5b6dd06baa84c744cec0d8c0fa75b8985f2e71c29950",
+      "status": "valid"
     },
     "v-01539": {
       "audited_at": "2026-09-26T23:58:20.821200+00:00",
@@ -6047,6 +6352,14 @@
       "source_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
       "status": "valid"
     },
+    "v-01918": {
+      "audited_at": "2026-10-06T08:37:14.289861+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "পিয়ানো, বাদ্য যন্ত্রবিশেষ",
+      "reason": "The provided Bengali meaning accurately reflects the English word 'piano' as a musical instrument.",
+      "source_fingerprint": "4e169599fc2764ede7959ba1115ba7cd60cb0644e83f1d3fa856ec5c138b46d4",
+      "status": "valid"
+    },
     "v-01940": {
       "audited_at": "2026-09-29T07:56:03.720073+00:00",
       "confidence": 0.99,
@@ -6101,6 +6414,14 @@
       "meaning_bn": "প্রথমত",
       "reason": "The Bangla meaning captures the primary sense of 'primarily' as 'firstly' which aligns with the common usage of the word.",
       "source_fingerprint": "b58d182b2f16280b8fe6d090fee1acc85bfde71ff8135fc3365e6d889a896b0b",
+      "status": "valid"
+    },
+    "v-02094": {
+      "audited_at": "2026-10-06T08:37:14.289895+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "খাদ্যের আমিষ উপাদান, প্রোটিন",
+      "reason": "The Bengali meaning accurately describes the English word 'protein'.",
+      "source_fingerprint": "9fa5321f6e8725e0912946b5d223e5797022804979ecbdc83fdf9a099bd41b7e",
       "status": "valid"
     },
     "v-02122": {
@@ -6198,6 +6519,14 @@
       "reason": "Semantic verification unavailable; original source meaning retained",
       "source_fingerprint": "0648dbc8e04c43b6b5f56227407f62daa70eb01d23766f32be975aec535342c3",
       "status": "uncertain"
+    },
+    "v-02684": {
+      "audited_at": "2026-10-06T08:37:14.289825+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "পরীক্ষা",
+      "reason": "The source meaning includes an unrelated sense 'কষ্ট' (hardship) which does not match the English word 'testing'. The appropriate Bengali translation is পরীক্ষা/পরীক্ষা.",
+      "source_fingerprint": "a5e0ee9a74af82c1bb21fbf6f393bb602b92fda3972a0072e7bde55817cbce06",
+      "status": "corrected"
     },
     "v-02705": {
       "audited_at": "2026-10-01T08:22:36.860481+00:00",
@@ -6568,11 +6897,23 @@
       "photo_file_id": "AgACAgUAAxUHar9kU4hstccmYjzJ6o17MkWgLQkAAtYRaxuXRvhVmig1-m-jU_kBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01491": {
+      "audio_file_id": "CQACAgUAAxUHasSzRlECBMxcH3TpvXEKOx-9By8AAschAAL07iFWijZ1oocsHOw9BA",
+      "cached_at": "2026-10-06T08:37:27.426628+00:00",
+      "photo_file_id": "AgACAgUAAxUHasSzRsLc5-nOWzpnzt5TH-dqgTAAAloTaxv07iFWZslu7pL4ApoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01512": {
       "audio_file_id": "AwACAgUAAxUHarhV_Ra_MPTEPIN-b1CFElFWpNwAAkYhAAKcC8lVoinMiGPklJc9BA",
       "cached_at": "2026-09-26T23:32:14.483365+00:00",
       "photo_file_id": "AgACAgUAAxUHarhV_iaSgYTpa1MMRjE-he-gJnkAAvkTaxucC8lVAAED2VUpTQFoAQADAgADcwADPQQ",
       "version": "1.2.0"
+    },
+    "v-01520": {
+      "audio_file_id": "CQACAgUAAxUHasSzQux77sJRtNlS8Cba3FRgqjgAAsUhAAL07iFWF3aecBNnMs09BA",
+      "cached_at": "2026-10-06T08:37:22.493263+00:00",
+      "photo_file_id": "AgACAgUAAxUHasSzQUR9RxKRKjC-WTipoozumNcAAlgTaxv07iFWO2r4DYz-iOYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01539": {
       "audio_file_id": "AwACAgUAAxUHarhcIOoD1c3n4nkywymS7j0zm1YAAk0hAAKcC8lV-1jfhEzPDMI9BA",
@@ -6655,6 +6996,12 @@
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnSCok3NwrMUt-S4ZlzdGNT9sAAuokAALpIbFVjHvDOjYnIxU9BA"
     },
+    "v-01918": {
+      "audio_file_id": "CQACAgUAAxUHasSzP4oDCuAgGiviRUkk-X9TNS0AAsQhAAL07iFWbyjNv7ZZcL49BA",
+      "cached_at": "2026-10-06T08:37:20.222517+00:00",
+      "photo_file_id": "AgACAgUAAxUHasSzP86OnOBjzoLi57hJBYZMy7IAAlcTaxv07iFWIZiu1VO5R_wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01924": {
       "cached_at": "2026-09-25T14:03:41.448664+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_PHEAAa_tv6Y8gRSUvrIjn3m7AAIlEWsb6SG5VYcm9HI-ZIKlAQADAgADcwADPQQ",
@@ -6707,6 +7054,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxXgYsjWIZSqiO5eySKda3AAE5AALEIgACr4YBVufNg4d_UAvWPQQ",
       "cached_at": "2026-10-03T07:40:15.514612+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxXxPDBz_9FXKL39gkHptI8fAAAqQSaxuvhgFWv4ClyA-AJlkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02094": {
+      "audio_file_id": "CQACAgUAAxUHasSzRO42rCaHBgNS577WskIwnRoAAsYhAAL07iFWwFKvlWV2Sto9BA",
+      "cached_at": "2026-10-06T08:37:25.113530+00:00",
+      "photo_file_id": "AgACAgUAAxUHasSzRJYEJyaRDQ1jkKAJLG89fFoAAlkTaxv07iFWgYOSnr0WlBkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02122": {
@@ -6785,6 +7138,12 @@
       "audio_file_id": "CQACAgUAAxUHaroilgmBam_hQulII8O8vrsZEn4AAhIfAAJT7NFVcCAAAdpDxy9CPQQ",
       "cached_at": "2026-09-28T08:17:27.473677+00:00",
       "photo_file_id": "AgACAgUAAxUHaroil31kMzm-Gsno8dAt0ZYmvWsAAsASaxtT7NFVzvG1hO_Jvd4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02684": {
+      "audio_file_id": "CQACAgUAAxUHasSzPTRPqIJKEIFb_tMVhSD2qaIAAsMhAAL07iFWjgIAAQm2NKjXPQQ",
+      "cached_at": "2026-10-06T08:37:17.823991+00:00",
+      "photo_file_id": "AgACAgUAAxUHasSzPV55h4vkyG9nvAY63o1WU08AAlYTaxv07iFWzLM0i5k5-dIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02705": {
@@ -7207,11 +7566,23 @@
       "last_message_id": 117,
       "published_at": "2026-10-02T07:59:16.358333+00:00"
     },
+    "v-01491": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 137,
+      "published_at": "2026-10-06T08:37:27.426653+00:00"
+    },
     "v-01512": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 70,
       "published_at": "2026-09-26T23:32:14.483399+00:00"
+    },
+    "v-01520": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 135,
+      "published_at": "2026-10-06T08:37:22.493291+00:00"
     },
     "v-01539": {
       "count": 1,
@@ -7302,6 +7673,12 @@
       "published_at": "2026-09-25T12:21:29.339301+00:00",
       "quiz_message_id": 23
     },
+    "v-01918": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 134,
+      "published_at": "2026-10-06T08:37:20.222539+00:00"
+    },
     "v-01924": {
       "count": 1,
       "last_cycle": 1,
@@ -7355,6 +7732,12 @@
       "last_cycle": 1,
       "last_message_id": 118,
       "published_at": "2026-10-03T07:40:15.514640+00:00"
+    },
+    "v-02094": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 136,
+      "published_at": "2026-10-06T08:37:25.113553+00:00"
     },
     "v-02122": {
       "count": 1,
@@ -7433,6 +7816,12 @@
       "last_cycle": 1,
       "last_message_id": 93,
       "published_at": "2026-09-28T08:17:27.473703+00:00"
+    },
+    "v-02684": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 133,
+      "published_at": "2026-10-06T08:37:17.824011+00:00"
     },
     "v-02705": {
       "count": 1,
@@ -7563,11 +7952,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02684",
-    "v-01918",
-    "v-01520",
-    "v-02094",
-    "v-01491",
     "v-01039",
     "v-01163",
     "v-03657",
@@ -11739,6 +12123,41 @@
         "v-02786"
       ],
       "status": "completed"
+    },
+    "20261006T083713Z-86662cd8": {
+      "completed_at": "2026-10-06T08:37:27.436987+00:00",
+      "created_at": "2026-10-06T08:37:13.882816+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02684"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01918"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01520"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02094"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01491"
+        }
+      ],
+      "published_ids": [
+        "v-02684",
+        "v-01918",
+        "v-01520",
+        "v-02094",
+        "v-01491"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -12550,6 +12969,43 @@
         "v-02786"
       ],
       "run_id": "20261005T082635Z-192e803e",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-06T08:37:27.436987+00:00",
+      "created_at": "2026-10-06T08:37:13.882816+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02684"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01918"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01520"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02094"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01491"
+        }
+      ],
+      "published_ids": [
+        "v-02684",
+        "v-01918",
+        "v-01520",
+        "v-02094",
+        "v-01491"
+      ],
+      "run_id": "20261006T083713Z-86662cd8",
       "status": "completed",
       "unknown_ids": []
     }
