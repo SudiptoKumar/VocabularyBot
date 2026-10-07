@@ -1771,6 +1771,59 @@
         }
       ]
     },
+    "v-00873": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "7e46a8055f728df3ddef943b10829853d1ab7cfa1aaa23dedd1544b801ed8bd9",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "either option",
+        "either side",
+        "either choice",
+        "either way",
+        "either of them"
+      ],
+      "common_mistake_correct": "either is used only for two alternatives",
+      "common_mistake_wrong": "using \"either\" for more than two items",
+      "definition_en": "Either one of two alternatives.",
+      "example_bn": "আপনি চা অথবা কফি দুটির মধ্যে যেকোনোটি বেছে নিতে পারেন।",
+      "example_en": "You can choose either tea or coffee.",
+      "memory_hook": "Either = one of the two, like \"either/or\".",
+      "part_of_speech": "determiner",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Either of the books are good.",
+        "You can take either apple or orange.",
+        "Either of the three colors is fine.",
+        "I like either of them both."
+      ],
+      "quiz_question": "Which sentence uses \"either\" correctly?",
+      "short_meaning_en": "any of two",
+      "synonyms": [
+        {
+          "meaning": "one or the other",
+          "word": "any"
+        },
+        {
+          "meaning": "every one of two",
+          "word": "each"
+        },
+        {
+          "meaning": "the two together",
+          "word": "both"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "eitherway"
+        },
+        {
+          "type": "phrase",
+          "word": "either-or"
+        }
+      ]
+    },
     "v-00897": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ea93d142350767e22116865eb822156abe86190bfcbae985a0d8c3bcffeb7b1e",
@@ -2073,6 +2126,59 @@
         }
       ]
     },
+    "v-01039": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "66099a38404322304241538dd7e375386fe123f8f4547700cc5e5c0ae408feeb",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "key feature",
+        "unique feature",
+        "feature set",
+        "feature list",
+        "feature update"
+      ],
+      "common_mistake_correct": "feature as a noun meaning a characteristic",
+      "common_mistake_wrong": "feature as a verb meaning to give a feature",
+      "definition_en": "A distinctive attribute or characteristic of a product.",
+      "example_bn": "নতুন ফোনের ক্যামেরা তার সেরা বৈশিষ্ট্য।",
+      "example_en": "The new phone's camera is its best feature.",
+      "memory_hook": "Think of a \"feature film\" – the main thing you notice.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a tool",
+        "a characteristic",
+        "a price",
+        "a color"
+      ],
+      "quiz_question": "What does \"feature\" mean in the sense of a product?",
+      "short_meaning_en": "attribute",
+      "synonyms": [
+        {
+          "meaning": "a distinguishing quality",
+          "word": "characteristic"
+        },
+        {
+          "meaning": "a distinguishing feature",
+          "word": "trait"
+        },
+        {
+          "meaning": "a particular part",
+          "word": "aspect"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "featureful"
+        },
+        {
+          "type": "verb",
+          "word": "featured"
+        }
+      ]
+    },
     "v-01055": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
@@ -2269,6 +2375,59 @@
         {
           "type": "noun",
           "word": "funerals"
+        }
+      ]
+    },
+    "v-01163": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "99198776bc7a387405f2ffe1f34ceaf569493b14121df9f445f0c0cae3d20b53",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "gear shift",
+        "gear ratio",
+        "gear box",
+        "gear train",
+        "gear mechanism"
+      ],
+      "common_mistake_correct": "gear as a noun meaning a mechanical part",
+      "common_mistake_wrong": "gear as a verb meaning to dress",
+      "definition_en": "The mechanical component that transmits power in a vehicle.",
+      "example_bn": "গাড়ির গিয়ারকে মসৃণভাবে কাজ করার জন্য তেল দরকার।",
+      "example_en": "The car's gear needs oil to work smoothly.",
+      "memory_hook": "Gear like the gears in a clock – they turn the machine.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a seat",
+        "a mechanical part",
+        "a window",
+        "a fuel tank"
+      ],
+      "quiz_question": "In a vehicle, what is a \"gear\"?",
+      "short_meaning_en": "mechanical part",
+      "synonyms": [
+        {
+          "meaning": "system of gears",
+          "word": "transmission"
+        },
+        {
+          "meaning": "a tooth on a gear",
+          "word": "cog"
+        },
+        {
+          "meaning": "housing for gears",
+          "word": "gearbox"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "gearing"
+        },
+        {
+          "type": "verb",
+          "word": "geared"
         }
       ]
     },
@@ -2498,6 +2657,68 @@
         {
           "type": "adjective",
           "word": "introductory"
+        }
+      ]
+    },
+    "v-01434": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0984f67e3190e74aea411040446ed732564d919b2a708f826ee97ebfb4ee2510",
+      "antonyms": [
+        {
+          "meaning": "to make a fold",
+          "word": "crease"
+        },
+        {
+          "meaning": "to form lines",
+          "word": "wrinkle"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "iron the clothes",
+        "iron the shirt",
+        "iron board",
+        "iron press",
+        "iron out wrinkles"
+      ],
+      "common_mistake_correct": "iron as a verb means to press garments",
+      "common_mistake_wrong": "iron as a noun meaning metal when meaning to press clothes",
+      "definition_en": "To press clothes with heat to remove wrinkles; also the metal element Fe.",
+      "example_bn": "সাক্ষাৎকারের আগে তিনি তার শার্ট ইস্ত্রি করলেন।",
+      "example_en": "She ironed her shirt before the interview.",
+      "memory_hook": "Think of the hot iron smoothing out wrinkles like a magic wand.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to melt metal",
+        "to press clothes",
+        "to cook food",
+        "to write"
+      ],
+      "quiz_question": "What does \"iron\" mean in \"She ironed the shirt\"?",
+      "short_meaning_en": "press clothes",
+      "synonyms": [
+        {
+          "meaning": "to flatten with heat",
+          "word": "press"
+        },
+        {
+          "meaning": "to make even",
+          "word": "smooth"
+        },
+        {
+          "meaning": "to make flat",
+          "word": "flatten"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "irony"
+        },
+        {
+          "type": "verb",
+          "word": "ironed"
         }
       ]
     },
@@ -5731,6 +5952,59 @@
         }
       ]
     },
+    "v-03657": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b32250094b6c6a5694632316e3fe54c9925a9205b668b31b7a7f21b00298d9a0",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "kangaroo court",
+        "kangaroo hop",
+        "kangaroo pouch",
+        "kangaroo mother",
+        "kangaroo population"
+      ],
+      "common_mistake_correct": "kangaroo refers to the animal itself",
+      "common_mistake_wrong": "using \"kangaroo\" to mean a fast runner",
+      "definition_en": "A large marsupial native to Australia, known for its powerful hind legs and pouch.",
+      "example_bn": "আমরা মাঠে একটি ক্যাঙ্গারুকে লাফাতে দেখলাম।",
+      "example_en": "We saw a kangaroo hopping across the field.",
+      "memory_hook": "Kangaroo carries its baby in a pouch, just like a pocket.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a type of bird",
+        "a marsupial",
+        "a fish",
+        "a reptile"
+      ],
+      "quiz_question": "What is a \"kangaroo\"?",
+      "short_meaning_en": "marsupial",
+      "synonyms": [
+        {
+          "meaning": "informal term for kangaroo",
+          "word": "roo"
+        },
+        {
+          "meaning": "a pouch-bearing mammal",
+          "word": "marsupial"
+        },
+        {
+          "meaning": "colloquial for kangaroo",
+          "word": "jumper"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "kangarooing"
+        },
+        {
+          "type": "verb",
+          "word": "kangarooed"
+        }
+      ]
+    },
     "v-03661": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4fd033f5eae84ec5af298629b074b11a818c3b6354c6912596713d348aea9349",
@@ -6176,6 +6450,14 @@
       "source_fingerprint": "4c88803e2e8302e4051aba0ea29728578f881a9154c3ae00e99cc31bf4a51878",
       "status": "valid"
     },
+    "v-00873": {
+      "audited_at": "2026-10-07T08:12:46.951649+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দু'এর মধ্যে যে-কোনটি",
+      "reason": "The meaning accurately captures the sense of 'either' as any one of two options.",
+      "source_fingerprint": "7e46a8055f728df3ddef943b10829853d1ab7cfa1aaa23dedd1544b801ed8bd9",
+      "status": "valid"
+    },
     "v-00897": {
       "audited_at": "2026-09-27T00:35:50.172618+00:00",
       "confidence": 0.96,
@@ -6216,6 +6498,14 @@
       "source_fingerprint": "d7295557a3c450f834f7939665861b3a3b4ab71fabc4eb73067df81def4ea510",
       "status": "valid"
     },
+    "v-01039": {
+      "audited_at": "2026-10-07T08:12:46.951524+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পণ্যের বিশেষ বৈশিষ্ট্য",
+      "reason": "The Bangla meaning accurately reflects the primary sense of 'feature' as a special characteristic of a product.",
+      "source_fingerprint": "66099a38404322304241538dd7e375386fe123f8f4547700cc5e5c0ae408feeb",
+      "status": "valid"
+    },
     "v-01055": {
       "audited_at": "2026-09-26T23:32:05.945849+00:00",
       "confidence": 0.99,
@@ -6230,6 +6520,14 @@
       "meaning_bn": "সশস্ত্রবাহিনী, জোর করতে",
       "reason": "Both senses—military force and the verb 'to force'—are accurately represented in Bangla.",
       "source_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
+      "status": "valid"
+    },
+    "v-01163": {
+      "audited_at": "2026-10-07T08:12:46.951587+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "যান্ত্রিক যানের চালক অংশ",
+      "reason": "The meaning correctly describes 'gear' as the driving component of a mechanical vehicle.",
+      "source_fingerprint": "99198776bc7a387405f2ffe1f34ceaf569493b14121df9f445f0c0cae3d20b53",
       "status": "valid"
     },
     "v-01216": {
@@ -6255,6 +6553,14 @@
       "reason": "The source meaning includes 'অধ্যবসায়' (diligence), which is not a standard meaning of the noun 'industry'. The correct Bangla meanings are 'শিল্প', 'কারখানা', and 'উৎপাদন ক্ষেত্র'.",
       "source_fingerprint": "a8009923034183b84e82709ef7adc994a045f76a9812797b94d242d8ca1f913e",
       "status": "corrected"
+    },
+    "v-01434": {
+      "audited_at": "2026-10-07T08:12:46.951685+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "লোহা, ইস্পাত, ইস্রি করতে",
+      "reason": "The entry includes both the noun sense (iron metal) and the verb sense (to iron), matching the source context.",
+      "source_fingerprint": "0984f67e3190e74aea411040446ed732564d919b2a708f826ee97ebfb4ee2510",
+      "status": "valid"
     },
     "v-01471": {
       "audited_at": "2026-10-02T07:58:58.833766+00:00",
@@ -6576,6 +6882,14 @@
       "source_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
       "status": "valid"
     },
+    "v-03657": {
+      "audited_at": "2026-10-07T08:12:46.951619+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ক্যাঙ্গারু",
+      "reason": "The Bangla term directly matches the English word 'kangaroo'.",
+      "source_fingerprint": "b32250094b6c6a5694632316e3fe54c9925a9205b668b31b7a7f21b00298d9a0",
+      "status": "valid"
+    },
     "v-03661": {
       "audited_at": "2026-09-27T00:50:34.245084+00:00",
       "confidence": 0.99,
@@ -6808,6 +7122,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMC6ChBkKONcRNacmi1oeqW7YAAv4eAALpIblVioynB0BYZbk9BA"
     },
+    "v-00873": {
+      "audio_file_id": "CQACAgUAAxUHasX_Cm2RCHVF_k0AAd0uElOWsmcdAAJ1KwACiLsxVmzHZYabFFQjPQQ",
+      "cached_at": "2026-10-07T08:12:58.828950+00:00",
+      "photo_file_id": "AgACAgUAAxUHasX_CmZTxJZcNTBd6-LQnhTK3hEAAl8RaxuIuzFWY6xDZXkS-9sBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00897": {
       "audio_file_id": "CQACAgUAAxUHarhk7ZP7rjyhhqDYwAYXsN76r6QAAnAhAAKcC8lVx8Fpk_tlJwM9BA",
       "cached_at": "2026-09-27T00:35:57.693202+00:00",
@@ -6838,6 +7158,12 @@
       "photo_file_id": "AgACAgUAAxUHarjIIywqNhEhjXCX5BaUTIOunPYAApcUaxucC8lVN8SfEgXnxrUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01039": {
+      "audio_file_id": "CQACAgUAAxUHasX_AsZ9wXept1vSqNpgEzSL5m0AAnIrAAKIuzFWnkgBGibgGhk9BA",
+      "cached_at": "2026-10-07T08:12:51.264130+00:00",
+      "photo_file_id": "AgACAgUAAxUHasX_ArdykdEFPj__UDhYTaKC1mAAAlwRaxuIuzFWkSNL9sEobvMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01055": {
       "audio_file_id": "AwACAgUAAxUHarhWAbLu-6p3uum15jf4zfg8zWEAAkghAAKcC8lVMzpoCpQ4kPg9BA",
       "cached_at": "2026-09-26T23:32:18.365316+00:00",
@@ -6860,6 +7186,12 @@
       "photo_file_id": "AgACAgUAAxUHarZnT9ICsYf60DALRATVZok9TMoAAnIRaxvpIbFVAscLV8vNF2ABAAMCAANzAAM9BA",
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnT-zISsXl57VxKNnfeRFEBkwAAuwkAALpIbFVR9KoeBTEukg9BA"
+    },
+    "v-01163": {
+      "audio_file_id": "CQACAgUAAxUHasX_BezdqVcyffKIQ54XuFa-SqEAAnMrAAKIuzFWea1nUwtLKyQ9BA",
+      "cached_at": "2026-10-07T08:12:53.742570+00:00",
+      "photo_file_id": "AgACAgUAAxUHasX_BS-Zm494FWee_cjyRbzAWDcAAl0RaxuIuzFWqnAViimB1BcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01216": {
       "audio_file_id": "CQACAgUAAxUHar9kUVwUQgp4EsUJZZRg0VFv5SgAAhMhAAKXRvhVgGgQMmenzVk9BA",
@@ -6884,6 +7216,12 @@
       "photo_file_id": "AgACAgUAAxUHaraMCORs9UOAlIE9C-f3huFIKCQAAj8RaxvpIblVv0FI1b75k2UBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMCEBuyP3oE_oWHswRyKtf4xgAAv0eAALpIblV21MbUwZUw7w9BA"
+    },
+    "v-01434": {
+      "audio_file_id": "CQACAgUAAxUHasX_DFQi9h8395qiTFXBtOsW2BMAAnYrAAKIuzFWZik9EjyVq9o9BA",
+      "cached_at": "2026-10-07T08:13:01.230562+00:00",
+      "photo_file_id": "AgACAgUAAxUHasX_DES32GmUofhZIY61cFhUQK0AAmARaxuIuzFWDEvcZ70_ySUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01435": {
       "cached_at": "2026-09-25T16:13:11.478208+00:00",
@@ -7229,6 +7567,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvIYvJQ-jqoqTogXMRJYF0QGkAAnwgAALpIcFVxrcEtNfWmF09BA"
     },
+    "v-03657": {
+      "audio_file_id": "CQACAgUAAxUHasX_B4cYLo5PX59jESHJAAGGLT2XAAJ0KwACiLsxVuT1A0HEc9Q2PQQ",
+      "cached_at": "2026-10-07T08:12:56.208059+00:00",
+      "photo_file_id": "AgACAgUAAxUHasX_B-0Qc-ORsG451OtuEZrvQNMAAl4RaxuIuzFWoNRfV7EYaEoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03661": {
       "audio_file_id": "CQACAgUAAxUHarhoXx5Tm0ASd3UwnWHIhJlOL68AAoAhAAKcC8lV_-qngBQvr9o9BA",
       "cached_at": "2026-09-27T00:50:40.486069+00:00",
@@ -7472,6 +7816,12 @@
       "published_at": "2026-09-25T14:58:20.276706+00:00",
       "quiz_message_id": 42
     },
+    "v-00873": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 141,
+      "published_at": "2026-10-07T08:12:58.828974+00:00"
+    },
     "v-00897": {
       "count": 1,
       "last_cycle": 1,
@@ -7502,6 +7852,12 @@
       "last_message_id": 92,
       "published_at": "2026-09-27T07:39:16.190175+00:00"
     },
+    "v-01039": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 138,
+      "published_at": "2026-10-07T08:12:51.264156+00:00"
+    },
     "v-01055": {
       "count": 1,
       "last_cycle": 1,
@@ -7528,6 +7884,12 @@
       "published_at": "2026-09-25T12:21:35.598865+00:00",
       "quiz_message_id": 27
     },
+    "v-01163": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 139,
+      "published_at": "2026-10-07T08:12:53.742596+00:00"
+    },
     "v-01216": {
       "count": 1,
       "last_cycle": 1,
@@ -7552,6 +7914,12 @@
       "last_message_id": 39,
       "published_at": "2026-09-25T14:58:17.082587+00:00",
       "quiz_message_id": 40
+    },
+    "v-01434": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 142,
+      "published_at": "2026-10-07T08:13:01.230587+00:00"
     },
     "v-01435": {
       "count": 1,
@@ -7912,6 +8280,12 @@
       "last_message_id": 59,
       "published_at": "2026-09-26T07:07:14.709505+00:00"
     },
+    "v-03657": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 140,
+      "published_at": "2026-10-07T08:12:56.208084+00:00"
+    },
     "v-03661": {
       "count": 1,
       "last_cycle": 1,
@@ -7952,11 +8326,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01039",
-    "v-01163",
-    "v-03657",
-    "v-00873",
-    "v-01434",
     "v-01142",
     "v-01812",
     "v-03983",
@@ -12158,6 +12527,41 @@
         "v-01491"
       ],
       "status": "completed"
+    },
+    "20261007T081246Z-ecc82dbe": {
+      "completed_at": "2026-10-07T08:13:01.247409+00:00",
+      "created_at": "2026-10-07T08:12:46.515541+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01039"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01163"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03657"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00873"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01434"
+        }
+      ],
+      "published_ids": [
+        "v-01039",
+        "v-01163",
+        "v-03657",
+        "v-00873",
+        "v-01434"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -13006,6 +13410,43 @@
         "v-01491"
       ],
       "run_id": "20261006T083713Z-86662cd8",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-07T08:13:01.247409+00:00",
+      "created_at": "2026-10-07T08:12:46.515541+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01039"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01163"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03657"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00873"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01434"
+        }
+      ],
+      "published_ids": [
+        "v-01039",
+        "v-01163",
+        "v-03657",
+        "v-00873",
+        "v-01434"
+      ],
+      "run_id": "20261007T081246Z-ecc82dbe",
       "status": "completed",
       "unknown_ids": []
     }
