@@ -480,6 +480,60 @@
         }
       ]
     },
+    "v-00363": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9fe726175d313aa9abb982fe9bbc7591d49f0867336d172288001bac759fac1f",
+      "antonyms": [
+        {
+          "meaning": "liquid fat",
+          "word": "oil"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "melted butter",
+        "butter knife",
+        "butter cup",
+        "butter flavor",
+        "unsalted butter"
+      ],
+      "common_mistake_correct": "butter is a noun meaning a dairy spread",
+      "common_mistake_wrong": "butter is a verb meaning \"to beat\"",
+      "definition_en": "a solid yellowish dairy product made by churning cream",
+      "example_bn": "তিনি গরম রুটিতে মাখন লাগালেন।",
+      "example_en": "She spread butter on the warm bread.",
+      "memory_hook": "Butter comes from \"butt\" – think of a cow’s udder (butt) giving milk.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She buttered the toast.",
+        "She spread butter on the toast.",
+        "She buttered the car.",
+        "She buttered the cake."
+      ],
+      "quiz_question": "Choose the correct sentence with \"butter\".",
+      "short_meaning_en": "butter",
+      "synonyms": [
+        {
+          "meaning": "a butter substitute",
+          "word": "margarine"
+        },
+        {
+          "meaning": "soft butter-like product",
+          "word": "spread"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "buttery"
+        },
+        {
+          "type": "noun",
+          "word": "butterfly"
+        }
+      ]
+    },
     "v-00365": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -2340,6 +2394,63 @@
         }
       ]
     },
+    "v-01142": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "64f03527ac568c5c96d7caa783b780ac702f0982980d70b6307024e99d1e131c",
+      "antonyms": [
+        {
+          "meaning": "less important",
+          "word": "secondary"
+        },
+        {
+          "meaning": "shallow",
+          "word": "superficial"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "fundamental principle",
+        "fundamental right",
+        "fundamental change",
+        "fundamental concept",
+        "fundamental issue"
+      ],
+      "common_mistake_correct": "fundamental is an adjective",
+      "common_mistake_wrong": "fundamental is a verb",
+      "definition_en": "relating to the basic principles or essential parts of something",
+      "example_bn": "ব্যাকরণের মৌলিক নিয়মগুলো বোঝা আপনাকে সঠিকভাবে লিখতে সাহায্য করে।",
+      "example_en": "Understanding the fundamental rules of grammar helps you write correctly.",
+      "memory_hook": "Think of \"fund\" as the base of a building – the fundamental part is the base.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "Which word best matches the meaning \"ভিত্তিমূলক\"?",
+      "short_meaning_en": "basic",
+      "synonyms": [
+        {
+          "meaning": "forming a base",
+          "word": "basic"
+        },
+        {
+          "meaning": "absolutely necessary",
+          "word": "essential"
+        },
+        {
+          "meaning": "first in order",
+          "word": "primary"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "fundamentally"
+        },
+        {
+          "type": "noun",
+          "word": "fundamentals"
+        }
+      ]
+    },
     "v-01144": {
       "antonyms": [],
       "cefr": "B1",
@@ -3688,6 +3799,64 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-01812": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
+      "antonyms": [
+        {
+          "meaning": "lower rank",
+          "word": "subordinate"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "official position",
+        "official duty",
+        "official statement",
+        "official document",
+        "official capacity"
+      ],
+      "common_mistake_correct": "official is a noun meaning a high‑rank employee",
+      "common_mistake_wrong": "official means \"officially\" (adverb)",
+      "definition_en": "a person who holds a high position in an organization or government",
+      "example_bn": "অফিশাল প্রেস কনফারেন্সে নতুন নীতি ঘোষণা করেছেন।",
+      "example_en": "The official announced the new policy at the press conference.",
+      "memory_hook": "\"Official\" sounds like \"office\" – someone who works in an office at a high level.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "উচ্চপদস্থ কর্মচারী",
+        "ছোট কর্মী",
+        "শিক্ষক",
+        "ডাক্তর"
+      ],
+      "quiz_question": "What does \"official\" mean in Bangla?",
+      "short_meaning_en": "high official",
+      "synonyms": [
+        {
+          "meaning": "person who manages",
+          "word": "administrator"
+        },
+        {
+          "meaning": "government official",
+          "word": "bureaucrat"
+        },
+        {
+          "meaning": "official worker",
+          "word": "functionary"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "officially"
+        },
+        {
+          "type": "noun",
+          "word": "officialdom"
+        }
+      ]
+    },
     "v-01828": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -4939,6 +5108,68 @@
         {
           "type": "noun",
           "word": "societies"
+        }
+      ]
+    },
+    "v-02543": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e921520e3f10aa10ee9230a524a568b0cfd62cad775e17818040c60b2968b768",
+      "antonyms": [
+        {
+          "meaning": "in motion",
+          "word": "moving"
+        },
+        {
+          "meaning": "loud",
+          "word": "noisy"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "still water",
+        "still image",
+        "still life",
+        "still air",
+        "still silence"
+      ],
+      "common_mistake_correct": "still can be an adjective meaning \"unchanged\"",
+      "common_mistake_wrong": "still can only be used as an adverb",
+      "definition_en": "not moving; quiet and unchanged",
+      "example_bn": "প্রাতঃকালীন সময়ে হ্রদটি স্থির ছিল।",
+      "example_en": "The lake was still in the early morning.",
+      "memory_hook": "If something is \"still,\" it stays \"still\" like a statue.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The water is still.",
+        "She still loves music.",
+        "He ran still.",
+        "They will still arrive."
+      ],
+      "quiz_question": "Which sentence uses \"still\" as an adjective?",
+      "short_meaning_en": "still",
+      "synonyms": [
+        {
+          "meaning": "not moving",
+          "word": "motionless"
+        },
+        {
+          "meaning": "silent",
+          "word": "quiet"
+        },
+        {
+          "meaning": "peaceful",
+          "word": "calm"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "stillness"
+        },
+        {
+          "type": "adverb",
+          "word": "stillly"
         }
       ]
     },
@@ -6227,6 +6458,55 @@
         }
       ]
     },
+    "v-03983": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "paddy field",
+        "paddy harvest",
+        "paddy rice",
+        "paddy cultivation",
+        "paddy yield"
+      ],
+      "common_mistake_correct": "paddy is the rice plant",
+      "common_mistake_wrong": "paddy means \"butter\"",
+      "definition_en": "the cultivated rice plant that is harvested for its grain",
+      "example_bn": "কৃষক বন্যা পানিতে প্যাডি রোপণ করেছেন।",
+      "example_en": "The farmer planted paddy in the flooded fields.",
+      "memory_hook": "Paddy sounds like \"pad\" – think of a pad of water where rice grows.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "I bought paddy at the market.",
+        "She spread butter on the toast.",
+        "He drove a paddy car.",
+        "They watched a paddy movie."
+      ],
+      "quiz_question": "Which of the following is a correct use of \"paddy\"?",
+      "short_meaning_en": "rice plant",
+      "synonyms": [
+        {
+          "meaning": "the grain",
+          "word": "rice"
+        },
+        {
+          "meaning": "cultivated plant",
+          "word": "crop"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "paddy field"
+        },
+        {
+          "type": "noun",
+          "word": "paddy farmer"
+        }
+      ]
+    },
     "v-04190": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -6312,6 +6592,14 @@
       "meaning_bn": "ইট",
       "reason": "The meaning correctly matches the noun \"brick\".",
       "source_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
+      "status": "valid"
+    },
+    "v-00363": {
+      "audited_at": "2026-10-08T08:28:35.596988+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মাখন",
+      "reason": "The meaning correctly corresponds to the dairy product 'butter'.",
+      "source_fingerprint": "9fe726175d313aa9abb982fe9bbc7591d49f0867336d172288001bac759fac1f",
       "status": "valid"
     },
     "v-00408": {
@@ -6522,6 +6810,14 @@
       "source_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
       "status": "valid"
     },
+    "v-01142": {
+      "audited_at": "2026-10-08T08:28:35.596875+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভিত্তিমূলক, মুখ্য",
+      "reason": "The Bangla meaning accurately captures the primary senses of 'fundamental' as foundational and primary.",
+      "source_fingerprint": "64f03527ac568c5c96d7caa783b780ac702f0982980d70b6307024e99d1e131c",
+      "status": "valid"
+    },
     "v-01163": {
       "audited_at": "2026-10-07T08:12:46.951587+00:00",
       "confidence": 0.98,
@@ -6656,6 +6952,14 @@
       "meaning_bn": "সংবাদপত্র, পত্রিকা",
       "reason": "Both Bangla meanings correctly represent the noun 'newspaper'.",
       "source_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
+      "status": "valid"
+    },
+    "v-01812": {
+      "audited_at": "2026-10-08T08:28:35.596935+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "উচ্চপদস্থ কর্মচারী",
+      "reason": "The provided meaning correctly reflects one common sense of 'official' as a senior employee.",
+      "source_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
       "status": "valid"
     },
     "v-01918": {
@@ -6810,6 +7114,14 @@
       "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
       "status": "valid"
     },
+    "v-02543": {
+      "audited_at": "2026-10-08T08:28:35.597019+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "স্থির, নিরব, নিশ্চল",
+      "reason": "The Bangla meanings accurately represent the various senses of 'still' as stationary, silent, and motionless.",
+      "source_fingerprint": "e921520e3f10aa10ee9230a524a568b0cfd62cad775e17818040c60b2968b768",
+      "status": "valid"
+    },
     "v-02620": {
       "audited_at": "2026-09-27T07:39:03.577461+00:00",
       "confidence": 0.99,
@@ -6921,6 +7233,14 @@
       "reason": "The Bangla meaning correctly matches the English word Kingfisher as a bird.",
       "source_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
       "status": "valid"
+    },
+    "v-03983": {
+      "audited_at": "2026-10-08T08:28:35.596964+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ধান",
+      "reason": "The Bangla term precisely matches the agricultural sense of 'Paddy'.",
+      "source_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
+      "status": "valid"
     }
   },
   "media_cache": {
@@ -6983,6 +7303,12 @@
       "cached_at": "2026-09-26T12:40:13.460731+00:00",
       "photo_file_id": "AgACAgUAAxUHare9LGBuIGuRwc-nOUlyzpbMzb0AAh8TaxvpIcFVjcu7QHRnorkBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-00363": {
+      "audio_file_id": "CQACAgUAAxUHasdUPc2pvYtguIzDXsEN26pBH4YAAkMmAAKIuzlW5wEu7Fzv53k9BA",
+      "cached_at": "2026-10-08T08:28:46.180916+00:00",
+      "photo_file_id": "AgACAgUAAxUHasdUPQPdiP5eRimh_uLRxXQdc0wAAqwTaxuIuzlW20UsBNrY_F4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00365": {
       "cached_at": "2026-09-25T16:13:13.802359+00:00",
@@ -7181,6 +7507,12 @@
       "photo_file_id": "AgACAgUAAxUHasCxa1-NxC-uMIzlqCgPc4rrXkEAAqgSaxuvhgFWfU360voU4VIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01142": {
+      "audio_file_id": "CQACAgUAAxUHasdUNu11beij-k5-O5kddAJf4PsAAkAmAAKIuzlWJLrg8D4bibs9BA",
+      "cached_at": "2026-10-08T08:28:39.604839+00:00",
+      "photo_file_id": "AgACAgUAAxUHasdUN1HOMjIWqAKJS9yUOywkaZYAAqgTaxuIuzlW5hoJ670oPfgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01144": {
       "cached_at": "2026-09-25T12:21:35.598843+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnT9ICsYf60DALRATVZok9TMoAAnIRaxvpIbFVAscLV8vNF2ABAAMCAANzAAM9BA",
@@ -7322,6 +7654,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradlBupFASnWeVyop7z_fCHvLIAAhofAALpIblVeR3lotUcfws9BA"
     },
+    "v-01812": {
+      "audio_file_id": "CQACAgUAAxUHasdUOeX86LlTN0YNMZD0-0XRT4sAAkEmAAKIuzlWqcWFrCHaUP89BA",
+      "cached_at": "2026-10-08T08:28:41.819724+00:00",
+      "photo_file_id": "AgACAgUAAxUHasdUOeMOYLIKdBxUgMlhFU8fnC8AAqoTaxuIuzlWD5b_eP-DiEYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01828": {
       "cached_at": "2026-09-26T07:07:12.293149+00:00",
       "photo_file_id": "AgACAgUAAxUHardvH2uhwacwpGjkgnvsoyCm_ogAAt4RaxvpIcFV57hUogaUOPoBAAMCAANzAAM9BA",
@@ -7459,6 +7797,12 @@
       "cached_at": "2026-09-26T12:40:08.781838+00:00",
       "photo_file_id": "AgACAgUAAxUHare9KLdwTWTSEvFqOeVdn4fPdpIAAh0TaxvpIcFVjjRxVIq3RLsBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-02543": {
+      "audio_file_id": "CQACAgUAAxUHasdUP5xK7TlOY48XbGM1E_spvhgAAkQmAAKIuzlWni0myDY5b4Y9BA",
+      "cached_at": "2026-10-08T08:28:48.116131+00:00",
+      "photo_file_id": "AgACAgUAAxUHasdUP0Ux1L1Tqaf00HPu3bm6IkYAAq0TaxuIuzlWLI-G1UOhsl8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02620": {
       "audio_file_id": "CQACAgUAAxUHarjIH9nXRpMzn0cdPzfGHYOQZjwAAsQiAAKcC8lVhw1nTx2EaMQ9BA",
@@ -7603,6 +7947,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoXbbhr4E9TvjrGmRso1p6TnUAAhUUaxucC8lVuEaXaKTS5mcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03983": {
+      "audio_file_id": "CQACAgUAAxUHasdUO82MuhOSsuYyA0BLNNft2fMAAkImAAKIuzlWLmbw1wskPs49BA",
+      "cached_at": "2026-10-08T08:28:44.010850+00:00",
+      "photo_file_id": "AgACAgUAAxUHasdUO0F9qV_SNhhK90T4nWogzUUAAqsTaxuIuzlWPPBeT70FoEABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-04190": {
       "cached_at": "2026-09-25T16:45:11.040062+00:00",
       "photo_file_id": "AgACAgUAAxUHaralFpFNvQHv2lVANrXxR3ePKOMAAoIRaxvpIblV4ZD9H-0W9WkBAAMCAANzAAM9BA",
@@ -7673,6 +8023,12 @@
       "last_cycle": 1,
       "last_message_id": 66,
       "published_at": "2026-09-26T12:40:13.460754+00:00"
+    },
+    "v-00363": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 146,
+      "published_at": "2026-10-08T08:28:46.180939+00:00"
     },
     "v-00365": {
       "count": 1,
@@ -7877,6 +8233,12 @@
       "last_message_id": 122,
       "published_at": "2026-10-03T07:40:27.539031+00:00"
     },
+    "v-01142": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 143,
+      "published_at": "2026-10-08T08:28:39.604873+00:00"
+    },
     "v-01144": {
       "count": 1,
       "last_cycle": 1,
@@ -8028,6 +8390,12 @@
       "published_at": "2026-09-25T16:13:08.961108+00:00",
       "quiz_message_id": 46
     },
+    "v-01812": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 144,
+      "published_at": "2026-10-08T08:28:41.819750+00:00"
+    },
     "v-01828": {
       "count": 1,
       "last_cycle": 1,
@@ -8166,6 +8534,12 @@
       "last_cycle": 1,
       "last_message_id": 64,
       "published_at": "2026-09-26T12:40:08.781891+00:00"
+    },
+    "v-02543": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 147,
+      "published_at": "2026-10-08T08:28:48.116155+00:00"
     },
     "v-02620": {
       "count": 1,
@@ -8317,6 +8691,12 @@
       "last_message_id": 83,
       "published_at": "2026-09-27T00:50:38.337540+00:00"
     },
+    "v-03983": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 145,
+      "published_at": "2026-10-08T08:28:44.010874+00:00"
+    },
     "v-04190": {
       "count": 1,
       "last_cycle": 1,
@@ -8326,11 +8706,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01142",
-    "v-01812",
-    "v-03983",
-    "v-00363",
-    "v-02543",
     "v-01237",
     "v-02996",
     "v-01587",
@@ -12562,6 +12937,41 @@
         "v-01434"
       ],
       "status": "completed"
+    },
+    "20261008T082835Z-b9fa97a4": {
+      "completed_at": "2026-10-08T08:28:48.133836+00:00",
+      "created_at": "2026-10-08T08:28:35.230488+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01142"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01812"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03983"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00363"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02543"
+        }
+      ],
+      "published_ids": [
+        "v-01142",
+        "v-01812",
+        "v-03983",
+        "v-00363",
+        "v-02543"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -13447,6 +13857,43 @@
         "v-01434"
       ],
       "run_id": "20261007T081246Z-ecc82dbe",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-08T08:28:48.133836+00:00",
+      "created_at": "2026-10-08T08:28:35.230488+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01142"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01812"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03983"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00363"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02543"
+        }
+      ],
+      "published_ids": [
+        "v-01142",
+        "v-01812",
+        "v-03983",
+        "v-00363",
+        "v-02543"
+      ],
+      "run_id": "20261008T082835Z-b9fa97a4",
       "status": "completed",
       "unknown_ids": []
     }
