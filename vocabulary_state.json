@@ -2604,6 +2604,63 @@
         }
       ]
     },
+    "v-01237": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "45865b51681858717e47bb68eed27beb329a6164798194e61356779d17179afe",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "happen suddenly",
+        "happen by chance",
+        "what will happen",
+        "happen next",
+        "happen later"
+      ],
+      "common_mistake_correct": "happen (base form for present/future)",
+      "common_mistake_wrong": "happened",
+      "definition_en": "To occur or take place.",
+      "example_bn": "আগামীকাল কি ঘটবে?",
+      "example_en": "What will happen tomorrow?",
+      "memory_hook": "Think of \"hap\" meaning luck – lucky events happen.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "appear",
+        "happen",
+        "listen",
+        "write"
+      ],
+      "quiz_question": "Which word means \"to occur\"?",
+      "short_meaning_en": "occur",
+      "synonyms": [
+        {
+          "meaning": "to happen",
+          "word": "occur"
+        },
+        {
+          "meaning": "to happen",
+          "word": "transpire"
+        },
+        {
+          "meaning": "to happen",
+          "word": "arise"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "happening"
+        },
+        {
+          "type": "adverb",
+          "word": "happily"
+        },
+        {
+          "type": "noun",
+          "word": "happenstance"
+        }
+      ]
+    },
     "v-01309": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4e6520b693217d8a663175298a989aeaab9c0c2129a1615ccd025584aed57850",
@@ -2707,6 +2764,72 @@
         {
           "type": "noun",
           "word": "industrialist"
+        }
+      ]
+    },
+    "v-01416": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a20411668bf03eca7a7dd1c607193fdff4c9b80649506925df9217b15e293cca",
+      "antonyms": [
+        {
+          "meaning": "no intervention",
+          "word": "nonintervention"
+        },
+        {
+          "meaning": "non‑action",
+          "word": "abstention"
+        }
+      ],
+      "cefr": "C1",
+      "collocations": [
+        "foreign intervention",
+        "medical intervention",
+        "intervention program",
+        "government intervention",
+        "early intervention"
+      ],
+      "common_mistake_correct": "intervention (single n at end)",
+      "common_mistake_wrong": "interventionn",
+      "definition_en": "The act of intervening to change a situation, often to help.",
+      "example_bn": "সরকারের হস্তক্ষেপ সংকট থামিয়ে দিল।",
+      "example_en": "The government's intervention stopped the crisis.",
+      "memory_hook": "Think of \"inter‑\" (between) + \"vention\" (action) – action between parties.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The doctor gave an intervention for the wound.",
+        "The teacher planned an intervention program for struggling students.",
+        "She bought an intervention at the store.",
+        "They watched an intervention on TV."
+      ],
+      "quiz_question": "Which sentence uses \"intervention\" correctly?",
+      "short_meaning_en": "intervention",
+      "synonyms": [
+        {
+          "meaning": "intervention",
+          "word": "mediation"
+        },
+        {
+          "meaning": "intervention",
+          "word": "interference"
+        },
+        {
+          "meaning": "intervention",
+          "word": "involvement"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "intervene"
+        },
+        {
+          "type": "adjective",
+          "word": "intervening"
+        },
+        {
+          "type": "verb",
+          "word": "intervened"
         }
       ]
     },
@@ -2941,6 +3064,63 @@
         {
           "type": "noun",
           "word": "killing"
+        }
+      ]
+    },
+    "v-01473": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "39a5218f45acba9e62f63f167777483303a50bf89963e935d7d2be2caed0595d",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "mass killing",
+        "illegal killing",
+        "killing spree",
+        "the killing of",
+        "violent killing"
+      ],
+      "common_mistake_correct": "killing (double l)",
+      "common_mistake_wrong": "kiling",
+      "definition_en": "The act of causing death; killing someone or something.",
+      "example_bn": "হরিণের হত্যা অবৈধ ছিল।",
+      "example_en": "The killing of the deer was illegal.",
+      "memory_hook": "\"Kill\" + \"-ing\" = the act of killing.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "mass killing",
+        "friendly meeting",
+        "legal signing",
+        "peaceful talk"
+      ],
+      "quiz_question": "Which phrase describes an illegal act?",
+      "short_meaning_en": "killing",
+      "synonyms": [
+        {
+          "meaning": "killing",
+          "word": "murder"
+        },
+        {
+          "meaning": "killing",
+          "word": "slaughter"
+        },
+        {
+          "meaning": "killing",
+          "word": "execution"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "kill"
+        },
+        {
+          "type": "noun",
+          "word": "killer"
+        },
+        {
+          "type": "verb",
+          "word": "killed"
         }
       ]
     },
@@ -3375,6 +3555,68 @@
         {
           "type": "verb",
           "word": "borrow"
+        }
+      ]
+    },
+    "v-01587": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
+      "antonyms": [
+        {
+          "meaning": "not angry",
+          "word": "calm"
+        },
+        {
+          "meaning": "mentally sound",
+          "word": "sane"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "mad about",
+        "mad with rage",
+        "mad as a hatter",
+        "go mad",
+        "mad decision"
+      ],
+      "common_mistake_correct": "mad (spelling)",
+      "common_mistake_wrong": "madde",
+      "definition_en": "Extremely angry or mentally unstable.",
+      "example_bn": "সে তার জন্মদিন ভুলে যাওয়ায় তার ওপর রাগে পাগল হয়ে গিয়েছিল।",
+      "example_en": "She was mad at him for forgetting her birthday.",
+      "memory_hook": "\"Mad\" sounds like \"mad\" in \"mad hatter\" – crazy or angry.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She felt mad about the news.",
+        "She mad felt about the news.",
+        "Mad she felt about the news.",
+        "She felt about mad the news."
+      ],
+      "quiz_question": "Which sentence uses \"mad\" correctly?",
+      "short_meaning_en": "angry/insane",
+      "synonyms": [
+        {
+          "meaning": "mad",
+          "word": "angry"
+        },
+        {
+          "meaning": "very angry",
+          "word": "furious"
+        },
+        {
+          "meaning": "mad (mental)",
+          "word": "insane"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "madness"
+        },
+        {
+          "type": "adverb",
+          "word": "madly"
         }
       ]
     },
@@ -5958,6 +6200,68 @@
         }
       ]
     },
+    "v-02996": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9e72cfae3703e3e62751cbd701ba1855532207edcff082b72f6b9b01e5d26745",
+      "antonyms": [
+        {
+          "meaning": "correct",
+          "word": "right"
+        },
+        {
+          "meaning": "accurate",
+          "word": "correct"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "wrong answer",
+        "wrong decision",
+        "feel wrong",
+        "wrong side",
+        "wrong way"
+      ],
+      "common_mistake_correct": "wrong (spelling)",
+      "common_mistake_wrong": "wron",
+      "definition_en": "Not correct or true; containing an error.",
+      "example_bn": "তোমার উত্তরটি ভুল।",
+      "example_en": "Your answer is wrong.",
+      "memory_hook": "\"W\" looks like a bent path – a wrong direction.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "true",
+        "right",
+        "wrong",
+        "exact"
+      ],
+      "quiz_question": "Choose the word that means \"not correct\".",
+      "short_meaning_en": "incorrect",
+      "synonyms": [
+        {
+          "meaning": "not correct",
+          "word": "incorrect"
+        },
+        {
+          "meaning": "in error",
+          "word": "mistaken"
+        },
+        {
+          "meaning": "wrong",
+          "word": "erroneous"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "wrongly"
+        },
+        {
+          "type": "noun",
+          "word": "wrongness"
+        }
+      ]
+    },
     "v-03225": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -6834,6 +7138,14 @@
       "source_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
       "status": "valid"
     },
+    "v-01237": {
+      "audited_at": "2026-10-09T08:32:28.223028+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঘটা, সংঘটিত হওয়া, ঘটতে",
+      "reason": "The Bangla meanings accurately reflect the English verb 'happen' and match the source context.",
+      "source_fingerprint": "45865b51681858717e47bb68eed27beb329a6164798194e61356779d17179afe",
+      "status": "valid"
+    },
     "v-01309": {
       "audited_at": "2026-09-30T08:04:52.970921+00:00",
       "confidence": 0.97,
@@ -6850,6 +7162,14 @@
       "source_fingerprint": "a8009923034183b84e82709ef7adc994a045f76a9812797b94d242d8ca1f913e",
       "status": "corrected"
     },
+    "v-01416": {
+      "audited_at": "2026-10-09T08:32:28.223170+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মধ্যস্থতা, হস্তক্ষেপ",
+      "reason": "The Bangla meanings accurately reflect the English noun 'intervention'.",
+      "source_fingerprint": "a20411668bf03eca7a7dd1c607193fdff4c9b80649506925df9217b15e293cca",
+      "status": "valid"
+    },
     "v-01434": {
       "audited_at": "2026-10-07T08:12:46.951685+00:00",
       "confidence": 0.97,
@@ -6864,6 +7184,14 @@
       "meaning_bn": "হত্যা করা, ধ্বংস করা",
       "reason": "The Bangla meaning accurately represents the meaning of 'kill'.",
       "source_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
+      "status": "valid"
+    },
+    "v-01473": {
+      "audited_at": "2026-10-09T08:32:28.223146+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রাণনাশ, হত্যা, নাশ",
+      "reason": "The Bangla meanings correctly represent the noun 'killing'.",
+      "source_fingerprint": "39a5218f45acba9e62f63f167777483303a50bf89963e935d7d2be2caed0595d",
       "status": "valid"
     },
     "v-01491": {
@@ -6920,6 +7248,14 @@
       "meaning_bn": "ঋণ, ধার, দেনা, দাদন • ঋণ",
       "reason": "The Bangla meanings correctly capture the noun 'loan' and its variants.",
       "source_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
+      "status": "valid"
+    },
+    "v-01587": {
+      "audited_at": "2026-10-09T08:32:28.223119+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পাগল, ক্ষিপ্ত",
+      "reason": "The Bangla meanings accurately capture the senses of the English word 'mad'.",
+      "source_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
       "status": "valid"
     },
     "v-01612": {
@@ -7192,6 +7528,14 @@
       "meaning_bn": "ভাঁজ করা, মোড়া, ঢাকা, ভাঁজ করতে",
       "reason": "The Bangla meaning accurately reflects the verb senses of 'wrap'.",
       "source_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
+      "status": "valid"
+    },
+    "v-02996": {
+      "audited_at": "2026-10-09T08:32:28.223091+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভুল, অন্যায়, মিথ্যা, অশুভ",
+      "reason": "The provided Bangla meanings correctly correspond to the English adjective 'wrong'.",
+      "source_fingerprint": "9e72cfae3703e3e62751cbd701ba1855532207edcff082b72f6b9b01e5d26745",
       "status": "valid"
     },
     "v-03657": {
@@ -7531,6 +7875,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kUU4lY4NYbuRGeMgs3zQEF4wAAtURaxuXRvhVZzcs3yzLouQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01237": {
+      "audio_file_id": "CQACAgUAAxUHasimn9XXYk3kyAQqPzPbcOy-aNAAApMmAALvcUlWjUPUrShBrhs9BA",
+      "cached_at": "2026-10-09T08:32:32.173780+00:00",
+      "photo_file_id": "AgACAgUAAxUHasimnxwzn9EdtEZoTGd4x6pWQi4AApMYaxvvcUlWj9tUcXlCYuYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01309": {
       "audio_file_id": "CQACAgUAAxUHarzCrSyJRlY2AYKopUnUcn3kw1sAArEiAALHB-hVP28lH1rtYsg9BA",
       "cached_at": "2026-09-30T08:05:01.719977+00:00",
@@ -7541,6 +7891,12 @@
       "audio_file_id": "CQACAgUAAxUHar9kToijohi80F_KmegxBfDItyIAAhIhAAKXRvhVaMwkSgtVxx49BA",
       "cached_at": "2026-10-02T07:59:11.773076+00:00",
       "photo_file_id": "AgACAgUAAxUHar9kT75rtXU08wYCRPHEg-mcyUgAAtQRaxuXRvhVk7-XgcihNZoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01416": {
+      "audio_file_id": "CQACAgUAAxUHasimqdBxrgpv-CKl9B6WRXw8DQ0AApcmAALvcUlWxuPhyYBbN8g9BA",
+      "cached_at": "2026-10-09T08:32:41.917235+00:00",
+      "photo_file_id": "AgACAgUAAxUHasimqXqD41ezP99UkqmCnKjleegAApcYaxvvcUlWwhuzV9AjP_0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01419": {
@@ -7565,6 +7921,12 @@
       "audio_file_id": "CQACAgUAAxUHar9kU0z26rpjEhGauJh46nG8zscAAhQhAAKXRvhVCN6c_5XxNm49BA",
       "cached_at": "2026-10-02T07:59:16.358305+00:00",
       "photo_file_id": "AgACAgUAAxUHar9kU4hstccmYjzJ6o17MkWgLQkAAtYRaxuXRvhVmig1-m-jU_kBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01473": {
+      "audio_file_id": "CQACAgUAAxUHasimpoLZBUKXbQYcoNxU3pPWtKkAApYmAALvcUlWKxomzCv-ais9BA",
+      "cached_at": "2026-10-09T08:32:39.639310+00:00",
+      "photo_file_id": "AgACAgUAAxUHasimp-qzLL1L2_Tf7EoTnsrHXjcAApYYaxvvcUlWcBRSoc1KacUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01491": {
@@ -7608,6 +7970,12 @@
       "cached_at": "2026-09-26T23:32:16.440892+00:00",
       "photo_file_id": "AgACAgUAAxUHarhWAAF_zPlUHgdh5fNpu76xhMcjAAL6E2sbnAvJVQ0uhmQyQTJbAQADAgADcwADPQQ",
       "version": "1.2.0"
+    },
+    "v-01587": {
+      "audio_file_id": "CQACAgUAAxUHasimpL7yqlrMB3ZINHH4Lsi8h9AAApUmAALvcUlWlbmI-7oWRZo9BA",
+      "cached_at": "2026-10-09T08:32:37.109896+00:00",
+      "photo_file_id": "AgACAgUAAxUHasimpH15f5MnePDhT4DdVuufvYsAApUYaxvvcUlWLTu2eCusvOYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01599": {
       "audio_file_id": "CQACAgUAAxUHarZZK-Yp0tFj1vHXrfk2YA-z8DYAAsQkAALpIbFV-w4QlOkLda49BA",
@@ -7885,6 +8253,12 @@
       "audio_file_id": "CQACAgUAAxUHar4YWK2gTGQkq_B4i46KD7c47U4AAqMhAAKXRvBVtrWwkqjmsFQ9BA",
       "cached_at": "2026-10-01T08:22:49.555313+00:00",
       "photo_file_id": "AgACAgUAAxUHar4YWcLL6i8IRKyzgQ78NznwMnwAAt0TaxuXRvBVQoCj9DIkUkUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02996": {
+      "audio_file_id": "CQACAgUAAxUHasimoSo1ZveQ3_JbAglJO-5h6i8AApQmAALvcUlW4zuf67A55Ac9BA",
+      "cached_at": "2026-10-09T08:32:34.636720+00:00",
+      "photo_file_id": "AgACAgUAAxUHasimoregWbcUXVxL9mzEuKjPYB4AApQYaxvvcUlWxHRzTr78sNMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-03225": {
@@ -8258,6 +8632,12 @@
       "last_message_id": 116,
       "published_at": "2026-10-02T07:59:14.259488+00:00"
     },
+    "v-01237": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 148,
+      "published_at": "2026-10-09T08:32:32.173810+00:00"
+    },
     "v-01309": {
       "count": 1,
       "last_cycle": 1,
@@ -8269,6 +8649,12 @@
       "last_cycle": 1,
       "last_message_id": 115,
       "published_at": "2026-10-02T07:59:11.773104+00:00"
+    },
+    "v-01416": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 152,
+      "published_at": "2026-10-09T08:32:41.917261+00:00"
     },
     "v-01419": {
       "count": 1,
@@ -8295,6 +8681,12 @@
       "last_cycle": 1,
       "last_message_id": 117,
       "published_at": "2026-10-02T07:59:16.358333+00:00"
+    },
+    "v-01473": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 151,
+      "published_at": "2026-10-09T08:32:39.639346+00:00"
     },
     "v-01491": {
       "count": 1,
@@ -8337,6 +8729,12 @@
       "last_cycle": 1,
       "last_message_id": 71,
       "published_at": "2026-09-26T23:32:16.440916+00:00"
+    },
+    "v-01587": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 150,
+      "published_at": "2026-10-09T08:32:37.109923+00:00"
     },
     "v-01599": {
       "count": 1,
@@ -8628,6 +9026,12 @@
       "last_message_id": 112,
       "published_at": "2026-10-01T08:22:49.555337+00:00"
     },
+    "v-02996": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 149,
+      "published_at": "2026-10-09T08:32:34.636749+00:00"
+    },
     "v-03225": {
       "count": 1,
       "last_cycle": 1,
@@ -8706,11 +9110,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01237",
-    "v-02996",
-    "v-01587",
-    "v-01473",
-    "v-01416",
     "v-00068",
     "v-01290",
     "v-01267",
@@ -12972,6 +13371,41 @@
         "v-02543"
       ],
       "status": "completed"
+    },
+    "20261009T083227Z-dd136094": {
+      "completed_at": "2026-10-09T08:32:41.931668+00:00",
+      "created_at": "2026-10-09T08:32:27.848803+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01237"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02996"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01587"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01473"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01416"
+        }
+      ],
+      "published_ids": [
+        "v-01237",
+        "v-02996",
+        "v-01587",
+        "v-01473",
+        "v-01416"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -13894,6 +14328,43 @@
         "v-02543"
       ],
       "run_id": "20261008T082835Z-b9fa97a4",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-09T08:32:41.931668+00:00",
+      "created_at": "2026-10-09T08:32:27.848803+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01237"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02996"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01587"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01473"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01416"
+        }
+      ],
+      "published_ids": [
+        "v-01237",
+        "v-02996",
+        "v-01587",
+        "v-01473",
+        "v-01416"
+      ],
+      "run_id": "20261009T083227Z-dd136094",
       "status": "completed",
       "unknown_ids": []
     }
