@@ -137,6 +137,64 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00068": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
+      "antonyms": [
+        {
+          "meaning": "lack the means",
+          "word": "cannot afford"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "afford to buy",
+        "afford a luxury",
+        "afford the cost",
+        "afford time",
+        "afford a trip"
+      ],
+      "common_mistake_correct": "I can afford it",
+      "common_mistake_wrong": "I can afforded it",
+      "definition_en": "To have enough money or resources to be able to buy or do something.",
+      "example_bn": "আমি এখন নতুন ল্যাপটপ কিনতে পারি না।",
+      "example_en": "I can't afford a new laptop right now.",
+      "memory_hook": "If you have enough money, you can 'afford' it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She afforded the tickets",
+        "They can afford a new house",
+        "He afford the car",
+        "We can afforded it"
+      ],
+      "quiz_question": "Which sentence uses \"afford\" correctly?",
+      "short_meaning_en": "manage",
+      "synonyms": [
+        {
+          "meaning": "be able to handle",
+          "word": "manage"
+        },
+        {
+          "meaning": "be able to support",
+          "word": "bear"
+        },
+        {
+          "meaning": "keep up",
+          "word": "sustain"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "affordable"
+        },
+        {
+          "type": "noun",
+          "word": "affordability"
+        }
+      ]
+    },
     "v-00079": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -1365,6 +1423,60 @@
         {
           "type": "verb",
           "word": "darken"
+        }
+      ]
+    },
+    "v-00690": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "15bfddce806797306fff310ed10dd1d7d0b21029f7fdee43458eae3d3f347c98",
+      "antonyms": [
+        {
+          "meaning": "opposite of day",
+          "word": "night"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "day off",
+        "day after",
+        "day by day",
+        "day light",
+        "day shift"
+      ],
+      "common_mistake_correct": "days",
+      "common_mistake_wrong": "dayes",
+      "definition_en": "A period of 24 hours, from one midnight to the next.",
+      "example_bn": "আমরা পরের দিন আবার মিলিত হব।",
+      "example_en": "We will meet again the next day.",
+      "memory_hook": "Day sounds like \"die\" but it lives on every 24 hours.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "day off",
+        "day after",
+        "daylight",
+        "day shift"
+      ],
+      "quiz_question": "Which phrase means a break from work?",
+      "short_meaning_en": "24‑hour",
+      "synonyms": [
+        {
+          "meaning": "calendar day",
+          "word": "date"
+        },
+        {
+          "meaning": "period of light",
+          "word": "daytime"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "daily"
+        },
+        {
+          "type": "noun",
+          "word": "daylight"
         }
       ]
     },
@@ -2658,6 +2770,122 @@
         {
           "type": "noun",
           "word": "happenstance"
+        }
+      ]
+    },
+    "v-01267": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5893d91102bce7a746273fbf8b4a302d1630a634c8b59c9b61ea327bddf73a71",
+      "antonyms": [
+        {
+          "meaning": "evil character",
+          "word": "villain"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "hero of the story",
+        "war hero",
+        "local hero",
+        "hero worship",
+        "heroic act"
+      ],
+      "common_mistake_correct": "hero",
+      "common_mistake_wrong": "heroe",
+      "definition_en": "A person admired for courage, outstanding achievements, or noble qualities.",
+      "example_bn": "তিনি গ্রামবাসীদের জন্য এক বীর ছিলেন।",
+      "example_en": "She was a hero to everyone in the village.",
+      "memory_hook": "Hero contains \"her\" – think of a brave person, even a woman.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "hero",
+        "heroe",
+        "heron",
+        "herb"
+      ],
+      "quiz_question": "Which word correctly completes the sentence? \"He was a ___ during the flood.\"",
+      "short_meaning_en": "brave",
+      "synonyms": [
+        {
+          "meaning": "winner",
+          "word": "champion"
+        },
+        {
+          "meaning": "rescuer",
+          "word": "savior"
+        },
+        {
+          "meaning": "fighter",
+          "word": "warrior"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "heroic"
+        },
+        {
+          "type": "noun",
+          "word": "heroism"
+        }
+      ]
+    },
+    "v-01290": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "071bc74e9a5e810832ea52a8a5224676fd257b8e0881036389d6be0e0834ecb0",
+      "antonyms": [
+        {
+          "meaning": "not sacred",
+          "word": "profane"
+        },
+        {
+          "meaning": "non‑religious",
+          "word": "secular"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "holy water",
+        "holy ground",
+        "holy day",
+        "holy text",
+        "holy shrine"
+      ],
+      "common_mistake_correct": "holy (meaning sacred)",
+      "common_mistake_wrong": "holy (confused with Holi festival)",
+      "definition_en": "Regarded as holy or worthy of religious respect.",
+      "example_bn": "পবিত্র বইটি প্রতি সপ্তাহে পড়া হয়।",
+      "example_en": "The holy book is read every week.",
+      "memory_hook": "Holy sounds like \"hole-y\" – something pure inside a hole.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Holy water is used in the ceremony",
+        "We celebrated holy with colors",
+        "Holy is a type of fruit",
+        "The holy is a festival"
+      ],
+      "quiz_question": "Choose the correct use of \"holy\":",
+      "short_meaning_en": "sacred",
+      "synonyms": [
+        {
+          "meaning": "holy",
+          "word": "sacred"
+        },
+        {
+          "meaning": "favored by God",
+          "word": "blessed"
+        },
+        {
+          "meaning": "made holy",
+          "word": "consecrated"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "holiness"
         }
       ]
     },
@@ -4947,6 +5175,60 @@
         }
       ]
     },
+    "v-02295": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a2fbcc0d5a2f77cb9093f365b81fcb09e851a5badcbda060b5db236b3a76831c",
+      "antonyms": [
+        {
+          "meaning": "non‑sacred",
+          "word": "profane"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "sacred text",
+        "sacred site",
+        "sacred ritual",
+        "sacred duty",
+        "sacred tradition"
+      ],
+      "common_mistake_correct": "sacred",
+      "common_mistake_wrong": "sacredly (incorrect adverb)",
+      "definition_en": "Connected with religious significance and treated with great respect.",
+      "example_bn": "মন্দিরটি অনেক তীর্থযাত্রীদের জন্য পবিত্র স্থান।",
+      "example_en": "The temple is a sacred place for many pilgrims.",
+      "memory_hook": "Sacred starts with \"sac\" like a sack – keep something valuable safe.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The sacred ceremony was held at dawn",
+        "She spoke sacredly about the topic",
+        "They built a sacredly garden",
+        "It was a sacredly place"
+      ],
+      "quiz_question": "Select the sentence that uses \"sacred\" correctly:",
+      "short_meaning_en": "holy",
+      "synonyms": [
+        {
+          "meaning": "sacred",
+          "word": "holy"
+        },
+        {
+          "meaning": "revered",
+          "word": "hallowed"
+        },
+        {
+          "meaning": "made holy",
+          "word": "consecrated"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "sacredness"
+        }
+      ]
+    },
     "v-02336": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "f17e1b42e562e28e965184dd7d9e03b3f4b292754a7790e621c3359273c1eb15",
@@ -6874,6 +7156,14 @@
       "source_fingerprint": "6b91dc8101a59310ced6e66b8c980ea32e3c21a4033df540f712b6c34bef6c79",
       "status": "valid"
     },
+    "v-00068": {
+      "audited_at": "2026-10-10T08:09:16.772335+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "সমর্থ হওয়া, সমর্থ হতে",
+      "reason": "The Bangla meaning accurately conveys the sense of being able to afford or have the capacity, matching the verb 'afford'.",
+      "source_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
+      "status": "valid"
+    },
     "v-00105": {
       "audited_at": "2026-10-04T07:49:08.754017+00:00",
       "confidence": 0.99,
@@ -6992,6 +7282,14 @@
       "meaning_bn": "পানপাত্র, পেয়ালা, কাপ",
       "reason": "Bangla meanings correctly represent the noun 'cup' and its common uses.",
       "source_fingerprint": "c89cf3bbcd55d9d0cac55204534c9e64fbf329cdd432fc739c46ac25fa0797a5",
+      "status": "valid"
+    },
+    "v-00690": {
+      "audited_at": "2026-10-10T08:09:16.772511+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দিন",
+      "reason": "The Bangla meaning correctly matches the noun 'day'.",
+      "source_fingerprint": "15bfddce806797306fff310ed10dd1d7d0b21029f7fdee43458eae3d3f347c98",
       "status": "valid"
     },
     "v-00708": {
@@ -7144,6 +7442,22 @@
       "meaning_bn": "ঘটা, সংঘটিত হওয়া, ঘটতে",
       "reason": "The Bangla meanings accurately reflect the English verb 'happen' and match the source context.",
       "source_fingerprint": "45865b51681858717e47bb68eed27beb329a6164798194e61356779d17179afe",
+      "status": "valid"
+    },
+    "v-01267": {
+      "audited_at": "2026-10-10T08:09:16.772443+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বীরপুরুষ, নায়ক",
+      "reason": "The Bangla meanings accurately correspond to the noun 'hero'.",
+      "source_fingerprint": "5893d91102bce7a746273fbf8b4a302d1630a634c8b59c9b61ea327bddf73a71",
+      "status": "valid"
+    },
+    "v-01290": {
+      "audited_at": "2026-10-10T08:09:16.772407+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পবিত্র, ধার্মিক, ঐশ্বরিক",
+      "reason": "The provided Bangla meanings correctly represent the adjective 'holy'.",
+      "source_fingerprint": "071bc74e9a5e810832ea52a8a5224676fd257b8e0881036389d6be0e0834ecb0",
       "status": "valid"
     },
     "v-01309": {
@@ -7394,6 +7708,14 @@
       "source_fingerprint": "7a5cd88d62919f0837cf05e03c4e52874deb16e1a1a952597c6ec9128c270512",
       "status": "corrected"
     },
+    "v-02295": {
+      "audited_at": "2026-10-10T08:09:16.772481+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "পবিত্র, পবিত, ধর্মীয়",
+      "reason": "The term 'পুত' is unrelated; the correct senses for 'sacred' are 'পবিত্র, পবিত, ধর্মীয়'.",
+      "source_fingerprint": "4236809120b0c7e3e110e10c5e822d1ef01db09b6b95208dd43bf949e07f214d",
+      "status": "corrected"
+    },
     "v-02336": {
       "audited_at": "2026-09-26T23:58:20.821283+00:00",
       "confidence": 0.99,
@@ -7606,6 +7928,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PxEp7nJ3aENrvRHs1VAvv6IAAtMeAALpIblV50Z2hNaRDYA9BA"
     },
+    "v-00068": {
+      "audio_file_id": "CQACAgUAAxUHasnysPAt7anWQ_AEQuugkoZhxfQAApsnAALvcVFW-aRhuQ6dqt89BA",
+      "cached_at": "2026-10-10T08:09:21.513116+00:00",
+      "photo_file_id": "AgACAgUAAxUHasnysNx6U9qjVnyRoRKYZ0S0WKQAAtgSaxvvcVFWHgYTmpDrwasBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00079": {
       "cached_at": "2026-09-25T16:45:15.237239+00:00",
       "photo_file_id": "AgACAgUAAxUHaralGrgo5a11XPg3Fsj7u03Wkr4AAoMRaxvpIblVCiw0IATwDI8BAAMCAANzAAM9BA",
@@ -7744,6 +8072,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraL_kPM6caItZkmytQt7sv_CeYAAvoeAALpIblVaxByrzoloOQ9BA"
     },
+    "v-00690": {
+      "audio_file_id": "CQACAgUAAxUHasnyug6WApIcc-4e-Mr-2qBrLp8AAp8nAALvcVFWS4ZdIF_COEc9BA",
+      "cached_at": "2026-10-10T08:09:31.336517+00:00",
+      "photo_file_id": "AgACAgUAAxUHasnyuh2BCGZszaidwfIBxtsZsEIAAtwSaxvvcVFW4pCz-u1JP-0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00708": {
       "audio_file_id": "CQACAgUAAxUHarjIG4XGNbjHjaPg4DOIws9u8A8AAsEiAAKcC8lVtZaPUQp8vVk9BA",
       "cached_at": "2026-09-27T07:39:07.692429+00:00",
@@ -7879,6 +8213,18 @@
       "audio_file_id": "CQACAgUAAxUHasimn9XXYk3kyAQqPzPbcOy-aNAAApMmAALvcUlWjUPUrShBrhs9BA",
       "cached_at": "2026-10-09T08:32:32.173780+00:00",
       "photo_file_id": "AgACAgUAAxUHasimnxwzn9EdtEZoTGd4x6pWQi4AApMYaxvvcUlWj9tUcXlCYuYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01267": {
+      "audio_file_id": "CQACAgUAAxUHasnytXRBdGddmgQUqXgn_kJACZ0AAp0nAALvcVFW0Tk9UMK3Ifs9BA",
+      "cached_at": "2026-10-10T08:09:26.624833+00:00",
+      "photo_file_id": "AgACAgUAAxUHasnytryFN0GilpQejg5AOPYhxUkAAtoSaxvvcVFWctMTBUjatr4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01290": {
+      "audio_file_id": "CQACAgUAAxUHasnysy8OyMsI3Kse70ay_14ZlKcAApwnAALvcVFWY6JXthe4FtE9BA",
+      "cached_at": "2026-10-10T08:09:23.936779+00:00",
+      "photo_file_id": "AgACAgUAAxUHasnysxbYrjmfT1PpN4DCKw5Aan0AAtkSaxvvcVFWTM9iqr8T380BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01309": {
@@ -8124,6 +8470,12 @@
       "photo_file_id": "AgACAgUAAxUHasNfRLjYs_PW11HDMVHUdRtQcxEAAmcUaxtCJRhW5wVfA3Tr5T0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02295": {
+      "audio_file_id": "CQACAgUAAxUHasnyuP6UfB9gwLlHxpNgh5Npo5oAAp4nAALvcVFW6wwcO6xApZ89BA",
+      "cached_at": "2026-10-10T08:09:28.938852+00:00",
+      "photo_file_id": "AgACAgUAAxUHasnyuBKl2Ze98R1r9OZ5jbJwd4EAAtsSaxvvcVFWDnyN-GKtRyUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02336": {
       "audio_file_id": "AwACAgUAAxUHarhcJKQyOP2b9TQwejZggzDxDTcAAk8hAAKcC8lVI1qqil53f2M9BA",
       "cached_at": "2026-09-26T23:58:29.287653+00:00",
@@ -8356,6 +8708,12 @@
       "last_message_id": 31,
       "published_at": "2026-09-25T14:03:43.882653+00:00"
     },
+    "v-00068": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 153,
+      "published_at": "2026-10-10T08:09:21.513145+00:00"
+    },
     "v-00079": {
       "count": 1,
       "last_cycle": 1,
@@ -8495,6 +8853,12 @@
       "last_message_id": 33,
       "published_at": "2026-09-25T14:58:07.121359+00:00",
       "quiz_message_id": 34
+    },
+    "v-00690": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 157,
+      "published_at": "2026-10-10T08:09:31.336542+00:00"
     },
     "v-00708": {
       "count": 1,
@@ -8637,6 +9001,18 @@
       "last_cycle": 1,
       "last_message_id": 148,
       "published_at": "2026-10-09T08:32:32.173810+00:00"
+    },
+    "v-01267": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 155,
+      "published_at": "2026-10-10T08:09:26.624856+00:00"
+    },
+    "v-01290": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 154,
+      "published_at": "2026-10-10T08:09:23.936809+00:00"
     },
     "v-01309": {
       "count": 1,
@@ -8891,6 +9267,12 @@
       "last_message_id": 130,
       "published_at": "2026-10-05T08:26:45.270677+00:00"
     },
+    "v-02295": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 156,
+      "published_at": "2026-10-10T08:09:28.938881+00:00"
+    },
     "v-02336": {
       "count": 1,
       "last_cycle": 1,
@@ -9110,11 +9492,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00068",
-    "v-01290",
-    "v-01267",
-    "v-02295",
-    "v-00690",
     "v-02831",
     "v-01458",
     "v-02222",
@@ -13406,6 +13783,41 @@
         "v-01416"
       ],
       "status": "completed"
+    },
+    "20261010T080916Z-eb3e4611": {
+      "completed_at": "2026-10-10T08:09:31.355649+00:00",
+      "created_at": "2026-10-10T08:09:16.303020+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00068"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01290"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01267"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02295"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00690"
+        }
+      ],
+      "published_ids": [
+        "v-00068",
+        "v-01290",
+        "v-01267",
+        "v-02295",
+        "v-00690"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -14365,6 +14777,43 @@
         "v-01416"
       ],
       "run_id": "20261009T083227Z-dd136094",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-10T08:09:31.355649+00:00",
+      "created_at": "2026-10-10T08:09:16.303020+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00068"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01290"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01267"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02295"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00690"
+        }
+      ],
+      "published_ids": [
+        "v-00068",
+        "v-01290",
+        "v-01267",
+        "v-02295",
+        "v-00690"
+      ],
+      "run_id": "20261010T080916Z-eb3e4611",
       "status": "completed",
       "unknown_ids": []
     }
