@@ -422,6 +422,64 @@
         }
       ]
     },
+    "v-00264": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "860cad96b599e14306ea3f175ae1222e70ae9ce930c2c527666abffb679cd843",
+      "antonyms": [
+        {
+          "meaning": "bad conduct",
+          "word": "misbehavior"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "good behavior",
+        "behavior problems",
+        "abnormal behavior",
+        "child behavior",
+        "behavior pattern"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The way a person acts or conducts themselves.",
+      "example_bn": "পরামর্শের পরে শিশুর আচরণ উন্নত হয়েছে।",
+      "example_en": "The child's behavior improved after the counseling.",
+      "memory_hook": "Behave = act; behavior is the result.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a feeling",
+        "a habit",
+        "a way of acting",
+        "a thought"
+      ],
+      "quiz_question": "What does \"behavior\" refer to?",
+      "short_meaning_en": "conduct",
+      "synonyms": [
+        {
+          "meaning": "behavior",
+          "word": "conduct"
+        },
+        {
+          "meaning": "outward behavior",
+          "word": "demeanor"
+        },
+        {
+          "meaning": "way of acting",
+          "word": "manner"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "behave"
+        },
+        {
+          "type": "adjective",
+          "word": "behavioral"
+        }
+      ]
+    },
     "v-00277": {
       "antonyms": [],
       "cefr": "",
@@ -3233,6 +3291,68 @@
         }
       ]
     },
+    "v-01458": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8288fd2f0f2b2b7c7607cf88b96b3bb79a6cc4f03b36cac9b4f3856295f56167",
+      "antonyms": [
+        {
+          "meaning": "pay no attention",
+          "word": "ignore"
+        },
+        {
+          "meaning": "fail to notice",
+          "word": "overlook"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "judge a case",
+        "judge the performance",
+        "judge fairly",
+        "judge the evidence",
+        "judge yourself"
+      ],
+      "common_mistake_correct": "judgement (British spelling)",
+      "common_mistake_wrong": "judgment",
+      "definition_en": "To form an opinion about someone or something after careful thought.",
+      "example_bn": "শিক্ষক আগামীকাল প্রবন্ধগুলো বিচার করবেন।",
+      "example_en": "The teacher will judge the essays tomorrow.",
+      "memory_hook": "A judge sits on a bench to decide.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "to punish",
+        "to ignore",
+        "to form an opinion",
+        "to celebrate"
+      ],
+      "quiz_question": "What does it mean to \"judge\" someone?",
+      "short_meaning_en": "form opinion",
+      "synonyms": [
+        {
+          "meaning": "evaluate",
+          "word": "assess"
+        },
+        {
+          "meaning": "judge",
+          "word": "evaluate"
+        },
+        {
+          "meaning": "make a judgment",
+          "word": "adjudicate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "judgement"
+        },
+        {
+          "type": "adjective",
+          "word": "judicial"
+        }
+      ]
+    },
     "v-01471": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
@@ -5109,6 +5229,59 @@
         }
       ]
     },
+    "v-02222": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "reporter on the scene",
+        "investigative reporter",
+        "staff reporter",
+        "freelance reporter",
+        "reporter for newspaper"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A person who collects and writes news stories for media outlets.",
+      "example_bn": "রিপোর্টার অগ্নিকাণ্ডের পরে মেয়রকে সাক্ষাৎকার নিয়েছেন।",
+      "example_en": "The reporter interviewed the mayor after the fire.",
+      "memory_hook": "Reporter = one who reports news.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "doctor",
+        "reporter",
+        "engineer",
+        "chef"
+      ],
+      "quiz_question": "Which profession gathers news for a newspaper?",
+      "short_meaning_en": "news writer",
+      "synonyms": [
+        {
+          "meaning": "news writer",
+          "word": "journalist"
+        },
+        {
+          "meaning": "news correspondent",
+          "word": "correspondent"
+        },
+        {
+          "meaning": "writes news",
+          "word": "newswriter"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "report"
+        },
+        {
+          "type": "noun",
+          "word": "reporting"
+        }
+      ]
+    },
     "v-02238": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "deb4d81056f65d3cca7bed9cbbb62574fe2e0022c6ca92d160857dd1bff382c2",
@@ -6158,6 +6331,72 @@
         }
       ]
     },
+    "v-02831": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b9ecc236281f50120c079344af954cb0758b26a597a8589a0812f3823be93d1a",
+      "antonyms": [
+        {
+          "meaning": "common",
+          "word": "usual"
+        },
+        {
+          "meaning": "standard",
+          "word": "normal"
+        },
+        {
+          "meaning": "average",
+          "word": "typical"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "unusual behavior",
+        "unusual circumstances",
+        "unusual taste",
+        "unusual pattern",
+        "unusual sight"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Something that is not common or ordinary.",
+      "example_bn": "তার একটি অসাধারণ প্রতিভা আছে দ্রুত ধাঁধা সমাধান করার।",
+      "example_en": "She has an unusual talent for solving puzzles quickly.",
+      "memory_hook": "Think of \"UN\" + \"usual\" = not usual.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "ordinary",
+        "usual",
+        "unusual",
+        "common"
+      ],
+      "quiz_question": "Which word best matches the meaning \"not common\"?",
+      "short_meaning_en": "not common",
+      "synonyms": [
+        {
+          "meaning": "not typical",
+          "word": "atypical"
+        },
+        {
+          "meaning": "very remarkable",
+          "word": "extraordinary"
+        },
+        {
+          "meaning": "infrequent",
+          "word": "rare"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "unusually"
+        },
+        {
+          "type": "noun",
+          "word": "unusualness"
+        }
+      ]
+    },
     "v-02837": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
@@ -6368,6 +6607,72 @@
         {
           "type": "verb",
           "word": "waited"
+        }
+      ]
+    },
+    "v-02905": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4c299fb6701149fc944e57eac47f8a5dd90f3f84c4a7263705562be82991e364",
+      "antonyms": [
+        {
+          "meaning": "save",
+          "word": "conserve"
+        },
+        {
+          "meaning": "keep",
+          "word": "preserve"
+        },
+        {
+          "meaning": "avoid waste",
+          "word": "save"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "waste food",
+        "waste time",
+        "waste resources",
+        "waste money",
+        "waste material"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "To use something carelessly or without purpose, causing loss.",
+      "example_bn": "তিনি সামাজিক মিডিয়ায় অনেক সময় অপচয় করেন।",
+      "example_en": "He tends to waste a lot of time on social media.",
+      "memory_hook": "If you \"waste\" it, it disappears like waste water.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "to save",
+        "to use wisely",
+        "to squander",
+        "to recycle"
+      ],
+      "quiz_question": "Which action best describes \"to waste\"?",
+      "short_meaning_en": "squander",
+      "synonyms": [
+        {
+          "meaning": "waste",
+          "word": "squander"
+        },
+        {
+          "meaning": "use wrongly",
+          "word": "misuse"
+        },
+        {
+          "meaning": "scatter",
+          "word": "dissipate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "wasteful"
+        },
+        {
+          "type": "adverb",
+          "word": "wastefully"
         }
       ]
     },
@@ -7180,6 +7485,14 @@
       "source_fingerprint": "ebb07d122ad933c4a7f7936a624843ef09f60389dbfcbfb8a74f03aed6e83ab3",
       "status": "valid"
     },
+    "v-00264": {
+      "audited_at": "2026-10-11T08:20:56.006848+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "আচরণ, স্বভাব",
+      "reason": "The Bangla meanings accurately capture the sense of 'behavior'.",
+      "source_fingerprint": "860cad96b599e14306ea3f175ae1222e70ae9ce930c2c527666abffb679cd843",
+      "status": "valid"
+    },
     "v-00337": {
       "audited_at": "2026-09-26T12:40:01.633580+00:00",
       "confidence": 1.0,
@@ -7492,6 +7805,14 @@
       "source_fingerprint": "0984f67e3190e74aea411040446ed732564d919b2a708f826ee97ebfb4ee2510",
       "status": "valid"
     },
+    "v-01458": {
+      "audited_at": "2026-10-11T08:20:56.006795+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বিচারপতি, বিচার করতে",
+      "reason": "The meanings correspond to the noun 'judge' and the verb 'to judge' correctly.",
+      "source_fingerprint": "8288fd2f0f2b2b7c7607cf88b96b3bb79a6cc4f03b36cac9b4f3856295f56167",
+      "status": "valid"
+    },
     "v-01471": {
       "audited_at": "2026-10-02T07:58:58.833766+00:00",
       "confidence": 0.99,
@@ -7700,6 +8021,14 @@
       "source_fingerprint": "990455e9e7d07c8a0c48463facf4af6a88cd9884ff7ed74871e315bc541beb31",
       "status": "corrected"
     },
+    "v-02222": {
+      "audited_at": "2026-10-11T08:20:56.006824+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতিবেদক, রিপোর্টার",
+      "reason": "Both Bangla terms correctly denote the English word 'reporter'.",
+      "source_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
+      "status": "valid"
+    },
     "v-02238": {
       "audited_at": "2026-10-05T08:26:36.600149+00:00",
       "confidence": 0.96,
@@ -7828,12 +8157,28 @@
       "source_fingerprint": "3697a5c48ed227a2b2b8d46bc047b2e4b0da5ebd9396e40005faa44fb431f540",
       "status": "valid"
     },
+    "v-02831": {
+      "audited_at": "2026-10-11T08:20:56.006735+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অসাধারণ, উল্লেখযোগ্য",
+      "reason": "The Bangla meaning accurately reflects the senses of 'unusual' as uncommon or notable.",
+      "source_fingerprint": "b9ecc236281f50120c079344af954cb0758b26a597a8589a0812f3823be93d1a",
+      "status": "valid"
+    },
     "v-02837": {
       "audited_at": "2026-09-30T08:04:52.970948+00:00",
       "confidence": 0.99,
       "meaning_bn": "আমাদেরকে",
       "reason": "The Bangla meaning correctly represents the pronoun 'us'.",
       "source_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
+      "status": "valid"
+    },
+    "v-02905": {
+      "audited_at": "2026-10-11T08:20:56.006877+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পতিত (জমি), আবর্জনা, অপচয় করতে",
+      "reason": "The meanings correctly represent the noun and verb senses of 'waste'.",
+      "source_fingerprint": "4c299fb6701149fc944e57eac47f8a5dd90f3f84c4a7263705562be82991e364",
       "status": "valid"
     },
     "v-02935": {
@@ -7957,6 +8302,12 @@
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralHFXqzNfBlkyWJ6PxYP5CjvwAAigfAALpIblVN9G9CjXqu8Y9BA"
+    },
+    "v-00264": {
+      "audio_file_id": "CQACAgUAAxUHastG8Q5kv2FY-Riww8rnbHKht7QAAhMkAALl0VlW7DGoxsaAxSc9BA",
+      "cached_at": "2026-10-11T08:21:06.261906+00:00",
+      "photo_file_id": "AgACAgUAAxUHastG8cVJVsXRdTrAaAIHYvzNrpgAAmkYaxvl0VlWXw-XW3dXsssBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00277": {
       "cached_at": "2026-09-25T14:03:46.281666+00:00",
@@ -8263,6 +8614,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
     },
+    "v-01458": {
+      "audio_file_id": "CQACAgUAAxUHastG7YS27MN8nLJehF0u2DTvSXIAAhEkAALl0VlWgehIducbBJE9BA",
+      "cached_at": "2026-10-11T08:21:01.996498+00:00",
+      "photo_file_id": "AgACAgUAAxUHastG7fack5oVzKp58UC3wo_IP4wAAmcYaxvl0VlWHuDsra4BVY8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01471": {
       "audio_file_id": "CQACAgUAAxUHar9kU0z26rpjEhGauJh46nG8zscAAhQhAAKXRvhVCN6c_5XxNm49BA",
       "cached_at": "2026-10-02T07:59:16.358305+00:00",
@@ -8464,6 +8821,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kTOXfgBTkFnyMQZ3bdOXtod4AAtMRaxuXRvhV8BBgl6R_YNABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02222": {
+      "audio_file_id": "CQACAgUAAxUHastG7zDUYvL9VC8qq2IqUvIfnEUAAhIkAALl0VlW74h_HS-beFY9BA",
+      "cached_at": "2026-10-11T08:21:04.063625+00:00",
+      "photo_file_id": "AgACAgUAAxUHastG76h8U6TKHA27z_89hFVS33AAAmgYaxvl0VlWNaUG0xFdfsIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02238": {
       "audio_file_id": "CQACAgUAAxUHasNfRGqdAuzt01--KdFA9klFgAYAAh0hAAJCJRhW__uqy4cKQ4c9BA",
       "cached_at": "2026-10-05T08:26:45.270650+00:00",
@@ -8572,6 +8935,12 @@
       "photo_file_id": "AgACAgUAAxUHarhV-5zYdLkDneyBez6bnZDq6XQAAvgTaxucC8lVguWB8tWRAAE4AQADAgADcwADPQQ",
       "version": "1.2.0"
     },
+    "v-02831": {
+      "audio_file_id": "CQACAgUAAxUHastG6-1JfkivNGB0d0W5-D-QGu0AAhAkAALl0VlW0-mJfg-nwiI9BA",
+      "cached_at": "2026-10-11T08:20:59.813705+00:00",
+      "photo_file_id": "AgACAgUAAxUHastG67zrl5X0-GTP_cv7l8U5yV0AAmYYaxvl0VlWcFceOGUl8IIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02837": {
       "audio_file_id": "CQACAgUAAxUHarzCrxU06SWqaYTnzAAB2NBupmaTAAKyIgACxwfoVRxwOtjSV0PsPQQ",
       "cached_at": "2026-09-30T08:05:04.066816+00:00",
@@ -8594,6 +8963,12 @@
       "photo_file_id": "AgACAgUAAxUHaraMBUueXe9_8cjDBZ6TBJ4im4gAAj4RaxvpIblVWQyMTvmtxfYBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMBQh-fSE7zkhjFV3XAAE7AAE1JgAC_B4AAukhuVUoG5TzI6YeLz0E"
+    },
+    "v-02905": {
+      "audio_file_id": "CQACAgUAAxUHastG9H47GkvAQOMkEI537R-r3rEAAhQkAALl0VlWXrEnrscDd0I9BA",
+      "cached_at": "2026-10-11T08:21:08.806893+00:00",
+      "photo_file_id": "AgACAgUAAxUHastG9P5kEZIAAR9RNJ-So1EaNqn8AAJqGGsb5dFZVrYzCSE8mS4YAQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-02935": {
       "audio_file_id": "CQACAgUAAxUHaroioWkGSLAmB1Orf5AaS1FIimgAAhYfAAJT7NFV0GciIFf29nk9BA",
@@ -8737,6 +9112,12 @@
       "last_cycle": 1,
       "last_message_id": 55,
       "published_at": "2026-09-25T16:45:17.189597+00:00"
+    },
+    "v-00264": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 161,
+      "published_at": "2026-10-11T08:21:06.261934+00:00"
     },
     "v-00277": {
       "count": 1,
@@ -9052,6 +9433,12 @@
       "published_at": "2026-09-25T16:13:11.478231+00:00",
       "quiz_message_id": 48
     },
+    "v-01458": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 159,
+      "published_at": "2026-10-11T08:21:01.996527+00:00"
+    },
     "v-01471": {
       "count": 1,
       "last_cycle": 1,
@@ -9261,6 +9648,12 @@
       "last_message_id": 114,
       "published_at": "2026-10-02T07:59:08.912224+00:00"
     },
+    "v-02222": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 160,
+      "published_at": "2026-10-11T08:21:04.063652+00:00"
+    },
     "v-02238": {
       "count": 1,
       "last_cycle": 1,
@@ -9369,6 +9762,12 @@
       "last_message_id": 69,
       "published_at": "2026-09-26T23:32:12.322009+00:00"
     },
+    "v-02831": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 158,
+      "published_at": "2026-10-11T08:20:59.813734+00:00"
+    },
     "v-02837": {
       "count": 1,
       "last_cycle": 1,
@@ -9395,6 +9794,12 @@
       "last_message_id": 37,
       "published_at": "2026-09-25T14:58:13.930872+00:00",
       "quiz_message_id": 38
+    },
+    "v-02905": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 162,
+      "published_at": "2026-10-11T08:21:08.806919+00:00"
     },
     "v-02935": {
       "count": 1,
@@ -9492,11 +9897,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02831",
-    "v-01458",
-    "v-02222",
-    "v-00264",
-    "v-02905",
     "v-02946",
     "v-04267",
     "v-00490",
@@ -13818,6 +14218,41 @@
         "v-00690"
       ],
       "status": "completed"
+    },
+    "20261011T082055Z-8cac844c": {
+      "completed_at": "2026-10-11T08:21:08.823348+00:00",
+      "created_at": "2026-10-11T08:20:55.673835+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02831"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01458"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02222"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00264"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02905"
+        }
+      ],
+      "published_ids": [
+        "v-02831",
+        "v-01458",
+        "v-02222",
+        "v-00264",
+        "v-02905"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -14814,6 +15249,43 @@
         "v-00690"
       ],
       "run_id": "20261010T080916Z-eb3e4611",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-11T08:21:08.823348+00:00",
+      "created_at": "2026-10-11T08:20:55.673835+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02831"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01458"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02222"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00264"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02905"
+        }
+      ],
+      "published_ids": [
+        "v-02831",
+        "v-01458",
+        "v-02222",
+        "v-00264",
+        "v-02905"
+      ],
+      "run_id": "20261011T082055Z-8cac844c",
       "status": "completed",
       "unknown_ids": []
     }
