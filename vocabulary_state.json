@@ -924,6 +924,60 @@
         }
       ]
     },
+    "v-00490": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a154b5fa4e4ce8e4332e0f940a3c2dc8d111b7f6ccd50d1d558f04c722cb906b",
+      "antonyms": [
+        {
+          "meaning": "single person",
+          "word": "individual"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "sports club",
+        "night club",
+        "book club",
+        "club meeting",
+        "club membership"
+      ],
+      "common_mistake_correct": "club",
+      "common_mistake_wrong": "clubb",
+      "definition_en": "A group of people who share a common interest or activity.",
+      "example_bn": "সে স্কুলে চেস ক্লাবে যোগ দিল।",
+      "example_en": "He joined the chess club at school.",
+      "memory_hook": "Club sounds like \"clue\" + \"b\" for a group.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "team",
+        "club",
+        "class",
+        "league"
+      ],
+      "quiz_question": "What do you call a group for chess players?",
+      "short_meaning_en": "group",
+      "synonyms": [
+        {
+          "meaning": "group",
+          "word": "association"
+        },
+        {
+          "meaning": "organized group",
+          "word": "society"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "clubs"
+        },
+        {
+          "type": "verb",
+          "word": "clubbed"
+        }
+      ]
+    },
     "v-00499": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f26df87635cae96e831dfcda5526849e3c9c3a442d429c923f0e15699fc41922",
@@ -1597,6 +1651,60 @@
         {
           "type": "verb",
           "word": "defeating"
+        }
+      ]
+    },
+    "v-00734": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "719b62f6650d9289503a7bd24e01d3761dbe8ff74e0208a602f747e2d23206d6",
+      "antonyms": [
+        {
+          "meaning": "lack of depth",
+          "word": "shallowness"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "great depth",
+        "water depth",
+        "depth perception",
+        "depth of field",
+        "depth charge"
+      ],
+      "common_mistake_correct": "depth",
+      "common_mistake_wrong": "deph",
+      "definition_en": "The distance from the top to the bottom of something; a measure of how deep something is.",
+      "example_bn": "হ্রদের গভীরতা দশ মিটারের বেশি।",
+      "example_en": "The lake's depth is over ten meters.",
+      "memory_hook": "Depth has a \"th\" like the word \"thick\" which also means deep.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "height",
+        "width",
+        "depth",
+        "length"
+      ],
+      "quiz_question": "Which term measures how deep a lake is?",
+      "short_meaning_en": "deepness",
+      "synonyms": [
+        {
+          "meaning": "extent of depth",
+          "word": "deepness"
+        },
+        {
+          "meaning": "great depth",
+          "word": "profundity"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "deep"
+        },
+        {
+          "type": "adverb",
+          "word": "deeply"
         }
       ]
     },
@@ -6150,6 +6258,68 @@
         }
       ]
     },
+    "v-02721": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
+      "antonyms": [
+        {
+          "meaning": "receive a thrown object",
+          "word": "catch"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "throw away",
+        "throw out",
+        "throw a party",
+        "throw a glance",
+        "throw the ball"
+      ],
+      "common_mistake_correct": "throw",
+      "common_mistake_wrong": "threw",
+      "definition_en": "To send something through the air with force, usually by hand.",
+      "example_bn": "তিনি কুকুরকে বল নিক্ষেপ করবেন।",
+      "example_en": "He will throw the ball to the dog.",
+      "memory_hook": "Throw starts with \"thr\" like \"three\" – imagine throwing three objects.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "catch",
+        "throw",
+        "hold",
+        "push"
+      ],
+      "quiz_question": "What verb means to launch something through the air?",
+      "short_meaning_en": "toss",
+      "synonyms": [
+        {
+          "meaning": "throw lightly",
+          "word": "toss"
+        },
+        {
+          "meaning": "throw with force",
+          "word": "hurl"
+        },
+        {
+          "meaning": "throw quickly",
+          "word": "fling"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "throws"
+        },
+        {
+          "type": "verb",
+          "word": "thrown"
+        },
+        {
+          "type": "verb",
+          "word": "throwing"
+        }
+      ]
+    },
     "v-02776": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -6722,6 +6892,47 @@
         {
           "type": "conjunction",
           "word": "when"
+        }
+      ]
+    },
+    "v-02946": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "30b9f00e9339e8811c487c180585854934b3732be210d00acbd838b922b0717e",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "whose name",
+        "whose idea",
+        "whose responsibility",
+        "whose fault",
+        "whose opinion"
+      ],
+      "common_mistake_correct": "whose",
+      "common_mistake_wrong": "whos",
+      "definition_en": "Used to ask about the owner of something.",
+      "example_bn": "এটি কাহার বই?",
+      "example_en": "Whose book is this?",
+      "memory_hook": "Think of \"who's\" plus an \"e\" for \"owner\".",
+      "part_of_speech": "pronoun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "who",
+        "what",
+        "whose",
+        "which"
+      ],
+      "quiz_question": "Which word asks about ownership?",
+      "short_meaning_en": "owner?",
+      "synonyms": [
+        {
+          "meaning": "who is the owner of",
+          "word": "who's"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "pronoun",
+          "word": "whosever"
         }
       ]
     },
@@ -7449,6 +7660,51 @@
           "word": "harvesting"
         }
       ]
+    },
+    "v-04267": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "blackberry jam",
+        "blackberry bush",
+        "blackberry pie",
+        "wild blackberry",
+        "blackberry flavor"
+      ],
+      "common_mistake_correct": "blackberry",
+      "common_mistake_wrong": "blackbery",
+      "definition_en": "A small, dark purple fruit that grows on a shrub.",
+      "example_bn": "সে স্ন্যাকের জন্য একটি তাজা জাম খেয়েছে।",
+      "example_en": "She ate a fresh blackberry for snack.",
+      "memory_hook": "Black + berry = a dark berry.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "blackberry",
+        "blackboard",
+        "blacksmith",
+        "blackout"
+      ],
+      "quiz_question": "Which of these is a type of fruit?",
+      "short_meaning_en": "fruit",
+      "synonyms": [
+        {
+          "meaning": "small fruit",
+          "word": "berry"
+        },
+        {
+          "meaning": "thorny shrub bearing berries",
+          "word": "bramble"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "blackberries"
+        }
+      ]
     }
   },
   "cycle": 1,
@@ -7541,6 +7797,14 @@
       "source_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
       "status": "valid"
     },
+    "v-00490": {
+      "audited_at": "2026-10-12T08:42:06.679315+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সমিতি, ক্লাব",
+      "reason": "The Bangla meaning matches the noun 'club' as an association or organization.",
+      "source_fingerprint": "a154b5fa4e4ce8e4332e0f940a3c2dc8d111b7f6ccd50d1d558f04c722cb906b",
+      "status": "valid"
+    },
     "v-00499": {
       "audited_at": "2026-10-03T07:40:03.836841+00:00",
       "confidence": 1.0,
@@ -7611,6 +7875,14 @@
       "meaning_bn": "পরাজিত করা, পরাস্ত করতে",
       "reason": "The Bangla meaning accurately reflects the verb 'defeat'.",
       "source_fingerprint": "1b00164c1ab24b95f4827d5d73eda83ad4b1b7f62329f1c44226baca2723514c",
+      "status": "valid"
+    },
+    "v-00734": {
+      "audited_at": "2026-10-12T08:42:06.679341+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "গভীরতা",
+      "reason": "The meaning correctly translates the noun 'depth'.",
+      "source_fingerprint": "719b62f6650d9289503a7bd24e01d3761dbe8ff74e0208a602f747e2d23206d6",
       "status": "valid"
     },
     "v-00762": {
@@ -8141,6 +8413,14 @@
       "source_fingerprint": "d361b0c07a4cb57a4ace51cd83a7ba2b01e0e32a57bb641144f6df60370a8095",
       "status": "valid"
     },
+    "v-02721": {
+      "audited_at": "2026-10-12T08:42:06.679375+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নিক্ষেপ করা, নিক্ষেপ করতে",
+      "reason": "The verb meaning accurately conveys the action 'to throw'.",
+      "source_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
+      "status": "valid"
+    },
     "v-02786": {
       "audited_at": "2026-10-05T08:26:36.600185+00:00",
       "confidence": 0.99,
@@ -8188,6 +8468,14 @@
       "reason": "Semantic verification unavailable; original source meaning retained",
       "source_fingerprint": "5583cedfd66deefd845f258d888099ddc88b45980cb08ab439d96de0348fd814",
       "status": "uncertain"
+    },
+    "v-02946": {
+      "audited_at": "2026-10-12T08:42:06.679223+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "কাহার, কাহাদের, যাহার, যাহাদের",
+      "reason": "The Bangla meaning accurately reflects the interrogative/relative pronoun 'whose'.",
+      "source_fingerprint": "30b9f00e9339e8811c487c180585854934b3732be210d00acbd838b922b0717e",
+      "status": "valid"
     },
     "v-02992": {
       "audited_at": "2026-10-01T08:22:36.860633+00:00",
@@ -8251,6 +8539,14 @@
       "meaning_bn": "ধান",
       "reason": "The Bangla term precisely matches the agricultural sense of 'Paddy'.",
       "source_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
+      "status": "valid"
+    },
+    "v-04267": {
+      "audited_at": "2026-10-12T08:42:06.679281+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "জাম",
+      "reason": "The meaning correctly gives the fruit 'Blackberry'.",
+      "source_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
       "status": "valid"
     }
   },
@@ -8363,6 +8659,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk7_SAnVv_8zB7Oc946zR6fKYAAhAUaxucC8lVbnBTQnoRKP0BAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00490": {
+      "audio_file_id": "CQACAgUAAxUHasydb2T6aaqgwNZVUMCYC4hHgjsAAmIjAAI8CWFWHgABmDIFzSeVPQQ",
+      "cached_at": "2026-10-12T08:42:24.114729+00:00",
+      "photo_file_id": "AgACAgUAAxUHasydb5UAAZ_CdKvNRQsXRN8GScZdAAJdEmsbPAlhVul6Yh6xaK74AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-00499": {
       "audio_file_id": "CQACAgUAAxUHasCxZHl9YfrKYmzaMWwcqEm3tZMAAsYiAAKvhgFWzjn3Q9buqng9BA",
       "cached_at": "2026-10-03T07:40:21.188607+00:00",
@@ -8433,6 +8735,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIG4XGNbjHjaPg4DOIws9u8A8AAsEiAAKcC8lVtZaPUQp8vVk9BA",
       "cached_at": "2026-09-27T07:39:07.692429+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIG8__kNt9nIQdVxukfsQFxtAAApMUaxucC8lVeJjhCmREClEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00734": {
+      "audio_file_id": "CQACAgUAAxUHasydcl6BxYlhd2dBWzifNMh91mAAAmMjAAI8CWFW6VjnZKTJe0U9BA",
+      "cached_at": "2026-10-12T08:42:26.860350+00:00",
+      "photo_file_id": "AgACAgUAAxUHasydcjUwWhWJAAHxi9g7DCmQpFcaAAJeEmsbPAlhVnJDqpqT3IjVAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-00756": {
@@ -8917,6 +9225,12 @@
       "photo_file_id": "AgACAgUAAxUHar4YTyzY85Ymj-tvv5tLp5LzAAHrAALZE2sbl0bwVaWrsw00KXANAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-02721": {
+      "audio_file_id": "CQACAgUAAxUHasyddVWLlSQy247RRB3CqUiJdmsAAmQjAAI8CWFWyhDULrAv1t89BA",
+      "cached_at": "2026-10-12T08:42:29.793566+00:00",
+      "photo_file_id": "AgACAgUAAxUHasyddRUQ3o0dCNCXnf9KrZibjhUAAl8Saxs8CWFWQS_Y58_Itc0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02776": {
       "cached_at": "2026-09-26T07:07:19.472187+00:00",
       "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
@@ -8974,6 +9288,12 @@
       "audio_file_id": "CQACAgUAAxUHaroioWkGSLAmB1Orf5AaS1FIimgAAhYfAAJT7NFV0GciIFf29nk9BA",
       "cached_at": "2026-09-28T08:17:37.896798+00:00",
       "photo_file_id": "AgACAgUAAxUHaroioZP_OeW9-KnunYKiF00dYC8AAsYSaxtT7NFVMhiw9hpd25wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02946": {
+      "audio_file_id": "CQACAgUAAxUHasydZ-qArNOLdbAZsuJJOQtYCEAAAmAjAAI8CWFWScedVPCo7uI9BA",
+      "cached_at": "2026-10-12T08:42:16.259617+00:00",
+      "photo_file_id": "AgACAgUAAxUHasydZ8CUn2S7Gw69PKT0sy6c584AAlsSaxs8CWFWCdaCMBYos3YBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02992": {
@@ -9059,6 +9379,12 @@
       "photo_file_id": "AgACAgUAAxUHaralFpFNvQHv2lVANrXxR3ePKOMAAoIRaxvpIblV4ZD9H-0W9WkBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralFjpKiCug0Suo0T_FaFLqzEkAAiYfAALpIblVRCAX6mf9FJs9BA"
+    },
+    "v-04267": {
+      "audio_file_id": "CQACAgUAAxUHasydbMghM8l8jFLZ-4qQhAuWv6AAAmEjAAI8CWFW1v9GYFleLb49BA",
+      "cached_at": "2026-10-12T08:42:21.206864+00:00",
+      "photo_file_id": "AgACAgUAAxUHasydbJvel_qpmaeEzZDIm0rBDMIAAlwSaxs8CWFWer3HenAAATBwAQADAgADcwADPQQ",
+      "version": "1.2.5"
     }
   },
   "migrations": [],
@@ -9174,6 +9500,12 @@
       "last_message_id": 81,
       "published_at": "2026-09-27T00:35:59.667640+00:00"
     },
+    "v-00490": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 165,
+      "published_at": "2026-10-12T08:42:24.114754+00:00"
+    },
     "v-00499": {
       "count": 1,
       "last_cycle": 1,
@@ -9246,6 +9578,12 @@
       "last_cycle": 1,
       "last_message_id": 88,
       "published_at": "2026-09-27T07:39:07.692455+00:00"
+    },
+    "v-00734": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 166,
+      "published_at": "2026-10-12T08:42:26.860382+00:00"
     },
     "v-00756": {
       "count": 1,
@@ -9744,6 +10082,12 @@
       "last_message_id": 108,
       "published_at": "2026-10-01T08:22:40.404948+00:00"
     },
+    "v-02721": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 167,
+      "published_at": "2026-10-12T08:42:29.793593+00:00"
+    },
     "v-02776": {
       "count": 1,
       "last_cycle": 1,
@@ -9806,6 +10150,12 @@
       "last_cycle": 1,
       "last_message_id": 97,
       "published_at": "2026-09-28T08:17:37.896824+00:00"
+    },
+    "v-02946": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 163,
+      "published_at": "2026-10-12T08:42:16.259654+00:00"
     },
     "v-02992": {
       "count": 1,
@@ -9893,15 +10243,16 @@
       "last_cycle": 1,
       "last_message_id": 53,
       "published_at": "2026-09-25T16:45:11.040092+00:00"
+    },
+    "v-04267": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 164,
+      "published_at": "2026-10-12T08:42:21.206892+00:00"
     }
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02946",
-    "v-04267",
-    "v-00490",
-    "v-00734",
-    "v-02721",
     "v-02547",
     "v-02796",
     "v-00301",
@@ -14253,6 +14604,41 @@
         "v-02905"
       ],
       "status": "completed"
+    },
+    "20261012T084206Z-346972cf": {
+      "completed_at": "2026-10-12T08:42:29.813901+00:00",
+      "created_at": "2026-10-12T08:42:06.240920+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02946"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04267"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00490"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00734"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02721"
+        }
+      ],
+      "published_ids": [
+        "v-02946",
+        "v-04267",
+        "v-00490",
+        "v-00734",
+        "v-02721"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -15286,6 +15672,43 @@
         "v-02905"
       ],
       "run_id": "20261011T082055Z-8cac844c",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-12T08:42:29.813901+00:00",
+      "created_at": "2026-10-12T08:42:06.240920+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02946"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04267"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00490"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00734"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02721"
+        }
+      ],
+      "published_ids": [
+        "v-02946",
+        "v-04267",
+        "v-00490",
+        "v-00734",
+        "v-02721"
+      ],
+      "run_id": "20261012T084206Z-346972cf",
       "status": "completed",
       "unknown_ids": []
     }
