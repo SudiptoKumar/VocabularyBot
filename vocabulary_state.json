@@ -542,6 +542,72 @@
       ],
       "word_family": []
     },
+    "v-00301": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "07c1609a02d4f874086d1844db13c302daa49eaff225cf8ec59e46a77aef3bc8",
+      "antonyms": [
+        {
+          "meaning": "remove obstruction",
+          "word": "clear"
+        },
+        {
+          "meaning": "open up",
+          "word": "unblock"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "block the road",
+        "block the view",
+        "block access",
+        "block out",
+        "block traffic"
+      ],
+      "common_mistake_correct": "She blocks the door.",
+      "common_mistake_wrong": "She block the door.",
+      "definition_en": "To obstruct or prevent movement by placing something in the way.",
+      "example_bn": "পড়ে যাওয়া গাছটি কয়েক ঘণ্টা রাস্তা বাধা দিল।",
+      "example_en": "The fallen tree blocked the road for hours.",
+      "memory_hook": "Picture a brick wall that ‘blocks’ anything trying to pass.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "cleaned",
+        "obstructed",
+        "painted",
+        "opened"
+      ],
+      "quiz_question": "What does \"block\" mean in the sentence: \"The snow blocked the driveway\"?",
+      "short_meaning_en": "obstruct",
+      "synonyms": [
+        {
+          "meaning": "block the way",
+          "word": "obstruct"
+        },
+        {
+          "meaning": "slow down",
+          "word": "impede"
+        },
+        {
+          "meaning": "make difficult",
+          "word": "hinder"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "blockage"
+        },
+        {
+          "type": "noun",
+          "word": "blocking"
+        },
+        {
+          "type": "adjective",
+          "word": "blocked"
+        }
+      ]
+    },
     "v-00337": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
@@ -2820,6 +2886,76 @@
         }
       ]
     },
+    "v-01182": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "21dac84b604bf19e4b18e0e947c50413f8748309aac60453c4790db68a09194c",
+      "antonyms": [
+        {
+          "meaning": "take",
+          "word": "receive"
+        },
+        {
+          "meaning": "decline",
+          "word": "refuse"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "give advice",
+        "give a gift",
+        "give up",
+        "give in",
+        "give permission"
+      ],
+      "common_mistake_correct": "She gave me a book yesterday.",
+      "common_mistake_wrong": "She gave me a book yesterday.",
+      "definition_en": "To transfer possession of something to someone else.",
+      "example_bn": "দয়া করে আমাকে লবণ দিন, ধন্যবাদ।",
+      "example_en": "Please give me the salt, thank you.",
+      "memory_hook": "Imagine handing over a present – you are giving it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I give a book to you tomorrow.",
+        "I will give you a book tomorrow.",
+        "I giveed you a book tomorrow.",
+        "I will gives you a book tomorrow."
+      ],
+      "quiz_question": "Which sentence uses \"give\" correctly?",
+      "short_meaning_en": "transfer",
+      "synonyms": [
+        {
+          "meaning": "give formally",
+          "word": "grant"
+        },
+        {
+          "meaning": "give physically",
+          "word": "hand over"
+        },
+        {
+          "meaning": "supply",
+          "word": "provide"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "gives"
+        },
+        {
+          "type": "verb",
+          "word": "gave"
+        },
+        {
+          "type": "verb",
+          "word": "given"
+        },
+        {
+          "type": "noun",
+          "word": "giver"
+        }
+      ]
+    },
     "v-01216": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
@@ -4364,6 +4500,63 @@
         {
           "type": "noun",
           "word": "modeler"
+        }
+      ]
+    },
+    "v-01686": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d4119c86102492b56433fa6bc827652e1436687990c469f6caf752379166ce4f",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "next month",
+        "last month",
+        "month end",
+        "month of May",
+        "month after"
+      ],
+      "common_mistake_correct": "I will see you in a month.",
+      "common_mistake_wrong": "I will see you in month.",
+      "definition_en": "One of the twelve periods of about thirty days that make up a year.",
+      "example_bn": "আমার জন্মদিন জুলাই মাসে পড়ে।",
+      "example_en": "My birthday falls in the month of July.",
+      "memory_hook": "Think of the moon’s cycle – each cycle is a month.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "quiz_question": "How many months are there in a year?",
+      "short_meaning_en": "period",
+      "synonyms": [
+        {
+          "meaning": "time span",
+          "word": "period"
+        },
+        {
+          "meaning": "duration",
+          "word": "timeframe"
+        },
+        {
+          "meaning": "span",
+          "word": "interval"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "months"
+        },
+        {
+          "type": "adjective",
+          "word": "monthly"
+        },
+        {
+          "type": "adjective",
+          "word": "month-long"
         }
       ]
     },
@@ -5978,6 +6171,63 @@
         }
       ]
     },
+    "v-02547": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "83c55d3da3f6831a7fccde4979e480ef1aa1aa652b888b8198e9faad9ac78808",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "stone wall",
+        "stone floor",
+        "stone age",
+        "stone cold",
+        "stone garden"
+      ],
+      "common_mistake_correct": "He stoned the thief.",
+      "common_mistake_wrong": "He stone the thief.",
+      "definition_en": "A hard piece of mineral material, often used for building or as a gem.",
+      "example_bn": "সে পুকুরে একটি মসৃণ পাথর ফেলল।",
+      "example_en": "She dropped a smooth stone into the pond.",
+      "memory_hook": "Think of a stone you can’t roll away – it’s solid and stays put.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "sand",
+        "stone",
+        "grass",
+        "water"
+      ],
+      "quiz_question": "Which word best fits: \"The garden path was made of ___?\"",
+      "short_meaning_en": "rock",
+      "synonyms": [
+        {
+          "meaning": "large stone",
+          "word": "rock"
+        },
+        {
+          "meaning": "small stone",
+          "word": "pebble"
+        },
+        {
+          "meaning": "precious stone",
+          "word": "gem"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "stones"
+        },
+        {
+          "type": "adjective",
+          "word": "stony"
+        },
+        {
+          "type": "noun",
+          "word": "stoneware"
+        }
+      ]
+    },
     "v-02620": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
@@ -6436,6 +6686,59 @@
         {
           "type": "noun",
           "word": "trickery"
+        }
+      ]
+    },
+    "v-02796": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9c530cb067628ad7f4ec20fd8025c5adb1f97f384f3fb7c67462faf44401e4ff",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "plastic tube",
+        "tube of toothpaste",
+        "tube subway",
+        "tube light",
+        "tube connector"
+      ],
+      "common_mistake_correct": "I need a tube of toothpaste.",
+      "common_mistake_wrong": "I need a tube of water.",
+      "definition_en": "A hollow cylinder used to convey liquids or gases.",
+      "example_bn": "ডেন্টিস্ট ছোট টিউব ব্যবহার করে গর্তটি পূরণ করল।",
+      "example_en": "The dentist used a small tube to fill the cavity.",
+      "memory_hook": "Imagine a tube like a long, skinny candy wrapper that you can squeeze.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "milk",
+        "toothpaste",
+        "bread",
+        "rice"
+      ],
+      "quiz_question": "Which item is usually stored in a tube?",
+      "short_meaning_en": "pipe",
+      "synonyms": [
+        {
+          "meaning": "tube for fluids",
+          "word": "pipe"
+        },
+        {
+          "meaning": "round tube",
+          "word": "cylinder"
+        },
+        {
+          "meaning": "channel",
+          "word": "conduit"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "tubes"
+        },
+        {
+          "type": "adjective",
+          "word": "tubular"
         }
       ]
     },
@@ -7749,6 +8052,14 @@
       "source_fingerprint": "860cad96b599e14306ea3f175ae1222e70ae9ce930c2c527666abffb679cd843",
       "status": "valid"
     },
+    "v-00301": {
+      "audited_at": "2026-10-13T09:00:56.282841+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "কাট খন্ড, পাথর খন্ড, বাধা দিতে",
+      "reason": "The meanings cover both the noun sense (a chunk of stone) and the verb sense (to obstruct), matching the source.",
+      "source_fingerprint": "07c1609a02d4f874086d1844db13c302daa49eaff225cf8ec59e46a77aef3bc8",
+      "status": "valid"
+    },
     "v-00337": {
       "audited_at": "2026-09-26T12:40:01.633580+00:00",
       "confidence": 1.0,
@@ -8013,6 +8324,14 @@
       "source_fingerprint": "99198776bc7a387405f2ffe1f34ceaf569493b14121df9f445f0c0cae3d20b53",
       "status": "valid"
     },
+    "v-01182": {
+      "audited_at": "2026-10-13T09:00:56.282900+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দেওয়া, প্রদান করা, দিতে",
+      "reason": "The provided Bangla meanings accurately represent the verb 'give'.",
+      "source_fingerprint": "21dac84b604bf19e4b18e0e947c50413f8748309aac60453c4790db68a09194c",
+      "status": "valid"
+    },
     "v-01216": {
       "audited_at": "2026-10-02T07:58:58.833730+00:00",
       "confidence": 0.99,
@@ -8179,6 +8498,14 @@
       "meaning_bn": "শক্তি, ক্ষমতা, বল",
       "reason": "The Bangla meaning accurately captures the noun sense of \"might\" as power or strength.",
       "source_fingerprint": "5407b3ab85d5cf82d7bb7e4b90b443ee1e0ab9fa888e340e7bf4077c09f18494",
+      "status": "valid"
+    },
+    "v-01686": {
+      "audited_at": "2026-10-13T09:00:56.282869+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মাস",
+      "reason": "The Bangla meaning correctly corresponds to the English word 'month'.",
+      "source_fingerprint": "d4119c86102492b56433fa6bc827652e1436687990c469f6caf752379166ce4f",
       "status": "valid"
     },
     "v-01694": {
@@ -8381,6 +8708,14 @@
       "source_fingerprint": "e921520e3f10aa10ee9230a524a568b0cfd62cad775e17818040c60b2968b768",
       "status": "valid"
     },
+    "v-02547": {
+      "audited_at": "2026-10-13T09:00:56.282717+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "পাথর, মূল্যবান পাথর, মণিরত্ন",
+      "reason": "The Bangla meanings accurately reflect the noun senses of 'stone' including rock and gemstone.",
+      "source_fingerprint": "83c55d3da3f6831a7fccde4979e480ef1aa1aa652b888b8198e9faad9ac78808",
+      "status": "valid"
+    },
     "v-02620": {
       "audited_at": "2026-09-27T07:39:03.577461+00:00",
       "confidence": 0.99,
@@ -8428,6 +8763,14 @@
       "reason": "The meaning accurately represents the noun sense of \"trick\" as deception or cunning.",
       "source_fingerprint": "d6ff26d6eeaa5e2a583dc284a4da042dfd80e0da36a84bef1ffb45f5ca111b03",
       "status": "valid"
+    },
+    "v-02796": {
+      "audited_at": "2026-10-13T09:00:56.282798+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "নল",
+      "reason": "The fragment 'চোঙ' is not a valid Bangla translation for 'tube'; the correct meaning is simply 'নল'.",
+      "source_fingerprint": "a5c994fafec10638daaf56248d3dfd7eaf53adc15e247ba0edec3080e78d88fd",
+      "status": "corrected"
     },
     "v-02806": {
       "audited_at": "2026-09-26T23:32:05.945752+00:00",
@@ -8616,6 +8959,12 @@
       "photo_file_id": "AgACAgUAAxUHardvKc5dwBFf3IMPrVBMdYPv2qkAAuIRaxvpIcFVkyKTFowlzj0BAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvKb-xtkYpvcRgBw0pgjigWSIAAn8gAALpIcFVKxMX-Hh1G5A9BA"
+    },
+    "v-00301": {
+      "audio_file_id": "CQACAgUAAxUHas3zTyMXOEn32VBwdGTj2a9RCDkAApckAAI8CXFWHUDHuAUmQh89BA",
+      "cached_at": "2026-10-13T09:01:04.872546+00:00",
+      "photo_file_id": "AgACAgUAAxUHas3zUODmyMNUuPIFAAH9-YV-ipmUAAJdE2sbPAlxVsIrDfwB8EwaAQADAgADcwADPQQ",
+      "version": "1.2.5"
     },
     "v-00337": {
       "audio_file_id": "CQACAgUAAxUHare9LDiCzfMhfnWRyT4EoRpIn6IAApkhAALpIcFVW04DjBkv0oQ9BA",
@@ -8862,6 +9211,12 @@
       "photo_file_id": "AgACAgUAAxUHasX_BS-Zm494FWee_cjyRbzAWDcAAl0RaxuIuzFWqnAViimB1BcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01182": {
+      "audio_file_id": "CQACAgUAAxUHas3zVDXCsVB-BpRxRZ6BzGo14McAApkkAAI8CXFWNcw8yE9IBhE9BA",
+      "cached_at": "2026-10-13T09:01:09.239443+00:00",
+      "photo_file_id": "AgACAgUAAxUHas3zVHFbxT7XNPCnP5fn0AIAARVyAAJfE2sbPAlxVgu3MOgs6WV4AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-01216": {
       "audio_file_id": "CQACAgUAAxUHar9kUVwUQgp4EsUJZZRg0VFv5SgAAhMhAAKXRvhVgGgQMmenzVk9BA",
       "cached_at": "2026-10-02T07:59:14.259461+00:00",
@@ -9014,6 +9369,12 @@
       "audio_file_id": "CQACAgUAAxUHarZZMhBkj7QPAbzJvZT05PrWkOwAAsUkAALpIbFV-XfvaKXdOuo9BA",
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMs9gMqHi-58lFTpSe8T2HswAAloRaxvpIbFV5GiVivr2BYIBAAMCAANzAAM9BA"
+    },
+    "v-01686": {
+      "audio_file_id": "CQACAgUAAxUHas3zUjmVyVUukGlfI-0NiYVXKggAApgkAAI8CXFW0Iub6RbanhE9BA",
+      "cached_at": "2026-10-13T09:01:07.175184+00:00",
+      "photo_file_id": "AgACAgUAAxUHas3zUpN7MLv6lAaTfm76vLop9kgAAl4Taxs8CXFW3U1WHBprRJcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01694": {
       "audio_file_id": "CQACAgUAAxUHarhk6M5tYeT4DM9A3XR-Kjd83v8AAm4hAAKcC8lV3Av3ejPloAo9BA",
@@ -9195,6 +9556,12 @@
       "photo_file_id": "AgACAgUAAxUHasdUP0Ux1L1Tqaf00HPu3bm6IkYAAq0TaxuIuzlWLI-G1UOhsl8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02547": {
+      "audio_file_id": "CQACAgUAAxUHas3zS5IVWNYmO2CEaHDYM1hRoyMAApUkAAI8CXFW4Ry_0naVvHY9BA",
+      "cached_at": "2026-10-13T09:01:00.099004+00:00",
+      "photo_file_id": "AgACAgUAAxUHas3zS2y9yeA2lV5vkIfUD2LSAqsAAlsTaxs8CXFWrSSeKWd4yycBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02620": {
       "audio_file_id": "CQACAgUAAxUHarjIH9nXRpMzn0cdPzfGHYOQZjwAAsQiAAKcC8lVhw1nTx2EaMQ9BA",
       "cached_at": "2026-09-27T07:39:12.169260+00:00",
@@ -9241,6 +9608,12 @@
       "audio_file_id": "CQACAgUAAxUHasNfSQABTY-VjrhGn8zkVPZcs5fjAAIfIQACQiUYVjqXfNLzf5ypPQQ",
       "cached_at": "2026-10-05T08:26:50.318284+00:00",
       "photo_file_id": "AgACAgUAAxUHasNfSQ-F4nTeRcYfL29FMV8XuHkAAmkUaxtCJRhW2vQLxtwG-1IBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02796": {
+      "audio_file_id": "CQACAgUAAxUHas3zTfvMuSv2ILrkJVlRrgh2PjYAApYkAAI8CXFW2MJBRfQnNDc9BA",
+      "cached_at": "2026-10-13T09:01:02.398669+00:00",
+      "photo_file_id": "AgACAgUAAxUHas3zTUbhM3scaK91vL0qiPwlktoAAlwTaxs8CXFWO-cvkENg10sBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02806": {
@@ -9456,6 +9829,12 @@
       "last_cycle": 1,
       "last_message_id": 62,
       "published_at": "2026-09-26T07:07:21.942527+00:00"
+    },
+    "v-00301": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 170,
+      "published_at": "2026-10-13T09:01:04.872571+00:00"
     },
     "v-00337": {
       "count": 1,
@@ -9709,6 +10088,12 @@
       "last_message_id": 139,
       "published_at": "2026-10-07T08:12:53.742596+00:00"
     },
+    "v-01182": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 172,
+      "published_at": "2026-10-13T09:01:09.239466+00:00"
+    },
     "v-01216": {
       "count": 1,
       "last_cycle": 1,
@@ -9869,6 +10254,12 @@
       "last_message_id": 8,
       "published_at": "2026-09-25T11:21:23.177278+00:00",
       "quiz_message_id": 9
+    },
+    "v-01686": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 171,
+      "published_at": "2026-10-13T09:01:07.175209+00:00"
     },
     "v-01694": {
       "count": 1,
@@ -10052,6 +10443,12 @@
       "last_message_id": 147,
       "published_at": "2026-10-08T08:28:48.116155+00:00"
     },
+    "v-02547": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 168,
+      "published_at": "2026-10-13T09:01:00.099031+00:00"
+    },
     "v-02620": {
       "count": 1,
       "last_cycle": 1,
@@ -10099,6 +10496,12 @@
       "last_cycle": 1,
       "last_message_id": 132,
       "published_at": "2026-10-05T08:26:50.318310+00:00"
+    },
+    "v-02796": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 169,
+      "published_at": "2026-10-13T09:01:02.398696+00:00"
     },
     "v-02806": {
       "count": 1,
@@ -10253,11 +10656,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02547",
-    "v-02796",
-    "v-00301",
-    "v-01686",
-    "v-01182",
     "v-00187",
     "v-01639",
     "v-03794",
@@ -14639,6 +15037,41 @@
         "v-02721"
       ],
       "status": "completed"
+    },
+    "20261013T090055Z-1b55fd50": {
+      "completed_at": "2026-10-13T09:01:09.259968+00:00",
+      "created_at": "2026-10-13T09:00:55.830288+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02547"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02796"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00301"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01686"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01182"
+        }
+      ],
+      "published_ids": [
+        "v-02547",
+        "v-02796",
+        "v-00301",
+        "v-01686",
+        "v-01182"
+      ],
+      "status": "completed"
     }
   },
   "runs": [
@@ -15709,6 +16142,43 @@
         "v-02721"
       ],
       "run_id": "20261012T084206Z-346972cf",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-13T09:01:09.259968+00:00",
+      "created_at": "2026-10-13T09:00:55.830288+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02547"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02796"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00301"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01686"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01182"
+        }
+      ],
+      "published_ids": [
+        "v-02547",
+        "v-02796",
+        "v-00301",
+        "v-01686",
+        "v-01182"
+      ],
+      "run_id": "20261013T090055Z-1b55fd50",
       "status": "completed",
       "unknown_ids": []
     }
