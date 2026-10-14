@@ -362,6 +362,130 @@
         }
       ]
     },
+    "v-00144": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "67f8498c0f9fc330b732d0be24f48130c4a4e271309e0eb54b72635570099706",
+      "antonyms": [
+        {
+          "meaning": "to cease to be visible",
+          "word": "disappear"
+        },
+        {
+          "meaning": "to go out of sight",
+          "word": "vanish"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "appear suddenly",
+        "appear to be",
+        "appear on screen",
+        "appear in court",
+        "appear later"
+      ],
+      "common_mistake_correct": "She has a nice appearance.",
+      "common_mistake_wrong": "She has a nice appear.",
+      "definition_en": "To become visible or to be present somewhere.",
+      "example_bn": "তিনি সকাল ১০টায় সভায় উপস্থিত হবেন।",
+      "example_en": "She will appear at the meeting at 10 a.m.",
+      "memory_hook": "Appear = A + pear (like a pear becoming visible).",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "Leave",
+        "Hide",
+        "Show up",
+        "Sleep"
+      ],
+      "quiz_question": "If someone \"appears\" at a party, what do they do?",
+      "short_meaning_en": "show up",
+      "synonyms": [
+        {
+          "meaning": "to arrive",
+          "word": "show up"
+        },
+        {
+          "meaning": "to come into view",
+          "word": "emerge"
+        },
+        {
+          "meaning": "to appear suddenly",
+          "word": "materialize"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "appearance"
+        },
+        {
+          "type": "adjective",
+          "word": "apparent"
+        }
+      ]
+    },
+    "v-00187": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8acf8010eeed01274d594cc1db5446571a825c8527836d74ba632839c2f3153f",
+      "antonyms": [
+        {
+          "meaning": "to take back",
+          "word": "withdraw"
+        },
+        {
+          "meaning": "to take away",
+          "word": "remove"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "assign a task",
+        "assign responsibility",
+        "assign to",
+        "assign a deadline",
+        "assign a role"
+      ],
+      "common_mistake_correct": "I assigned the book to him yesterday.",
+      "common_mistake_wrong": "I assign the book to him yesterday.",
+      "definition_en": "To give someone a task or portion of work.",
+      "example_bn": "ম্যানেজার প্রত্যেক কর্মচারীকে একটি নতুন প্রকল্প অংশ ভাগ করে দেবেন।",
+      "example_en": "The manager will assign each employee a new project.",
+      "memory_hook": "Assign = As + sign (like signing a paper to give it out).",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to receive",
+        "to give a task",
+        "to forget",
+        "to cancel"
+      ],
+      "quiz_question": "What does \"assign\" mean?",
+      "short_meaning_en": "allocate",
+      "synonyms": [
+        {
+          "meaning": "to set aside for a particular purpose",
+          "word": "allocate"
+        },
+        {
+          "meaning": "to name or appoint",
+          "word": "designate"
+        },
+        {
+          "meaning": "to give or assign a share",
+          "word": "allot"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "assignment"
+        },
+        {
+          "type": "noun",
+          "word": "assigner"
+        }
+      ]
+    },
     "v-00218": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -770,6 +894,59 @@
         {
           "type": "verb",
           "word": "bought"
+        }
+      ]
+    },
+    "v-00404": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a4f0c617a6d0914c235e6682659436b2b44509946a561447237c2fe448e8a827",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "category of books",
+        "within this category",
+        "high category",
+        "category label",
+        "category theory"
+      ],
+      "common_mistake_correct": "category",
+      "common_mistake_wrong": "catagory",
+      "definition_en": "A class or group of things that share common characteristics.",
+      "example_bn": "বিজ্ঞান বইগুলো বিভিন্ন শ্রেণীতে ভাগ করা হয়।",
+      "example_en": "Science books are divided into different categories.",
+      "memory_hook": "Category = cat + egory – imagine a cat placed in a specific category.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "group",
+        "category",
+        "section",
+        "list"
+      ],
+      "quiz_question": "Which word completes the sentence: \"This item belongs to the ___ of electronics.\"",
+      "short_meaning_en": "class",
+      "synonyms": [
+        {
+          "meaning": "a group of similar items",
+          "word": "class"
+        },
+        {
+          "meaning": "a collection of items",
+          "word": "group"
+        },
+        {
+          "meaning": "a particular kind",
+          "word": "type"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "categorize"
+        },
+        {
+          "type": "noun",
+          "word": "categorization"
         }
       ]
     },
@@ -4326,6 +4503,59 @@
         }
       ]
     },
+    "v-01639": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "16ca9245bd4dfc3abd7e7dbc2aff70d76014cce0968908fce811662bfcf54895",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "take medication",
+        "prescribed medication",
+        "medication schedule",
+        "medication side effects",
+        "over-the-counter medication"
+      ],
+      "common_mistake_correct": "She treated her headache with medication.",
+      "common_mistake_wrong": "She medication her headache with tea.",
+      "definition_en": "Medicine used to treat an illness or condition.",
+      "example_bn": "ডাক্তার সংক্রমণের জন্য ওষুধপ্রয়োগ লিখে দিলেন।",
+      "example_en": "The doctor prescribed medication for the infection.",
+      "memory_hook": "Medication sounds like \"medic\" + \"ation\" – the act of a medic giving a drug.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "advice",
+        "medication",
+        "schedule",
+        "appointment"
+      ],
+      "quiz_question": "Which word best fits the sentence: \"You should follow the doctor's ___\"?",
+      "short_meaning_en": "medicine",
+      "synonyms": [
+        {
+          "meaning": "a substance used for medical treatment",
+          "word": "drug"
+        },
+        {
+          "meaning": "a substance used to treat disease",
+          "word": "medicine"
+        },
+        {
+          "meaning": "a medicine or treatment",
+          "word": "remedy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "medicate"
+        },
+        {
+          "type": "adjective",
+          "word": "medicinal"
+        }
+      ]
+    },
     "v-01640": {
       "antonyms": [
         {
@@ -7773,6 +8003,42 @@
         }
       ]
     },
+    "v-03794": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "52212bb16447f42c3a01c4a012a32ab408b53998b910f8bcc63ac06de2866a9d",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "liver disease",
+        "liver function",
+        "liver transplant",
+        "liver cells",
+        "liver damage"
+      ],
+      "common_mistake_correct": "He lives in the city.",
+      "common_mistake_wrong": "He is a liver of the city.",
+      "definition_en": "The organ in the body that filters blood and produces bile.",
+      "example_bn": "অ্যালকোহল সময়ের সাথে সাথে যকৃতকে ক্ষতিগ্রস্ত করতে পারে।",
+      "example_en": "Alcohol can damage the liver over time.",
+      "memory_hook": "Liver sounds like \"live\" – it keeps you alive by cleaning your blood.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "filtering blood",
+        "pumping blood",
+        "digesting food",
+        "producing insulin"
+      ],
+      "quiz_question": "Which of these is a function of the liver?",
+      "short_meaning_en": "organ",
+      "synonyms": [],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "hepatic"
+        }
+      ]
+    },
     "v-03828": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "dd9b2ca011709a417c93478b50d3483d355f6139d5111d1a793541e6130c3be1",
@@ -8044,6 +8310,22 @@
       "source_fingerprint": "ebb07d122ad933c4a7f7936a624843ef09f60389dbfcbfb8a74f03aed6e83ab3",
       "status": "valid"
     },
+    "v-00144": {
+      "audited_at": "2026-10-14T07:09:15.322605+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "দেখা দেওয়া, উপস্থিত হওয়া",
+      "reason": "The provided Bangla meaning 'দৃষ্টি গোচর হওয়া, ক্ষমা চাইতে' mixes unrelated sense of asking forgiveness, which is not a meaning of 'appear'. The correct meanings are to become visible or to be present.",
+      "source_fingerprint": "7842570b06fe3a554ffe1864a067241bc76e8331a4cbf1c515fe7e72ca0a9d95",
+      "status": "corrected"
+    },
+    "v-00187": {
+      "audited_at": "2026-10-14T07:09:15.047436+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "অংশ ভাগ করে দেওয়া",
+      "reason": "The Bangla meaning accurately reflects the primary sense of 'assign' as to allocate or give out parts.",
+      "source_fingerprint": "8acf8010eeed01274d594cc1db5446571a825c8527836d74ba632839c2f3153f",
+      "status": "valid"
+    },
     "v-00264": {
       "audited_at": "2026-10-11T08:20:56.006848+00:00",
       "confidence": 0.99,
@@ -8074,6 +8356,14 @@
       "meaning_bn": "মাখন",
       "reason": "The meaning correctly corresponds to the dairy product 'butter'.",
       "source_fingerprint": "9fe726175d313aa9abb982fe9bbc7591d49f0867336d172288001bac759fac1f",
+      "status": "valid"
+    },
+    "v-00404": {
+      "audited_at": "2026-10-14T07:09:15.322669+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "শ্রেণী, বিভাগ",
+      "reason": "Correct Bangla equivalents for the English word 'category'.",
+      "source_fingerprint": "a4f0c617a6d0914c235e6682659436b2b44509946a561447237c2fe448e8a827",
       "status": "valid"
     },
     "v-00408": {
@@ -8492,6 +8782,14 @@
       "source_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
       "status": "valid"
     },
+    "v-01639": {
+      "audited_at": "2026-10-14T07:09:15.047500+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "চিকিৎসা, ওষুধপ্রয়োগ",
+      "reason": "The meaning correctly corresponds to the English word 'medication' (medicine, drug application).",
+      "source_fingerprint": "16ca9245bd4dfc3abd7e7dbc2aff70d76014cce0968908fce811662bfcf54895",
+      "status": "valid"
+    },
     "v-01659": {
       "audited_at": "2026-10-05T08:26:36.600075+00:00",
       "confidence": 0.99,
@@ -8860,6 +9158,14 @@
       "source_fingerprint": "fc63376e82731c693a6757e22dbade3d756e482189bc6e1ef92746b42e926f8f",
       "status": "valid"
     },
+    "v-03794": {
+      "audited_at": "2026-10-14T07:09:15.047529+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "যকৃত",
+      "reason": "Accurate translation of the organ 'Liver'.",
+      "source_fingerprint": "52212bb16447f42c3a01c4a012a32ab408b53998b910f8bcc63ac06de2866a9d",
+      "status": "valid"
+    },
     "v-03828": {
       "audited_at": "2026-10-03T07:40:03.836867+00:00",
       "confidence": 1.0,
@@ -8936,6 +9242,18 @@
       "photo_file_id": "AgACAgUAAxUHasIE_wixQvhnCVKxdvy1oGSzA3sAAgsYaxtCJRBW31-YQDDduW0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00144": {
+      "audio_file_id": "CQACAgUAAxUHas8qpXo8TKSTMU_0BAdzBpi1u_wAAk0gAAIBiXlWkmPmC67rRdY9BA",
+      "cached_at": "2026-10-14T07:09:25.582022+00:00",
+      "photo_file_id": "AgACAgUAAxUHas8qpQMScZxdFmyWetTP8wm06oQAAt0QaxsBiXlWkjhBkhhZ1v8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00187": {
+      "audio_file_id": "CQACAgUAAxUHas8qnlBbiCAYy1p5mGhdaDqynloAAkogAAIBiXlWQniJq4TCBbU9BA",
+      "cached_at": "2026-10-14T07:09:18.954264+00:00",
+      "photo_file_id": "AgACAgUAAxUHas8qnsfggDQr9UIKWm0hj-GDIYsAAtoQaxsBiXlWwdQO5gF4Y-4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00218": {
       "cached_at": "2026-09-25T16:45:17.189571+00:00",
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
@@ -8983,6 +9301,12 @@
       "photo_file_id": "AgACAgUAAxUHaradmTGpW3LlJAw_5YsqvC4Bp4oAAlsRaxvpIblVOhpXRJK1GRoBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradmdm7JRHqieXX-ukVlEG5jzIAAhwfAALpIblVyvEsVjWc8aM9BA"
+    },
+    "v-00404": {
+      "audio_file_id": "CQACAgUAAxUHas8qpxNhQicSpkUgyu5-b524_9gAAk4gAAIBiXlW2FI62t9g_oc9BA",
+      "cached_at": "2026-10-14T07:09:27.631800+00:00",
+      "photo_file_id": "AgACAgUAAxUHas8qpzuuAZl6bIL1-2RQG3tVImMAAt4QaxsBiXlWsGQZvrUL18gBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00408": {
       "audio_file_id": "AwACAgUAAxUHarhV-RrAFh9vHqC2vu7llJl0I8UAAkQhAAKcC8lVMJzwxLPE6XA9BA",
@@ -9352,6 +9676,12 @@
       "audio_file_id": "CQACAgUAAxUHarhoZlxpH_uqVMMDJnTzFckX9P0AAoMhAAKcC8lVSPJW8ZhRQyw9BA",
       "cached_at": "2026-09-27T00:50:47.328665+00:00",
       "photo_file_id": "AgACAgUAAxUHarhoZgZ77tf1fsTgAz712b0P3uEAAhkUaxucC8lVyKSuuyzAQLcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01639": {
+      "audio_file_id": "CQACAgUAAxUHas8qoIUT5B-muLWXVDuTKcArmM8AAksgAAIBiXlWWYLxvZsrjQg9BA",
+      "cached_at": "2026-10-14T07:09:21.481675+00:00",
+      "photo_file_id": "AgACAgUAAxUHas8qoe8_BdaEzdA2frTGWgPKcO0AAtsQaxsBiXlWnJk4CJBPoKkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01640": {
@@ -9729,6 +10059,12 @@
       "photo_file_id": "AgACAgUAAxUHar4YVFFqv-vXMPIwqNQupuxWKI0AAtsTaxuXRvBVwqaQRVZhUxwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03794": {
+      "audio_file_id": "CQACAgUAAxUHas8qohPoJZtd2-teOJzEshT_etsAAkwgAAIBiXlWaT8x6eCnOpM9BA",
+      "cached_at": "2026-10-14T07:09:23.555470+00:00",
+      "photo_file_id": "AgACAgUAAxUHas8qo5erYfdKz89-ToE4Jrcmr5kAAtwQaxsBiXlWaxNkygKUlj8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03828": {
       "audio_file_id": "CQACAgUAAxUHasCxaBQ3MfW-vU0wurx8EQfXvCYAAsciAAKvhgFWcXCwQVzfOJ49BA",
       "cached_at": "2026-10-03T07:40:24.711283+00:00",
@@ -9806,6 +10142,18 @@
       "last_message_id": 124,
       "published_at": "2026-10-04T07:49:19.838707+00:00"
     },
+    "v-00144": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 176,
+      "published_at": "2026-10-14T07:09:25.582043+00:00"
+    },
+    "v-00187": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 173,
+      "published_at": "2026-10-14T07:09:18.954289+00:00"
+    },
     "v-00218": {
       "count": 1,
       "last_cycle": 1,
@@ -9854,6 +10202,12 @@
       "last_message_id": 49,
       "published_at": "2026-09-25T16:13:13.802383+00:00",
       "quiz_message_id": 50
+    },
+    "v-00404": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 177,
+      "published_at": "2026-10-14T07:09:27.631822+00:00"
     },
     "v-00408": {
       "count": 1,
@@ -10234,6 +10588,12 @@
       "last_cycle": 1,
       "last_message_id": 87,
       "published_at": "2026-09-27T00:50:47.328690+00:00"
+    },
+    "v-01639": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 174,
+      "published_at": "2026-10-14T07:09:21.481739+00:00"
     },
     "v-01640": {
       "count": 1,
@@ -10623,6 +10983,12 @@
       "last_message_id": 110,
       "published_at": "2026-10-01T08:22:45.020775+00:00"
     },
+    "v-03794": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 175,
+      "published_at": "2026-10-14T07:09:23.555494+00:00"
+    },
     "v-03828": {
       "count": 1,
       "last_cycle": 1,
@@ -10656,11 +11022,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00187",
-    "v-01639",
-    "v-03794",
-    "v-00144",
-    "v-00404",
     "v-01726",
     "v-04174",
     "v-02737",
@@ -14016,41 +14377,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T112112Z-2ad9f76a": {
-      "completed_at": "2026-09-25T11:21:31.298437+00:00",
-      "created_at": "2026-09-25T11:21:12.253565+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01599"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01678"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02843"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01076"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01640"
-        }
-      ],
-      "published_ids": [
-        "v-01599",
-        "v-01678",
-        "v-02843",
-        "v-01076",
-        "v-01640"
-      ],
-      "status": "completed"
-    },
     "20260925T122117Z-cb7681f4": {
       "completed_at": "2026-09-25T12:21:36.228867+00:00",
       "created_at": "2026-09-25T12:21:17.953194+00:00",
@@ -15070,6 +15396,41 @@
         "v-00301",
         "v-01686",
         "v-01182"
+      ],
+      "status": "completed"
+    },
+    "20261014T070914Z-3a2c6c13": {
+      "completed_at": "2026-10-14T07:09:27.652249+00:00",
+      "created_at": "2026-10-14T07:09:14.585263+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00187"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01639"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03794"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00144"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00404"
+        }
+      ],
+      "published_ids": [
+        "v-00187",
+        "v-01639",
+        "v-03794",
+        "v-00144",
+        "v-00404"
       ],
       "status": "completed"
     }
@@ -16179,6 +16540,43 @@
         "v-01182"
       ],
       "run_id": "20261013T090055Z-1b55fd50",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-14T07:09:27.652249+00:00",
+      "created_at": "2026-10-14T07:09:14.585263+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00187"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01639"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03794"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00144"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00404"
+        }
+      ],
+      "published_ids": [
+        "v-00187",
+        "v-01639",
+        "v-03794",
+        "v-00144",
+        "v-00404"
+      ],
+      "run_id": "20261014T070914Z-3a2c6c13",
       "status": "completed",
       "unknown_ids": []
     }
