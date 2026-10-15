@@ -3712,6 +3712,54 @@
         }
       ]
     },
+    "v-01437": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b37034bb6455dbad205b2037238cb63f42e6e676d67fc9cc05efd3b49344a031",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "Israeli government",
+        "Israeli army",
+        "Israeli culture",
+        "Israeli passport"
+      ],
+      "common_mistake_correct": "Use \"Israeli\" for modern citizens of Israel.",
+      "common_mistake_wrong": "Confusing \"Israeli\" with \"Israelite\" (an ancient term).",
+      "definition_en": "A person who lives in or comes from Israel.",
+      "example_bn": "ইজরায়েলি প্রতিনিধিদল আগে পৌঁছেছে।",
+      "example_en": "The Israeli delegation arrived early.",
+      "memory_hook": "\"Israeli\" ends with \"‑eli\" like the name Eli, a common Israeli name.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "a person from Israel",
+        "a person from Italy",
+        "a type of food",
+        "a language"
+      ],
+      "quiz_question": "Who does the term \"Israeli\" refer to?",
+      "short_meaning_en": "person from Israel",
+      "synonyms": [
+        {
+          "meaning": "a national of Israel",
+          "word": "Israeli citizen"
+        },
+        {
+          "meaning": "an Israeli of Jewish faith",
+          "word": "Jewish Israeli"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "proper noun",
+          "word": "Israel"
+        },
+        {
+          "type": "noun",
+          "word": "Israelite"
+        }
+      ]
+    },
     "v-01458": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8288fd2f0f2b2b7c7607cf88b96b3bb79a6cc4f03b36cac9b4f3856295f56167",
@@ -4838,6 +4886,59 @@
         }
       ],
       "word_family": []
+    },
+    "v-01726": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f53e799a35e880e761c703231a09c507cb7c53b3b9a411defcd15bfea59831c2",
+      "antonyms": [
+        {
+          "meaning": "without a name",
+          "word": "unnamed"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "name a child",
+        "name the city",
+        "name drop",
+        "name tag"
+      ],
+      "common_mistake_correct": "Use \"named\" or \"named person\" instead.",
+      "common_mistake_wrong": "Using \"name\" as an adjective (e.g., \"name person\").",
+      "definition_en": "To give a name to someone or something.",
+      "example_bn": "আমাদের আজ নতুন কুকুরের নাম দিতে হবে।",
+      "example_en": "We need to name the new puppy today.",
+      "memory_hook": "\"Name\" sounds like \"fame\" without the f – you give fame by naming.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to write a letter",
+        "to give a name",
+        "to eat quickly",
+        "to run away"
+      ],
+      "quiz_question": "What does the verb \"name\" mean?",
+      "short_meaning_en": "label",
+      "synonyms": [
+        {
+          "meaning": "to refer to by a name",
+          "word": "call"
+        },
+        {
+          "meaning": "to give a name to",
+          "word": "dub"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "named"
+        },
+        {
+          "type": "noun",
+          "word": "naming"
+        }
+      ]
     },
     "v-01757": {
       "_content_version": "1.2.4",
@@ -6577,6 +6678,55 @@
         }
       ]
     },
+    "v-02668": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b37c2330c94a1444b12cc8447f994b8f8ba85696703745550bc70d94deed9c8c",
+      "antonyms": [
+        {
+          "meaning": "the number before ten",
+          "word": "nine"
+        },
+        {
+          "meaning": "the number after ten",
+          "word": "eleven"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "ten percent",
+        "ten years",
+        "ten dollars",
+        "ten minutes"
+      ],
+      "common_mistake_correct": "Write it as \"ten\".",
+      "common_mistake_wrong": "Spelling \"ten\" as \"tane\".",
+      "definition_en": "The number that comes after nine and before eleven.",
+      "example_bn": "সে বাজারে দশটি আপেল কিনেছে।",
+      "example_en": "She bought ten apples at the market.",
+      "memory_hook": "\"Ten\" sounds like \"tin\" without the i – think of a tin can labeled 10.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "seven",
+        "eight",
+        "ten",
+        "eleven"
+      ],
+      "quiz_question": "What number comes after nine?",
+      "short_meaning_en": "number ten",
+      "synonyms": [
+        {
+          "meaning": "Roman numeral for ten",
+          "word": "X"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "ordinal",
+          "word": "tenth"
+        }
+      ]
+    },
     "v-02680": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "0648dbc8e04c43b6b5f56227407f62daa70eb01d23766f32be975aec535342c3",
@@ -6797,6 +6947,59 @@
         {
           "type": "verb",
           "word": "throwing"
+        }
+      ]
+    },
+    "v-02737": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "abd700c9641bec8142352130709d324072a73f6e9941abc4d0fa93e028932a23",
+      "antonyms": [
+        {
+          "meaning": "separately",
+          "word": "apart"
+        },
+        {
+          "meaning": "individually",
+          "word": "separately"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "work together",
+        "stay together",
+        "together with",
+        "together again"
+      ],
+      "common_mistake_correct": "Use the noun \"togetherness\" instead.",
+      "common_mistake_wrong": "Using \"together\" as a noun (e.g., \"the together\").",
+      "definition_en": "In the same place or group; jointly.",
+      "example_bn": "আমরা পরের গ্রীষ্মে একসাথে ভ্রমণ করব।",
+      "example_en": "We will travel together next summer.",
+      "memory_hook": "\"Together\" contains \"to get her\" – imagine getting someone together.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "alone",
+        "apart",
+        "together",
+        "separate"
+      ],
+      "quiz_question": "Which word means \"in the same place or group\"?",
+      "short_meaning_en": "jointly",
+      "synonyms": [
+        {
+          "meaning": "together",
+          "word": "jointly"
+        },
+        {
+          "meaning": "in one group",
+          "word": "combined"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "togetherness"
         }
       ]
     },
@@ -8178,6 +8381,50 @@
         }
       ]
     },
+    "v-04174": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "65a8546dffe0da60ab9b13d5253b761c11fbad7725dfc2a81a301258e0723dbf",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "use pliers",
+        "pliers set",
+        "needle‑nose pliers",
+        "pliers cutter"
+      ],
+      "common_mistake_correct": "Pliers are a gripping tool, not cutting like scissors.",
+      "common_mistake_wrong": "Calling pliers a \"pair of scissors\".",
+      "definition_en": "A hand tool with two hinged jaws used for gripping or bending objects.",
+      "example_bn": "সে চিমটি ব্যবহার করে নখটি বের করল।",
+      "example_en": "She used pliers to pull out the nail.",
+      "memory_hook": "\"Pliers\" sounds like \"pliers\" – think of two arms that \"pair\" together.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "hammer",
+        "screwdriver",
+        "pliers",
+        "wrench"
+      ],
+      "quiz_question": "Which tool is described as having two hinged jaws?",
+      "short_meaning_en": "tool",
+      "synonyms": [
+        {
+          "meaning": "a gripping tool",
+          "word": "tongs"
+        },
+        {
+          "meaning": "devices for holding",
+          "word": "grippers"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "plier"
+        }
+      ]
+    },
     "v-04190": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -8686,6 +8933,14 @@
       "source_fingerprint": "0984f67e3190e74aea411040446ed732564d919b2a708f826ee97ebfb4ee2510",
       "status": "valid"
     },
+    "v-01437": {
+      "audited_at": "2026-10-15T07:01:25.824008+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "ইজরেলের অধিবাসী",
+      "reason": "The Bangla meaning correctly describes a resident of Israel, matching the word 'Israeli'.",
+      "source_fingerprint": "b37034bb6455dbad205b2037238cb63f42e6e676d67fc9cc05efd3b49344a031",
+      "status": "valid"
+    },
     "v-01458": {
       "audited_at": "2026-10-11T08:20:56.006795+00:00",
       "confidence": 0.99,
@@ -8812,6 +9067,14 @@
       "meaning_bn": "অধিকতর, সর্বপেক্ষা",
       "reason": "The Bangla meaning accurately reflects the common senses of the adjective 'most'.",
       "source_fingerprint": "6c3427706277644bc1df7dd4003712eafd4d0a70afcf77b4daa36663e2f3ec5e",
+      "status": "valid"
+    },
+    "v-01726": {
+      "audited_at": "2026-10-15T07:01:25.823855+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নাম, নামকরণ করা, নাম দিতে",
+      "reason": "The Bangla meaning accurately reflects both the noun and verb senses of 'name' as given in the source.",
+      "source_fingerprint": "f53e799a35e880e761c703231a09c507cb7c53b3b9a411defcd15bfea59831c2",
       "status": "valid"
     },
     "v-01757": {
@@ -9022,6 +9285,14 @@
       "source_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
       "status": "valid"
     },
+    "v-02668": {
+      "audited_at": "2026-10-15T07:01:25.824040+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দশ সংখ্যা; দশ, ১০",
+      "reason": "The meaning accurately defines the numeral 'ten'.",
+      "source_fingerprint": "b37c2330c94a1444b12cc8447f994b8f8ba85696703745550bc70d94deed9c8c",
+      "status": "valid"
+    },
     "v-02680": {
       "audited_at": "2026-09-28T08:17:22.471604+00:00",
       "confidence": 0.0,
@@ -9052,6 +9323,14 @@
       "meaning_bn": "নিক্ষেপ করা, নিক্ষেপ করতে",
       "reason": "The verb meaning accurately conveys the action 'to throw'.",
       "source_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
+      "status": "valid"
+    },
+    "v-02737": {
+      "audited_at": "2026-10-15T07:01:25.823975+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "একসাথে, একত্রে",
+      "reason": "The meaning matches the English word 'together'.",
+      "source_fingerprint": "abd700c9641bec8142352130709d324072a73f6e9941abc4d0fa93e028932a23",
       "status": "valid"
     },
     "v-02786": {
@@ -9189,6 +9468,14 @@
       "reason": "The Bangla term precisely matches the agricultural sense of 'Paddy'.",
       "source_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
       "status": "valid"
+    },
+    "v-04174": {
+      "audited_at": "2026-10-15T07:01:25.823918+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "প্লায়ার • চিমটি",
+      "reason": "The supplied meaning 'প্লাস' is unrelated; the correct Bangla meaning for 'Pliers' is 'প্লায়ার' or 'চিমটি'.",
+      "source_fingerprint": "b6e982d220450069edd4509fb3f915d367daea090d9cb7c4b744f16e49c28f7d",
+      "status": "corrected"
     },
     "v-04267": {
       "audited_at": "2026-10-12T08:42:06.679281+00:00",
@@ -9601,6 +9888,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradljXeSuQdGb8_wSHejdfevz0AAhsfAALpIblVuFoaJxc3Vms9BA"
     },
+    "v-01437": {
+      "audio_file_id": "CQACAgUAAxUHatB6UJly904te2_vMCu7mrqwUN0AAvYgAALrMoFWuJAvbsb3yDk9BA",
+      "cached_at": "2026-10-15T07:01:37.178879+00:00",
+      "photo_file_id": "AgACAgUAAxUHatB6UNkUfvOxSrY-8kXzO-HBDOYAAlMTaxvrMoFWbvaLjpL4J7wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01458": {
       "audio_file_id": "CQACAgUAAxUHastG7YS27MN8nLJehF0u2DTvSXIAAhEkAALl0VlWgehIducbBJE9BA",
       "cached_at": "2026-10-11T08:21:01.996498+00:00",
@@ -9711,6 +10004,12 @@
       "cached_at": "2026-09-27T00:35:53.501100+00:00",
       "photo_file_id": "AgACAgUAAxUHarhk6enuBqLKyv6A-3FBuSFmdjgAAg0UaxucC8lV61lfr_6mCbABAAMCAANzAAM9BA",
       "version": "1.2.4"
+    },
+    "v-01726": {
+      "audio_file_id": "CQACAgUAAxUHatB6SY4mXieSyY5eG2PBKhNByR0AAvMgAALrMoFW-xUk03q9hEY9BA",
+      "cached_at": "2026-10-15T07:01:29.941491+00:00",
+      "photo_file_id": "AgACAgUAAxUHatB6SbwWwTueUg3WeU0BXbGKd4kAAlATaxvrMoFWMizkXyMCKR0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01757": {
       "audio_file_id": "CQACAgUAAxUHasIFB5uO4Rnyh7z8Ug-NHYoO_fUAAgsgAAJCJRBWz0tCmnDPmn49BA",
@@ -9904,6 +10203,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJB10KO6Mn5XXrOXSRR2invQAAn0gAALpIcFVT5TikJtb_jM9BA"
     },
+    "v-02668": {
+      "audio_file_id": "CQACAgUAAxUHatB6UmT1FVHCKOsnXnsJExCNXdAAAvcgAALrMoFW1Hz8oHnZ3XY9BA",
+      "cached_at": "2026-10-15T07:01:39.458900+00:00",
+      "photo_file_id": "AgACAgUAAxUHatB6Uh9FiV6kQL8_OjjOExTFa1IAAlQTaxvrMoFWcfdJmA7_PiABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02680": {
       "audio_file_id": "CQACAgUAAxUHaroilgmBam_hQulII8O8vrsZEn4AAhIfAAJT7NFVcCAAAdpDxy9CPQQ",
       "cached_at": "2026-09-28T08:17:27.473677+00:00",
@@ -9926,6 +10231,12 @@
       "audio_file_id": "CQACAgUAAxUHasyddVWLlSQy247RRB3CqUiJdmsAAmQjAAI8CWFWyhDULrAv1t89BA",
       "cached_at": "2026-10-12T08:42:29.793566+00:00",
       "photo_file_id": "AgACAgUAAxUHasyddRUQ3o0dCNCXnf9KrZibjhUAAl8Saxs8CWFWQS_Y58_Itc0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02737": {
+      "audio_file_id": "CQACAgUAAxUHatB6TqRwxmp3OUpaQBpXECopfu4AAvUgAALrMoFWqPHsg_vrSqU9BA",
+      "cached_at": "2026-10-15T07:01:34.706980+00:00",
+      "photo_file_id": "AgACAgUAAxUHatB6TiM3Q5uxFfeJmM36aAqs3oIAAlITaxvrMoFWG82DinGRb68BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02776": {
@@ -10081,6 +10392,12 @@
       "audio_file_id": "CQACAgUAAxUHasdUO82MuhOSsuYyA0BLNNft2fMAAkImAAKIuzlWLmbw1wskPs49BA",
       "cached_at": "2026-10-08T08:28:44.010850+00:00",
       "photo_file_id": "AgACAgUAAxUHasdUO0F9qV_SNhhK90T4nWogzUUAAqsTaxuIuzlWPPBeT70FoEABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-04174": {
+      "audio_file_id": "CQACAgUAAxUHatB6S3a8tkA3XftHPqmNaeJA_M0AAvQgAALrMoFW3AwnBGtDgE49BA",
+      "cached_at": "2026-10-15T07:01:32.498899+00:00",
+      "photo_file_id": "AgACAgUAAxUHatB6SxF3GZHayO5SEzsCFD3JdewAAlETaxvrMoFWjh_X_zd3nfcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-04190": {
@@ -10510,6 +10827,12 @@
       "published_at": "2026-09-25T16:13:11.478231+00:00",
       "quiz_message_id": 48
     },
+    "v-01437": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 181,
+      "published_at": "2026-10-15T07:01:37.178903+00:00"
+    },
     "v-01458": {
       "count": 1,
       "last_cycle": 1,
@@ -10626,6 +10949,12 @@
       "last_cycle": 1,
       "last_message_id": 78,
       "published_at": "2026-09-27T00:35:53.501125+00:00"
+    },
+    "v-01726": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 178,
+      "published_at": "2026-10-15T07:01:29.941518+00:00"
     },
     "v-01757": {
       "count": 1,
@@ -10821,6 +11150,12 @@
       "last_message_id": 60,
       "published_at": "2026-09-26T07:07:17.058626+00:00"
     },
+    "v-02668": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 182,
+      "published_at": "2026-10-15T07:01:39.458924+00:00"
+    },
     "v-02680": {
       "count": 1,
       "last_cycle": 1,
@@ -10844,6 +11179,12 @@
       "last_cycle": 1,
       "last_message_id": 167,
       "published_at": "2026-10-12T08:42:29.793593+00:00"
+    },
+    "v-02737": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 180,
+      "published_at": "2026-10-15T07:01:34.707009+00:00"
     },
     "v-02776": {
       "count": 1,
@@ -11007,6 +11348,12 @@
       "last_message_id": 145,
       "published_at": "2026-10-08T08:28:44.010874+00:00"
     },
+    "v-04174": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 179,
+      "published_at": "2026-10-15T07:01:32.498922+00:00"
+    },
     "v-04190": {
       "count": 1,
       "last_cycle": 1,
@@ -11022,11 +11369,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01726",
-    "v-04174",
-    "v-02737",
-    "v-01437",
-    "v-02668",
     "v-01580",
     "v-02275",
     "v-01577",
@@ -14377,41 +14719,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T122117Z-cb7681f4": {
-      "completed_at": "2026-09-25T12:21:36.228867+00:00",
-      "created_at": "2026-09-25T12:21:17.953194+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-03712"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00756"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01859"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03479"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01144"
-        }
-      ],
-      "published_ids": [
-        "v-03712",
-        "v-00756",
-        "v-01859",
-        "v-03479",
-        "v-01144"
-      ],
-      "status": "completed"
-    },
     "20260925T140330Z-9f67a345": {
       "completed_at": "2026-09-25T14:03:46.284668+00:00",
       "created_at": "2026-09-25T14:03:30.994382+00:00",
@@ -15431,6 +15738,41 @@
         "v-03794",
         "v-00144",
         "v-00404"
+      ],
+      "status": "completed"
+    },
+    "20261015T070125Z-cba78016": {
+      "completed_at": "2026-10-15T07:01:39.480237+00:00",
+      "created_at": "2026-10-15T07:01:25.352235+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01726"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04174"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02737"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01437"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02668"
+        }
+      ],
+      "published_ids": [
+        "v-01726",
+        "v-04174",
+        "v-02737",
+        "v-01437",
+        "v-02668"
       ],
       "status": "completed"
     }
@@ -16577,6 +16919,43 @@
         "v-00404"
       ],
       "run_id": "20261014T070914Z-3a2c6c13",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-15T07:01:39.480237+00:00",
+      "created_at": "2026-10-15T07:01:25.352235+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01726"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04174"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02737"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01437"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02668"
+        }
+      ],
+      "published_ids": [
+        "v-01726",
+        "v-04174",
+        "v-02737",
+        "v-01437",
+        "v-02668"
+      ],
+      "run_id": "20261015T070125Z-cba78016",
       "status": "completed",
       "unknown_ids": []
     }
