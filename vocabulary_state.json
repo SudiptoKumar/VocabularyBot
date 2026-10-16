@@ -4375,6 +4375,130 @@
         }
       ]
     },
+    "v-01577": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0c0a680fd519fddba90529cd7673bd83c5acf1939157512c2fc3c02f97463972",
+      "antonyms": [
+        {
+          "meaning": "strong dislike",
+          "word": "hate"
+        },
+        {
+          "meaning": "dislike intensely",
+          "word": "detest"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "love deeply",
+        "love at first sight",
+        "love your life",
+        "love someone",
+        "love the idea"
+      ],
+      "common_mistake_correct": "love (verb) as a feeling",
+      "common_mistake_wrong": "love (noun) as a greeting",
+      "definition_en": "A strong feeling of affection toward someone or something.",
+      "example_bn": "আমি সঙ্গীত শোনার ভালবাসা করি।",
+      "example_en": "I love listening to music.",
+      "memory_hook": "Heart beats faster when you love.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "hate",
+        "love",
+        "ignore",
+        "fear"
+      ],
+      "quiz_question": "Which word describes a strong feeling of affection?",
+      "short_meaning_en": "affection",
+      "synonyms": [
+        {
+          "meaning": "love deeply",
+          "word": "adore"
+        },
+        {
+          "meaning": "feel fondness",
+          "word": "like"
+        },
+        {
+          "meaning": "value highly",
+          "word": "cherish"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "lovely"
+        },
+        {
+          "type": "adverb",
+          "word": "lovingly"
+        }
+      ]
+    },
+    "v-01580": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5b8ffe3df2b0eab977eb38caf6dce96955b3bab681fe9dffbb536e419ae3c6ba",
+      "antonyms": [
+        {
+          "meaning": "tall",
+          "word": "high"
+        },
+        {
+          "meaning": "having great height",
+          "word": "tall"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "low price",
+        "low voice",
+        "low level",
+        "low risk",
+        "low temperature"
+      ],
+      "common_mistake_correct": "low (adj.) meaning not high",
+      "common_mistake_wrong": "low (verb) meaning to lower",
+      "definition_en": "Having a small distance from the ground or a modest amount.",
+      "example_bn": "শেলফটি নিচু, তাই আপনি সহজে পৌঁছাতে পারবেন।",
+      "example_en": "The shelf is low, so you can reach it easily.",
+      "memory_hook": "Think of a low ceiling – you have to look down.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "tall",
+        "low",
+        "wide",
+        "deep"
+      ],
+      "quiz_question": "Which word best matches the meaning 'small height'?",
+      "short_meaning_en": "small height",
+      "synonyms": [
+        {
+          "meaning": "not tall",
+          "word": "short"
+        },
+        {
+          "meaning": "not deep",
+          "word": "shallow"
+        },
+        {
+          "meaning": "not high",
+          "word": "modest"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "lowly"
+        },
+        {
+          "type": "noun",
+          "word": "lowness"
+        }
+      ]
+    },
     "v-01587": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
@@ -5914,6 +6038,64 @@
         }
       ]
     },
+    "v-02228": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ed6156f92379d49a09c225b4d39cc1f2483fa2352dc2e42b3685efdb7cfc896b",
+      "antonyms": [
+        {
+          "meaning": "denial",
+          "word": "refusal"
+        },
+        {
+          "meaning": "rejection",
+          "word": "denial"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "make a request",
+        "request permission",
+        "request a copy",
+        "request assistance",
+        "request details"
+      ],
+      "common_mistake_correct": "request (noun) meaning a polite ask",
+      "common_mistake_wrong": "request (verb) meaning to demand harshly",
+      "definition_en": "A polite or formal appeal asking for something to be given or done.",
+      "example_bn": "তিনি এক দিনের ছুটির জন্য অনুরোধ পাঠিয়েছেন।",
+      "example_en": "She sent a request for a day off.",
+      "memory_hook": "You request a favor, you ask politely.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "command",
+        "refusal",
+        "appeal",
+        "complaint"
+      ],
+      "quiz_question": "What is a 'request'?",
+      "short_meaning_en": "appeal",
+      "synonyms": [
+        {
+          "meaning": "request",
+          "word": "appeal"
+        },
+        {
+          "meaning": "formal request",
+          "word": "petition"
+        },
+        {
+          "meaning": "make a request",
+          "word": "ask"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "requesting"
+        }
+      ]
+    },
     "v-02238": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "deb4d81056f65d3cca7bed9cbbb62574fe2e0022c6ca92d160857dd1bff382c2",
@@ -5977,6 +6159,64 @@
         {
           "type": "adjective",
           "word": "resolute"
+        }
+      ]
+    },
+    "v-02275": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "acf00d3e6646cda8439fdb1056b9ecac9240558375ecdc5a3ee7327eb5c415ae",
+      "antonyms": [
+        {
+          "meaning": "to flatten",
+          "word": "unroll"
+        },
+        {
+          "meaning": "to open",
+          "word": "unwrap"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "roll a ball",
+        "roll out",
+        "roll up sleeves",
+        "roll over",
+        "roll the dice"
+      ],
+      "common_mistake_correct": "roll (verb) meaning to turn",
+      "common_mistake_wrong": "roll (noun) meaning a bread roll",
+      "definition_en": "To turn a cylindrical object so that it moves by rotating.",
+      "example_bn": "তিনি গুঁড়োটি পাতলা বৃত্তে গুটিয়ে নিলেন।",
+      "example_en": "She rolled the dough into a thin circle.",
+      "memory_hook": "Imagine rolling a ball down a hill.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "to bake",
+        "to cut",
+        "to turn",
+        "to eat"
+      ],
+      "quiz_question": "What does 'roll' mean in 'She rolled the dough'?",
+      "short_meaning_en": "rotate",
+      "synonyms": [
+        {
+          "meaning": "rotate",
+          "word": "turn"
+        },
+        {
+          "meaning": "rotate quickly",
+          "word": "spin"
+        },
+        {
+          "meaning": "turn tightly",
+          "word": "twist"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "rolling"
         }
       ]
     },
@@ -6724,6 +6964,68 @@
         {
           "type": "ordinal",
           "word": "tenth"
+        }
+      ]
+    },
+    "v-02679": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "eb16090ca24afd3d4d85550f5785f10c7a53344ee7d313845bdba147d4934521",
+      "antonyms": [
+        {
+          "meaning": "absence of violence",
+          "word": "peace"
+        },
+        {
+          "meaning": "no use of force",
+          "word": "nonviolence"
+        }
+      ],
+      "cefr": "C1",
+      "collocations": [
+        "terrorism threat",
+        "terrorism attack",
+        "combat terrorism",
+        "terrorism financing",
+        "terrorism law"
+      ],
+      "common_mistake_correct": "terrorism (noun) meaning violent political acts",
+      "common_mistake_wrong": "terrorism (verb) meaning to terrorize",
+      "definition_en": "The use of violence or intimidation to achieve political aims.",
+      "example_bn": "সরকার সন্ত্রাসবাদের মোকাবিলায় নিরাপত্তা বাড়িয়ে দিল।",
+      "example_en": "The government increased security to combat terrorism.",
+      "memory_hook": "Think of terror + ism = a belief in terror.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "terrorism",
+        "charity",
+        "education",
+        "medicine"
+      ],
+      "quiz_question": "Which term refers to violent political acts?",
+      "short_meaning_en": "political violence",
+      "synonyms": [
+        {
+          "meaning": "radical actions",
+          "word": "extremism"
+        },
+        {
+          "meaning": "rebellion",
+          "word": "insurgency"
+        },
+        {
+          "meaning": "extreme views",
+          "word": "radicalism"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "terrorist"
+        },
+        {
+          "type": "verb",
+          "word": "terrorize"
         }
       ]
     },
@@ -9021,6 +9323,22 @@
       "source_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
       "status": "valid"
     },
+    "v-01577": {
+      "audited_at": "2026-10-16T06:46:53.185818+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভালবাসা, ভালবাসতে",
+      "reason": "The Bangla meaning matches both noun and verb senses of 'love' and verb_hint is true.",
+      "source_fingerprint": "0c0a680fd519fddba90529cd7673bd83c5acf1939157512c2fc3c02f97463972",
+      "status": "valid"
+    },
+    "v-01580": {
+      "audited_at": "2026-10-16T06:46:53.185716+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নীচু, বিনীতভাবে",
+      "reason": "The Bangla meaning accurately reflects the senses of the English word 'low' as an adjective/adverb.",
+      "source_fingerprint": "5b8ffe3df2b0eab977eb38caf6dce96955b3bab681fe9dffbb536e419ae3c6ba",
+      "status": "valid"
+    },
     "v-01587": {
       "audited_at": "2026-10-09T08:32:28.223119+00:00",
       "confidence": 0.99,
@@ -9189,6 +9507,14 @@
       "source_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
       "status": "valid"
     },
+    "v-02228": {
+      "audited_at": "2026-10-16T06:46:53.185845+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অনুরোধ",
+      "reason": "The meaning accurately translates the English noun 'request'.",
+      "source_fingerprint": "ed6156f92379d49a09c225b4d39cc1f2483fa2352dc2e42b3685efdb7cfc896b",
+      "status": "valid"
+    },
     "v-02238": {
       "audited_at": "2026-10-05T08:26:36.600149+00:00",
       "confidence": 0.96,
@@ -9196,6 +9522,14 @@
       "reason": "The given meanings (প্রতিরোধ, সহানুভূতি) do not correspond to any sense of \"resolution\". Correct senses are decision, solution, or determination.",
       "source_fingerprint": "7a5cd88d62919f0837cf05e03c4e52874deb16e1a1a952597c6ec9128c270512",
       "status": "corrected"
+    },
+    "v-02275": {
+      "audited_at": "2026-10-16T06:46:53.185782+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "গুটান বা জড়ান বস্তা",
+      "reason": "The meaning correctly corresponds to the noun sense of 'roll' (a rolled piece of material).",
+      "source_fingerprint": "acf00d3e6646cda8439fdb1056b9ecac9240558375ecdc5a3ee7327eb5c415ae",
+      "status": "valid"
     },
     "v-02295": {
       "audited_at": "2026-10-10T08:09:16.772481+00:00",
@@ -9291,6 +9625,14 @@
       "meaning_bn": "দশ সংখ্যা; দশ, ১০",
       "reason": "The meaning accurately defines the numeral 'ten'.",
       "source_fingerprint": "b37c2330c94a1444b12cc8447f994b8f8ba85696703745550bc70d94deed9c8c",
+      "status": "valid"
+    },
+    "v-02679": {
+      "audited_at": "2026-10-16T06:46:53.185870+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সন্ত্রাসবাদ",
+      "reason": "The Bangla term correctly represents the English noun 'terrorism'.",
+      "source_fingerprint": "eb16090ca24afd3d4d85550f5785f10c7a53344ee7d313845bdba147d4934521",
       "status": "valid"
     },
     "v-02680": {
@@ -9954,6 +10296,18 @@
       "photo_file_id": "AgACAgUAAxUHarhWAAF_zPlUHgdh5fNpu76xhMcjAAL6E2sbnAvJVQ0uhmQyQTJbAQADAgADcwADPQQ",
       "version": "1.2.0"
     },
+    "v-01577": {
+      "audio_file_id": "CQACAgUAAxUHatHIZe7m5Awb4QO-urJB1hrV9lwAAu4gAALrMolWnAiyFrzAzJw9BA",
+      "cached_at": "2026-10-16T06:47:02.484795+00:00",
+      "photo_file_id": "AgACAgUAAxUHatHIZVakf8Zimi1wr6qG5iO4X6UAAhYWaxvrMolWMV38M6yTGRcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01580": {
+      "audio_file_id": "CQACAgUAAxUHatHIYKrazS2yWxcWpCB-yIOaE3oAAuwgAALrMolWxMqC1h-CJOg9BA",
+      "cached_at": "2026-10-16T06:46:57.448799+00:00",
+      "photo_file_id": "AgACAgUAAxUHatHIYSkfUGQMZrDPTPEqxmT8v64AAhMWaxvrMolW4GpWPbbJalEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01587": {
       "audio_file_id": "CQACAgUAAxUHasimpL7yqlrMB3ZINHH4Lsi8h9AAApUmAALvcUlWlbmI-7oWRZo9BA",
       "cached_at": "2026-10-09T08:32:37.109896+00:00",
@@ -10125,10 +10479,22 @@
       "photo_file_id": "AgACAgUAAxUHastG76h8U6TKHA27z_89hFVS33AAAmgYaxvl0VlWNaUG0xFdfsIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02228": {
+      "audio_file_id": "CQACAgUAAxUHatHIZ1bN1ZYbaqJlati2NoLFlx8AAu8gAALrMolWUt8TLceAlhU9BA",
+      "cached_at": "2026-10-16T06:47:04.541480+00:00",
+      "photo_file_id": "AgACAgUAAxUHatHIaFGVC8HQ5eO8MbDa0JGoth4AAhgWaxvrMolWUEY36azhTk4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02238": {
       "audio_file_id": "CQACAgUAAxUHasNfRGqdAuzt01--KdFA9klFgAYAAh0hAAJCJRhW__uqy4cKQ4c9BA",
       "cached_at": "2026-10-05T08:26:45.270650+00:00",
       "photo_file_id": "AgACAgUAAxUHasNfRLjYs_PW11HDMVHUdRtQcxEAAmcUaxtCJRhW5wVfA3Tr5T0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02275": {
+      "audio_file_id": "CQACAgUAAxUHatHIYtjI23qaPioXT5rkPsh9aQ0AAu0gAALrMolWxB2vLVjbwkg9BA",
+      "cached_at": "2026-10-16T06:46:59.667086+00:00",
+      "photo_file_id": "AgACAgUAAxUHatHIY6CutYFtfLT0nOIGrbBnsvgAAhQWaxvrMolWBwTNzkApVu0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02295": {
@@ -10207,6 +10573,12 @@
       "audio_file_id": "CQACAgUAAxUHatB6UmT1FVHCKOsnXnsJExCNXdAAAvcgAALrMoFW1Hz8oHnZ3XY9BA",
       "cached_at": "2026-10-15T07:01:39.458900+00:00",
       "photo_file_id": "AgACAgUAAxUHatB6Uh9FiV6kQL8_OjjOExTFa1IAAlQTaxvrMoFWcfdJmA7_PiABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02679": {
+      "audio_file_id": "CQACAgUAAxUHatHIaiDlMe3H5jc1KK1grySFLgEAAvAgAALrMolWLOd4NE6b6hc9BA",
+      "cached_at": "2026-10-16T06:47:06.788068+00:00",
+      "photo_file_id": "AgACAgUAAxUHatHIakOFHlMVSZh31hYh5DimlLcAAhoWaxvrMolWG5yfQJvJM50BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02680": {
@@ -10893,6 +11265,18 @@
       "last_message_id": 71,
       "published_at": "2026-09-26T23:32:16.440916+00:00"
     },
+    "v-01577": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 185,
+      "published_at": "2026-10-16T06:47:02.484820+00:00"
+    },
+    "v-01580": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 183,
+      "published_at": "2026-10-16T06:46:57.448826+00:00"
+    },
     "v-01587": {
       "count": 1,
       "last_cycle": 1,
@@ -11072,11 +11456,23 @@
       "last_message_id": 160,
       "published_at": "2026-10-11T08:21:04.063652+00:00"
     },
+    "v-02228": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 186,
+      "published_at": "2026-10-16T06:47:04.541503+00:00"
+    },
     "v-02238": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 130,
       "published_at": "2026-10-05T08:26:45.270677+00:00"
+    },
+    "v-02275": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 184,
+      "published_at": "2026-10-16T06:46:59.667113+00:00"
     },
     "v-02295": {
       "count": 1,
@@ -11155,6 +11551,12 @@
       "last_cycle": 1,
       "last_message_id": 182,
       "published_at": "2026-10-15T07:01:39.458924+00:00"
+    },
+    "v-02679": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 187,
+      "published_at": "2026-10-16T06:47:06.788092+00:00"
     },
     "v-02680": {
       "count": 1,
@@ -11369,11 +11771,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01580",
-    "v-02275",
-    "v-01577",
-    "v-02228",
-    "v-02679",
     "v-00579",
     "v-02227",
     "v-01195",
@@ -14719,41 +15116,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T140330Z-9f67a345": {
-      "completed_at": "2026-09-25T14:03:46.284668+00:00",
-      "created_at": "2026-09-25T14:03:30.994382+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00596"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01972"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01924"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00028"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00277"
-        }
-      ],
-      "published_ids": [
-        "v-00596",
-        "v-01972",
-        "v-01924",
-        "v-00028",
-        "v-00277"
-      ],
-      "status": "completed"
-    },
     "20260925T145802Z-d8aae199": {
       "completed_at": "2026-09-25T14:58:20.990420+00:00",
       "created_at": "2026-09-25T14:58:02.711847+00:00",
@@ -15773,6 +16135,41 @@
         "v-02737",
         "v-01437",
         "v-02668"
+      ],
+      "status": "completed"
+    },
+    "20261016T064652Z-db6c8f41": {
+      "completed_at": "2026-10-16T06:47:06.810849+00:00",
+      "created_at": "2026-10-16T06:46:52.805085+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01580"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02275"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01577"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02228"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02679"
+        }
+      ],
+      "published_ids": [
+        "v-01580",
+        "v-02275",
+        "v-01577",
+        "v-02228",
+        "v-02679"
       ],
       "status": "completed"
     }
@@ -16956,6 +17353,43 @@
         "v-02668"
       ],
       "run_id": "20261015T070125Z-cba78016",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-16T06:47:06.810849+00:00",
+      "created_at": "2026-10-16T06:46:52.805085+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01580"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02275"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01577"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02228"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02679"
+        }
+      ],
+      "published_ids": [
+        "v-01580",
+        "v-02275",
+        "v-01577",
+        "v-02228",
+        "v-02679"
+      ],
+      "run_id": "20261016T064652Z-db6c8f41",
       "status": "completed",
       "unknown_ids": []
     }
