@@ -8835,6 +8835,14 @@
       "source_fingerprint": "6b91dc8101a59310ced6e66b8c980ea32e3c21a4033df540f712b6c34bef6c79",
       "status": "valid"
     },
+    "v-00014": {
+      "audited_at": "2026-10-17T06:37:54.020520+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "শিক্ষাগত",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "fa98d95542ed6fda1fb4551a79833f43e27efdbc3d4366e742b63c32a59bd3bb",
+      "status": "uncertain"
+    },
     "v-00068": {
       "audited_at": "2026-10-10T08:09:16.772335+00:00",
       "confidence": 0.97,
@@ -8874,6 +8882,14 @@
       "reason": "The Bangla meaning accurately reflects the primary sense of 'assign' as to allocate or give out parts.",
       "source_fingerprint": "8acf8010eeed01274d594cc1db5446571a825c8527836d74ba632839c2f3153f",
       "status": "valid"
+    },
+    "v-00188": {
+      "audited_at": "2026-10-17T06:37:54.020510+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "কারও নির্দিষ্ট কাজ",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
+      "status": "uncertain"
     },
     "v-00264": {
       "audited_at": "2026-10-11T08:20:56.006848+00:00",
@@ -8986,6 +9002,14 @@
       "reason": "The meaning matches the adjective 'congressional'.",
       "source_fingerprint": "3ec4b3732f4a66fbc115d2ef20056e099010a35168c6f8ea4b84099902ea78e5",
       "status": "valid"
+    },
+    "v-00579": {
+      "audited_at": "2026-10-17T06:37:54.020427+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "অবিরত, সর্বদা",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "b2e47b2a8ee087cf143ea677d869bcf8fa13ec09c4923e776623e62804adbcfe",
+      "status": "uncertain"
     },
     "v-00585": {
       "audited_at": "2026-09-30T08:04:52.970885+00:00",
@@ -9170,6 +9194,14 @@
       "reason": "The provided Bangla meanings accurately represent the verb 'give'.",
       "source_fingerprint": "21dac84b604bf19e4b18e0e947c50413f8748309aac60453c4790db68a09194c",
       "status": "valid"
+    },
+    "v-01195": {
+      "audited_at": "2026-10-17T06:37:54.020475+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "ভালো, সন্তোষজনক",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "1d64c025849e60ce4217367b99814d5535d425f2b9234edc555209914e86fe80",
+      "status": "uncertain"
     },
     "v-01216": {
       "audited_at": "2026-10-02T07:58:58.833730+00:00",
@@ -9506,6 +9538,14 @@
       "reason": "Both Bangla terms correctly denote the English word 'reporter'.",
       "source_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
       "status": "valid"
+    },
+    "v-02227": {
+      "audited_at": "2026-10-17T06:37:54.020461+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "খ্যাতি, মর্যাদা, পরিচয়",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "ce05a6b9533cfc84e0c00c1a7044dbf4a2e5ef825d6c0a657b7574737122c69b",
+      "status": "uncertain"
     },
     "v-02228": {
       "audited_at": "2026-10-16T06:46:53.185845+00:00",
@@ -11771,11 +11811,11 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00579",
-    "v-02227",
-    "v-01195",
-    "v-00188",
     "v-00014",
+    "v-00188",
+    "v-01195",
+    "v-02227",
+    "v-00579",
     "v-03307",
     "v-00371",
     "v-02486",
@@ -15116,41 +15156,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T145802Z-d8aae199": {
-      "completed_at": "2026-09-25T14:58:20.990420+00:00",
-      "created_at": "2026-09-25T14:58:02.711847+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00685"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02881"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02894"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01419"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00849"
-        }
-      ],
-      "published_ids": [
-        "v-00685",
-        "v-02881",
-        "v-02894",
-        "v-01419",
-        "v-00849"
-      ],
-      "status": "completed"
-    },
     "20260925T161301Z-680327c0": {
       "completed_at": "2026-09-25T16:13:16.643916+00:00",
       "created_at": "2026-09-25T16:13:01.176396+00:00",
@@ -16171,6 +16176,48 @@
         "v-02228",
         "v-02679"
       ],
+      "status": "completed"
+    },
+    "20261017T063753Z-5ccd9b2d": {
+      "completed_at": "2026-10-17T06:37:55.474369+00:00",
+      "created_at": "2026-10-17T06:37:53.877955+00:00",
+      "failed_ids": [
+        "v-00579",
+        "v-02227",
+        "v-01195",
+        "v-00188",
+        "v-00014"
+      ],
+      "failures": {
+        "v-00014": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-00188": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-00579": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-01195": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-02227": "AI enrichment incomplete; refusing to publish degraded vocabulary content"
+      },
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00579"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01195"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00188"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00014"
+        }
+      ],
+      "published_ids": [],
       "status": "completed"
     }
   },
@@ -17390,6 +17437,43 @@
         "v-02679"
       ],
       "run_id": "20261016T064652Z-db6c8f41",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-17T06:37:55.474369+00:00",
+      "created_at": "2026-10-17T06:37:53.877955+00:00",
+      "failed_ids": [
+        "v-00579",
+        "v-02227",
+        "v-01195",
+        "v-00188",
+        "v-00014"
+      ],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00579"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01195"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00188"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00014"
+        }
+      ],
+      "published_ids": [],
+      "run_id": "20261017T063753Z-5ccd9b2d",
       "status": "completed",
       "unknown_ids": []
     }
