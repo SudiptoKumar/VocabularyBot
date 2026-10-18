@@ -58,6 +58,68 @@
         }
       ]
     },
+    "v-00014": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fa98d95542ed6fda1fb4551a79833f43e27efdbc3d4366e742b63c32a59bd3bb",
+      "antonyms": [
+        {
+          "meaning": "concerned with actual use",
+          "word": "practical"
+        },
+        {
+          "meaning": "not related to education",
+          "word": "nonacademic"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "academic research",
+        "academic degree",
+        "academic performance",
+        "academic staff",
+        "academic discipline"
+      ],
+      "common_mistake_correct": "academic",
+      "common_mistake_wrong": "acadamic",
+      "definition_en": "Relating to education or scholarly study.",
+      "example_bn": "তিনি পদার্থবিজ্ঞানে একাডেমিক ক্যারিয়ার গড়েছেন।",
+      "example_en": "She pursued an academic career in physics.",
+      "memory_hook": "Think of \"academy\" + \"-ic\" to remember the spelling.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "relating to education",
+        "a type of food",
+        "a sports team",
+        "a musical instrument"
+      ],
+      "quiz_question": "What does the word \"academic\" mean?",
+      "short_meaning_en": "educational",
+      "synonyms": [
+        {
+          "meaning": "relating to serious academic study",
+          "word": "scholarly"
+        },
+        {
+          "meaning": "providing knowledge",
+          "word": "educational"
+        },
+        {
+          "meaning": "well‑educated",
+          "word": "learned"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "academia"
+        },
+        {
+          "type": "adverb",
+          "word": "academically"
+        }
+      ]
+    },
     "v-00015": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -479,6 +541,68 @@
         {
           "type": "noun",
           "word": "assignment"
+        },
+        {
+          "type": "noun",
+          "word": "assigner"
+        }
+      ]
+    },
+    "v-00188": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
+      "antonyms": [
+        {
+          "meaning": "free time",
+          "word": "leisure"
+        },
+        {
+          "meaning": "absence of obligation",
+          "word": "freedom"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "assignment deadline",
+        "assignment brief",
+        "assignment submission",
+        "group assignment",
+        "homework assignment"
+      ],
+      "common_mistake_correct": "assignment",
+      "common_mistake_wrong": "assignation",
+      "definition_en": "A specific task given to someone as part of work or study.",
+      "example_bn": "শিক্ষক আগামীকালের ক্লাসের জন্য এসাইনমেন্টটি দিলেন।",
+      "example_en": "The teacher handed out the assignment for tomorrow's class.",
+      "memory_hook": "Add the suffix \"-ment\" to the verb \"assign\".",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A free vacation",
+        "A specific task to do",
+        "A type of clothing",
+        "A musical note"
+      ],
+      "quiz_question": "Which of the following best describes an \"assignment\"?",
+      "short_meaning_en": "task",
+      "synonyms": [
+        {
+          "meaning": "a piece of work",
+          "word": "task"
+        },
+        {
+          "meaning": "a duty",
+          "word": "job"
+        },
+        {
+          "meaning": "an obligation",
+          "word": "duty"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "assign"
         },
         {
           "type": "noun",
@@ -1458,6 +1582,72 @@
         {
           "type": "noun",
           "word": "congressionalism"
+        }
+      ]
+    },
+    "v-00579": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b2e47b2a8ee087cf143ea677d869bcf8fa13ec09c4923e776623e62804adbcfe",
+      "antonyms": [
+        {
+          "meaning": "seldom",
+          "word": "rarely"
+        },
+        {
+          "meaning": "from time to time",
+          "word": "occasionally"
+        },
+        {
+          "meaning": "at irregular intervals",
+          "word": "intermittently"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "constantly changing",
+        "constantly checking",
+        "constantly complaining",
+        "constantly improving",
+        "constantly on the phone"
+      ],
+      "common_mistake_correct": "constantly",
+      "common_mistake_wrong": "constant (as adverb)",
+      "definition_en": "Continuously over a period of time; always.",
+      "example_bn": "তিনি বারবার তার ফোনে মেসেজের জন্য চেক করছেন।",
+      "example_en": "She is constantly checking her phone for messages.",
+      "memory_hook": "Add \"-ly\" to \"constant\" to make it an adverb.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "occasionally",
+        "rarely",
+        "constantly",
+        "sometimes"
+      ],
+      "quiz_question": "Which word means \"continuously\"?",
+      "short_meaning_en": "always",
+      "synonyms": [
+        {
+          "meaning": "repeatedly over time",
+          "word": "continually"
+        },
+        {
+          "meaning": "without stopping",
+          "word": "persistently"
+        },
+        {
+          "meaning": "without end",
+          "word": "endlessly"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "constant"
+        },
+        {
+          "type": "noun",
+          "word": "constancy"
         }
       ]
     },
@@ -3130,6 +3320,72 @@
         {
           "type": "noun",
           "word": "giver"
+        }
+      ]
+    },
+    "v-01195": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1d64c025849e60ce4217367b99814d5535d425f2b9234edc555209914e86fe80",
+      "antonyms": [
+        {
+          "meaning": "of poor quality",
+          "word": "bad"
+        },
+        {
+          "meaning": "substandard",
+          "word": "poor"
+        },
+        {
+          "meaning": "very bad",
+          "word": "terrible"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "good job",
+        "good health",
+        "good mood",
+        "good reason",
+        "good luck"
+      ],
+      "common_mistake_correct": "good",
+      "common_mistake_wrong": "well (as adjective)",
+      "definition_en": "Of high quality or satisfactory; pleasing.",
+      "example_bn": "প্রকল্পে তিনি ভালো কাজ করেছেন।",
+      "example_en": "She did a good job on the project.",
+      "memory_hook": "\"Good\" sounds like \"gude\", an old word for \"good\".",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "bad",
+        "nice",
+        "great",
+        "fine"
+      ],
+      "quiz_question": "Which word is the opposite of \"good\"?",
+      "short_meaning_en": "good",
+      "synonyms": [
+        {
+          "meaning": "of high quality",
+          "word": "fine"
+        },
+        {
+          "meaning": "outstanding",
+          "word": "excellent"
+        },
+        {
+          "meaning": "very good",
+          "word": "great"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "goodness"
+        },
+        {
+          "type": "adverb",
+          "word": "well"
         }
       ]
     },
@@ -6038,6 +6294,68 @@
         }
       ]
     },
+    "v-02227": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ce05a6b9533cfc84e0c00c1a7044dbf4a2e5ef825d6c0a657b7574737122c69b",
+      "antonyms": [
+        {
+          "meaning": "loss of reputation",
+          "word": "disrepute"
+        },
+        {
+          "meaning": "negative fame",
+          "word": "notoriety"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "good reputation",
+        "bad reputation",
+        "reputation damage",
+        "reputation management",
+        "build a reputation"
+      ],
+      "common_mistake_correct": "reputation",
+      "common_mistake_wrong": "repute (noun)",
+      "definition_en": "The beliefs or opinions that are generally held about someone’s character or standing.",
+      "example_bn": "তিনি নির্ভরযোগ্য হওয়ার জন্য খ্যাতি অর্জন করেছেন।",
+      "example_en": "He has a reputation for being reliable.",
+      "memory_hook": "Add \"-ation\" to \"repute\" to get the noun.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A person's height",
+        "A person's character standing",
+        "A type of food",
+        "A weather pattern"
+      ],
+      "quiz_question": "What does \"reputation\" refer to?",
+      "short_meaning_en": "standing",
+      "synonyms": [
+        {
+          "meaning": "social standing",
+          "word": "status"
+        },
+        {
+          "meaning": "high respect",
+          "word": "prestige"
+        },
+        {
+          "meaning": "widely known reputation",
+          "word": "fame"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "reputable"
+        },
+        {
+          "type": "adjective",
+          "word": "reputational"
+        }
+      ]
+    },
     "v-02228": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ed6156f92379d49a09c225b4d39cc1f2483fa2352dc2e42b3685efdb7cfc896b",
@@ -8836,12 +9154,12 @@
       "status": "valid"
     },
     "v-00014": {
-      "audited_at": "2026-10-17T06:37:54.020520+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-18T06:59:54.276103+00:00",
+      "confidence": 0.99,
       "meaning_bn": "শিক্ষাগত",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The Bangla meaning accurately reflects the English headword 'academic' as an adjective meaning educational or scholarly.",
       "source_fingerprint": "fa98d95542ed6fda1fb4551a79833f43e27efdbc3d4366e742b63c32a59bd3bb",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-00068": {
       "audited_at": "2026-10-10T08:09:16.772335+00:00",
@@ -8884,12 +9202,12 @@
       "status": "valid"
     },
     "v-00188": {
-      "audited_at": "2026-10-17T06:37:54.020510+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-18T06:59:54.276164+00:00",
+      "confidence": 0.99,
       "meaning_bn": "কারও নির্দিষ্ট কাজ",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The meaning correctly corresponds to the noun 'assignment' meaning a specific task assigned to someone.",
       "source_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-00264": {
       "audited_at": "2026-10-11T08:20:56.006848+00:00",
@@ -9004,12 +9322,12 @@
       "status": "valid"
     },
     "v-00579": {
-      "audited_at": "2026-10-17T06:37:54.020427+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-18T06:59:54.276262+00:00",
+      "confidence": 0.99,
       "meaning_bn": "অবিরত, সর্বদা",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The Bangla meaning correctly conveys the adverb 'constantly' meaning continuously or always.",
       "source_fingerprint": "b2e47b2a8ee087cf143ea677d869bcf8fa13ec09c4923e776623e62804adbcfe",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-00585": {
       "audited_at": "2026-09-30T08:04:52.970885+00:00",
@@ -9196,12 +9514,12 @@
       "status": "valid"
     },
     "v-01195": {
-      "audited_at": "2026-10-17T06:37:54.020475+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-18T06:59:54.276199+00:00",
+      "confidence": 0.99,
       "meaning_bn": "ভালো, সন্তোষজনক",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The Bangla translation accurately captures the common senses of the adjective 'good'.",
       "source_fingerprint": "1d64c025849e60ce4217367b99814d5535d425f2b9234edc555209914e86fe80",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-01216": {
       "audited_at": "2026-10-02T07:58:58.833730+00:00",
@@ -9540,12 +9858,12 @@
       "status": "valid"
     },
     "v-02227": {
-      "audited_at": "2026-10-17T06:37:54.020461+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-18T06:59:54.276233+00:00",
+      "confidence": 0.99,
       "meaning_bn": "খ্যাতি, মর্যাদা, পরিচয়",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The provided meanings align with the noun 'reputation' referring to fame, status, or identity.",
       "source_fingerprint": "ce05a6b9533cfc84e0c00c1a7044dbf4a2e5ef825d6c0a657b7574737122c69b",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-02228": {
       "audited_at": "2026-10-16T06:46:53.185845+00:00",
@@ -9875,6 +10193,12 @@
       "photo_file_id": "AgACAgUAAxUHasNfR_7TQbbZLcxoqnZdW9Lr-XYAAmgUaxtCJRhWU9TGRNjNXocBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00014": {
+      "audio_file_id": "CQACAgUAAxUHatRub7EzGQ-sMki3VHmIEmwbEOIAArEhAAKNqKlWbOWf4jn_bY09BA",
+      "cached_at": "2026-10-18T07:00:00.331789+00:00",
+      "photo_file_id": "AgACAgUAAxUHatRubyvRN8fOU992xkJaHW_1KlIAArMTaxuNqKlWPofg7wpb9agBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00015": {
       "cached_at": "2026-09-25T16:13:06.516307+00:00",
       "photo_file_id": "AgACAgUAAxUHaradkQN6ZG4lEjjUpfsdRcJYle8AAlgRaxvpIblVQjB4qXeXEeUBAAMCAANzAAM9BA",
@@ -9921,6 +10245,12 @@
       "audio_file_id": "CQACAgUAAxUHas8qnlBbiCAYy1p5mGhdaDqynloAAkogAAIBiXlWQniJq4TCBbU9BA",
       "cached_at": "2026-10-14T07:09:18.954264+00:00",
       "photo_file_id": "AgACAgUAAxUHas8qnsfggDQr9UIKWm0hj-GDIYsAAtoQaxsBiXlWwdQO5gF4Y-4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00188": {
+      "audio_file_id": "CQACAgUAAxUHatRuct2Vva3tjctdMhH43iKJ_vYAArIhAAKNqKlWS1T-gyT5oiw9BA",
+      "cached_at": "2026-10-18T07:00:02.885278+00:00",
+      "photo_file_id": "AgACAgUAAxUHatRucn-ypcxgy9gjDZ9omZ6X8e0AArQTaxuNqKlWRBEo6vlk81sBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00218": {
@@ -10029,6 +10359,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIIYm_QpziEH-iaV_CuyBoFCgAAsUiAAKcC8lVtSp9zjZ6q3g9BA",
       "cached_at": "2026-09-27T07:39:14.141266+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIITNbttvJymvC2C9KD33w5bgAApYUaxucC8lVobebffT9D34BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00579": {
+      "audio_file_id": "CQACAgUAAxUHatRuefcOJ1bVd_7KMVbySsNInJgAArUhAAKNqKlWyNWo63sUsUo9BA",
+      "cached_at": "2026-10-18T07:00:09.883806+00:00",
+      "photo_file_id": "AgACAgUAAxUHatRueZ0RmGVpwqavTFnHvuDYdMUAArcTaxuNqKlW3Dvx60dILZoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00585": {
@@ -10208,6 +10544,12 @@
       "audio_file_id": "CQACAgUAAxUHas3zVDXCsVB-BpRxRZ6BzGo14McAApkkAAI8CXFWNcw8yE9IBhE9BA",
       "cached_at": "2026-10-13T09:01:09.239443+00:00",
       "photo_file_id": "AgACAgUAAxUHas3zVHFbxT7XNPCnP5fn0AIAARVyAAJfE2sbPAlxVgu3MOgs6WV4AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-01195": {
+      "audio_file_id": "CQACAgUAAxUHatRudA2kzAo0fLDNKlxF0LSINrAAArMhAAKNqKlWQNQ5kbzWq2A9BA",
+      "cached_at": "2026-10-18T07:00:05.250576+00:00",
+      "photo_file_id": "AgACAgUAAxUHatRudAuNx-QSRXRV1ChgT5JTLIAAArUTaxuNqKlWkJ-EUTkaDm0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01216": {
@@ -10517,6 +10859,12 @@
       "audio_file_id": "CQACAgUAAxUHastG7zDUYvL9VC8qq2IqUvIfnEUAAhIkAALl0VlW74h_HS-beFY9BA",
       "cached_at": "2026-10-11T08:21:04.063625+00:00",
       "photo_file_id": "AgACAgUAAxUHastG76h8U6TKHA27z_89hFVS33AAAmgYaxvl0VlWNaUG0xFdfsIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02227": {
+      "audio_file_id": "CQACAgUAAxUHatRudznXr6gnSE0VujDaB8qxIUsAArQhAAKNqKlWDENDmaPbID09BA",
+      "cached_at": "2026-10-18T07:00:07.494209+00:00",
+      "photo_file_id": "AgACAgUAAxUHatRudo3dryLp10--ylbk7PqJUEUAArYTaxuNqKlWBdagG6TdXrcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02228": {
@@ -10834,6 +11182,12 @@
       "last_message_id": 131,
       "published_at": "2026-10-05T08:26:48.035567+00:00"
     },
+    "v-00014": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 188,
+      "published_at": "2026-10-18T07:00:00.331821+00:00"
+    },
     "v-00015": {
       "count": 1,
       "last_cycle": 1,
@@ -10882,6 +11236,12 @@
       "last_cycle": 1,
       "last_message_id": 173,
       "published_at": "2026-10-14T07:09:18.954289+00:00"
+    },
+    "v-00188": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 189,
+      "published_at": "2026-10-18T07:00:02.885308+00:00"
     },
     "v-00218": {
       "count": 1,
@@ -10991,6 +11351,12 @@
       "last_cycle": 1,
       "last_message_id": 91,
       "published_at": "2026-09-27T07:39:14.141288+00:00"
+    },
+    "v-00579": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 192,
+      "published_at": "2026-10-18T07:00:09.883829+00:00"
     },
     "v-00585": {
       "count": 1,
@@ -11176,6 +11542,12 @@
       "last_cycle": 1,
       "last_message_id": 172,
       "published_at": "2026-10-13T09:01:09.239466+00:00"
+    },
+    "v-01195": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 190,
+      "published_at": "2026-10-18T07:00:05.250601+00:00"
     },
     "v-01216": {
       "count": 1,
@@ -11496,6 +11868,12 @@
       "last_message_id": 160,
       "published_at": "2026-10-11T08:21:04.063652+00:00"
     },
+    "v-02227": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 191,
+      "published_at": "2026-10-18T07:00:07.494234+00:00"
+    },
     "v-02228": {
       "count": 1,
       "last_cycle": 1,
@@ -11811,11 +12189,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00014",
-    "v-00188",
-    "v-01195",
-    "v-02227",
-    "v-00579",
     "v-03307",
     "v-00371",
     "v-02486",
@@ -15156,41 +15529,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T161301Z-680327c0": {
-      "completed_at": "2026-09-25T16:13:16.643916+00:00",
-      "created_at": "2026-09-25T16:13:01.176396+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00015"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01769"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01435"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00365"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03225"
-        }
-      ],
-      "published_ids": [
-        "v-00015",
-        "v-01769",
-        "v-01435",
-        "v-00365",
-        "v-03225"
-      ],
-      "status": "completed"
-    },
     "20260925T164506Z-d8a20297": {
       "completed_at": "2026-09-25T16:45:20.755568+00:00",
       "created_at": "2026-09-25T16:45:06.162114+00:00",
@@ -16218,6 +16556,41 @@
         }
       ],
       "published_ids": [],
+      "status": "completed"
+    },
+    "20261018T065953Z-0a75d510": {
+      "completed_at": "2026-10-18T07:00:09.906320+00:00",
+      "created_at": "2026-10-18T06:59:53.922761+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00014"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00188"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01195"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00579"
+        }
+      ],
+      "published_ids": [
+        "v-00014",
+        "v-00188",
+        "v-01195",
+        "v-02227",
+        "v-00579"
+      ],
       "status": "completed"
     }
   },
@@ -17474,6 +17847,43 @@
       ],
       "published_ids": [],
       "run_id": "20261017T063753Z-5ccd9b2d",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-18T07:00:09.906320+00:00",
+      "created_at": "2026-10-18T06:59:53.922761+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00014"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00188"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01195"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00579"
+        }
+      ],
+      "published_ids": [
+        "v-00014",
+        "v-00188",
+        "v-01195",
+        "v-02227",
+        "v-00579"
+      ],
+      "run_id": "20261018T065953Z-0a75d510",
       "status": "completed",
       "unknown_ids": []
     }
