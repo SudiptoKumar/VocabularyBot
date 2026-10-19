@@ -1021,6 +1021,59 @@
         }
       ]
     },
+    "v-00371": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d0cf660e12e262f2a807d7f6344e81b236f9ea6d9e2b1611a6f9c428471db9ee",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "slice of cake",
+        "birthday cake",
+        "chocolate cake",
+        "cake recipe",
+        "cake shop"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A sweet baked dessert made from flour, sugar, eggs and other ingredients.",
+      "example_bn": "আমরা পার্টির জন্য চকলেট কেক কিনেছি।",
+      "example_en": "We bought a chocolate cake for the party.",
+      "memory_hook": "Cake sounds like \"cayk\" – think of a sweet treat.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a piece of bread",
+        "a sweet baked dessert",
+        "a bowl of soup",
+        "a glass of juice"
+      ],
+      "quiz_question": "Which of these is a \"cake\"?",
+      "short_meaning_en": "dessert",
+      "synonyms": [
+        {
+          "meaning": "baked sweet food",
+          "word": "pastry"
+        },
+        {
+          "meaning": "fancy cake",
+          "word": "gateau"
+        },
+        {
+          "meaning": "sweet course",
+          "word": "dessert"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "cakey"
+        },
+        {
+          "type": "noun",
+          "word": "cakewalk"
+        }
+      ]
+    },
     "v-00404": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "a4f0c617a6d0914c235e6682659436b2b44509946a561447237c2fe448e8a827",
@@ -5575,6 +5628,72 @@
         }
       ]
     },
+    "v-01900": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "859a6bfaf38f96bfbbb0414204fe4223d37342841d8c3bd67838fd9f32c1cdb0",
+      "antonyms": [
+        {
+          "meaning": "something that blocks passage",
+          "word": "obstacle"
+        },
+        {
+          "meaning": "a barrier",
+          "word": "blockage"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "passage through",
+        "narrow passage",
+        "passage of time",
+        "reading passage",
+        "passageway"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A narrow way or corridor that allows movement from one place to another.",
+      "example_bn": "হাইকাররা পাথরের মধ্য দিয়ে একটি সংকীর্ণ গমনাগমন পথ পেয়েছে।",
+      "example_en": "The hikers found a narrow passage through the rocks.",
+      "memory_hook": "Passage = pass + age – you pass through an age or place.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The passage of the book was boring.",
+        "We walked through a dark passage.",
+        "He passed the exam with a passage.",
+        "The passage is a type of fruit."
+      ],
+      "quiz_question": "Which sentence uses \"passage\" correctly?",
+      "short_meaning_en": "path",
+      "synonyms": [
+        {
+          "meaning": "a long passage",
+          "word": "corridor"
+        },
+        {
+          "meaning": "a passage between rows",
+          "word": "aisle"
+        },
+        {
+          "meaning": "a path for walking",
+          "word": "walkway"
+        },
+        {
+          "meaning": "a way to travel",
+          "word": "route"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "pass"
+        },
+        {
+          "type": "adjective",
+          "word": "passable"
+        }
+      ]
+    },
     "v-01918": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4e169599fc2764ede7959ba1115ba7cd60cb0644e83f1d3fa856ec5c138b46d4",
@@ -6998,6 +7117,63 @@
         }
       ]
     },
+    "v-02486": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "22c7c0fc6c76c7e0e96f286d9a68ff982a63beb22ac1fd56f711bc72571ecbd4",
+      "antonyms": [
+        {
+          "meaning": "after some time",
+          "word": "later"
+        },
+        {
+          "meaning": "in the end",
+          "word": "eventually"
+        },
+        {
+          "meaning": "at a slow pace",
+          "word": "slowly"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "soon after",
+        "soon enough",
+        "as soon as",
+        "not soon enough",
+        "come soon"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "In a short time; before long.",
+      "example_bn": "আমি শীঘ্রই সেখানে পৌঁছাব।",
+      "example_en": "I'll be there soon.",
+      "memory_hook": "Soon sounds like \"sun\" – the sun rises soon each day.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "after many years",
+        "in a short time",
+        "never",
+        "last month"
+      ],
+      "quiz_question": "If something will happen \"soon\", it will happen:",
+      "short_meaning_en": "quickly",
+      "synonyms": [
+        {
+          "meaning": "in a little while",
+          "word": "shortly"
+        },
+        {
+          "meaning": "soon",
+          "word": "presently"
+        },
+        {
+          "meaning": "fast",
+          "word": "quickly"
+        }
+      ],
+      "word_family": []
+    },
     "v-02543": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "e921520e3f10aa10ee9230a524a568b0cfd62cad775e17818040c60b2968b768",
@@ -8292,6 +8468,64 @@
         }
       ]
     },
+    "v-02959": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e86adee0c07c2eb845348333022042dc3f41682da6b8c8dbb694578f71f80b0b",
+      "antonyms": [
+        {
+          "meaning": "the main part",
+          "word": "body"
+        },
+        {
+          "meaning": "the main stem",
+          "word": "trunk"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "spread one's wings",
+        "wing of a building",
+        "left wing",
+        "wing beat",
+        "wing tip"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The paired forelimb of a bird that is covered with feathers and used for flying.",
+      "example_bn": "চড়ুই তার ডানা ঝাপটিয়ে উড়ে গেল।",
+      "example_en": "The sparrow flapped its wings and took off.",
+      "memory_hook": "Wing sounds like \"win\" – birds win the sky with their wings.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "the beak",
+        "the tail",
+        "the forelimb used for flying",
+        "the eye"
+      ],
+      "quiz_question": "What does \"wing\" refer to in birds?",
+      "short_meaning_en": "appendage",
+      "synonyms": [
+        {
+          "meaning": "a projecting part",
+          "word": "appendage"
+        },
+        {
+          "meaning": "a bird's covering",
+          "word": "feather"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "winged"
+        },
+        {
+          "type": "noun",
+          "word": "wingman"
+        }
+      ]
+    },
     "v-02992": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
@@ -8526,6 +8760,68 @@
         {
           "type": "adjective",
           "word": "harmless"
+        }
+      ]
+    },
+    "v-03307": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "aed5637e24fc79375cca72dda4019b0ccc9bf89719814c3fbd24b7a348b38844",
+      "antonyms": [
+        {
+          "meaning": "to make a choice",
+          "word": "decide"
+        },
+        {
+          "meaning": "to go ahead",
+          "word": "proceed"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "hesitate to speak",
+        "hesitate for a moment",
+        "hesitate before answering",
+        "hesitate over",
+        "hesitate about"
+      ],
+      "common_mistake_correct": "He hesitated to ask the question.",
+      "common_mistake_wrong": "He hesitated the question.",
+      "definition_en": "To pause before doing something because of uncertainty or doubt.",
+      "example_bn": "সে প্রশ্নের উত্তর দেওয়ার আগে দ্বিধা করেছে।",
+      "example_en": "She hesitated before answering the question.",
+      "memory_hook": "He says \"He? Sit?\" – sounds like hesitate.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to agree quickly",
+        "to pause because of doubt",
+        "to run fast",
+        "to laugh loudly"
+      ],
+      "quiz_question": "What does \"hesitate\" mean?",
+      "short_meaning_en": "delay",
+      "synonyms": [
+        {
+          "meaning": "to be indecisive",
+          "word": "waver"
+        },
+        {
+          "meaning": "to stop briefly",
+          "word": "pause"
+        },
+        {
+          "meaning": "to lose confidence",
+          "word": "falter"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "hesitant"
+        },
+        {
+          "type": "noun",
+          "word": "hesitation"
         }
       ]
     },
@@ -9241,6 +9537,14 @@
       "source_fingerprint": "9fe726175d313aa9abb982fe9bbc7591d49f0867336d172288001bac759fac1f",
       "status": "valid"
     },
+    "v-00371": {
+      "audited_at": "2026-10-19T07:22:34.074696+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "কেক",
+      "reason": "The meaning includes 'পিঠা', which is a different Bengali dish and not a sense of the English word 'cake'.",
+      "source_fingerprint": "386d73ab1acbdff68c2a37131e7a95b2e1ce075763efb80b17eba4040383ce9b",
+      "status": "corrected"
+    },
     "v-00404": {
       "audited_at": "2026-10-14T07:09:15.322669+00:00",
       "confidence": 1.0,
@@ -9761,6 +10065,14 @@
       "source_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
       "status": "valid"
     },
+    "v-01900": {
+      "audited_at": "2026-10-19T07:22:34.074736+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "গমনাগমন পথ",
+      "reason": "The meaning accurately corresponds to the noun 'passage' as a way or route.",
+      "source_fingerprint": "859a6bfaf38f96bfbbb0414204fe4223d37342841d8c3bd67838fd9f32c1cdb0",
+      "status": "valid"
+    },
     "v-01918": {
       "audited_at": "2026-10-06T08:37:14.289861+00:00",
       "confidence": 1.0,
@@ -9953,6 +10265,14 @@
       "source_fingerprint": "9f3a9ee166503d67a79a78f96fc5d6464060968a3e6b478a0f195eeebe1dc8e2",
       "status": "valid"
     },
+    "v-02486": {
+      "audited_at": "2026-10-19T07:22:34.074719+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শীঘ্র, অবিলম্বে",
+      "reason": "The Bangla meaning correctly reflects the adverb 'soon'.",
+      "source_fingerprint": "22c7c0fc6c76c7e0e96f286d9a68ff982a63beb22ac1fd56f711bc72571ecbd4",
+      "status": "valid"
+    },
     "v-02543": {
       "audited_at": "2026-10-08T08:28:35.597019+00:00",
       "confidence": 0.98,
@@ -10097,6 +10417,14 @@
       "source_fingerprint": "30b9f00e9339e8811c487c180585854934b3732be210d00acbd838b922b0717e",
       "status": "valid"
     },
+    "v-02959": {
+      "audited_at": "2026-10-19T07:22:34.074755+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ডানা, পাখা, পাখির ডানা",
+      "reason": "The Bangla meanings correctly describe the noun 'wing'.",
+      "source_fingerprint": "e86adee0c07c2eb845348333022042dc3f41682da6b8c8dbb694578f71f80b0b",
+      "status": "valid"
+    },
     "v-02992": {
       "audited_at": "2026-10-01T08:22:36.860633+00:00",
       "confidence": 0.99,
@@ -10111,6 +10439,14 @@
       "meaning_bn": "ভুল, অন্যায়, মিথ্যা, অশুভ",
       "reason": "The provided Bangla meanings correctly correspond to the English adjective 'wrong'.",
       "source_fingerprint": "9e72cfae3703e3e62751cbd701ba1855532207edcff082b72f6b9b01e5d26745",
+      "status": "valid"
+    },
+    "v-03307": {
+      "audited_at": "2026-10-19T07:22:34.074638+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দ্বিধা করতে",
+      "reason": "The supplied Bangla meaning accurately captures the verb 'to hesitate' as 'দ্বিধা করতে'.",
+      "source_fingerprint": "aed5637e24fc79375cca72dda4019b0ccc9bf89719814c3fbd24b7a348b38844",
       "status": "valid"
     },
     "v-03657": {
@@ -10300,6 +10636,12 @@
       "photo_file_id": "AgACAgUAAxUHaradmTGpW3LlJAw_5YsqvC4Bp4oAAlsRaxvpIblVOhpXRJK1GRoBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradmdm7JRHqieXX-ukVlEG5jzIAAhwfAALpIblVyvEsVjWc8aM9BA"
+    },
+    "v-00371": {
+      "audio_file_id": "CQACAgUAAxUHatXFP3JOfpwAATMBLuYWmE1mcbPVAAKTIQACjaixVk9Qa6AvAhCMPQQ",
+      "cached_at": "2026-10-19T07:22:40.018911+00:00",
+      "photo_file_id": "AgACAgUAAxUHatXFP8Mu6ECPo87MO0aNuOtuMpkAArQVaxuNqLFWtC0RH0uZw7wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00404": {
       "audio_file_id": "CQACAgUAAxUHas8qpxNhQicSpkUgyu5-b524_9gAAk4gAAIBiXlW2FI62t9g_oc9BA",
@@ -10777,6 +11119,12 @@
       "version": "1.0.3",
       "voice_file_id": "AwACAgUAAxUHarZnSCok3NwrMUt-S4ZlzdGNT9sAAuokAALpIbFVjHvDOjYnIxU9BA"
     },
+    "v-01900": {
+      "audio_file_id": "CQACAgUAAxUHatXFRIUHxoSa3gpxeWSzOaqM6v8AApUhAAKNqLFWPMa-KhrBJVU9BA",
+      "cached_at": "2026-10-19T07:22:44.920380+00:00",
+      "photo_file_id": "AgACAgUAAxUHatXFRKMxE_kb-7kX3walfGKId_YAArYVaxuNqLFWbqIlxdWdOiUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01918": {
       "audio_file_id": "CQACAgUAAxUHasSzP4oDCuAgGiviRUkk-X9TNS0AAsQhAAL07iFWbyjNv7ZZcL49BA",
       "cached_at": "2026-10-06T08:37:20.222517+00:00",
@@ -10933,6 +11281,12 @@
       "photo_file_id": "AgACAgUAAxUHare9KLdwTWTSEvFqOeVdn4fPdpIAAh0TaxvpIcFVjjRxVIq3RLsBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-02486": {
+      "audio_file_id": "CQACAgUAAxUHatXFQfQRrEr2kXGumEAIApgZVwwAApQhAAKNqLFWMV4Qv0_wYR49BA",
+      "cached_at": "2026-10-19T07:22:42.241740+00:00",
+      "photo_file_id": "AgACAgUAAxUHatXFQc2qomCdCUPxHN35j4E-yC8AArUVaxuNqLFW6nuOblfJbjQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02543": {
       "audio_file_id": "CQACAgUAAxUHasdUP5xK7TlOY48XbGM1E_spvhgAAkQmAAKIuzlWni0myDY5b4Y9BA",
       "cached_at": "2026-10-08T08:28:48.116131+00:00",
@@ -11070,6 +11424,12 @@
       "photo_file_id": "AgACAgUAAxUHasydZ8CUn2S7Gw69PKT0sy6c584AAlsSaxs8CWFWCdaCMBYos3YBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02959": {
+      "audio_file_id": "CQACAgUAAxUHatXFRguBIjcxjKKodee05K8eF0sAApYhAAKNqLFWZg36OEAjxFo9BA",
+      "cached_at": "2026-10-19T07:22:47.128711+00:00",
+      "photo_file_id": "AgACAgUAAxUHatXFRtxtGflEi303SfndT9mTFpwAArcVaxuNqLFWDQgCweYUCjsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02992": {
       "audio_file_id": "CQACAgUAAxUHar4YWK2gTGQkq_B4i46KD7c47U4AAqMhAAKXRvBVtrWwkqjmsFQ9BA",
       "cached_at": "2026-10-01T08:22:49.555313+00:00",
@@ -11093,6 +11453,12 @@
       "photo_file_id": "AgACAgUAAxUHaralIDQF9GOrK71TlnEjy2_CbQkAAoYRaxvpIblV5Ij7M9_NNgMBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralILxCH7ys77hv165uVOYg8Y4AAiofAALpIblV9-soY9w7FKU9BA"
+    },
+    "v-03307": {
+      "audio_file_id": "CQACAgUAAxUHatXFPJ_9iHCb_S3tLDZUviYlN_0AApIhAAKNqLFWpEGDPVF-Ais9BA",
+      "cached_at": "2026-10-19T07:22:37.852617+00:00",
+      "photo_file_id": "AgACAgUAAxUHatXFPYmMLS7pNfFqEfUjEQrrBwwAArMVaxuNqLFWT4VnaUy02xwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-03479": {
       "cached_at": "2026-09-25T12:21:32.459053+00:00",
@@ -11291,6 +11657,12 @@
       "last_message_id": 49,
       "published_at": "2026-09-25T16:13:13.802383+00:00",
       "quiz_message_id": 50
+    },
+    "v-00371": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 194,
+      "published_at": "2026-10-19T07:22:40.018940+00:00"
     },
     "v-00404": {
       "count": 1,
@@ -11784,6 +12156,12 @@
       "published_at": "2026-09-25T12:21:29.339301+00:00",
       "quiz_message_id": 23
     },
+    "v-01900": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 196,
+      "published_at": "2026-10-19T07:22:44.920406+00:00"
+    },
     "v-01918": {
       "count": 1,
       "last_cycle": 1,
@@ -11940,6 +12318,12 @@
       "last_message_id": 64,
       "published_at": "2026-09-26T12:40:08.781891+00:00"
     },
+    "v-02486": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 195,
+      "published_at": "2026-10-19T07:22:42.241767+00:00"
+    },
     "v-02543": {
       "count": 1,
       "last_cycle": 1,
@@ -12081,6 +12465,12 @@
       "last_message_id": 163,
       "published_at": "2026-10-12T08:42:16.259654+00:00"
     },
+    "v-02959": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 197,
+      "published_at": "2026-10-19T07:22:47.128738+00:00"
+    },
     "v-02992": {
       "count": 1,
       "last_cycle": 1,
@@ -12105,6 +12495,12 @@
       "last_cycle": 1,
       "last_message_id": 57,
       "published_at": "2026-09-25T16:45:20.750468+00:00"
+    },
+    "v-03307": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 193,
+      "published_at": "2026-10-19T07:22:37.852647+00:00"
     },
     "v-03479": {
       "count": 1,
@@ -12189,11 +12585,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03307",
-    "v-00371",
-    "v-02486",
-    "v-01900",
-    "v-02959",
     "v-03556",
     "v-01323",
     "v-02708",
@@ -15529,41 +15920,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260925T164506Z-d8a20297": {
-      "completed_at": "2026-09-25T16:45:20.755568+00:00",
-      "created_at": "2026-09-25T16:45:06.162114+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-04190"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00079"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00218"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00666"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03304"
-        }
-      ],
-      "published_ids": [
-        "v-04190",
-        "v-00079",
-        "v-00218",
-        "v-00666",
-        "v-03304"
-      ],
-      "status": "completed"
-    },
     "20260926T070708Z-5875af93": {
       "completed_at": "2026-09-26T07:07:21.947273+00:00",
       "created_at": "2026-09-26T07:07:08.316681+00:00",
@@ -16590,6 +16946,41 @@
         "v-01195",
         "v-02227",
         "v-00579"
+      ],
+      "status": "completed"
+    },
+    "20261019T072233Z-cf108806": {
+      "completed_at": "2026-10-19T07:22:47.143121+00:00",
+      "created_at": "2026-10-19T07:22:33.390502+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03307"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00371"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02486"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01900"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02959"
+        }
+      ],
+      "published_ids": [
+        "v-03307",
+        "v-00371",
+        "v-02486",
+        "v-01900",
+        "v-02959"
       ],
       "status": "completed"
     }
@@ -17884,6 +18275,43 @@
         "v-00579"
       ],
       "run_id": "20261018T065953Z-0a75d510",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-19T07:22:47.143121+00:00",
+      "created_at": "2026-10-19T07:22:33.390502+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03307"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00371"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02486"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01900"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02959"
+        }
+      ],
+      "published_ids": [
+        "v-03307",
+        "v-00371",
+        "v-02486",
+        "v-01900",
+        "v-02959"
+      ],
+      "run_id": "20261019T072233Z-cf108806",
       "status": "completed",
       "unknown_ids": []
     }
