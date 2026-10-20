@@ -1850,6 +1850,68 @@
         }
       ]
     },
+    "v-00656": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bcddeaac2fd60bb12c14deec28ba2c2a4caef858354b53de51c189c76bd2f731",
+      "antonyms": [
+        {
+          "meaning": "steady condition",
+          "word": "stability"
+        },
+        {
+          "meaning": "wealth and success",
+          "word": "prosperity"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "financial crisis",
+        "health crisis",
+        "crisis management",
+        "crisis situation",
+        "crisis centre"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A time of extreme difficulty or danger that requires urgent action.",
+      "example_bn": "দেশটি অর্থনৈতিক সংকটের মুখে আছে।",
+      "example_en": "The country is facing an economic crisis.",
+      "memory_hook": "Crisis sounds like \"crisis\" – think of a \"crisis\" alarm ringing.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "celebration",
+        "crisis",
+        "routine",
+        "vacation"
+      ],
+      "quiz_question": "Which word describes a period of severe difficulty?",
+      "short_meaning_en": "crisis",
+      "synonyms": [
+        {
+          "meaning": "urgent situation",
+          "word": "emergency"
+        },
+        {
+          "meaning": "catastrophic event",
+          "word": "disaster"
+        },
+        {
+          "meaning": "difficult situation",
+          "word": "predicament"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "crises"
+        },
+        {
+          "type": "adjective",
+          "word": "crisis‑like"
+        }
+      ]
+    },
     "v-00666": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -3729,6 +3791,68 @@
         }
       ],
       "word_family": []
+    },
+    "v-01323": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "36cb84f489c797580d9333d6d7f832b5900f5190373b5dadc7198e65ff73e040",
+      "antonyms": [
+        {
+          "meaning": "wrong identification",
+          "word": "misidentification"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "identification process",
+        "identification number",
+        "identification card",
+        "identification check",
+        "identification document"
+      ],
+      "common_mistake_correct": "identifying",
+      "common_mistake_wrong": "identification of",
+      "definition_en": "The act of recognizing or establishing the identity of someone or something.",
+      "example_bn": "পুলিশ আঙুলের ছাপের বিশ্লেষণ ব্যবহার করে সনাক্তকরণ করেছে।",
+      "example_en": "The police used fingerprint analysis for identification.",
+      "memory_hook": "ID = identification, like an ID card.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a tool",
+        "a crisis",
+        "recognizing someone",
+        "a start"
+      ],
+      "quiz_question": "What does \"identification\" refer to?",
+      "short_meaning_en": "recognition",
+      "synonyms": [
+        {
+          "meaning": "identifying",
+          "word": "recognition"
+        },
+        {
+          "meaning": "checking identity",
+          "word": "verification"
+        },
+        {
+          "meaning": "proving identity",
+          "word": "authentication"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "identify"
+        },
+        {
+          "type": "adjective",
+          "word": "identifiable"
+        },
+        {
+          "type": "verb",
+          "word": "identifying"
+        }
+      ]
     },
     "v-01373": {
       "_content_version": "1.2.4",
@@ -6413,6 +6537,68 @@
         }
       ]
     },
+    "v-02223": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d56c55c3b8683b9b18e18f589c81d2ba4e5ae5588f01ffbf7ca540e320a95399",
+      "antonyms": [
+        {
+          "meaning": "to give a false representation",
+          "word": "misrepresent"
+        },
+        {
+          "meaning": "to not represent",
+          "word": "ignore"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "represent a country",
+        "represent an idea",
+        "represent the team",
+        "represent yourself",
+        "represent the interests"
+      ],
+      "common_mistake_correct": "represent",
+      "common_mistake_wrong": "represent to",
+      "definition_en": "To act as a representative or to speak or act on behalf of someone else.",
+      "example_bn": "আইনজীবী আদালতে ক্লায়েন্টকে প্রতিনিধিত্ব করবে।",
+      "example_en": "The lawyer will represent the client in court.",
+      "memory_hook": "A \"rep\" (representative) speaks for you.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to ignore",
+        "to speak for",
+        "to start",
+        "to finish"
+      ],
+      "quiz_question": "What does it mean to \"represent\" someone?",
+      "short_meaning_en": "represent",
+      "synonyms": [
+        {
+          "meaning": "to show",
+          "word": "depict"
+        },
+        {
+          "meaning": "to stand for",
+          "word": "symbolize"
+        },
+        {
+          "meaning": "to represent",
+          "word": "stand for"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "representation"
+        },
+        {
+          "type": "noun",
+          "word": "representative"
+        }
+      ]
+    },
     "v-02227": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ce05a6b9533cfc84e0c00c1a7044dbf4a2e5ef825d6c0a657b7574737122c69b",
@@ -7684,6 +7870,60 @@
         }
       ]
     },
+    "v-02708": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f3f05bbfe5b3c1c1d45642b2f88254bf95e588b20e7d44b9dd8a8a0c3dbf6e30",
+      "antonyms": [
+        {
+          "meaning": "the initial",
+          "word": "first"
+        },
+        {
+          "meaning": "the next after first",
+          "word": "second"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "third person",
+        "third floor",
+        "third time",
+        "third party",
+        "third place"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Being the number that comes after second in a sequence.",
+      "example_bn": "দৌড়ে সে তৃতীয় স্থান অর্জন করেছে।",
+      "example_en": "She finished third in the race.",
+      "memory_hook": "Think of a three‑legged stool – the third leg gives balance.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "first",
+        "second",
+        "third",
+        "fourth"
+      ],
+      "quiz_question": "Which word means \"the number after second\"?",
+      "short_meaning_en": "third",
+      "synonyms": [
+        {
+          "meaning": "third in order",
+          "word": "tertiary"
+        },
+        {
+          "meaning": "in the third place",
+          "word": "thirdly"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "thirdly"
+        }
+      ]
+    },
     "v-02721": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
@@ -8937,6 +9177,72 @@
         }
       ]
     },
+    "v-03556": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "2a4f99b0fb35bf4a7a901017cd8dd8c481cc7601a872e1c6438ce3c9f85aec89",
+      "antonyms": [
+        {
+          "meaning": "to cease",
+          "word": "stop"
+        },
+        {
+          "meaning": "to end",
+          "word": "finish"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "start a job",
+        "start a car",
+        "start from scratch",
+        "start a conversation",
+        "start the day"
+      ],
+      "common_mistake_correct": "started",
+      "common_mistake_wrong": "started to",
+      "definition_en": "To begin doing something or to cause something to begin.",
+      "example_bn": "সে সকাল নয়টায় সভা শুরু করবে।",
+      "example_en": "She will start the meeting at nine o'clock.",
+      "memory_hook": "Think of a \"starter\" button that makes a machine go.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "stop",
+        "start",
+        "finish",
+        "pause"
+      ],
+      "quiz_question": "Which word means \"to begin\"?",
+      "short_meaning_en": "begin",
+      "synonyms": [
+        {
+          "meaning": "to begin",
+          "word": "commence"
+        },
+        {
+          "meaning": "to start something",
+          "word": "initiate"
+        },
+        {
+          "meaning": "to set in motion",
+          "word": "launch"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "starter"
+        },
+        {
+          "type": "noun",
+          "word": "starting"
+        },
+        {
+          "type": "verb",
+          "word": "started"
+        }
+      ]
+    },
     "v-03657": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b32250094b6c6a5694632316e3fe54c9925a9205b668b31b7a7f21b00298d9a0",
@@ -9649,6 +9955,14 @@
       "source_fingerprint": "48df293582c30003b098fec3955c2a7d9a50dad16f30c5718c92814b3548d1a7",
       "status": "valid"
     },
+    "v-00656": {
+      "audited_at": "2026-10-20T07:13:32.286737+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সংকটকাল, সন্ধিক্ষণ",
+      "reason": "The Bangla meaning accurately reflects the noun 'crisis'.",
+      "source_fingerprint": "bcddeaac2fd60bb12c14deec28ba2c2a4caef858354b53de51c189c76bd2f731",
+      "status": "valid"
+    },
     "v-00669": {
       "audited_at": "2026-09-29T07:56:03.720130+00:00",
       "confidence": 0.99,
@@ -9864,6 +10178,14 @@
       "reason": "The supplied meaning 'যে কোন উপায়ে' does not match the conjunctive adverb 'however' which means 'however, nevertheless'.",
       "source_fingerprint": "2383685fdb5ba3564f39c5f9e5109c665cd5bb1e4514272fafa559b83dc02156",
       "status": "corrected"
+    },
+    "v-01323": {
+      "audited_at": "2026-10-20T07:13:32.286687+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সনাক্তকরণ, সনাক্ত",
+      "reason": "The meaning correctly corresponds to the noun 'identification'.",
+      "source_fingerprint": "36cb84f489c797580d9333d6d7f832b5900f5190373b5dadc7198e65ff73e040",
+      "status": "valid"
     },
     "v-01373": {
       "audited_at": "2026-10-02T07:58:58.833638+00:00",
@@ -10169,6 +10491,14 @@
       "source_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
       "status": "valid"
     },
+    "v-02223": {
+      "audited_at": "2026-10-20T07:13:32.286722+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতিনিধিত্ব করা, প্রতিনিধিত্ব করতে",
+      "reason": "The meaning correctly matches the verb 'represent'.",
+      "source_fingerprint": "d56c55c3b8683b9b18e18f589c81d2ba4e5ae5588f01ffbf7ca540e320a95399",
+      "status": "valid"
+    },
     "v-02227": {
       "audited_at": "2026-10-18T06:59:54.276233+00:00",
       "confidence": 0.99,
@@ -10337,6 +10667,14 @@
       "source_fingerprint": "d361b0c07a4cb57a4ace51cd83a7ba2b01e0e32a57bb641144f6df60370a8095",
       "status": "valid"
     },
+    "v-02708": {
+      "audited_at": "2026-10-20T07:13:32.286703+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "তৃতীয়",
+      "reason": "The Bangla meaning accurately represents the ordinal 'third'.",
+      "source_fingerprint": "f3f05bbfe5b3c1c1d45642b2f88254bf95e588b20e7d44b9dd8a8a0c3dbf6e30",
+      "status": "valid"
+    },
     "v-02721": {
       "audited_at": "2026-10-12T08:42:06.679375+00:00",
       "confidence": 0.99,
@@ -10447,6 +10785,14 @@
       "meaning_bn": "দ্বিধা করতে",
       "reason": "The supplied Bangla meaning accurately captures the verb 'to hesitate' as 'দ্বিধা করতে'.",
       "source_fingerprint": "aed5637e24fc79375cca72dda4019b0ccc9bf89719814c3fbd24b7a348b38844",
+      "status": "valid"
+    },
+    "v-03556": {
+      "audited_at": "2026-10-20T07:13:32.286639+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শুরু করতে",
+      "reason": "The Bangla meaning accurately reflects the verb 'start' as 'to begin'.",
+      "source_fingerprint": "2a4f99b0fb35bf4a7a901017cd8dd8c481cc7601a872e1c6438ce3c9f85aec89",
       "status": "valid"
     },
     "v-03657": {
@@ -10727,6 +11073,12 @@
       "photo_file_id": "AgACAgUAAxUHartvFvds4UCvFRQkAAEaQ_p7VH4yAALHE2sbU-zZVe8zYJUSV2zUAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-00656": {
+      "audio_file_id": "CQACAgUAAxUHatcUqTRUZ8TyT0tdXyh5RpqSmKwAAgElAAJmmLlWqnPWTJXPNg49BA",
+      "cached_at": "2026-10-20T07:13:46.394578+00:00",
+      "photo_file_id": "AgACAgUAAxUHatcUqVU0rVcqCn3DrReiosiL6w0AAhETaxtmmLlW_dL7Ph8dhJkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00666": {
       "cached_at": "2026-09-25T16:45:18.987922+00:00",
       "photo_file_id": "AgACAgUAAxUHaralHkcNMa4j4niXkAj9P4gDFNgAAoURaxvpIblV0FLvM5btV4IBAAMCAANzAAM9BA",
@@ -10922,6 +11274,12 @@
       "audio_file_id": "CQACAgUAAxUHarzCrSyJRlY2AYKopUnUcn3kw1sAArEiAALHB-hVP28lH1rtYsg9BA",
       "cached_at": "2026-09-30T08:05:01.719977+00:00",
       "photo_file_id": "AgACAgUAAxUHarzCrW6ZYvNmFOR5XpYC9XJ8YY4AAqUSaxvHB-hVAAGNse2OmFm7AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-01323": {
+      "audio_file_id": "CQACAgUAAxUHatcUopj7_VPzgDdmxighnSPGoA0AAv0kAAJmmLlWq-irNH7i_yE9BA",
+      "cached_at": "2026-10-20T07:13:38.554468+00:00",
+      "photo_file_id": "AgACAgUAAxUHatcUoktygBKrwL8kLu0fTGkVIAcAAg4TaxtmmLlWPum9-PPzrGwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01373": {
@@ -11209,6 +11567,12 @@
       "photo_file_id": "AgACAgUAAxUHastG76h8U6TKHA27z_89hFVS33AAAmgYaxvl0VlWNaUG0xFdfsIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02223": {
+      "audio_file_id": "CQACAgUAAxUHatcUpyVcQQLbHUFgIYJchbHCMPgAAyUAAmaYuVYpK2nn0zOoez0E",
+      "cached_at": "2026-10-20T07:13:44.008623+00:00",
+      "photo_file_id": "AgACAgUAAxUHatcUp1Keu4jci9oqjEj7E3WyI4UAAhATaxtmmLlWU3e2pxDGEtMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02227": {
       "audio_file_id": "CQACAgUAAxUHatRudznXr6gnSE0VujDaB8qxIUsAArQhAAKNqKlWDENDmaPbID09BA",
       "cached_at": "2026-10-18T07:00:07.494209+00:00",
@@ -11341,6 +11705,12 @@
       "photo_file_id": "AgACAgUAAxUHar4YTyzY85Ymj-tvv5tLp5LzAAHrAALZE2sbl0bwVaWrsw00KXANAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-02708": {
+      "audio_file_id": "CQACAgUAAxUHatcUpNxYrfr873NlW1Q6BgpAbAUAAv4kAAJmmLlWCk4Q16_s4Mc9BA",
+      "cached_at": "2026-10-20T07:13:41.235737+00:00",
+      "photo_file_id": "AgACAgUAAxUHatcUpKE2t8zFGB1UcS2uw7cFddIAAg8TaxtmmLlWQA2vlQXwv0cBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02721": {
       "audio_file_id": "CQACAgUAAxUHasyddVWLlSQy247RRB3CqUiJdmsAAmQjAAI8CWFWyhDULrAv1t89BA",
       "cached_at": "2026-10-12T08:42:29.793566+00:00",
@@ -11471,6 +11841,12 @@
       "photo_file_id": "AgACAgUAAxUHardvIn_HvLgG4UO4eykQ275tnMcAAt8RaxvpIcFVnx6hn3JV5FkBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvIYvJQ-jqoqTogXMRJYF0QGkAAnwgAALpIcFVxrcEtNfWmF09BA"
+    },
+    "v-03556": {
+      "audio_file_id": "CQACAgUAAxUHatcUnxMNs5rw3FtqT94vtazXhLYAAvwkAAJmmLlW8pJMg_Dzl-g9BA",
+      "cached_at": "2026-10-20T07:13:35.954116+00:00",
+      "photo_file_id": "AgACAgUAAxUHatcUn-ED8iqTPov7bpTb1yfIffUAAg0TaxtmmLlWOgW0o0q3H48BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-03657": {
       "audio_file_id": "CQACAgUAAxUHasX_B4cYLo5PX59jESHJAAGGLT2XAAJ0KwACiLsxVuT1A0HEc9Q2PQQ",
@@ -11748,6 +12124,12 @@
       "last_message_id": 98,
       "published_at": "2026-09-29T07:56:07.229267+00:00"
     },
+    "v-00656": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 202,
+      "published_at": "2026-10-20T07:13:46.394605+00:00"
+    },
     "v-00666": {
       "count": 1,
       "last_cycle": 1,
@@ -11950,6 +12332,12 @@
       "last_cycle": 1,
       "last_message_id": 105,
       "published_at": "2026-09-30T08:05:01.720005+00:00"
+    },
+    "v-01323": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 199,
+      "published_at": "2026-10-20T07:13:38.554497+00:00"
     },
     "v-01373": {
       "count": 1,
@@ -12246,6 +12634,12 @@
       "last_message_id": 160,
       "published_at": "2026-10-11T08:21:04.063652+00:00"
     },
+    "v-02223": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 201,
+      "published_at": "2026-10-20T07:13:44.008648+00:00"
+    },
     "v-02227": {
       "count": 1,
       "last_cycle": 1,
@@ -12377,6 +12771,12 @@
       "last_cycle": 1,
       "last_message_id": 108,
       "published_at": "2026-10-01T08:22:40.404948+00:00"
+    },
+    "v-02708": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 200,
+      "published_at": "2026-10-20T07:13:41.235765+00:00"
     },
     "v-02721": {
       "count": 1,
@@ -12515,6 +12915,12 @@
       "last_message_id": 59,
       "published_at": "2026-09-26T07:07:14.709505+00:00"
     },
+    "v-03556": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 198,
+      "published_at": "2026-10-20T07:13:35.954250+00:00"
+    },
     "v-03657": {
       "count": 1,
       "last_cycle": 1,
@@ -12585,11 +12991,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03556",
-    "v-01323",
-    "v-02708",
-    "v-02223",
-    "v-00656",
     "v-02784",
     "v-00635",
     "v-03766",
@@ -15920,41 +16321,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260926T070708Z-5875af93": {
-      "completed_at": "2026-09-26T07:07:21.947273+00:00",
-      "created_at": "2026-09-26T07:07:08.316681+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01828"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03526"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02641"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02776"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00283"
-        }
-      ],
-      "published_ids": [
-        "v-01828",
-        "v-03526",
-        "v-02641",
-        "v-02776",
-        "v-00283"
-      ],
-      "status": "completed"
-    },
     "20260926T122525Z-9867f635": {
       "completed_at": "2026-09-26T12:25:25.700919+00:00",
       "created_at": "2026-09-26T12:25:25.305331+00:00",
@@ -16981,6 +17347,41 @@
         "v-02486",
         "v-01900",
         "v-02959"
+      ],
+      "status": "completed"
+    },
+    "20261020T071331Z-f547dcd5": {
+      "completed_at": "2026-10-20T07:13:46.409064+00:00",
+      "created_at": "2026-10-20T07:13:31.887817+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03556"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01323"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02708"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02223"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00656"
+        }
+      ],
+      "published_ids": [
+        "v-03556",
+        "v-01323",
+        "v-02708",
+        "v-02223",
+        "v-00656"
       ],
       "status": "completed"
     }
@@ -18312,6 +18713,43 @@
         "v-02959"
       ],
       "run_id": "20261019T072233Z-cf108806",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-20T07:13:46.409064+00:00",
+      "created_at": "2026-10-20T07:13:31.887817+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03556"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01323"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02708"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02223"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00656"
+        }
+      ],
+      "published_ids": [
+        "v-03556",
+        "v-01323",
+        "v-02708",
+        "v-02223",
+        "v-00656"
+      ],
+      "run_id": "20261020T071331Z-f547dcd5",
       "status": "completed",
       "unknown_ids": []
     }
