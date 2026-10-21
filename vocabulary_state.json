@@ -1850,6 +1850,72 @@
         }
       ]
     },
+    "v-00635": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b95252e27116b1cb7da78eda37ff43eb610532c4ebba8add1460e49395b6c5bf",
+      "antonyms": [
+        {
+          "meaning": "one only",
+          "word": "single"
+        },
+        {
+          "meaning": "alone",
+          "word": "solo"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "couple of",
+        "married couple",
+        "young couple",
+        "couple days",
+        "couple up"
+      ],
+      "common_mistake_correct": "Use \"couple\" for two; for many use \"several\" or \"many\"",
+      "common_mistake_wrong": "Using \"couple\" to mean \"many\"",
+      "definition_en": "Two people or things that are matched or linked together as a pair.",
+      "example_bn": "একটি দম্পতি গতকাল তাদের ১০ম বার্ষিকী উদযাপন করেছে।",
+      "example_en": "A married couple celebrated their 10th anniversary yesterday.",
+      "memory_hook": "Couple sounds like \"two cups\" – two items together.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "I have a couple of apples left.",
+        "She is a couple of teacher.",
+        "We need a couple to finish the project.",
+        "The couple is a large group."
+      ],
+      "quiz_question": "Choose the correct use of \"couple\":",
+      "short_meaning_en": "pair",
+      "synonyms": [
+        {
+          "meaning": "two items matched together",
+          "word": "pair"
+        },
+        {
+          "meaning": "two people",
+          "word": "duo"
+        },
+        {
+          "meaning": "a group of two",
+          "word": "twosome"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural noun",
+          "word": "couples"
+        },
+        {
+          "type": "verb",
+          "word": "coupling"
+        },
+        {
+          "type": "verb",
+          "word": "coupled"
+        }
+      ]
+    },
     "v-00656": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "bcddeaac2fd60bb12c14deec28ba2c2a4caef858354b53de51c189c76bd2f731",
@@ -6001,6 +6067,76 @@
         }
       ]
     },
+    "v-01946": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "979150c40d024e779e093e40bc6311c45627a80a84d49cf25ed2b0c787b1c2aa",
+      "antonyms": [
+        {
+          "meaning": "to pay no attention",
+          "word": "ignore"
+        },
+        {
+          "meaning": "to miss seeing",
+          "word": "overlook"
+        },
+        {
+          "meaning": "to not consider",
+          "word": "disregard"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "peer into",
+        "peer over",
+        "peer at",
+        "peer through",
+        "peer closely"
+      ],
+      "common_mistake_correct": "When you mean to look, use the verb \"peer\"; for a person of equal status use the noun \"peer\"",
+      "common_mistake_wrong": "Using \"peer\" as a noun meaning \"equal\" when the context needs the verb \"to look\"",
+      "definition_en": "To look closely at something, often with effort to see details.",
+      "example_bn": "বাগানটি দেখতে তিনি বেড়ার ওপর ঝুঁকে দেখলেন।",
+      "example_en": "She leaned over the fence to peer at the garden.",
+      "memory_hook": "Peer sounds like \"pier\" – you look over the water from a pier.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "He is my peer in the company.",
+        "She will peer the document tomorrow.",
+        "She leaned to peer at the stars.",
+        "The peer was very kind."
+      ],
+      "quiz_question": "Select the sentence where \"peer\" means \"to look\":",
+      "short_meaning_en": "look",
+      "synonyms": [
+        {
+          "meaning": "to look steadily",
+          "word": "gaze"
+        },
+        {
+          "meaning": "to look fixedly",
+          "word": "stare"
+        },
+        {
+          "meaning": "to look briefly",
+          "word": "glance"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "peered"
+        },
+        {
+          "type": "verb",
+          "word": "peering"
+        },
+        {
+          "type": "adjective",
+          "word": "peerless"
+        }
+      ]
+    },
     "v-01972": {
       "antonyms": [],
       "cefr": "",
@@ -6312,6 +6448,72 @@
         {
           "type": "adjective",
           "word": "primary"
+        }
+      ]
+    },
+    "v-02070": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c861be518d25bb4e2b0100f17bb9edfc2fadf70d17947cd128978e2fd1adb79e",
+      "antonyms": [
+        {
+          "meaning": "activity done for pleasure",
+          "word": "hobby"
+        },
+        {
+          "meaning": "lack of a job",
+          "word": "unemployment"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "chosen profession",
+        "noble profession",
+        "profession of faith",
+        "medical profession",
+        "teaching profession"
+      ],
+      "common_mistake_correct": "Use \"profession\" for a job; use \"profession\" (noun) meaning \"public declaration\" only in formal contexts like \"profession of faith\"",
+      "common_mistake_wrong": "Using \"profession\" to mean \"a declaration\"",
+      "definition_en": "A paid occupation that requires special training or education.",
+      "example_bn": "তিনি তার পেশা হিসেবে চিকিৎসা বেছে নিয়েছেন।",
+      "example_en": "She chose medicine as her profession.",
+      "memory_hook": "Pro‑fess‑ion: a pro (expert) who confesses his work.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "His profession is a great hobby.",
+        "She announced her profession of love.",
+        "Teaching is her profession.",
+        "The profession was very loud."
+      ],
+      "quiz_question": "Which sentence correctly uses \"profession\"?",
+      "short_meaning_en": "job",
+      "synonyms": [
+        {
+          "meaning": "a person's regular work",
+          "word": "occupation"
+        },
+        {
+          "meaning": "long-term professional life",
+          "word": "career"
+        },
+        {
+          "meaning": "a calling or profession",
+          "word": "vocation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "professional"
+        },
+        {
+          "type": "adverb",
+          "word": "professionally"
+        },
+        {
+          "type": "plural noun",
+          "word": "professions"
         }
       ]
     },
@@ -8096,6 +8298,72 @@
         }
       ]
     },
+    "v-02784": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "63a65f31204f404250262aab0aa3edcc0d3b97fb997288ea09066997cb802e86",
+      "antonyms": [
+        {
+          "meaning": "something known for sure",
+          "word": "certainty"
+        },
+        {
+          "meaning": "definitive evidence",
+          "word": "proof"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "trial period",
+        "trial run",
+        "clinical trial",
+        "trial court",
+        "trial and error"
+      ],
+      "common_mistake_correct": "Use \"trial\" for a test or legal proceeding; for hardship use \"hardship\" or \"difficulty\"",
+      "common_mistake_wrong": "Using \"trial\" to mean \"hardship\" in everyday speech",
+      "definition_en": "A formal examination of evidence in a court or a test of something's performance.",
+      "example_bn": "এক সপ্তাহের ট্রায়ালের পরে জুরি রায়ে পৌঁছেছে।",
+      "example_en": "The jury reached a verdict after a week-long trial.",
+      "memory_hook": "Think of \"try all\" – you try everything in a trial.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She faced many trials during the war.",
+        "The trial was a delicious dessert.",
+        "He went on a trial to the beach.",
+        "Trial is a type of music."
+      ],
+      "quiz_question": "Which sentence uses the word \"trial\" correctly?",
+      "short_meaning_en": "test",
+      "synonyms": [
+        {
+          "meaning": "a procedure to assess something",
+          "word": "test"
+        },
+        {
+          "meaning": "a detailed inspection",
+          "word": "examination"
+        },
+        {
+          "meaning": "evaluation of ability",
+          "word": "assessment"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural noun",
+          "word": "trials"
+        },
+        {
+          "type": "verb",
+          "word": "trialed"
+        },
+        {
+          "type": "verb",
+          "word": "trialing"
+        }
+      ]
+    },
     "v-02786": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d6ff26d6eeaa5e2a583dc284a4da042dfd80e0da36a84bef1ffb45f5ca111b03",
@@ -9428,6 +9696,59 @@
         }
       ]
     },
+    "v-03766": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bc639b776662f317264865a1b3a200eb79e368c4932d0dd7a134732df80f880c",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "rib cage",
+        "spare rib",
+        "rib fracture",
+        "rib meat",
+        "rib cartilage"
+      ],
+      "common_mistake_correct": "When you mean the bone, use the noun; when you mean to tease, use the verb \"rib\"",
+      "common_mistake_wrong": "Confusing the noun \"rib\" with the verb meaning \"to tease\"",
+      "definition_en": "One of the curved bones that form the rib cage protecting the lungs.",
+      "example_bn": "সকার খেলতে গিয়ে সে একটি রিব ভেঙে ফেলেছে।",
+      "example_en": "He broke a rib while playing soccer.",
+      "memory_hook": "Rib sounds like \"rib tickle\" – you can tickle a rib with a joke.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "He gave her a rib about her new haircut.",
+        "The chef prepared grilled ribs for dinner.",
+        "She felt a sharp pain in her rib after the fall.",
+        "Rib is a type of music genre."
+      ],
+      "quiz_question": "Which sentence uses \"rib\" as a bone?",
+      "short_meaning_en": "bone",
+      "synonyms": [
+        {
+          "meaning": "hard part of the skeleton",
+          "word": "bone"
+        },
+        {
+          "meaning": "the specific bone in the chest",
+          "word": "rib bone"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural noun",
+          "word": "ribs"
+        },
+        {
+          "type": "verb",
+          "word": "ribbing"
+        },
+        {
+          "type": "adjective",
+          "word": "ribbed"
+        }
+      ]
+    },
     "v-03794": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "52212bb16447f42c3a01c4a012a32ab408b53998b910f8bcc63ac06de2866a9d",
@@ -9955,6 +10276,14 @@
       "source_fingerprint": "48df293582c30003b098fec3955c2a7d9a50dad16f30c5718c92814b3548d1a7",
       "status": "valid"
     },
+    "v-00635": {
+      "audited_at": "2026-10-21T07:08:01.699669+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "জোড়া, যুগল, দম্পতি",
+      "reason": "The Bangla meanings correctly correspond to the noun “couple”.",
+      "source_fingerprint": "b95252e27116b1cb7da78eda37ff43eb610532c4ebba8add1460e49395b6c5bf",
+      "status": "valid"
+    },
     "v-00656": {
       "audited_at": "2026-10-20T07:13:32.286737+00:00",
       "confidence": 0.99,
@@ -10419,6 +10748,14 @@
       "source_fingerprint": "8be3475295c9b9cccf67dac03034dfc0677f9c9248d05a7c799a790722e2bf2c",
       "status": "valid"
     },
+    "v-01946": {
+      "audited_at": "2026-10-21T07:08:01.699764+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "দেখা • তাকিয়ে দেখা",
+      "reason": "The supplied meaning “দৃষ্টিগোচর হওয়া” is inaccurate for the verb “peer,” which means to look closely or to stare.",
+      "source_fingerprint": "79e6525ba86264aad1649764ff668650ab6cce1f0cad7654e46ef8e817f69461",
+      "status": "corrected"
+    },
     "v-01987": {
       "audited_at": "2026-10-04T07:49:08.754037+00:00",
       "confidence": 0.99,
@@ -10458,6 +10795,14 @@
       "reason": "The Bangla meaning captures the primary sense of 'primarily' as 'firstly' which aligns with the common usage of the word.",
       "source_fingerprint": "b58d182b2f16280b8fe6d090fee1acc85bfde71ff8135fc3365e6d889a896b0b",
       "status": "valid"
+    },
+    "v-02070": {
+      "audited_at": "2026-10-21T07:08:01.699728+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "পেশা",
+      "reason": "“বৃত্তি” refers to a scholarship, not to the meaning of “profession.” The correct Bangla term is পেশা.",
+      "source_fingerprint": "698263c22a80e1fad78ea9f8e9fe7f19c931663ad6f10fa984b4dfe614997633",
+      "status": "corrected"
     },
     "v-02094": {
       "audited_at": "2026-10-06T08:37:14.289895+00:00",
@@ -10691,6 +11036,14 @@
       "source_fingerprint": "abd700c9641bec8142352130709d324072a73f6e9941abc4d0fa93e028932a23",
       "status": "valid"
     },
+    "v-02784": {
+      "audited_at": "2026-10-21T07:08:01.699603+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বিচার, যাচাই",
+      "reason": "The supplied meaning accurately reflects the common senses of “trial” as a test or legal proceeding.",
+      "source_fingerprint": "63a65f31204f404250262aab0aa3edcc0d3b97fb997288ea09066997cb802e86",
+      "status": "valid"
+    },
     "v-02786": {
       "audited_at": "2026-10-05T08:26:36.600185+00:00",
       "confidence": 0.99,
@@ -10817,6 +11170,14 @@
       "meaning_bn": "গর্ভাশয়",
       "reason": "The Bangla meaning accurately matches the anatomical term 'Uterus'.",
       "source_fingerprint": "fc63376e82731c693a6757e22dbade3d756e482189bc6e1ef92746b42e926f8f",
+      "status": "valid"
+    },
+    "v-03766": {
+      "audited_at": "2026-10-21T07:08:01.699699+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পাঁজর",
+      "reason": "The meaning matches the anatomical term “rib.”",
+      "source_fingerprint": "bc639b776662f317264865a1b3a200eb79e368c4932d0dd7a134732df80f880c",
       "status": "valid"
     },
     "v-03794": {
@@ -11071,6 +11432,12 @@
       "audio_file_id": "CQACAgUAAxUHartvFonYnmAvbJChnb0vW9RwHxoAAr4gAAJT7NlVxMZkuZ_EJMQ9BA",
       "cached_at": "2026-09-29T07:56:07.229242+00:00",
       "photo_file_id": "AgACAgUAAxUHartvFvds4UCvFRQkAAEaQ_p7VH4yAALHE2sbU-zZVe8zYJUSV2zUAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-00635": {
+      "audio_file_id": "CQACAgUAAxUHathk2TgjFVIXbzbtlS19vyjCF8MAAmojAAK63MBWkMXHtxQU-1k9BA",
+      "cached_at": "2026-10-21T07:08:09.570123+00:00",
+      "photo_file_id": "AgACAgUAAxUHathk2dBG7EObQMumFimm1NXRaRAAAqUcaxu63MBWvLWugUDUchsBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00656": {
@@ -11507,6 +11874,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoYrjcuwERF5TAy0IQJeFebtkAAhcUaxucC8lVJHTHIqTbre0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01946": {
+      "audio_file_id": "CQACAgUAAxUHathk3_HK4C7E0A-BeRLoHdI4YIEAAm0jAAK63MBWiXy0oSCEhQ09BA",
+      "cached_at": "2026-10-21T07:08:16.423562+00:00",
+      "photo_file_id": "AgACAgUAAxUHathk31lQPlaAicX8rSfhWesEaZUAAqgcaxu63MBWILbAP5InXsEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01972": {
       "cached_at": "2026-09-25T14:03:38.200083+00:00",
       "photo_file_id": "AgACAgUAAxUHarZ_OfYhHU79Zex-7IhiCr_thGQAAiQRaxvpIblVxt2oMAyAVEABAAMCAANzAAM9BA",
@@ -11541,6 +11914,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxXgYsjWIZSqiO5eySKda3AAE5AALEIgACr4YBVufNg4d_UAvWPQQ",
       "cached_at": "2026-10-03T07:40:15.514612+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxXxPDBz_9FXKL39gkHptI8fAAAqQSaxuvhgFWv4ClyA-AJlkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02070": {
+      "audio_file_id": "CQACAgUAAxUHathk3QP69wYqZBwXb8Ez_Zs68U0AAmwjAAK63MBW3PJcuaPnw489BA",
+      "cached_at": "2026-10-21T07:08:14.267436+00:00",
+      "photo_file_id": "AgACAgUAAxUHathk3TF7BP92vOAb_2rJAgkeYggAAqccaxu63MBWsMBzGfBj7ZABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02094": {
@@ -11729,6 +12108,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJglRCnRdMamaqH1_TENci_cAAn4gAALpIcFVBTX4Nn9cXic9BA"
     },
+    "v-02784": {
+      "audio_file_id": "CQACAgUAAxUHathk1d0xIks54L1JBRuU4PYZWSEAAmkjAAK63MBWPeB9TnceGIc9BA",
+      "cached_at": "2026-10-21T07:08:07.385390+00:00",
+      "photo_file_id": "AgACAgUAAxUHathk1kEeZrvXxvwPusGfZ34B8ZcAAqQcaxu63MBWVjWsUtIx-akBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02786": {
       "audio_file_id": "CQACAgUAAxUHasNfSQABTY-VjrhGn8zkVPZcs5fjAAIfIQACQiUYVjqXfNLzf5ypPQQ",
       "cached_at": "2026-10-05T08:26:50.318284+00:00",
@@ -11870,6 +12255,12 @@
       "audio_file_id": "CQACAgUAAxUHar4YVB73JyUblsDX3kcRnWHpt1kAAqEhAAKXRvBVCAZ5NBHooR49BA",
       "cached_at": "2026-10-01T08:22:45.020716+00:00",
       "photo_file_id": "AgACAgUAAxUHar4YVFFqv-vXMPIwqNQupuxWKI0AAtsTaxuXRvBVwqaQRVZhUxwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-03766": {
+      "audio_file_id": "CQACAgUAAxUHathk2xwBDIY02VnclONIgioDC8gAAmsjAAK63MBWWIrsAAGClKwjPQQ",
+      "cached_at": "2026-10-21T07:08:11.872603+00:00",
+      "photo_file_id": "AgACAgUAAxUHathk2zlpbiG7v2wCji043h_YPkcAAqYcaxu63MBWV2GppnFgD6wBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-03794": {
@@ -12123,6 +12514,12 @@
       "last_cycle": 1,
       "last_message_id": 98,
       "published_at": "2026-09-29T07:56:07.229267+00:00"
+    },
+    "v-00635": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 204,
+      "published_at": "2026-10-21T07:08:09.570149+00:00"
     },
     "v-00656": {
       "count": 1,
@@ -12574,6 +12971,12 @@
       "last_message_id": 85,
       "published_at": "2026-09-27T00:50:42.744437+00:00"
     },
+    "v-01946": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 207,
+      "published_at": "2026-10-21T07:08:16.423586+00:00"
+    },
     "v-01972": {
       "count": 1,
       "last_cycle": 1,
@@ -12609,6 +13012,12 @@
       "last_cycle": 1,
       "last_message_id": 118,
       "published_at": "2026-10-03T07:40:15.514640+00:00"
+    },
+    "v-02070": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 206,
+      "published_at": "2026-10-21T07:08:14.267460+00:00"
     },
     "v-02094": {
       "count": 1,
@@ -12796,6 +13205,12 @@
       "last_message_id": 61,
       "published_at": "2026-09-26T07:07:19.472210+00:00"
     },
+    "v-02784": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 203,
+      "published_at": "2026-10-21T07:08:07.385414+00:00"
+    },
     "v-02786": {
       "count": 1,
       "last_cycle": 1,
@@ -12946,6 +13361,12 @@
       "last_message_id": 110,
       "published_at": "2026-10-01T08:22:45.020775+00:00"
     },
+    "v-03766": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 205,
+      "published_at": "2026-10-21T07:08:11.872628+00:00"
+    },
     "v-03794": {
       "count": 1,
       "last_cycle": 1,
@@ -12991,11 +13412,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02784",
-    "v-00635",
-    "v-03766",
-    "v-02070",
-    "v-01946",
     "v-00623",
     "v-01008",
     "v-02696",
@@ -16321,48 +16737,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260926T122525Z-9867f635": {
-      "completed_at": "2026-09-26T12:25:25.700919+00:00",
-      "created_at": "2026-09-26T12:25:25.305331+00:00",
-      "failed_ids": [
-        "v-02022",
-        "v-00337",
-        "v-02423",
-        "v-02467",
-        "v-01553"
-      ],
-      "failures": {
-        "v-00337": "Meaning verification uncertain for: list",
-        "v-01553": "Meaning verification uncertain for: list",
-        "v-02022": "Meaning verification uncertain for: list",
-        "v-02423": "Meaning verification uncertain for: list",
-        "v-02467": "Meaning verification uncertain for: list"
-      },
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02022"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00337"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02423"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02467"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01553"
-        }
-      ],
-      "published_ids": [],
-      "status": "completed"
-    },
     "20260926T124000Z-8f28b998": {
       "completed_at": "2026-09-26T12:40:15.754893+00:00",
       "created_at": "2026-09-26T12:40:00.833915+00:00",
@@ -17382,6 +17756,41 @@
         "v-02708",
         "v-02223",
         "v-00656"
+      ],
+      "status": "completed"
+    },
+    "20261021T070801Z-f6373019": {
+      "completed_at": "2026-10-21T07:08:16.448823+00:00",
+      "created_at": "2026-10-21T07:08:01.213684+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02784"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00635"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03766"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02070"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01946"
+        }
+      ],
+      "published_ids": [
+        "v-02784",
+        "v-00635",
+        "v-03766",
+        "v-02070",
+        "v-01946"
       ],
       "status": "completed"
     }
@@ -18750,6 +19159,43 @@
         "v-00656"
       ],
       "run_id": "20261020T071331Z-f547dcd5",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-21T07:08:16.448823+00:00",
+      "created_at": "2026-10-21T07:08:01.213684+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02784"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00635"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03766"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02070"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01946"
+        }
+      ],
+      "published_ids": [
+        "v-02784",
+        "v-00635",
+        "v-03766",
+        "v-02070",
+        "v-01946"
+      ],
+      "run_id": "20261021T070801Z-f6373019",
       "status": "completed",
       "unknown_ids": []
     }
