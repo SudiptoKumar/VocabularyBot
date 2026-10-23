@@ -2686,6 +2686,72 @@
         }
       ]
     },
+    "v-00827": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8c1f9381ee5ac35b9d8d48bc19ce099fc60df89b0a36d5203d32a7f6239b35d5",
+      "antonyms": [
+        {
+          "meaning": "remove a drawing",
+          "word": "erase"
+        },
+        {
+          "meaning": "wipe out completely",
+          "word": "obliterate"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "draw a picture",
+        "draw a line",
+        "draw attention",
+        "draw money",
+        "draw up a plan"
+      ],
+      "common_mistake_correct": "draw (as in sketch) a picture",
+      "common_mistake_wrong": "draw (as in pull) a rope",
+      "definition_en": "To produce a picture or image by making lines on a surface with a pen, pencil, or similar tool.",
+      "example_bn": "তিনি অবসর সময়ে পোর্ট্রেট আঁকতে পছন্দ করেন।",
+      "example_en": "She likes to draw portraits in her free time.",
+      "memory_hook": "Think of a DRAWer that holds sketches.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He will draw a lot of money from the bank.",
+        "She will draw a portrait for the gallery.",
+        "They will draw the curtains before bedtime.",
+        "We need to draw a conclusion from the data."
+      ],
+      "quiz_question": "Which sentence uses \"draw\" in the sense of making a picture?",
+      "short_meaning_en": "sketch",
+      "synonyms": [
+        {
+          "meaning": "make a quick drawing",
+          "word": "sketch"
+        },
+        {
+          "meaning": "provide a picture",
+          "word": "illustrate"
+        },
+        {
+          "meaning": "make a preliminary drawing",
+          "word": "draft"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "drawing"
+        },
+        {
+          "type": "noun",
+          "word": "drawer"
+        },
+        {
+          "type": "adjective",
+          "word": "drawn"
+        }
+      ]
+    },
     "v-00833": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5251610836728d88da303ea338685ae7cc0df6e8d8e8f6626b6b1d087589ce1f",
@@ -3427,6 +3493,68 @@
         {
           "type": "noun",
           "word": "fifty‑five"
+        }
+      ]
+    },
+    "v-01067": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d40a13cc5dd4a5c6f26d50645ee99f025e55823e0324b1aef4201bd001e15df9",
+      "antonyms": [
+        {
+          "meaning": "misplace",
+          "word": "lose"
+        },
+        {
+          "meaning": "put in the wrong place",
+          "word": "misplace"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "find a solution",
+        "find out",
+        "find a place",
+        "find the truth",
+        "find missing items"
+      ],
+      "common_mistake_correct": "find (as in discover) a lost item",
+      "common_mistake_wrong": "find (as in locate) a new job",
+      "definition_en": "To locate or discover something that was previously unknown or lost.",
+      "example_bn": "আমি শেষমেশ সোফার নিচে আমার হারিয়ে যাওয়া চাবি পেয়েছি।",
+      "example_en": "I finally found my missing keys under the couch.",
+      "memory_hook": "You \"find\" a treasure map and then you locate the treasure.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She will find a new car next month.",
+        "He tried to find the hidden clue in the puzzle.",
+        "They will find the meeting at 5 PM.",
+        "We need to find the report on the desk."
+      ],
+      "quiz_question": "Which sentence shows the correct use of \"find\" meaning to discover?",
+      "short_meaning_en": "discover",
+      "synonyms": [
+        {
+          "meaning": "come upon",
+          "word": "discover"
+        },
+        {
+          "meaning": "identify the place of",
+          "word": "locate"
+        },
+        {
+          "meaning": "reveal",
+          "word": "uncover"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "finding"
+        },
+        {
+          "type": "noun",
+          "word": "finder"
         }
       ]
     },
@@ -6942,6 +7070,68 @@
         }
       ]
     },
+    "v-02174": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "af703a5d4a957da64fc87c1242365f66682198dcd7cf13999cf74d871c612b03",
+      "antonyms": [
+        {
+          "meaning": "fire",
+          "word": "dismiss"
+        },
+        {
+          "meaning": "terminate employment",
+          "word": "lay off"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "recruit staff",
+        "recruit volunteers",
+        "recruit soldiers",
+        "recruit talent",
+        "recruit for a position"
+      ],
+      "common_mistake_correct": "recruit (as a verb) to hire a new employee",
+      "common_mistake_wrong": "recruit (as a noun) a new employee",
+      "definition_en": "To hire or enlist someone for a job or position, especially in the military or an organization.",
+      "example_bn": "কোম্পানি আগামী মাসে নতুন ইঞ্জিনিয়ার নিয়োগ করবে।",
+      "example_en": "The company will recruit new engineers next month.",
+      "memory_hook": "Think of \"re‑cruit\" as \"again‑cruit\" – you bring someone in again.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The army will recruit new soldiers this year.",
+        "She is a recruit for the basketball team.",
+        "We need a recruit to finish the project.",
+        "He will recruit the new policy."
+      ],
+      "quiz_question": "Which sentence uses \"recruit\" correctly as a verb?",
+      "short_meaning_en": "hire",
+      "synonyms": [
+        {
+          "meaning": "sign up",
+          "word": "enlist"
+        },
+        {
+          "meaning": "take on",
+          "word": "hire"
+        },
+        {
+          "meaning": "employ",
+          "word": "engage"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "recruitment"
+        },
+        {
+          "type": "noun",
+          "word": "recruiter"
+        }
+      ]
+    },
     "v-02222": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b3ea9c795d80dc27a2cedbd2f3040e0c7734c373d80e7539090c96612dd6fa29",
@@ -7634,6 +7824,68 @@
         {
           "type": "noun",
           "word": "sexuality"
+        }
+      ]
+    },
+    "v-02384": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3ab673a8c763fa4f0e3668a17f216e5e752a3854e5b45a5983760427005dfb2b",
+      "antonyms": [
+        {
+          "meaning": "keep for oneself",
+          "word": "hoard"
+        },
+        {
+          "meaning": "refuse to give",
+          "word": "withhold"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "share a story",
+        "share information",
+        "share the cost",
+        "share a room",
+        "share responsibilities"
+      ],
+      "common_mistake_correct": "share (as a verb) to distribute a piece of cake",
+      "common_mistake_wrong": "share (as a noun) a piece of cake",
+      "definition_en": "To give a portion of something to others; to distribute or allocate among people.",
+      "example_bn": "আমরা পাঁচজনের মধ্যে কেকটি সমানভাবে ভাগ করি।",
+      "example_en": "We share the cake equally among the five of us.",
+      "memory_hook": "Think of \"share\" as a \"share\" of a pie you give to friends.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He will share his new car with his brother.",
+        "She will share the news with everyone.",
+        "They will share a new house together.",
+        "We need to share the budget for the project."
+      ],
+      "quiz_question": "Which sentence uses \"share\" correctly for distribution?",
+      "short_meaning_en": "distribute",
+      "synonyms": [
+        {
+          "meaning": "hand out",
+          "word": "distribute"
+        },
+        {
+          "meaning": "assign",
+          "word": "allocate"
+        },
+        {
+          "meaning": "split",
+          "word": "divide"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "shareholder"
+        },
+        {
+          "type": "noun",
+          "word": "sharing"
         }
       ]
     },
@@ -10378,6 +10630,59 @@
           "word": "blackberries"
         }
       ]
+    },
+    "v-04283": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9627cad7b1f2f119671048f89458f6c8e7c445cd92498bded9bedf471e836835",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "sweet cornear",
+        "fresh cornear",
+        "cornfield",
+        "corn harvest",
+        "corn cob"
+      ],
+      "common_mistake_correct": "cornear (as a noun) meaning corn",
+      "common_mistake_wrong": "cornear (as a verb) to draw",
+      "definition_en": "A type of corn, especially the variety used for making popcorn or as a staple grain.",
+      "example_bn": "কৃষকরা গত সপ্তাহে মাঠ থেকে ভুট্টা কাটেছেন।",
+      "example_en": "The farmers harvested cornear from the fields last week.",
+      "memory_hook": "Cornear sounds like \"corn ear\" – both are about corn.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She will cornear the picture on the wall.",
+        "The market sells fresh cornear every morning.",
+        "He will cornear the documents before the meeting.",
+        "We need to cornear the budget for the project."
+      ],
+      "quiz_question": "Which sentence correctly uses \"cornear\"?",
+      "short_meaning_en": "corn",
+      "synonyms": [
+        {
+          "meaning": "corn",
+          "word": "maize"
+        },
+        {
+          "meaning": "cereal seed",
+          "word": "grain"
+        },
+        {
+          "meaning": "ear of corn",
+          "word": "cob"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "cornmeal"
+        },
+        {
+          "type": "adjective",
+          "word": "corny"
+        }
+      ]
     }
   },
   "cycle": 1,
@@ -10678,6 +10983,14 @@
       "source_fingerprint": "f35efa17f267ea6c78a965481e14f4deb1a4782a7ef6072c594f49e0c02089e6",
       "status": "valid"
     },
+    "v-00827": {
+      "audited_at": "2026-10-23T07:01:58.615699+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "টানা, টাকা ওঠানো, অঙ্কন, আঁকতে",
+      "reason": "All provided Bangla senses correspond to valid meanings of the verb “draw”.",
+      "source_fingerprint": "8c1f9381ee5ac35b9d8d48bc19ce099fc60df89b0a36d5203d32a7f6239b35d5",
+      "status": "valid"
+    },
     "v-00833": {
       "audited_at": "2026-09-29T07:56:03.720100+00:00",
       "confidence": 0.99,
@@ -10773,6 +11086,14 @@
       "reason": "The meaning accurately translates the cardinal number 'fifty'.",
       "source_fingerprint": "25c47758fd91499a44b32619cda4a322f98125daf8a8cd906cea174431e7dd6e",
       "status": "valid"
+    },
+    "v-01067": {
+      "audited_at": "2026-10-23T07:01:58.615754+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "খুঁজে পাওয়া • খুঁজে বের করতে",
+      "reason": "The sense “চর্চা” does not belong to “find”; the remaining senses are correct, so the meaning is repaired.",
+      "source_fingerprint": "88dceac74901584fb1d42e25f405edecb22c7a500ec758038cb0e14cc632e1c4",
+      "status": "corrected"
     },
     "v-01101": {
       "audited_at": "2026-10-03T07:40:03.836902+00:00",
@@ -11174,6 +11495,14 @@
       "source_fingerprint": "990455e9e7d07c8a0c48463facf4af6a88cd9884ff7ed74871e315bc541beb31",
       "status": "corrected"
     },
+    "v-02174": {
+      "audited_at": "2026-10-23T07:01:58.827043+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "নিয়োগ করা",
+      "reason": "The provided meaning “উদ্ধার করা” is incorrect for “recruit”; the appropriate Bangla translation is “নিয়োগ করা”.",
+      "source_fingerprint": "18713824d51e1c36340f32142713ee2dbade8ee5e0954e2dc55b576c354e1624",
+      "status": "corrected"
+    },
     "v-02222": {
       "audited_at": "2026-10-11T08:20:56.006824+00:00",
       "confidence": 0.99,
@@ -11269,6 +11598,14 @@
       "reason": "Semantic verification unavailable; original source meaning retained",
       "source_fingerprint": "6ee5c9456edcdf0e31c5b63d50d512e1663a16a1a5b92fa366428030556eea34",
       "status": "uncertain"
+    },
+    "v-02384": {
+      "audited_at": "2026-10-23T07:01:58.615778+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "ভাগ, অংশ, বণ্টন, শরিকানা",
+      "reason": "All listed Bangla meanings accurately reflect senses of the noun/verb “share”.",
+      "source_fingerprint": "3ab673a8c763fa4f0e3668a17f216e5e752a3854e5b45a5983760427005dfb2b",
+      "status": "valid"
     },
     "v-02423": {
       "audited_at": "2026-09-26T12:40:01.633555+00:00",
@@ -11581,6 +11918,14 @@
       "reason": "The meaning correctly gives the fruit 'Blackberry'.",
       "source_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
       "status": "valid"
+    },
+    "v-04283": {
+      "audited_at": "2026-10-23T07:01:58.826991+00:00",
+      "confidence": 0.4,
+      "meaning_bn": "ভুট্টা",
+      "reason": "“Cornear” is not a recognized English headword; the supplied meaning may be unrelated, and the correct Bangla meaning cannot be determined with confidence.",
+      "source_fingerprint": "9627cad7b1f2f119671048f89458f6c8e7c445cd92498bded9bedf471e836835",
+      "status": "uncertain"
     }
   },
   "media_cache": {
@@ -11872,6 +12217,12 @@
       "photo_file_id": "AgACAgUAAxUHar4YUpZdE-6Sb-2hKk7t-4u1WZQAAtoTaxuXRvBVqp17q847zugBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00827": {
+      "audio_file_id": "CQACAgUAAxUHatsGaj03v2iY6h4OWumXNvVd5_sAAlElAAJQ2thWr4GtqLmB73Q9BA",
+      "cached_at": "2026-10-23T07:02:02.742589+00:00",
+      "photo_file_id": "AgACAgUAAxUHatsGar-8vzlPA7BHTqy6a6IyTQsAAocSaxtQ2thWlcWFgM-m9Z8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00833": {
       "audio_file_id": "CQACAgUAAxUHartvHc2xIK91VGARE67rMGxzowYAAsEgAAJT7NlVB3xZamFb-Ac9BA",
       "cached_at": "2026-09-29T07:56:13.889674+00:00",
@@ -11949,6 +12300,12 @@
       "cached_at": "2026-09-26T23:32:18.365316+00:00",
       "photo_file_id": "AgACAgUAAxUHarhWAX83d-Typ0djulZqMayRMn4AAvsTaxucC8lVSyOEdMHr_SIBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-01067": {
+      "audio_file_id": "CQACAgUAAxUHatsGbOcPYRwG3WVgxRjDGF1GnSMAAlIlAAJQ2thWt7AFy1mGGpw9BA",
+      "cached_at": "2026-10-23T07:02:05.092897+00:00",
+      "photo_file_id": "AgACAgUAAxUHatsGbKt2Egkwpb2ZZ_L0GebxqcwAAogSaxtQ2thWPVMjodfjl9ABAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01076": {
       "audio_file_id": "CQACAgUAAxUHarZZNwHQGYtYWJuUYNXmI-021vMAAsckAALpIbFVM-IBUsQCA889BA",
@@ -12318,6 +12675,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kTOXfgBTkFnyMQZ3bdOXtod4AAtMRaxuXRvhV8BBgl6R_YNABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02174": {
+      "audio_file_id": "CQACAgUAAxUHatsGcxGI_z8tyuhFD_QM64_-eQUAAlUlAAJQ2thWyJKLWKbTCRk9BA",
+      "cached_at": "2026-10-23T07:02:11.782385+00:00",
+      "photo_file_id": "AgACAgUAAxUHatsGc7IHTFLJ2sZ_FV9C-P8LIdMAAosSaxtQ2thWrUeq7pHa02gBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02222": {
       "audio_file_id": "CQACAgUAAxUHastG7zDUYvL9VC8qq2IqUvIfnEUAAhIkAALl0VlW74h_HS-beFY9BA",
       "cached_at": "2026-10-11T08:21:04.063625+00:00",
@@ -12388,6 +12751,12 @@
       "audio_file_id": "CQACAgUAAxUHaroime2fviNzY2zNYstE46FcXBYAAhMfAAJT7NFVhGRy3LbQpi09BA",
       "cached_at": "2026-09-28T08:17:29.905954+00:00",
       "photo_file_id": "AgACAgUAAxUHaroimY8Ic_JJioQJ4hRMjoZxOMQAAsESaxtT7NFV0RNT0WEPgusBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02384": {
+      "audio_file_id": "CQACAgUAAxUHatsGbvBB7HrCHbBJ4-hJx27WRjQAAlMlAAJQ2thWcAEtXITD9UQ9BA",
+      "cached_at": "2026-10-23T07:02:07.343195+00:00",
+      "photo_file_id": "AgACAgUAAxUHatsGbgat3Xye24BCdNvYS_BCikUAAokSaxtQ2thWGEyTzLDeKI0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02423": {
@@ -12688,6 +13057,12 @@
       "cached_at": "2026-10-12T08:42:21.206864+00:00",
       "photo_file_id": "AgACAgUAAxUHasydbJvel_qpmaeEzZDIm0rBDMIAAlwSaxs8CWFWer3HenAAATBwAQADAgADcwADPQQ",
       "version": "1.2.5"
+    },
+    "v-04283": {
+      "audio_file_id": "CQACAgUAAxUHatsGcaJeYzCKh_jhy-fIQm5LB8MAAlQlAAJQ2thW7G1K9jQe2Jc9BA",
+      "cached_at": "2026-10-23T07:02:09.525388+00:00",
+      "photo_file_id": "AgACAgUAAxUHatsGcS2-jQZTP90GlWKjOm0jkcMAAooSaxtQ2thWL6dRkcKr6SsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     }
   },
   "migrations": [],
@@ -12985,6 +13360,12 @@
       "last_message_id": 109,
       "published_at": "2026-10-01T08:22:42.965167+00:00"
     },
+    "v-00827": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 213,
+      "published_at": "2026-10-23T07:02:02.742618+00:00"
+    },
     "v-00833": {
       "count": 1,
       "last_cycle": 1,
@@ -13063,6 +13444,12 @@
       "last_cycle": 1,
       "last_message_id": 72,
       "published_at": "2026-09-26T23:32:18.365340+00:00"
+    },
+    "v-01067": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 214,
+      "published_at": "2026-10-23T07:02:05.092925+00:00"
     },
     "v-01076": {
       "count": 1,
@@ -13445,6 +13832,12 @@
       "last_message_id": 114,
       "published_at": "2026-10-02T07:59:08.912224+00:00"
     },
+    "v-02174": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 217,
+      "published_at": "2026-10-23T07:02:11.782411+00:00"
+    },
     "v-02222": {
       "count": 1,
       "last_cycle": 1,
@@ -13516,6 +13909,12 @@
       "last_cycle": 1,
       "last_message_id": 94,
       "published_at": "2026-09-28T08:17:29.905981+00:00"
+    },
+    "v-02384": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 215,
+      "published_at": "2026-10-23T07:02:07.343221+00:00"
     },
     "v-02423": {
       "count": 1,
@@ -13822,15 +14221,16 @@
       "last_cycle": 1,
       "last_message_id": 164,
       "published_at": "2026-10-12T08:42:21.206892+00:00"
+    },
+    "v-04283": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 216,
+      "published_at": "2026-10-23T07:02:09.525414+00:00"
     }
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00827",
-    "v-01067",
-    "v-02384",
-    "v-04283",
-    "v-02174",
     "v-01774",
     "v-01935",
     "v-01082",
@@ -17146,41 +17546,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260926T233205Z-0ac69d9c": {
-      "completed_at": "2026-09-26T23:32:18.372991+00:00",
-      "created_at": "2026-09-26T23:32:05.600988+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00408"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02806"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01512"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01562"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01055"
-        }
-      ],
-      "published_ids": [
-        "v-00408",
-        "v-02806",
-        "v-01512",
-        "v-01562",
-        "v-01055"
-      ],
-      "status": "completed"
-    },
     "20260926T235819Z-68cfebaf": {
       "completed_at": "2026-09-26T23:58:33.428170+00:00",
       "created_at": "2026-09-26T23:58:19.835118+00:00",
@@ -18200,6 +18565,41 @@
         "v-02696",
         "v-00847",
         "v-00297"
+      ],
+      "status": "completed"
+    },
+    "20261023T070158Z-c65ffdf6": {
+      "completed_at": "2026-10-23T07:02:11.798251+00:00",
+      "created_at": "2026-10-23T07:01:58.096768+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00827"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01067"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02384"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04283"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02174"
+        }
+      ],
+      "published_ids": [
+        "v-00827",
+        "v-01067",
+        "v-02384",
+        "v-04283",
+        "v-02174"
       ],
       "status": "completed"
     }
@@ -19642,6 +20042,43 @@
         "v-00297"
       ],
       "run_id": "20261022T071429Z-1cae51e9",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-23T07:02:11.798251+00:00",
+      "created_at": "2026-10-23T07:01:58.096768+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00827"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01067"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02384"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04283"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02174"
+        }
+      ],
+      "published_ids": [
+        "v-00827",
+        "v-01067",
+        "v-02384",
+        "v-04283",
+        "v-02174"
+      ],
+      "run_id": "20261023T070158Z-c65ffdf6",
       "status": "completed",
       "unknown_ids": []
     }
