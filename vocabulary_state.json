@@ -3609,6 +3609,60 @@
         }
       ]
     },
+    "v-01082": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "cda02e21675006b98d1ed959ca1204380750fa486ca156274cb404ac6e5719b9",
+      "antonyms": [
+        {
+          "meaning": "liquid that extinguishes fire",
+          "word": "water"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "flame of a candle",
+        "flame retardant",
+        "flame out",
+        "flame war",
+        "flame thrower"
+      ],
+      "common_mistake_correct": "flame",
+      "common_mistake_wrong": "flam",
+      "definition_en": "The visible part of a fire that is hot and bright.",
+      "example_bn": "বাতির শিখা বাতাসে নড়ছিল।",
+      "example_en": "The candle's flame flickered in the breeze.",
+      "memory_hook": "Flame sounds like \"flame\" – the same as the word itself.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "smoke",
+        "ash",
+        "flame",
+        "steam"
+      ],
+      "quiz_question": "Which word describes the bright part of a fire?",
+      "short_meaning_en": "fire tip",
+      "synonyms": [
+        {
+          "meaning": "a strong fire",
+          "word": "blaze"
+        },
+        {
+          "meaning": "combustion producing heat",
+          "word": "fire"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "flameproof"
+        },
+        {
+          "type": "adjective",
+          "word": "flameless"
+        }
+      ]
+    },
     "v-01101": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
@@ -6028,6 +6082,55 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-01774": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "adb21a52b9c6c54b4dd4cde28671bba65b7c714c7beb108c4d8bc95ad433fe23",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "runny nose",
+        "sharp nose",
+        "nosebleed",
+        "nose job",
+        "nose of the plane"
+      ],
+      "common_mistake_correct": "nose",
+      "common_mistake_wrong": "knows",
+      "definition_en": "The part of the face that contains the nostrils and is used for smelling.",
+      "example_bn": "সে টিস্যু দিয়ে তার নাক পরিষ্কার করল।",
+      "example_en": "She wiped her runny nose with a tissue.",
+      "memory_hook": "Think of saying \"no's\" with your nose when you refuse.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "ear",
+        "eye",
+        "nose",
+        "hand"
+      ],
+      "quiz_question": "Which word means the same as \"nose\"?",
+      "short_meaning_en": "facial feature",
+      "synonyms": [
+        {
+          "meaning": "the projecting part of an animal's face",
+          "word": "snout"
+        },
+        {
+          "meaning": "the opening of the nose",
+          "word": "nasal opening"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "nosy"
+        },
+        {
+          "type": "verb",
+          "word": "nosed"
+        }
+      ]
+    },
     "v-01812": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
@@ -6338,6 +6441,55 @@
       "short_meaning_en": "",
       "synonyms": [],
       "word_family": []
+    },
+    "v-01935": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "687ec6d23a2fa6bb3d4826c44d5ab3be0c044c55ffbf7b89ed82defcdbd36ecb",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "plastic bottle",
+        "plastic bag",
+        "plastic surgery",
+        "plastic waste",
+        "plastic wrap"
+      ],
+      "common_mistake_correct": "plastic",
+      "common_mistake_wrong": "plastics",
+      "definition_en": "A synthetic material that can be molded when soft and becomes hard when cooled.",
+      "example_bn": "বটলটি প্লাস্টিক দিয়ে তৈরি।",
+      "example_en": "The bottle is made of plastic.",
+      "memory_hook": "Plastic sounds like \"pli‑stic\" – something pliable.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "building houses",
+        "making bottles",
+        "growing plants",
+        "cooking food"
+      ],
+      "quiz_question": "What is a common use for plastic?",
+      "short_meaning_en": "synthetic material",
+      "synonyms": [
+        {
+          "meaning": "a large molecule made of repeating units",
+          "word": "polymer"
+        },
+        {
+          "meaning": "man‑made material",
+          "word": "synthetic"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "plasticity"
+        },
+        {
+          "type": "verb",
+          "word": "plasticize"
+        }
+      ]
     },
     "v-01940": {
       "_content_version": "1.2.4",
@@ -9724,6 +9876,56 @@
         }
       ]
     },
+    "v-03003": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "522bb38b1a71984b7e8cc184f4425dbffe1d71b6407fddf674c5ec1b4287b5d1",
+      "antonyms": [
+        {
+          "meaning": "the present day",
+          "word": "today"
+        },
+        {
+          "meaning": "the day after today",
+          "word": "tomorrow"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "yesterday evening",
+        "yesterday morning",
+        "yesterday night",
+        "yesterday's news",
+        "yesterday's weather"
+      ],
+      "common_mistake_correct": "yesterday",
+      "common_mistake_wrong": "yester day",
+      "definition_en": "The day that came before today.",
+      "example_bn": "গতকাল আমি আমার দাদু‑দাদীর বাড়ি গিয়েছিলাম।",
+      "example_en": "Yesterday I visited my grandparents.",
+      "memory_hook": "Yes‑ter‑day sounds like \"yes, there day\" – the day that was there before.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "tomorrow",
+        "today",
+        "the day before today",
+        "next week"
+      ],
+      "quiz_question": "What does \"yesterday\" refer to?",
+      "short_meaning_en": "previous day",
+      "synonyms": [
+        {
+          "meaning": "the day preceding today",
+          "word": "the day before"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "determiner",
+          "word": "yesterday's"
+        }
+      ]
+    },
     "v-03225": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -10586,6 +10788,47 @@
         }
       ]
     },
+    "v-04246": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8f0e4e69bd8264cd2944f5eb913998111b50251c800a788f51d4dae1ea1e747e",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "ripe mango",
+        "mango juice",
+        "mango tree",
+        "mango smoothie",
+        "mango flavor"
+      ],
+      "common_mistake_correct": "mango",
+      "common_mistake_wrong": "mangoes",
+      "definition_en": "A sweet, juicy tropical fruit with a large seed in the center.",
+      "example_bn": "আমি গ্রীষ্মে পাকা আম খেতে ভালোবাসি।",
+      "example_en": "I love eating ripe mango in summer.",
+      "memory_hook": "Man‑go: imagine a man going to pick a mango.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "apple",
+        "banana",
+        "mango",
+        "grape"
+      ],
+      "quiz_question": "Which of these is a mango?",
+      "short_meaning_en": "fruit",
+      "synonyms": [
+        {
+          "meaning": "fruit grown in warm climates",
+          "word": "tropical fruit"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "plural noun",
+          "word": "mangoes"
+        }
+      ]
+    },
     "v-04267": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
@@ -11095,6 +11338,14 @@
       "source_fingerprint": "88dceac74901584fb1d42e25f405edecb22c7a500ec758038cb0e14cc632e1c4",
       "status": "corrected"
     },
+    "v-01082": {
+      "audited_at": "2026-10-24T06:54:25.619150+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "আগুনের শিখা",
+      "reason": "The Bangla meaning accurately corresponds to the English word 'flame'.",
+      "source_fingerprint": "cda02e21675006b98d1ed959ca1204380750fa486ca156274cb404ac6e5719b9",
+      "status": "valid"
+    },
     "v-01101": {
       "audited_at": "2026-10-03T07:40:03.836902+00:00",
       "confidence": 0.95,
@@ -11375,6 +11626,14 @@
       "source_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
       "status": "valid"
     },
+    "v-01774": {
+      "audited_at": "2026-10-24T06:54:25.619070+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "নাক, নাসিকা",
+      "reason": "The Bangla meaning accurately matches the English headword 'nose'.",
+      "source_fingerprint": "adb21a52b9c6c54b4dd4cde28671bba65b7c714c7beb108c4d8bc95ad433fe23",
+      "status": "valid"
+    },
     "v-01812": {
       "audited_at": "2026-10-08T08:28:35.596935+00:00",
       "confidence": 0.98,
@@ -11397,6 +11656,14 @@
       "meaning_bn": "পিয়ানো, বাদ্য যন্ত্রবিশেষ",
       "reason": "The provided Bengali meaning accurately reflects the English word 'piano' as a musical instrument.",
       "source_fingerprint": "4e169599fc2764ede7959ba1115ba7cd60cb0644e83f1d3fa856ec5c138b46d4",
+      "status": "valid"
+    },
+    "v-01935": {
+      "audited_at": "2026-10-24T06:54:25.619119+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "নমনীয়, প্লাস্টিক",
+      "reason": "The Bangla meaning correctly reflects the senses of the English word 'plastic'.",
+      "source_fingerprint": "687ec6d23a2fa6bb3d4826c44d5ab3be0c044c55ffbf7b89ed82defcdbd36ecb",
       "status": "valid"
     },
     "v-01940": {
@@ -11823,6 +12090,14 @@
       "source_fingerprint": "9e72cfae3703e3e62751cbd701ba1855532207edcff082b72f6b9b01e5d26745",
       "status": "valid"
     },
+    "v-03003": {
+      "audited_at": "2026-10-24T06:54:25.619200+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "গতকাল, গত দিবস",
+      "reason": "The Bangla meaning accurately matches the English word 'yesterday'.",
+      "source_fingerprint": "522bb38b1a71984b7e8cc184f4425dbffe1d71b6407fddf674c5ec1b4287b5d1",
+      "status": "valid"
+    },
     "v-03307": {
       "audited_at": "2026-10-19T07:22:34.074638+00:00",
       "confidence": 0.99,
@@ -11910,6 +12185,14 @@
       "reason": "The supplied meaning 'প্লাস' is unrelated; the correct Bangla meaning for 'Pliers' is 'প্লায়ার' or 'চিমটি'.",
       "source_fingerprint": "b6e982d220450069edd4509fb3f915d367daea090d9cb7c4b744f16e49c28f7d",
       "status": "corrected"
+    },
+    "v-04246": {
+      "audited_at": "2026-10-24T06:54:25.619174+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "আম",
+      "reason": "The Bangla meaning correctly translates the English word 'Mango'.",
+      "source_fingerprint": "8f0e4e69bd8264cd2944f5eb913998111b50251c800a788f51d4dae1ea1e747e",
+      "status": "valid"
     },
     "v-04267": {
       "audited_at": "2026-10-12T08:42:06.679281+00:00",
@@ -12312,6 +12595,12 @@
       "cached_at": "2026-09-25T11:21:28.101665+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZN9xKshMf1vR_Vg-ux8v3HvgAAlwRaxvpIbFVrzXitNgjQNMBAAMCAANzAAM9BA"
     },
+    "v-01082": {
+      "audio_file_id": "CQACAgUAAxUHatxWKFKgZDctGzTBu8oSJ0OHoZ8AAj0hAAL30eBWX0bGbjyvE5g9BA",
+      "cached_at": "2026-10-24T06:54:33.669173+00:00",
+      "photo_file_id": "AgACAgUAAxUHatxWKTcDS2BsGp9YATxTZ27aERwAAqARaxv30eBWy_u_Tuhi5z8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01101": {
       "audio_file_id": "CQACAgUAAxUHasCxa4y9aq_8hqPh8u9nwB77v4MAAsgiAAKvhgFWQZUcV54rRGY9BA",
       "cached_at": "2026-10-03T07:40:27.539005+00:00",
@@ -12561,6 +12850,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradlBupFASnWeVyop7z_fCHvLIAAhofAALpIblVeR3lotUcfws9BA"
     },
+    "v-01774": {
+      "audio_file_id": "CQACAgUAAxUHatxWJPyKQdLRY0h4tpA-VPDlrpUAAjshAAL30eBWqi1X1XmTLUQ9BA",
+      "cached_at": "2026-10-24T06:54:29.321397+00:00",
+      "photo_file_id": "AgACAgUAAxUHatxWJAE3wlrAe7msRoNNgKOOzkcAAp4Raxv30eBWtYBLf7m7yUQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01812": {
       "audio_file_id": "CQACAgUAAxUHasdUOeX86LlTN0YNMZD0-0XRT4sAAkEmAAKIuzlWqcWFrCHaUP89BA",
       "cached_at": "2026-10-08T08:28:41.819724+00:00",
@@ -12596,6 +12891,12 @@
       "photo_file_id": "AgACAgUAAxUHarZ_PHEAAa_tv6Y8gRSUvrIjn3m7AAIlEWsb6SG5VYcm9HI-ZIKlAQADAgADcwADPQQ",
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PNAH31lX692h0FlVinDwhF8AAtIeAALpIblVgi7t3bJUBek9BA"
+    },
+    "v-01935": {
+      "audio_file_id": "CQACAgUAAxUHatxWJshrDZ2_jf41P7ves6YkDfoAAjwhAAL30eBWWSqnT2Y9-3Q9BA",
+      "cached_at": "2026-10-24T06:54:31.458837+00:00",
+      "photo_file_id": "AgACAgUAAxUHatxWJ94S1MjkeX8oiPT9l9puiJkAAp8Raxv30eBWd535P6p5goABAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01940": {
       "audio_file_id": "CQACAgUAAxUHartvGsR2nsJ9M6ZW0Bv1gJKGnBQAAsAgAAJT7NlVaLH0IjUXGoo9BA",
@@ -12950,6 +13251,12 @@
       "photo_file_id": "AgACAgUAAxUHasimoregWbcUXVxL9mzEuKjPYB4AApQYaxvvcUlWxHRzTr78sNMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03003": {
+      "audio_file_id": "CQACAgUAAxUHatxWLHyR9ioWW-jsPAPE_rVFulwAAj8hAAL30eBW8vhlMPq_pi49BA",
+      "cached_at": "2026-10-24T06:54:37.857704+00:00",
+      "photo_file_id": "AgACAgUAAxUHatxWLe-WvQNbKLAjAAEBbTfAo5MLAAKiEWsb99HgVrqh11HiGuf2AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-03225": {
       "cached_at": "2026-09-25T16:13:16.117878+00:00",
       "photo_file_id": "AgACAgUAAxUHaradm90Ww0tiAkDb8tb3TBGy6GgAAlwRaxvpIblVO2ZwFUS3r8oBAAMCAANzAAM9BA",
@@ -13051,6 +13358,12 @@
       "photo_file_id": "AgACAgUAAxUHaralFpFNvQHv2lVANrXxR3ePKOMAAoIRaxvpIblV4ZD9H-0W9WkBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralFjpKiCug0Suo0T_FaFLqzEkAAiYfAALpIblVRCAX6mf9FJs9BA"
+    },
+    "v-04246": {
+      "audio_file_id": "CQACAgUAAxUHatxWK68WEt2TdJTXIh0UrhgVKkAAAj4hAAL30eBW4oRTWjEjR-Q9BA",
+      "cached_at": "2026-10-24T06:54:35.611142+00:00",
+      "photo_file_id": "AgACAgUAAxUHatxWKzWHx5XPIKTDo8KnHID7uWMAAqERaxv30eBWoUm5q1Oa-YUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-04267": {
       "audio_file_id": "CQACAgUAAxUHasydbMghM8l8jFLZ-4qQhAuWv6AAAmEjAAI8CWFW1v9GYFleLb49BA",
@@ -13458,6 +13771,12 @@
       "published_at": "2026-09-25T11:21:28.101708+00:00",
       "quiz_message_id": 13
     },
+    "v-01082": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 220,
+      "published_at": "2026-10-24T06:54:33.669199+00:00"
+    },
     "v-01101": {
       "count": 1,
       "last_cycle": 1,
@@ -13717,6 +14036,12 @@
       "published_at": "2026-09-25T16:13:08.961108+00:00",
       "quiz_message_id": 46
     },
+    "v-01774": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 218,
+      "published_at": "2026-10-24T06:54:29.321422+00:00"
+    },
     "v-01812": {
       "count": 1,
       "last_cycle": 1,
@@ -13753,6 +14078,12 @@
       "last_cycle": 1,
       "last_message_id": 30,
       "published_at": "2026-09-25T14:03:41.448689+00:00"
+    },
+    "v-01935": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 219,
+      "published_at": "2026-10-24T06:54:31.458863+00:00"
     },
     "v-01940": {
       "count": 1,
@@ -14111,6 +14442,12 @@
       "last_message_id": 149,
       "published_at": "2026-10-09T08:32:34.636749+00:00"
     },
+    "v-03003": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 222,
+      "published_at": "2026-10-24T06:54:37.857727+00:00"
+    },
     "v-03225": {
       "count": 1,
       "last_cycle": 1,
@@ -14216,6 +14553,12 @@
       "last_message_id": 53,
       "published_at": "2026-09-25T16:45:11.040092+00:00"
     },
+    "v-04246": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 221,
+      "published_at": "2026-10-24T06:54:35.611163+00:00"
+    },
     "v-04267": {
       "count": 1,
       "last_cycle": 1,
@@ -14231,11 +14574,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01774",
-    "v-01935",
-    "v-01082",
-    "v-04246",
-    "v-03003",
     "v-02764",
     "v-04279",
     "v-01106",
@@ -17546,41 +17884,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260926T235819Z-68cfebaf": {
-      "completed_at": "2026-09-26T23:58:33.428170+00:00",
-      "created_at": "2026-09-26T23:58:19.835118+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01539"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01552"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02336"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00414"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00426"
-        }
-      ],
-      "published_ids": [
-        "v-01539",
-        "v-01552",
-        "v-02336",
-        "v-00414",
-        "v-00426"
-      ],
-      "status": "completed"
-    },
     "20260927T003549Z-82e95dd0": {
       "completed_at": "2026-09-27T00:36:01.634755+00:00",
       "created_at": "2026-09-27T00:35:49.746299+00:00",
@@ -18600,6 +18903,41 @@
         "v-02384",
         "v-04283",
         "v-02174"
+      ],
+      "status": "completed"
+    },
+    "20261024T065425Z-156dab0e": {
+      "completed_at": "2026-10-24T06:54:37.883709+00:00",
+      "created_at": "2026-10-24T06:54:25.264300+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01774"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01935"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01082"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04246"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03003"
+        }
+      ],
+      "published_ids": [
+        "v-01774",
+        "v-01935",
+        "v-01082",
+        "v-04246",
+        "v-03003"
       ],
       "status": "completed"
     }
@@ -20079,6 +20417,43 @@
         "v-02174"
       ],
       "run_id": "20261023T070158Z-c65ffdf6",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-24T06:54:37.883709+00:00",
+      "created_at": "2026-10-24T06:54:25.264300+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01774"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01935"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01082"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04246"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03003"
+        }
+      ],
+      "published_ids": [
+        "v-01774",
+        "v-01935",
+        "v-01082",
+        "v-04246",
+        "v-03003"
+      ],
+      "run_id": "20261024T065425Z-156dab0e",
       "status": "completed",
       "unknown_ids": []
     }
