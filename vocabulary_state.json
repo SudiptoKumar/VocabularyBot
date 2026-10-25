@@ -2044,6 +2044,68 @@
         }
       ]
     },
+    "v-00640": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ef093aa82711d2d052fc2abb25ddbef5854344cd1f966cecdfa536d9e7464282",
+      "antonyms": [
+        {
+          "meaning": "to reveal",
+          "word": "expose"
+        },
+        {
+          "meaning": "to remove a cover",
+          "word": "uncover"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "cover the table",
+        "cover a story",
+        "cover your head",
+        "cover the costs",
+        "cover up"
+      ],
+      "common_mistake_correct": "\"Cover\" means to place a lid or hide; \"protect\" emphasizes safety.",
+      "common_mistake_wrong": "Using \"cover\" when \"protect\" is intended in the sense of guarding from danger",
+      "definition_en": "To place something over or on top of something else so that it hides or protects it.",
+      "example_bn": "সুপ গরম রাখতে তিনি পাত্রটি ঢাকনা দিয়ে ঢাকলেন।",
+      "example_en": "She covered the pot with a lid to keep the soup warm.",
+      "memory_hook": "You \"cover\" something by putting a cover over it, like a blanket over a bed.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to heat it",
+        "to hide it",
+        "to clean it",
+        "to break it"
+      ],
+      "quiz_question": "What does it mean to \"cover\" a pot with a lid?",
+      "short_meaning_en": "hide",
+      "synonyms": [
+        {
+          "meaning": "to keep out of sight",
+          "word": "conceal"
+        },
+        {
+          "meaning": "to hide the appearance",
+          "word": "mask"
+        },
+        {
+          "meaning": "to keep safe from harm",
+          "word": "protect"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "coverage"
+        },
+        {
+          "type": "noun",
+          "word": "covering"
+        }
+      ]
+    },
     "v-00656": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "bcddeaac2fd60bb12c14deec28ba2c2a4caef858354b53de51c189c76bd2f731",
@@ -3721,6 +3783,72 @@
         {
           "type": "verb",
           "word": "forced"
+        }
+      ]
+    },
+    "v-01106": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6766af7c093cb428d4af879ba2f25c7548d761811e57c4a3c1cd3e19c66c9bc6",
+      "antonyms": [
+        {
+          "meaning": "lack of order",
+          "word": "chaos"
+        },
+        {
+          "meaning": "absence of structure",
+          "word": "disorder"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "fill out a form",
+        "form a committee",
+        "in good form",
+        "form of government",
+        "form an opinion"
+      ],
+      "common_mistake_correct": "Use \"format\" for layout and \"form\" for shape or document.",
+      "common_mistake_wrong": "Using \"form\" when \"format\" is needed (e.g., \"the form of the document\")",
+      "definition_en": "The shape or structure of something; the way it is arranged.",
+      "example_bn": "অনুগ্রহ করে ফর্মটি বড় অক্ষরে পূরণ করুন।",
+      "example_en": "Please fill out the form in block letters.",
+      "memory_hook": "\"Form\" sounds like \"from\" – think of something coming from a certain shape.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "format",
+        "form",
+        "function",
+        "figure"
+      ],
+      "quiz_question": "Which word means \"shape or structure\"?",
+      "short_meaning_en": "shape",
+      "synonyms": [
+        {
+          "meaning": "the external form of an object",
+          "word": "shape"
+        },
+        {
+          "meaning": "the arrangement of parts",
+          "word": "structure"
+        },
+        {
+          "meaning": "the layout or arrangement",
+          "word": "format"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "formulate"
+        },
+        {
+          "type": "noun",
+          "word": "formation"
+        },
+        {
+          "type": "adjective",
+          "word": "formative"
         }
       ]
     },
@@ -8959,6 +9087,68 @@
         }
       ]
     },
+    "v-02764": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d199e88fe104cddf1d33aa5b6629a74a772b23801caa872cad0cb5c878a6c18c",
+      "antonyms": [
+        {
+          "meaning": "new method or idea",
+          "word": "innovation"
+        },
+        {
+          "meaning": "the act of becoming different",
+          "word": "change"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "family tradition",
+        "cultural tradition",
+        "old tradition",
+        "maintain tradition",
+        "break with tradition"
+      ],
+      "common_mistake_correct": "\"Tradition\" is a noun; the verb form is \"to tradition\" does not exist.",
+      "common_mistake_wrong": "Using \"tradition\" as a verb (e.g., \"to tradition\")",
+      "definition_en": "A custom or practice that is passed down through generations.",
+      "example_bn": "আমার পরিবার রবিবারে একসাথে খাবার খাওয়ার ঐতিহ্য বজায় রাখে।",
+      "example_en": "My family keeps the tradition of eating together on Sundays.",
+      "memory_hook": "Think of \"trad\" like a trade that is passed down – a tradition is a passed‑down trade.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "innovation",
+        "tradition",
+        "transition",
+        "technology"
+      ],
+      "quiz_question": "Which word best matches the meaning \"custom passed down through generations\"?",
+      "short_meaning_en": "custom",
+      "synonyms": [
+        {
+          "meaning": "a usual way of behaving",
+          "word": "custom"
+        },
+        {
+          "meaning": "something inherited from the past",
+          "word": "heritage"
+        },
+        {
+          "meaning": "something handed down",
+          "word": "legacy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "traditional"
+        },
+        {
+          "type": "adverb",
+          "word": "traditionally"
+        }
+      ]
+    },
     "v-02776": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -10643,6 +10833,68 @@
         }
       ]
     },
+    "v-03907": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8490408efbc3eea66938168180b9b007cf7f03fb923fdf2d9d1669e0398133b9",
+      "antonyms": [
+        {
+          "meaning": "a member of the audience",
+          "word": "congregant"
+        },
+        {
+          "meaning": "someone who hears",
+          "word": "listener"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "firebrand preacher",
+        "preacher's sermon",
+        "young preacher",
+        "preacher at church",
+        "preacher's wife"
+      ],
+      "common_mistake_correct": "A preacher delivers sermons; a teacher instructs in a classroom.",
+      "common_mistake_wrong": "Calling a preacher a \"teacher\" in a religious context",
+      "definition_en": "A person who delivers religious sermons or teachings, especially in a church.",
+      "example_bn": "প্রচারক দয়ালুতার বিষয়ে উত্সাহের সঙ্গে কথা বললেন।",
+      "example_en": "The preacher spoke passionately about compassion.",
+      "memory_hook": "Add \"-er\" to \"preach\" – the person who preaches is a preacher.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "teacher",
+        "preacher",
+        "baker",
+        "engineer"
+      ],
+      "quiz_question": "Who is a person that delivers sermons in a church?",
+      "short_meaning_en": "minister",
+      "synonyms": [
+        {
+          "meaning": "a religious leader",
+          "word": "minister"
+        },
+        {
+          "meaning": "one who spreads a religious message",
+          "word": "evangelist"
+        },
+        {
+          "meaning": "a member of the clergy",
+          "word": "clergyman"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "preach"
+        },
+        {
+          "type": "noun",
+          "word": "preaching"
+        }
+      ]
+    },
     "v-03983": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
@@ -10871,6 +11123,51 @@
         {
           "type": "noun",
           "word": "blackberries"
+        }
+      ]
+    },
+    "v-04279": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "12b9bb4d3241507852ed159dd1aa97d5c64dccbfafb4a85101be9a05cede25e6",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "roasted cauliflower",
+        "cauliflower rice",
+        "cauliflower soup",
+        "steamed cauliflower",
+        "cauliflower florets"
+      ],
+      "common_mistake_correct": "Cauliflower is a distinct vegetable with a flower‑like head, not the same as cabbage.",
+      "common_mistake_wrong": "Confusing cauliflower with cabbage",
+      "definition_en": "A white, cauliflower‑shaped vegetable belonging to the cabbage family.",
+      "example_bn": "তিনি রাতের খাবারের জন্য সুস্বাদু রোস্টেড ফুলকপি তৈরি করেছেন।",
+      "example_en": "She made a tasty roasted cauliflower dish for dinner.",
+      "memory_hook": "\"Cauli\" sounds like \"call you\" – imagine calling someone a flower: cauliflower.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "broccoli",
+        "cauliflower",
+        "spinach",
+        "carrot"
+      ],
+      "quiz_question": "Which of these is a white vegetable with a flower‑like head?",
+      "short_meaning_en": "vegetable",
+      "synonyms": [
+        {
+          "meaning": "a similar green vegetable",
+          "word": "broccoli"
+        },
+        {
+          "meaning": "a related leafy vegetable",
+          "word": "cabbage"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "possessive",
+          "word": "cauliflower's"
         }
       ]
     },
@@ -11162,6 +11459,14 @@
       "source_fingerprint": "b95252e27116b1cb7da78eda37ff43eb610532c4ebba8add1460e49395b6c5bf",
       "status": "valid"
     },
+    "v-00640": {
+      "audited_at": "2026-10-25T07:19:03.016016+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "আবৃত করা, ঢাকতে, গোপন করা",
+      "reason": "The phrase 'আবৃত্ত করতে' is incorrect for the verb 'cover'; the proper meanings are 'আবৃত করা', 'ঢাকতে', and 'গোপন করা'.",
+      "source_fingerprint": "1d2fe0ed7708b6af9a7f9bacd1f25f8a8c4d9f449617c10084e0294336cb214e",
+      "status": "corrected"
+    },
     "v-00656": {
       "audited_at": "2026-10-20T07:13:32.286737+00:00",
       "confidence": 0.99,
@@ -11352,6 +11657,14 @@
       "meaning_bn": "সশস্ত্রবাহিনী, জোর করতে",
       "reason": "Both senses—military force and the verb 'to force'—are accurately represented in Bangla.",
       "source_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
+      "status": "valid"
+    },
+    "v-01106": {
+      "audited_at": "2026-10-25T07:19:03.015934+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ফর্ম, গঠন, আকার",
+      "reason": "The Bangla meanings correspond to the English noun 'form'.",
+      "source_fingerprint": "6766af7c093cb428d4af879ba2f25c7548d761811e57c4a3c1cd3e19c66c9bc6",
       "status": "valid"
     },
     "v-01142": {
@@ -11994,6 +12307,14 @@
       "source_fingerprint": "abd700c9641bec8142352130709d324072a73f6e9941abc4d0fa93e028932a23",
       "status": "valid"
     },
+    "v-02764": {
+      "audited_at": "2026-10-25T07:19:03.015853+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ঐতিহ্য, পুরুষানুকূলিক প্রথা",
+      "reason": "The supplied Bangla meaning accurately reflects the English word 'tradition'.",
+      "source_fingerprint": "d199e88fe104cddf1d33aa5b6629a74a772b23801caa872cad0cb5c878a6c18c",
+      "status": "valid"
+    },
     "v-02784": {
       "audited_at": "2026-10-21T07:08:01.699603+00:00",
       "confidence": 0.99,
@@ -12170,6 +12491,14 @@
       "source_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
       "status": "valid"
     },
+    "v-03907": {
+      "audited_at": "2026-10-25T07:19:03.015964+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "প্রচারক, ধর্মোপদেশক",
+      "reason": "The term 'বাযক' is a typo/mis‑translation; the correct Bangla meanings for 'Preacher' are 'প্রচারক' and 'ধর্মোপদেশক'.",
+      "source_fingerprint": "cfa9fbbf86c66557feac333698d21b613b0852defaa471e9fe4c60cf29c96eb5",
+      "status": "corrected"
+    },
     "v-03983": {
       "audited_at": "2026-10-08T08:28:35.596964+00:00",
       "confidence": 0.99,
@@ -12200,6 +12529,14 @@
       "meaning_bn": "জাম",
       "reason": "The meaning correctly gives the fruit 'Blackberry'.",
       "source_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
+      "status": "valid"
+    },
+    "v-04279": {
+      "audited_at": "2026-10-25T07:19:03.015906+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ফুলকপি",
+      "reason": "The meaning correctly translates the vegetable 'Cauliflower'.",
+      "source_fingerprint": "12b9bb4d3241507852ed159dd1aa97d5c64dccbfafb4a85101be9a05cede25e6",
       "status": "valid"
     },
     "v-04283": {
@@ -12434,6 +12771,12 @@
       "photo_file_id": "AgACAgUAAxUHathk2dBG7EObQMumFimm1NXRaRAAAqUcaxu63MBWvLWugUDUchsBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00640": {
+      "audio_file_id": "CQACAgUAAxUHat2tdC_BUse7HFoFf_Dj3lHMxHYAAkQhAAL30ehWd_5VFKfs82k9BA",
+      "cached_at": "2026-10-25T07:19:17.319409+00:00",
+      "photo_file_id": "AgACAgUAAxUHat2tdOck79XAhg2O_CAGemceivEAAgcRaxv30ehWLy0rBgn98hwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00656": {
       "audio_file_id": "CQACAgUAAxUHatcUqTRUZ8TyT0tdXyh5RpqSmKwAAgElAAJmmLlWqnPWTJXPNg49BA",
       "cached_at": "2026-10-20T07:13:46.394578+00:00",
@@ -12605,6 +12948,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxa4y9aq_8hqPh8u9nwB77v4MAAsgiAAKvhgFWQZUcV54rRGY9BA",
       "cached_at": "2026-10-03T07:40:27.539005+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxa1-NxC-uMIzlqCgPc4rrXkEAAqgSaxuvhgFWfU360voU4VIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01106": {
+      "audio_file_id": "CQACAgUAAxUHat2tcNxns1fERRsDBcKNS-GXYMsAAkIhAAL30ehWQhH1EJl5AAF3PQQ",
+      "cached_at": "2026-10-25T07:19:12.516495+00:00",
+      "photo_file_id": "AgACAgUAAxUHat2tb9R-nASp3AkamIuwA2gJRfwAAgURaxv30ehWmGVLr4rD7I4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01142": {
@@ -13156,6 +13505,12 @@
       "photo_file_id": "AgACAgUAAxUHatB6TiM3Q5uxFfeJmM36aAqs3oIAAlITaxvrMoFWG82DinGRb68BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02764": {
+      "audio_file_id": "CQACAgUAAxUHat2tatWKZ9j3_sIb8ie7AhLQAScAAkAhAAL30ehWSXgRpNaQcss9BA",
+      "cached_at": "2026-10-25T07:19:07.323673+00:00",
+      "photo_file_id": "AgACAgUAAxUHat2tah6RaAuAI5aDyc1g4Pd9o_8AAgMRaxv30ehWxcfo8DOaya8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02776": {
       "cached_at": "2026-09-26T07:07:19.472187+00:00",
       "photo_file_id": "AgACAgUAAxUHardvJ5YOOxsLeANVNcuuu-cbED4AAuERaxvpIcFV8i4M8l2QfIoBAAMCAANzAAM9BA",
@@ -13341,6 +13696,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoXbbhr4E9TvjrGmRso1p6TnUAAhUUaxucC8lVuEaXaKTS5mcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03907": {
+      "audio_file_id": "CQACAgUAAxUHat2tct22eOvmsXhopPDOn-4b4ZYAAkMhAAL30ehWKQ0yDhxnpkE9BA",
+      "cached_at": "2026-10-25T07:19:14.917447+00:00",
+      "photo_file_id": "AgACAgUAAxUHat2tcmxqs4BRfAjGcpC2xN49DGgAAgYRaxv30ehWMWZ5fB23KBsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03983": {
       "audio_file_id": "CQACAgUAAxUHasdUO82MuhOSsuYyA0BLNNft2fMAAkImAAKIuzlWLmbw1wskPs49BA",
       "cached_at": "2026-10-08T08:28:44.010850+00:00",
@@ -13369,6 +13730,12 @@
       "audio_file_id": "CQACAgUAAxUHasydbMghM8l8jFLZ-4qQhAuWv6AAAmEjAAI8CWFW1v9GYFleLb49BA",
       "cached_at": "2026-10-12T08:42:21.206864+00:00",
       "photo_file_id": "AgACAgUAAxUHasydbJvel_qpmaeEzZDIm0rBDMIAAlwSaxs8CWFWer3HenAAATBwAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-04279": {
+      "audio_file_id": "CQACAgUAAxUHat2tbcTG_5x6MLuz7Ar58gJ8yTgAAkEhAAL30ehWXQABDc76bG4gPQQ",
+      "cached_at": "2026-10-25T07:19:10.103069+00:00",
+      "photo_file_id": "AgACAgUAAxUHat2tbdKPlnkcodnHuilsSEv62fkAAgQRaxv30ehWZuIZ-bLHlW8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-04283": {
@@ -13605,6 +13972,12 @@
       "last_message_id": 204,
       "published_at": "2026-10-21T07:08:09.570149+00:00"
     },
+    "v-00640": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 227,
+      "published_at": "2026-10-25T07:19:17.319437+00:00"
+    },
     "v-00656": {
       "count": 1,
       "last_cycle": 1,
@@ -13782,6 +14155,12 @@
       "last_cycle": 1,
       "last_message_id": 122,
       "published_at": "2026-10-03T07:40:27.539031+00:00"
+    },
+    "v-01106": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 225,
+      "published_at": "2026-10-25T07:19:12.516523+00:00"
     },
     "v-01142": {
       "count": 1,
@@ -14343,6 +14722,12 @@
       "last_message_id": 180,
       "published_at": "2026-10-15T07:01:34.707009+00:00"
     },
+    "v-02764": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 223,
+      "published_at": "2026-10-25T07:19:07.323705+00:00"
+    },
     "v-02776": {
       "count": 1,
       "last_cycle": 1,
@@ -14535,6 +14920,12 @@
       "last_message_id": 83,
       "published_at": "2026-09-27T00:50:38.337540+00:00"
     },
+    "v-03907": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 226,
+      "published_at": "2026-10-25T07:19:14.917475+00:00"
+    },
     "v-03983": {
       "count": 1,
       "last_cycle": 1,
@@ -14565,6 +14956,12 @@
       "last_message_id": 164,
       "published_at": "2026-10-12T08:42:21.206892+00:00"
     },
+    "v-04279": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 224,
+      "published_at": "2026-10-25T07:19:10.103101+00:00"
+    },
     "v-04283": {
       "count": 1,
       "last_cycle": 1,
@@ -14574,11 +14971,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02764",
-    "v-04279",
-    "v-01106",
-    "v-03907",
-    "v-00640",
     "v-01439",
     "v-02328",
     "v-01939",
@@ -17884,41 +18276,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260927T003549Z-82e95dd0": {
-      "completed_at": "2026-09-27T00:36:01.634755+00:00",
-      "created_at": "2026-09-27T00:35:49.746299+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01694"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02370"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00897"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00483"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00762"
-        }
-      ],
-      "published_ids": [
-        "v-01694",
-        "v-02370",
-        "v-00897",
-        "v-00483",
-        "v-00762"
-      ],
-      "status": "completed"
-    },
     "20260927T005033Z-4ec9b2fd": {
       "completed_at": "2026-09-27T00:50:47.338400+00:00",
       "created_at": "2026-09-27T00:50:33.721374+00:00",
@@ -18938,6 +19295,41 @@
         "v-01082",
         "v-04246",
         "v-03003"
+      ],
+      "status": "completed"
+    },
+    "20261025T071902Z-15ac6eea": {
+      "completed_at": "2026-10-25T07:19:17.350855+00:00",
+      "created_at": "2026-10-25T07:19:02.487124+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04279"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01106"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03907"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00640"
+        }
+      ],
+      "published_ids": [
+        "v-02764",
+        "v-04279",
+        "v-01106",
+        "v-03907",
+        "v-00640"
       ],
       "status": "completed"
     }
@@ -20454,6 +20846,43 @@
         "v-03003"
       ],
       "run_id": "20261024T065425Z-156dab0e",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-25T07:19:17.350855+00:00",
+      "created_at": "2026-10-25T07:19:02.487124+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04279"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01106"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03907"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00640"
+        }
+      ],
+      "published_ids": [
+        "v-02764",
+        "v-04279",
+        "v-01106",
+        "v-03907",
+        "v-00640"
+      ],
+      "run_id": "20261025T071902Z-15ac6eea",
       "status": "completed",
       "unknown_ids": []
     }
