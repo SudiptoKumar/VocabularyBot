@@ -11707,6 +11707,14 @@
       "source_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
       "status": "valid"
     },
+    "v-01235": {
+      "audited_at": "2026-10-26T07:55:57.691649+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "হাতল, নাড়াচাড়া করা",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "a5150832d154793ee82039683ae496d30787d86b3a1af993d23ccb2827f50073",
+      "status": "uncertain"
+    },
     "v-01237": {
       "audited_at": "2026-10-09T08:32:28.223028+00:00",
       "confidence": 0.99,
@@ -11778,6 +11786,14 @@
       "reason": "The Bangla meaning correctly describes a resident of Israel, matching the word 'Israeli'.",
       "source_fingerprint": "b37034bb6455dbad205b2037238cb63f42e6e676d67fc9cc05efd3b49344a031",
       "status": "valid"
+    },
+    "v-01439": {
+      "audited_at": "2026-10-26T07:55:57.691583+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "ইহা, এটি, এই",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "320a8d121f3f50dcbc47ec89eb6c3542eae252b2e9abbd55015e62a7fbf18d8c",
+      "status": "uncertain"
     },
     "v-01458": {
       "audited_at": "2026-10-11T08:20:56.006795+00:00",
@@ -11979,6 +11995,14 @@
       "source_fingerprint": "687ec6d23a2fa6bb3d4826c44d5ab3be0c044c55ffbf7b89ed82defcdbd36ecb",
       "status": "valid"
     },
+    "v-01939": {
+      "audited_at": "2026-10-26T07:55:57.691628+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "খেলোয়াড়, কুশীলব",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "092e1b9250b56ebb9bb43964f0e16006a6dee2a04e0c5bc67454d5b5605b1f17",
+      "status": "uncertain"
+    },
     "v-01940": {
       "audited_at": "2026-09-29T07:56:03.720073+00:00",
       "confidence": 0.99,
@@ -12138,6 +12162,22 @@
       "reason": "The term 'পুত' is unrelated; the correct senses for 'sacred' are 'পবিত্র, পবিত, ধর্মীয়'.",
       "source_fingerprint": "4236809120b0c7e3e110e10c5e822d1ef01db09b6b95208dd43bf949e07f214d",
       "status": "corrected"
+    },
+    "v-02302": {
+      "audited_at": "2026-10-26T07:55:57.691637+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "বিক্রয়",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "518cfc74b29f50926f92cd47d1137a92a36bc2632e9f12dd6f88a38240e0efd2",
+      "status": "uncertain"
+    },
+    "v-02328": {
+      "audited_at": "2026-10-26T07:55:57.691615+00:00",
+      "confidence": 0.0,
+      "meaning_bn": "বিজ্ঞানী, বিজ্ঞানবিদ",
+      "reason": "Semantic verification unavailable; original source meaning retained",
+      "source_fingerprint": "8d9f60257d7bb54be7bd8c70257a9ae3db835f16bcbe053df85e04ee2d3468e0",
+      "status": "uncertain"
     },
     "v-02336": {
       "audited_at": "2026-09-26T23:58:20.821283+00:00",
@@ -14971,11 +15011,11 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01439",
-    "v-02328",
-    "v-01939",
-    "v-02302",
     "v-01235",
+    "v-02302",
+    "v-01939",
+    "v-02328",
+    "v-01439",
     "v-00544",
     "v-01608",
     "v-02379",
@@ -18276,41 +18316,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260927T005033Z-4ec9b2fd": {
-      "completed_at": "2026-09-27T00:50:47.338400+00:00",
-      "created_at": "2026-09-27T00:50:33.721374+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-03855"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03661"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01943"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00838"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01612"
-        }
-      ],
-      "published_ids": [
-        "v-03855",
-        "v-03661",
-        "v-01943",
-        "v-00838",
-        "v-01612"
-      ],
-      "status": "completed"
-    },
     "20260927T073903Z-0cc1c65f": {
       "completed_at": "2026-09-27T07:39:16.200588+00:00",
       "created_at": "2026-09-27T07:39:03.148789+00:00",
@@ -19331,6 +19336,48 @@
         "v-03907",
         "v-00640"
       ],
+      "status": "completed"
+    },
+    "20261026T075557Z-f6042d1e": {
+      "completed_at": "2026-10-26T07:55:59.375173+00:00",
+      "created_at": "2026-10-26T07:55:57.543204+00:00",
+      "failed_ids": [
+        "v-01439",
+        "v-02328",
+        "v-01939",
+        "v-02302",
+        "v-01235"
+      ],
+      "failures": {
+        "v-01235": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-01439": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-01939": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-02302": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
+        "v-02328": "AI enrichment incomplete; refusing to publish degraded vocabulary content"
+      },
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01439"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02328"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01939"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02302"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01235"
+        }
+      ],
+      "published_ids": [],
       "status": "completed"
     }
   },
@@ -20883,6 +20930,43 @@
         "v-00640"
       ],
       "run_id": "20261025T071902Z-15ac6eea",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-26T07:55:59.375173+00:00",
+      "created_at": "2026-10-26T07:55:57.543204+00:00",
+      "failed_ids": [
+        "v-01439",
+        "v-02328",
+        "v-01939",
+        "v-02302",
+        "v-01235"
+      ],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01439"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02328"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01939"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02302"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01235"
+        }
+      ],
+      "published_ids": [],
+      "run_id": "20261026T075557Z-f6042d1e",
       "status": "completed",
       "unknown_ids": []
     }
