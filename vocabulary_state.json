@@ -366,6 +366,59 @@
       ],
       "word_family": []
     },
+    "v-00115": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5e4361362facef2145199790fe58261e7ee443259569317f9d55b2ace8bdefe3",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "amount of money",
+        "amount owed",
+        "amount spent",
+        "total amount",
+        "amount required"
+      ],
+      "common_mistake_correct": "The number of books is large.",
+      "common_mistake_wrong": "The amount of books is large.",
+      "definition_en": "The total quantity or sum of something.",
+      "example_bn": "প্রয়োজনীয় পানির মোট পরিমাণ পাঁচ লিটার।",
+      "example_en": "The amount of water needed is five liters.",
+      "memory_hook": "Amount sounds like \"a mount\" – a big pile of something.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "amount of money",
+        "amount of people",
+        "amount of cars",
+        "amount of ideas"
+      ],
+      "quiz_question": "Which phrase correctly describes a quantity?",
+      "short_meaning_en": "total",
+      "synonyms": [
+        {
+          "meaning": "the whole amount",
+          "word": "total"
+        },
+        {
+          "meaning": "the total added together",
+          "word": "sum"
+        },
+        {
+          "meaning": "the amount of something",
+          "word": "quantity"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb phrase",
+          "word": "amount to"
+        },
+        {
+          "type": "adjective",
+          "word": "ample"
+        }
+      ]
+    },
     "v-00128": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ebb07d122ad933c4a7f7936a624843ef09f60389dbfcbfb8a74f03aed6e83ab3",
@@ -1578,6 +1631,68 @@
         {
           "type": "verb",
           "word": "comforted"
+        }
+      ]
+    },
+    "v-00544": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3d65968216e61525b5003756b8b30d2297706240219e3c596b692fe2d1f6dea3",
+      "antonyms": [
+        {
+          "meaning": "a small broken part",
+          "word": "fragment"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "essay composition",
+        "musical composition",
+        "composition of a team",
+        "composition class",
+        "composition skills"
+      ],
+      "common_mistake_correct": "I will compose a letter.",
+      "common_mistake_wrong": "I will composition a letter.",
+      "definition_en": "A piece of writing or the way something is formed.",
+      "example_bn": "তার রচনা স্কুলের প্রতিযোগিতা জিতেছে।",
+      "example_en": "Her composition won the school contest.",
+      "memory_hook": "Think of a composer creating a musical composition.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a type of food",
+        "a piece of writing",
+        "a weather pattern",
+        "a vehicle"
+      ],
+      "quiz_question": "What does \"composition\" most often refer to?",
+      "short_meaning_en": "writing",
+      "synonyms": [
+        {
+          "meaning": "a short piece of writing",
+          "word": "essay"
+        },
+        {
+          "meaning": "a work of writing",
+          "word": "piece"
+        },
+        {
+          "meaning": "a written creation",
+          "word": "work"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "compose"
+        },
+        {
+          "type": "noun",
+          "word": "composer"
+        },
+        {
+          "type": "adjective",
+          "word": "compositional"
         }
       ]
     },
@@ -5801,6 +5916,59 @@
         }
       ]
     },
+    "v-01608": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d77d01eb5d8e3c715c258608d85222959f04c4f826e37c22e2ba0b2c08613369",
+      "antonyms": [
+        {
+          "meaning": "a small number",
+          "word": "few"
+        },
+        {
+          "meaning": "hard to find",
+          "word": "scarce"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "many people",
+        "many times",
+        "many reasons",
+        "many years",
+        "many options"
+      ],
+      "common_mistake_correct": "much money",
+      "common_mistake_wrong": "many money",
+      "definition_en": "A large number or quantity of something.",
+      "example_bn": "শেলফে অনেক বই আছে।",
+      "example_en": "There are many books on the shelf.",
+      "memory_hook": "Many ends with \"y\" like \"many apples\".",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "many",
+        "much",
+        "few",
+        "little"
+      ],
+      "quiz_question": "Which word correctly fills the blank? \"___ students attended the lecture.\"",
+      "short_meaning_en": "numerous",
+      "synonyms": [
+        {
+          "meaning": "many in number",
+          "word": "numerous"
+        },
+        {
+          "meaning": "too many to count",
+          "word": "countless"
+        },
+        {
+          "meaning": "more than a few",
+          "word": "several"
+        }
+      ],
+      "word_family": []
+    },
     "v-01612": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
@@ -8404,6 +8572,68 @@
         }
       ]
     },
+    "v-02379": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1c036b960a8e7718ef64cf226f48b1d426dc748287d8d2ba465ecda230ad164f",
+      "antonyms": [
+        {
+          "meaning": "brightness",
+          "word": "light"
+        },
+        {
+          "meaning": "intense light",
+          "word": "brightness"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "shade of blue",
+        "sit in the shade",
+        "throw shade",
+        "shade tree",
+        "shade cloth"
+      ],
+      "common_mistake_correct": "I see a shadow on the wall.",
+      "common_mistake_wrong": "I see a shade on the wall.",
+      "definition_en": "A darker area created when something blocks the light.",
+      "example_bn": "সূর্য থেকে রক্ষা পেতে আমরা ছায়াচ্ছন্ন দিকের নিচে বসে ছিলাম।",
+      "example_en": "We sat in the shade to escape the sun.",
+      "memory_hook": "Shade = the cool area under a shady tree.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "shade",
+        "heat",
+        "storm",
+        "rain"
+      ],
+      "quiz_question": "Which phrase means a cool area protected from the sun?",
+      "short_meaning_en": "shadow",
+      "synonyms": [
+        {
+          "meaning": "dark shape produced by an object",
+          "word": "shadow"
+        },
+        {
+          "meaning": "a slight coloration",
+          "word": "tint"
+        },
+        {
+          "meaning": "a shade of color",
+          "word": "hue"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "shady"
+        },
+        {
+          "type": "noun",
+          "word": "shading"
+        }
+      ]
+    },
     "v-02384": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "3ab673a8c763fa4f0e3668a17f216e5e752a3854e5b45a5983760427005dfb2b",
@@ -8829,6 +9059,59 @@
         {
           "type": "adjective",
           "word": "surviving"
+        }
+      ]
+    },
+    "v-02630": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4716827a4a5af25a30aef78468fb242a0e88b9a8cc1f82e8a23470a456e8a5f3",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "national symbol",
+        "religious symbol",
+        "symbol of peace",
+        "corporate symbol",
+        "mathematical symbol"
+      ],
+      "common_mistake_correct": "The dove is a symbol of peace.",
+      "common_mistake_wrong": "The dove is a sign of peace.",
+      "definition_en": "A mark or sign that represents an idea, object, or relationship.",
+      "example_bn": "দূতটি শান্তির প্রতীক।",
+      "example_en": "The dove is a symbol of peace.",
+      "memory_hook": "Symbol sounds like \"symbolic\" – both mean representing something.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "symbol",
+        "sign",
+        "object",
+        "tool"
+      ],
+      "quiz_question": "Which word best fits: \"The heart is a ___ of love.\"",
+      "short_meaning_en": "sign",
+      "synonyms": [
+        {
+          "meaning": "a mark indicating something",
+          "word": "sign"
+        },
+        {
+          "meaning": "a symbolic representation",
+          "word": "emblem"
+        },
+        {
+          "meaning": "an object representing something",
+          "word": "token"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "symbolize"
+        },
+        {
+          "type": "adjective",
+          "word": "symbolic"
         }
       ]
     },
@@ -11556,6 +11839,14 @@
       "source_fingerprint": "b5c569e80de4aa03be7f972a9642b08f24396e971f8250628790568d03e60451",
       "status": "valid"
     },
+    "v-00115": {
+      "audited_at": "2026-10-27T07:22:16.063344+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মোট পরিমাণ",
+      "reason": "The Bangla meaning accurately reflects the English word 'amount'.",
+      "source_fingerprint": "5e4361362facef2145199790fe58261e7ee443259569317f9d55b2ace8bdefe3",
+      "status": "valid"
+    },
     "v-00128": {
       "audited_at": "2026-10-04T07:49:08.753990+00:00",
       "confidence": 0.99,
@@ -11698,6 +11989,14 @@
       "meaning_bn": "আরামপ্রদ, স্বচ্ছন্দ",
       "reason": "Both Bangla translations accurately reflect the meaning of 'comfortable'.",
       "source_fingerprint": "20bf3486a5f08d813b330d57d58b9cb4ea7287a2d9e578674717b43ea56a165a",
+      "status": "valid"
+    },
+    "v-00544": {
+      "audited_at": "2026-10-27T07:22:16.063194+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "রচনা, গঠন, মিশ্রণ",
+      "reason": "The supplied Bangla meanings accurately reflect the common senses of the English word 'composition'.",
+      "source_fingerprint": "3d65968216e61525b5003756b8b30d2297706240219e3c596b692fe2d1f6dea3",
       "status": "valid"
     },
     "v-00548": {
@@ -12196,6 +12495,14 @@
       "source_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
       "status": "valid"
     },
+    "v-01608": {
+      "audited_at": "2026-10-27T07:22:16.063254+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অনেক, প্রচুর",
+      "reason": "The Bangla meanings correctly correspond to the English word 'many'.",
+      "source_fingerprint": "d77d01eb5d8e3c715c258608d85222959f04c4f826e37c22e2ba0b2c08613369",
+      "status": "valid"
+    },
     "v-01612": {
       "audited_at": "2026-09-27T00:50:34.245202+00:00",
       "confidence": 0.99,
@@ -12516,6 +12823,14 @@
       "source_fingerprint": "6ee5c9456edcdf0e31c5b63d50d512e1663a16a1a5b92fa366428030556eea34",
       "status": "uncertain"
     },
+    "v-02379": {
+      "audited_at": "2026-10-27T07:22:16.063287+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "ঢাকনা, ছায়াচ্ছন্ন দিক",
+      "reason": "Both meanings are valid senses of the English word 'shade' (cover, shady side).",
+      "source_fingerprint": "1c036b960a8e7718ef64cf226f48b1d426dc748287d8d2ba465ecda230ad164f",
+      "status": "valid"
+    },
     "v-02384": {
       "audited_at": "2026-10-23T07:01:58.615778+00:00",
       "confidence": 0.98,
@@ -12571,6 +12886,14 @@
       "reason": "The Bangla meaning correctly captures the verb 'survive'.",
       "source_fingerprint": "5de9ab46c626d4f8a40266d5759a09a30b3db55588d5510866a0c9095c01c7fb",
       "status": "valid"
+    },
+    "v-02630": {
+      "audited_at": "2026-10-27T07:22:16.063318+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতীক • চিহ্ন",
+      "reason": "The provided meanings 'সুইচ, পরিবর্তন' do not match the English word 'symbol', which means a sign or representation.",
+      "source_fingerprint": "4f491ee09dac8ee3e3e5cd1be61636640248779c25b2ebc153f9f7ce98c17871",
+      "status": "corrected"
     },
     "v-02668": {
       "audited_at": "2026-10-15T07:01:25.824040+00:00",
@@ -12928,6 +13251,12 @@
       "photo_file_id": "AgACAgUAAxUHasIFAi6fRFV8axa3XxcebrSAjwADDBhrG0IlEFasS589s0bK3gEAAwIAA3MAAz0E",
       "version": "1.2.5"
     },
+    "v-00115": {
+      "audio_file_id": "CQACAgUAAxUHauBRNttcu9rP146vfs5jnRgxBMkAAm8fAAIz9whXfVP2M9wRJow9BA",
+      "cached_at": "2026-10-27T07:22:31.239025+00:00",
+      "photo_file_id": "AgACAgUAAxUHauBRNqyiiqkKN5_iziToC9SehXAAAoUcaxsz9whXfllAYBEC9TMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00128": {
       "audio_file_id": "CQACAgUAAxUHasIE__OYcrv15PVK3C7GNqGR_X8AAgggAAJCJRBWbthQvH4lQL49BA",
       "cached_at": "2026-10-04T07:49:19.838680+00:00",
@@ -13058,6 +13387,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxYSVMSXADBVMgte4eUvAJ4KUAAsUiAAKvhgFWo3sUpxXhcIM9BA",
       "cached_at": "2026-10-03T07:40:18.334913+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxYZ-YUeAJNXch6dzFroqF_QQAAqUSaxuvhgFWa_okAAEGv8vaAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-00544": {
+      "audio_file_id": "CQACAgUAAxUHauBRK4HGLwNg0TFUEVoMTN3rHewAAmsfAAIz9whXWPGbjfMrkoA9BA",
+      "cached_at": "2026-10-27T07:22:20.666618+00:00",
+      "photo_file_id": "AgACAgUAAxUHauBRLFCR8cfcmxHk7V0FFVhrCQEAAoEcaxsz9whXPF8cAAGprVmMAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-00548": {
@@ -13490,6 +13825,12 @@
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMGzS86g_4q4U3kWy9TqBzToAAlkRaxvpIbFVMjF8a4eoQMMBAAMCAANzAAM9BA"
     },
+    "v-01608": {
+      "audio_file_id": "CQACAgUAAxUHauBRLsGp9yb3WWp767Xw1_9rspoAAmwfAAIz9whXh_X4PL5lH_M9BA",
+      "cached_at": "2026-10-27T07:22:23.219527+00:00",
+      "photo_file_id": "AgACAgUAAxUHauBRLh5NiRMmXDRxHnrCdDPfLv0AAoIcaxsz9whX64elYCpZyJ4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01612": {
       "audio_file_id": "CQACAgUAAxUHarhoZlxpH_uqVMMDJnTzFckX9P0AAoMhAAKcC8lVSPJW8ZhRQyw9BA",
       "cached_at": "2026-09-27T00:50:47.328665+00:00",
@@ -13770,6 +14111,12 @@
       "photo_file_id": "AgACAgUAAxUHaroimY8Ic_JJioQJ4hRMjoZxOMQAAsESaxtT7NFV0RNT0WEPgusBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02379": {
+      "audio_file_id": "CQACAgUAAxUHauBRMfq0odJHNXqrat15Le-wCAIAAm0fAAIz9whXMKr4erVZQw09BA",
+      "cached_at": "2026-10-27T07:22:26.116095+00:00",
+      "photo_file_id": "AgACAgUAAxUHauBRMZf1nHw4eBEwff0kViloDxYAAoMcaxsz9whX7uMW0HBjIaEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02384": {
       "audio_file_id": "CQACAgUAAxUHatsGbvBB7HrCHbBJ4-hJx27WRjQAAlMlAAJQ2thWcAEtXITD9UQ9BA",
       "cached_at": "2026-10-23T07:02:07.343195+00:00",
@@ -13810,6 +14157,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIH9nXRpMzn0cdPzfGHYOQZjwAAsQiAAKcC8lVhw1nTx2EaMQ9BA",
       "cached_at": "2026-09-27T07:39:12.169260+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIH_9gVhLSttQsv-GqAjEq8_MAApUUaxucC8lVtzd4Y4WHV-IBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02630": {
+      "audio_file_id": "CQACAgUAAxUHauBRMw_0pPbuuUQks1esFTo7uoIAAm4fAAIz9whXtP5An0HGhK49BA",
+      "cached_at": "2026-10-27T07:22:28.651297+00:00",
+      "photo_file_id": "AgACAgUAAxUHauBRNPx_HgUSk_9yEMnw_b_iLBQAAoQcaxsz9whX6TOfIhZ724IBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02641": {
@@ -14158,6 +14511,12 @@
       "last_message_id": 125,
       "published_at": "2026-10-04T07:49:22.771631+00:00"
     },
+    "v-00115": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 237,
+      "published_at": "2026-10-27T07:22:31.239055+00:00"
+    },
     "v-00128": {
       "count": 1,
       "last_cycle": 1,
@@ -14290,6 +14649,12 @@
       "last_cycle": 1,
       "last_message_id": 119,
       "published_at": "2026-10-03T07:40:18.334942+00:00"
+    },
+    "v-00544": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 233,
+      "published_at": "2026-10-27T07:22:20.666648+00:00"
     },
     "v-00548": {
       "count": 1,
@@ -14731,6 +15096,12 @@
       "published_at": "2026-09-25T11:21:20.729393+00:00",
       "quiz_message_id": 7
     },
+    "v-01608": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 234,
+      "published_at": "2026-10-27T07:22:23.219558+00:00"
+    },
     "v-01612": {
       "count": 1,
       "last_cycle": 1,
@@ -15017,6 +15388,12 @@
       "last_message_id": 94,
       "published_at": "2026-09-28T08:17:29.905981+00:00"
     },
+    "v-02379": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 235,
+      "published_at": "2026-10-27T07:22:26.116121+00:00"
+    },
     "v-02384": {
       "count": 1,
       "last_cycle": 1,
@@ -15058,6 +15435,12 @@
       "last_cycle": 1,
       "last_message_id": 90,
       "published_at": "2026-09-27T07:39:12.169280+00:00"
+    },
+    "v-02630": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 236,
+      "published_at": "2026-10-27T07:22:28.651325+00:00"
     },
     "v-02641": {
       "count": 1,
@@ -15368,11 +15751,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00544",
-    "v-01608",
-    "v-02379",
-    "v-02630",
-    "v-00115",
     "v-01661",
     "v-02299",
     "v-02089",
@@ -18668,41 +19046,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260928T081721Z-a05877f0": {
-      "completed_at": "2026-09-28T08:17:37.908160+00:00",
-      "created_at": "2026-09-28T08:17:21.854577+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02680"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02378"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02338"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01009"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02935"
-        }
-      ],
-      "published_ids": [
-        "v-02680",
-        "v-02378",
-        "v-02338",
-        "v-01009",
-        "v-02935"
-      ],
-      "status": "completed"
-    },
     "20260929T075603Z-9fbe936c": {
       "completed_at": "2026-09-29T07:56:15.880377+00:00",
       "created_at": "2026-09-29T07:56:03.393326+00:00",
@@ -19729,6 +20072,41 @@
         "v-01939",
         "v-02328",
         "v-01439"
+      ],
+      "status": "completed"
+    },
+    "20261027T072215Z-049b7de9": {
+      "completed_at": "2026-10-27T07:22:31.264456+00:00",
+      "created_at": "2026-10-27T07:22:15.583145+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00544"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01608"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02379"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02630"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00115"
+        }
+      ],
+      "published_ids": [
+        "v-00544",
+        "v-01608",
+        "v-02379",
+        "v-02630",
+        "v-00115"
       ],
       "status": "completed"
     }
@@ -21356,6 +21734,43 @@
         "v-01439"
       ],
       "run_id": "20261027T044826Z-3f60a9ad",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-27T07:22:31.264456+00:00",
+      "created_at": "2026-10-27T07:22:15.583145+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00544"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01608"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02379"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02630"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00115"
+        }
+      ],
+      "published_ids": [
+        "v-00544",
+        "v-01608",
+        "v-02379",
+        "v-02630",
+        "v-00115"
+      ],
+      "run_id": "20261027T072215Z-049b7de9",
       "status": "completed",
       "unknown_ids": []
     }
