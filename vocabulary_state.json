@@ -4198,6 +4198,72 @@
         }
       ]
     },
+    "v-01235": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b29cfbe97857a17adeac30907c257ff45653236b2437e0be230522cd4b785b74",
+      "antonyms": [
+        {
+          "meaning": "to pay no attention to",
+          "word": "ignore"
+        },
+        {
+          "meaning": "to fail to care for",
+          "word": "neglect"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "handle a problem",
+        "handle the situation",
+        "handle pressure",
+        "handle cash",
+        "handle with care"
+      ],
+      "common_mistake_correct": "hold the door handle",
+      "common_mistake_wrong": "handle the door",
+      "definition_en": "To manage or deal with something.",
+      "example_bn": "তিনি চাপপূর্ণ পরিস্থিতি ভালভাবে হ্যান্ডল করেন।",
+      "example_en": "She can handle stressful situations well.",
+      "memory_hook": "Imagine a hand (hand) that 'handles' a tool.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "ignore",
+        "manage",
+        "sell",
+        "run"
+      ],
+      "quiz_question": "What does \"handle\" mean in \"She can handle the interview\"?",
+      "short_meaning_en": "manage",
+      "synonyms": [
+        {
+          "meaning": "to be in charge of",
+          "word": "manage"
+        },
+        {
+          "meaning": "to address",
+          "word": "deal with"
+        },
+        {
+          "meaning": "to run",
+          "word": "operate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "handling"
+        },
+        {
+          "type": "verb",
+          "word": "handled"
+        },
+        {
+          "type": "noun",
+          "word": "handler"
+        }
+      ]
+    },
     "v-01237": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "45865b51681858717e47bb68eed27beb329a6164798194e61356779d17179afe",
@@ -4822,6 +4888,55 @@
         {
           "type": "noun",
           "word": "Israelite"
+        }
+      ]
+    },
+    "v-01439": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "320a8d121f3f50dcbc47ec89eb6c3542eae252b2e9abbd55015e62a7fbf18d8c",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "it is",
+        "it was",
+        "it seems",
+        "it appears",
+        "it matters"
+      ],
+      "common_mistake_correct": "it's raining",
+      "common_mistake_wrong": "its raining",
+      "definition_en": "A pronoun used to refer to a thing or animal previously mentioned.",
+      "example_bn": "বহির্ভাগে বৃষ্টি হচ্ছে।",
+      "example_en": "It is raining outside.",
+      "memory_hook": "\"It\" is tiny – think of the letters I and T together.",
+      "part_of_speech": "pronoun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "its",
+        "it's",
+        "it’s",
+        "its'"
+      ],
+      "quiz_question": "Choose the correct form: \"___ raining heavily today.\"",
+      "short_meaning_en": "this",
+      "synonyms": [
+        {
+          "meaning": "the thing near",
+          "word": "this"
+        },
+        {
+          "meaning": "the thing farther",
+          "word": "that"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "possessive pronoun",
+          "word": "its"
+        },
+        {
+          "type": "contraction",
+          "word": "it's"
         }
       ]
     },
@@ -6619,6 +6734,68 @@
         }
       ]
     },
+    "v-01939": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "dea6ea22b6b199977ff07baa31d0e823f920e0d58e59597e9fd1b7d3b4e2dbd5",
+      "antonyms": [
+        {
+          "meaning": "someone who watches",
+          "word": "spectator"
+        },
+        {
+          "meaning": "someone not playing",
+          "word": "nonplayer"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "star player",
+        "team player",
+        "player roster",
+        "player stats",
+        "player coach"
+      ],
+      "common_mistake_correct": "player",
+      "common_mistake_wrong": "play er",
+      "definition_en": "A person who takes part in a sport or game.",
+      "example_bn": "খেলোয়াড়টি জয়ী গোলটি করেছিল।",
+      "example_en": "The player scored the winning goal.",
+      "memory_hook": "Picture a person with a ball – a player.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "coach",
+        "player",
+        "referee",
+        "spectator"
+      ],
+      "quiz_question": "Which term best fits \"He is a talented ___ in the basketball team\"?",
+      "short_meaning_en": "competitor",
+      "synonyms": [
+        {
+          "meaning": "someone who competes",
+          "word": "competitor"
+        },
+        {
+          "meaning": "a sports person",
+          "word": "athlete"
+        },
+        {
+          "meaning": "someone who takes part",
+          "word": "participant"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "players"
+        },
+        {
+          "type": "verb",
+          "word": "playing"
+        }
+      ]
+    },
     "v-01940": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "3600fbdc35ce783c9b393737df6985a6b60ae8b6c7e20e658fa67e61836895db",
@@ -7822,6 +7999,126 @@
         {
           "type": "noun",
           "word": "sacredness"
+        }
+      ]
+    },
+    "v-02302": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "518cfc74b29f50926f92cd47d1137a92a36bc2632e9f12dd6f88a38240e0efd2",
+      "antonyms": [
+        {
+          "meaning": "buying",
+          "word": "purchase"
+        },
+        {
+          "meaning": "acquiring",
+          "word": "buying"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "on sale",
+        "sale price",
+        "sale of goods",
+        "sale event",
+        "sale rack"
+      ],
+      "common_mistake_correct": "I sell a car",
+      "common_mistake_wrong": "I sale a car",
+      "definition_en": "The act of selling something to a buyer.",
+      "example_bn": "দোকানটি জুতার ওপর বড় বিক্রয় ঘোষণা করেছে।",
+      "example_en": "The store announced a big sale on shoes.",
+      "memory_hook": "Sale sounds like \"sail\" – you set sail to market your goods.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "sale",
+        "sell",
+        "selling",
+        "buyer"
+      ],
+      "quiz_question": "Which word correctly completes the sentence: \"The shop is having a ___ on electronics\"?",
+      "short_meaning_en": "selling",
+      "synonyms": [
+        {
+          "meaning": "exchange of goods",
+          "word": "transaction"
+        },
+        {
+          "meaning": "something presented for sale",
+          "word": "offering"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "sales"
+        },
+        {
+          "type": "noun",
+          "word": "salesperson"
+        }
+      ]
+    },
+    "v-02328": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8d9f60257d7bb54be7bd8c70257a9ae3db835f16bcbe053df85e04ee2d3468e0",
+      "antonyms": [
+        {
+          "meaning": "non‑expert",
+          "word": "layperson"
+        },
+        {
+          "meaning": "someone without specialized knowledge",
+          "word": "nonexpert"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "leading scientist",
+        "scientist community",
+        "scientist discovered",
+        "scientist research",
+        "scientist lab"
+      ],
+      "common_mistake_correct": "scientist",
+      "common_mistake_wrong": "science person",
+      "definition_en": "A person who studies or works in science.",
+      "example_bn": "মেরি কুরি ছিলেন একজন পথপ্রদর্শক বিজ্ঞানী।",
+      "example_en": "Marie Curie was a pioneering scientist.",
+      "memory_hook": "Add a \"t\" to \"science\" to get \"scientist\".",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "scientist",
+        "science",
+        "scientific",
+        "scholar"
+      ],
+      "quiz_question": "Which word completes the sentence: \"She wants to become a ___ and work in a lab\"?",
+      "short_meaning_en": "researcher",
+      "synonyms": [
+        {
+          "meaning": "someone who investigates",
+          "word": "researcher"
+        },
+        {
+          "meaning": "learned person",
+          "word": "scholar"
+        },
+        {
+          "meaning": "university researcher",
+          "word": "academic"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "scientific"
+        },
+        {
+          "type": "adverb",
+          "word": "scientifically"
         }
       ]
     },
@@ -11708,12 +12005,12 @@
       "status": "valid"
     },
     "v-01235": {
-      "audited_at": "2026-10-26T07:55:57.691649+00:00",
-      "confidence": 0.0,
-      "meaning_bn": "হাতল, নাড়াচাড়া করা",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "audited_at": "2026-10-27T04:48:26.885058+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "হ্যান্ডল • নাড়াচাড়া করা",
+      "reason": "The noun meaning should be হ্যান্ডল (handle) not \"হাতল\" which is a typo; the verb sense \"নাড়াচাড়া করা\" is correct.",
       "source_fingerprint": "a5150832d154793ee82039683ae496d30787d86b3a1af993d23ccb2827f50073",
-      "status": "uncertain"
+      "status": "corrected"
     },
     "v-01237": {
       "audited_at": "2026-10-09T08:32:28.223028+00:00",
@@ -11788,12 +12085,12 @@
       "status": "valid"
     },
     "v-01439": {
-      "audited_at": "2026-10-26T07:55:57.691583+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-27T04:48:27.881168+00:00",
+      "confidence": 0.99,
       "meaning_bn": "ইহা, এটি, এই",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The meanings correctly correspond to the pronoun \"it\".",
       "source_fingerprint": "320a8d121f3f50dcbc47ec89eb6c3542eae252b2e9abbd55015e62a7fbf18d8c",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-01458": {
       "audited_at": "2026-10-11T08:20:56.006795+00:00",
@@ -11996,12 +12293,12 @@
       "status": "valid"
     },
     "v-01939": {
-      "audited_at": "2026-10-26T07:55:57.691628+00:00",
-      "confidence": 0.0,
-      "meaning_bn": "খেলোয়াড়, কুশীলব",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "audited_at": "2026-10-27T04:48:27.881093+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "খেলোয়াড়",
+      "reason": "The source meaning includes \"কুশীলব\", which is not a recognized Bangla word nor a sense of \"player\". The appropriate Bangla translation for the noun \"player\" is \"খেলোয়াড়\".",
       "source_fingerprint": "092e1b9250b56ebb9bb43964f0e16006a6dee2a04e0c5bc67454d5b5605b1f17",
-      "status": "uncertain"
+      "status": "corrected"
     },
     "v-01940": {
       "audited_at": "2026-09-29T07:56:03.720073+00:00",
@@ -12164,20 +12461,20 @@
       "status": "corrected"
     },
     "v-02302": {
-      "audited_at": "2026-10-26T07:55:57.691637+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-27T04:48:26.885107+00:00",
+      "confidence": 0.99,
       "meaning_bn": "বিক্রয়",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "The supplied meaning correctly matches the English word \"sale\".",
       "source_fingerprint": "518cfc74b29f50926f92cd47d1137a92a36bc2632e9f12dd6f88a38240e0efd2",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-02328": {
-      "audited_at": "2026-10-26T07:55:57.691615+00:00",
-      "confidence": 0.0,
+      "audited_at": "2026-10-27T04:48:27.881147+00:00",
+      "confidence": 0.99,
       "meaning_bn": "বিজ্ঞানী, বিজ্ঞানবিদ",
-      "reason": "Semantic verification unavailable; original source meaning retained",
+      "reason": "Both Bengali meanings accurately represent the English word \"scientist\".",
       "source_fingerprint": "8d9f60257d7bb54be7bd8c70257a9ae3db835f16bcbe053df85e04ee2d3468e0",
-      "status": "uncertain"
+      "status": "valid"
     },
     "v-02336": {
       "audited_at": "2026-09-26T23:58:20.821283+00:00",
@@ -13032,6 +13329,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kUU4lY4NYbuRGeMgs3zQEF4wAAtURaxuXRvhVZzcs3yzLouQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01235": {
+      "audio_file_id": "CQACAgUAAxUHauAtH-k2k72PO_clerPM6dXq5ToAAsseAAIz9whXO1_7CljVoEU9BA",
+      "cached_at": "2026-10-27T04:48:31.749891+00:00",
+      "photo_file_id": "AgACAgUAAxUHauAtH0lxPrxqEVXp8CBltRLButkAAikcaxsz9whXclAmE6ocIw8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01237": {
       "audio_file_id": "CQACAgUAAxUHasimn9XXYk3kyAQqPzPbcOy-aNAAApMmAALvcUlWjUPUrShBrhs9BA",
       "cached_at": "2026-10-09T08:32:32.173780+00:00",
@@ -13096,6 +13399,12 @@
       "audio_file_id": "CQACAgUAAxUHatB6UJly904te2_vMCu7mrqwUN0AAvYgAALrMoFWuJAvbsb3yDk9BA",
       "cached_at": "2026-10-15T07:01:37.178879+00:00",
       "photo_file_id": "AgACAgUAAxUHatB6UNkUfvOxSrY-8kXzO-HBDOYAAlMTaxvrMoFWbvaLjpL4J7wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01439": {
+      "audio_file_id": "CQACAgUAAxUHauAtKPjTxoETY0r6XXJ1SKPYy8IAAs8eAAIz9whXHk_Kk9YW_J09BA",
+      "cached_at": "2026-10-27T04:48:40.651869+00:00",
+      "photo_file_id": "AgACAgUAAxUHauAtKDX4zYcdupCIZdlZzgZImIIAAi0caxsz9whXCHyEw-UGfWYBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01458": {
@@ -13287,6 +13596,12 @@
       "photo_file_id": "AgACAgUAAxUHatxWJ94S1MjkeX8oiPT9l9puiJkAAp8Raxv30eBWd535P6p5goABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01939": {
+      "audio_file_id": "CQACAgUAAxUHauAtIyqGPno464INhgZOkp4j7D0AAs0eAAIz9whXkQxIuP92fCk9BA",
+      "cached_at": "2026-10-27T04:48:36.421843+00:00",
+      "photo_file_id": "AgACAgUAAxUHauAtI3LEoHIzyxrBv7LMyW73fuEAAiscaxsz9whXklIm_tjOWmMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01940": {
       "audio_file_id": "CQACAgUAAxUHartvGsR2nsJ9M6ZW0Bv1gJKGnBQAAsAgAAJT7NlVaLH0IjUXGoo9BA",
       "cached_at": "2026-09-29T07:56:11.914071+00:00",
@@ -13411,6 +13726,18 @@
       "audio_file_id": "CQACAgUAAxUHasnyuP6UfB9gwLlHxpNgh5Npo5oAAp4nAALvcVFW6wwcO6xApZ89BA",
       "cached_at": "2026-10-10T08:09:28.938852+00:00",
       "photo_file_id": "AgACAgUAAxUHasnyuBKl2Ze98R1r9OZ5jbJwd4EAAtsSaxvvcVFWDnyN-GKtRyUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02302": {
+      "audio_file_id": "CQACAgUAAxUHauAtIRjV6pkSBRxlFAeV2u2v1rwAAsweAAIz9whXnvA1Jg3gBcg9BA",
+      "cached_at": "2026-10-27T04:48:34.105946+00:00",
+      "photo_file_id": "AgACAgUAAxUHauAtIZV5Gva0WeYcb1rplZGPZIwAAiocaxsz9whX-kAzitl_HXkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02328": {
+      "audio_file_id": "CQACAgUAAxUHauAtJlURQAffEUoZYOeviLNYa6kAAs4eAAIz9whXBk_qWlS0zLM9BA",
+      "cached_at": "2026-10-27T04:48:38.721964+00:00",
+      "photo_file_id": "AgACAgUAAxUHauAtJl5dWfKOEF5W7Y4vLHuOcmAAAiwcaxsz9whX07ZNVrtaH_kBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02336": {
@@ -14239,6 +14566,12 @@
       "last_message_id": 116,
       "published_at": "2026-10-02T07:59:14.259488+00:00"
     },
+    "v-01235": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 228,
+      "published_at": "2026-10-27T04:48:31.749919+00:00"
+    },
     "v-01237": {
       "count": 1,
       "last_cycle": 1,
@@ -14306,6 +14639,12 @@
       "last_cycle": 1,
       "last_message_id": 181,
       "published_at": "2026-10-15T07:01:37.178903+00:00"
+    },
+    "v-01439": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 232,
+      "published_at": "2026-10-27T04:48:40.651898+00:00"
     },
     "v-01458": {
       "count": 1,
@@ -14504,6 +14843,12 @@
       "last_message_id": 219,
       "published_at": "2026-10-24T06:54:31.458863+00:00"
     },
+    "v-01939": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 230,
+      "published_at": "2026-10-27T04:48:36.421868+00:00"
+    },
     "v-01940": {
       "count": 1,
       "last_cycle": 1,
@@ -14629,6 +14974,18 @@
       "last_cycle": 1,
       "last_message_id": 156,
       "published_at": "2026-10-10T08:09:28.938881+00:00"
+    },
+    "v-02302": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 229,
+      "published_at": "2026-10-27T04:48:34.106001+00:00"
+    },
+    "v-02328": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 231,
+      "published_at": "2026-10-27T04:48:38.721996+00:00"
     },
     "v-02336": {
       "count": 1,
@@ -15011,11 +15368,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01235",
-    "v-02302",
-    "v-01939",
-    "v-02328",
-    "v-01439",
     "v-00544",
     "v-01608",
     "v-02379",
@@ -18316,41 +18668,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260927T073903Z-0cc1c65f": {
-      "completed_at": "2026-09-27T07:39:16.200588+00:00",
-      "created_at": "2026-09-27T07:39:03.148789+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00708"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02035"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02620"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00566"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01038"
-        }
-      ],
-      "published_ids": [
-        "v-00708",
-        "v-02035",
-        "v-02620",
-        "v-00566",
-        "v-01038"
-      ],
-      "status": "completed"
-    },
     "20260928T081721Z-a05877f0": {
       "completed_at": "2026-09-28T08:17:37.908160+00:00",
       "created_at": "2026-09-28T08:17:21.854577+00:00",
@@ -19378,6 +19695,41 @@
         }
       ],
       "published_ids": [],
+      "status": "completed"
+    },
+    "20261027T044826Z-3f60a9ad": {
+      "completed_at": "2026-10-27T04:48:40.670518+00:00",
+      "created_at": "2026-10-27T04:48:26.382372+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01235"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02302"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01939"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02328"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01439"
+        }
+      ],
+      "published_ids": [
+        "v-01235",
+        "v-02302",
+        "v-01939",
+        "v-02328",
+        "v-01439"
+      ],
       "status": "completed"
     }
   },
@@ -20967,6 +21319,43 @@
       ],
       "published_ids": [],
       "run_id": "20261026T075557Z-f6042d1e",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-27T04:48:40.670518+00:00",
+      "created_at": "2026-10-27T04:48:26.382372+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01235"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02302"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01939"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02328"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01439"
+        }
+      ],
+      "published_ids": [
+        "v-01235",
+        "v-02302",
+        "v-01939",
+        "v-02328",
+        "v-01439"
+      ],
+      "run_id": "20261027T044826Z-3f60a9ad",
       "status": "completed",
       "unknown_ids": []
     }
