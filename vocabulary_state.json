@@ -199,6 +199,60 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00036": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "95ce7a75a3d6cb04894c86010e71df00128eb0e34a1d9bd51cc5518c1adbb2dd",
+      "antonyms": [
+        {
+          "meaning": "male performer",
+          "word": "actor"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "famous actress",
+        "lead actress",
+        "actress role",
+        "actress award",
+        "actress career"
+      ],
+      "common_mistake_correct": "actress",
+      "common_mistake_wrong": "actor",
+      "definition_en": "A female who performs in movies, television, or theater.",
+      "example_bn": "অভিনেত্রী তার অভিনয়ের জন্য পুরস্কার জিতেছেন।",
+      "example_en": "The actress won an award for her performance.",
+      "memory_hook": "Act + -ress = female actor.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "director",
+        "actress",
+        "producer",
+        "writer"
+      ],
+      "quiz_question": "What is the term for a woman who acts in films?",
+      "short_meaning_en": "female actor",
+      "synonyms": [
+        {
+          "meaning": "actress",
+          "word": "female performer"
+        },
+        {
+          "meaning": "leading actress",
+          "word": "star"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "acting"
+        },
+        {
+          "type": "noun",
+          "word": "actor"
+        }
+      ]
+    },
     "v-00068": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
@@ -3323,6 +3377,59 @@
         }
       ]
     },
+    "v-00908": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1aef20338137e2d7b9f56c1f576adc748417dd226b342fb125355e9ed2dd1596",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "engine room",
+        "engine oil",
+        "engine failure",
+        "engine power",
+        "engine start"
+      ],
+      "common_mistake_correct": "engine",
+      "common_mistake_wrong": "engage",
+      "definition_en": "A machine that converts energy into mechanical motion, especially to power a vehicle.",
+      "example_bn": "গাড়ির ইঞ্জিনে তেল পরিবর্তন দরকার।",
+      "example_en": "The car's engine needs an oil change.",
+      "memory_hook": "Engine makes the vehicle go, like a heart makes you move.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "wheel",
+        "engine",
+        "brake",
+        "seat"
+      ],
+      "quiz_question": "Which part of a car converts fuel into motion?",
+      "short_meaning_en": "machine",
+      "synonyms": [
+        {
+          "meaning": "engine",
+          "word": "motor"
+        },
+        {
+          "meaning": "engine",
+          "word": "machine"
+        },
+        {
+          "meaning": "engine",
+          "word": "powerplant"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "engineer"
+        },
+        {
+          "type": "noun",
+          "word": "engineering"
+        }
+      ]
+    },
     "v-00997": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "e0587d32b47d1a91486ade5e992d409d28ce6eaebfc865320930705da93b25a4",
@@ -6198,6 +6305,55 @@
         }
       ]
     },
+    "v-01661": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "66e08b1eaa1139b8ae5119945ab279614d9e69b209c1be7de95628633224c04a",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "milk bottle",
+        "milk tea",
+        "skim milk",
+        "milk powder",
+        "milk shake"
+      ],
+      "common_mistake_correct": "milk",
+      "common_mistake_wrong": "milc",
+      "definition_en": "The white liquid produced by the mammary glands of mammals, used as a food and drink.",
+      "example_bn": "সে তার কফিতে দুধ ঢালল।",
+      "example_en": "She poured milk into her coffee.",
+      "memory_hook": "Moo sounds like \"M\" in milk.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "water",
+        "juice",
+        "milk",
+        "sugar"
+      ],
+      "quiz_question": "Which word means the white liquid from cows?",
+      "short_meaning_en": "dairy",
+      "synonyms": [
+        {
+          "meaning": "milk product",
+          "word": "dairy"
+        },
+        {
+          "meaning": "milk",
+          "word": "lacteal fluid"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "milky"
+        },
+        {
+          "type": "noun",
+          "word": "milker"
+        }
+      ]
+    },
     "v-01678": {
       "antonyms": [],
       "cefr": "B1",
@@ -7526,6 +7682,68 @@
         }
       ]
     },
+    "v-02089": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c6f561e99a29c016653f8c349fe46b6b686bc356bda1d40d8453614be83be3a5",
+      "antonyms": [
+        {
+          "meaning": "not accepted",
+          "word": "rejected"
+        },
+        {
+          "meaning": "ignored",
+          "word": "dismissed"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "proposed plan",
+        "proposed law",
+        "proposed solution",
+        "proposed date",
+        "proposed budget"
+      ],
+      "common_mistake_correct": "proposed",
+      "common_mistake_wrong": "propose",
+      "definition_en": "Suggested or put forward for consideration.",
+      "example_bn": "কমিটি প্রস্তাবিত পরিবর্তনগুলো অনুমোদন করেছে।",
+      "example_en": "The committee approved the proposed changes.",
+      "memory_hook": "Think of a marriage proposal – it is a proposed idea.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "proposed",
+        "declined",
+        "ignored",
+        "finished"
+      ],
+      "quiz_question": "Which word describes something that has been suggested?",
+      "short_meaning_en": "suggested",
+      "synonyms": [
+        {
+          "meaning": "proposed",
+          "word": "suggested"
+        },
+        {
+          "meaning": "presented",
+          "word": "offered"
+        },
+        {
+          "meaning": "advised",
+          "word": "recommended"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "propose"
+        },
+        {
+          "type": "noun",
+          "word": "proposal"
+        }
+      ]
+    },
     "v-02094": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "9fa5321f6e8725e0912946b5d223e5797022804979ecbdc83fdf9a099bd41b7e",
@@ -8167,6 +8385,60 @@
         {
           "type": "noun",
           "word": "sacredness"
+        }
+      ]
+    },
+    "v-02299": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8ca8077ed2be5595a3ea4e8c75b04e03bb77044fb94c21b09c84f58807140b7b",
+      "antonyms": [
+        {
+          "meaning": "lack of purpose",
+          "word": "disregard"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "for the sake of",
+        "at any sake",
+        "sake ceremony",
+        "sake cup",
+        "sake drink"
+      ],
+      "common_mistake_correct": "sake",
+      "common_mistake_wrong": "sick",
+      "definition_en": "The purpose or reason for which something is done.",
+      "example_bn": "সে এটা তার পরিবারের জন্যে অভিপ্রায়ে করেছে।",
+      "example_en": "He did it for the sake of his family.",
+      "memory_hook": "Think of \"for the sake of\" to remember purpose.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "drink",
+        "purpose",
+        "money",
+        "time"
+      ],
+      "quiz_question": "What does \"sake\" mean in \"for the sake of\"?",
+      "short_meaning_en": "purpose",
+      "synonyms": [
+        {
+          "meaning": "reason",
+          "word": "purpose"
+        },
+        {
+          "meaning": "goal",
+          "word": "aim"
+        },
+        {
+          "meaning": "plan",
+          "word": "intention"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "sakeful"
         }
       ]
     },
@@ -11823,6 +12095,14 @@
       "source_fingerprint": "fa98d95542ed6fda1fb4551a79833f43e27efdbc3d4366e742b63c32a59bd3bb",
       "status": "valid"
     },
+    "v-00036": {
+      "audited_at": "2026-10-28T07:57:26.411383+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অভিনেত্রী",
+      "reason": "The translation accurately represents the noun 'actress'.",
+      "source_fingerprint": "95ce7a75a3d6cb04894c86010e71df00128eb0e34a1d9bd51cc5518c1adbb2dd",
+      "status": "valid"
+    },
     "v-00068": {
       "audited_at": "2026-10-10T08:09:16.772335+00:00",
       "confidence": 0.97,
@@ -12183,6 +12463,14 @@
       "source_fingerprint": "d108f563f0d63a22574fa5a846b946704818fdef01cd444a69c4631b052fb981",
       "status": "valid"
     },
+    "v-00908": {
+      "audited_at": "2026-10-28T07:57:26.411398+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "চালকযন্ত্র, ইঞ্জিন",
+      "reason": "The Bangla meanings correctly describe the noun 'engine' as a machine that drives or powers.",
+      "source_fingerprint": "1aef20338137e2d7b9f56c1f576adc748417dd226b342fb125355e9ed2dd1596",
+      "status": "valid"
+    },
     "v-00997": {
       "audited_at": "2026-10-01T08:22:36.860599+00:00",
       "confidence": 0.99,
@@ -12527,6 +12815,14 @@
       "source_fingerprint": "5407b3ab85d5cf82d7bb7e4b90b443ee1e0ab9fa888e340e7bf4077c09f18494",
       "status": "valid"
     },
+    "v-01661": {
+      "audited_at": "2026-10-28T07:57:26.411313+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দুধ, দুগ্ধ",
+      "reason": "The Bangla meaning accurately reflects the English noun 'milk' as a dairy product.",
+      "source_fingerprint": "66e08b1eaa1139b8ae5119945ab279614d9e69b209c1be7de95628633224c04a",
+      "status": "valid"
+    },
     "v-01686": {
       "audited_at": "2026-10-13T09:00:56.282869+00:00",
       "confidence": 0.99,
@@ -12679,6 +12975,14 @@
       "source_fingerprint": "698263c22a80e1fad78ea9f8e9fe7f19c931663ad6f10fa984b4dfe614997633",
       "status": "corrected"
     },
+    "v-02089": {
+      "audited_at": "2026-10-28T07:57:26.411368+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রস্তাবিত, উত্থাপিত",
+      "reason": "The Bangla meanings match the adjective 'proposed' meaning suggested or put forward.",
+      "source_fingerprint": "c6f561e99a29c016653f8c349fe46b6b686bc356bda1d40d8453614be83be3a5",
+      "status": "valid"
+    },
     "v-02094": {
       "audited_at": "2026-10-06T08:37:14.289895+00:00",
       "confidence": 1.0,
@@ -12766,6 +13070,14 @@
       "reason": "The term 'পুত' is unrelated; the correct senses for 'sacred' are 'পবিত্র, পবিত, ধর্মীয়'.",
       "source_fingerprint": "4236809120b0c7e3e110e10c5e822d1ef01db09b6b95208dd43bf949e07f214d",
       "status": "corrected"
+    },
+    "v-02299": {
+      "audited_at": "2026-10-28T07:57:26.411349+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অভিপ্রায়, নিমিত্ত",
+      "reason": "The meaning correctly corresponds to the noun 'sake' meaning purpose or reason.",
+      "source_fingerprint": "8ca8077ed2be5595a3ea4e8c75b04e03bb77044fb94c21b09c84f58807140b7b",
+      "status": "valid"
     },
     "v-02302": {
       "audited_at": "2026-10-27T04:48:26.885107+00:00",
@@ -13233,6 +13545,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_PxEp7nJ3aENrvRHs1VAvv6IAAtMeAALpIblV50Z2hNaRDYA9BA"
     },
+    "v-00036": {
+      "audio_file_id": "CQACAgUAAxUHauGq8IW-qpgBuSYtjMB-Pd5i79UAAuglAAIz9xBXWkEkhBulTYI9BA",
+      "cached_at": "2026-10-28T07:57:36.909703+00:00",
+      "photo_file_id": "AgACAgUAAxUHauGq8OUhRwPvq_rvwf5EoEI2H1MAAj8eaxsz9xBXtbubr47OHMcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00068": {
       "audio_file_id": "CQACAgUAAxUHasnysPAt7anWQ_AEQuugkoZhxfQAApsnAALvcVFW-aRhuQ6dqt89BA",
       "cached_at": "2026-10-10T08:09:21.513116+00:00",
@@ -13563,6 +13881,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kSZHC3juKS_vCxHVIwhzTV1wAAtIRaxuXRvhVnyhEJ4ICcy4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00908": {
+      "audio_file_id": "CQACAgUAAxUHauGq8udSekjrW7cCqlhr699ZYsgAAuklAAIz9xBXoOGeQGJc63c9BA",
+      "cached_at": "2026-10-28T07:57:39.349506+00:00",
+      "photo_file_id": "AgACAgUAAxUHauGq8mIOjUud66tpOQuWZknv7pQAAkAeaxsz9xBXc9_6qXp368YBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00997": {
       "audio_file_id": "CQACAgUAAxUHar4YVt5aK8e8ToZQTS5RJV2MmfkAAqIhAAKXRvBVBe11bWXaq0I9BA",
       "cached_at": "2026-10-01T08:22:47.242861+00:00",
@@ -13854,6 +14178,12 @@
       "photo_file_id": "AgACAgUAAxUHasNfP_hSylXKVRhZEWdtVyhawQoAAmUUaxtCJRhWdC7rCtkCTmMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01661": {
+      "audio_file_id": "CQACAgUAAxUHauGq6ROqjFWuYvVQ-bhRqzx-v5AAAuUlAAIz9xBXMqVEcMXNWOU9BA",
+      "cached_at": "2026-10-28T07:57:30.110905+00:00",
+      "photo_file_id": "AgACAgUAAxUHauGq6cJmIRpAuqnxz5__grlKtO8AAjweaxsz9xBXqKOP7hnmM0cBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01678": {
       "audio_file_id": "CQACAgUAAxUHarZZMhBkj7QPAbzJvZT05PrWkOwAAsUkAALpIbFV-XfvaKXdOuo9BA",
       "cached_at": "2026-09-25T11:21:23.177252+00:00",
@@ -14003,6 +14333,12 @@
       "photo_file_id": "AgACAgUAAxUHathk3TF7BP92vOAb_2rJAgkeYggAAqccaxu63MBWsMBzGfBj7ZABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02089": {
+      "audio_file_id": "CQACAgUAAxUHauGq7oCRCWvEca2fPKAbC2w8wQAD5yUAAjP3EFfyXLh7ETQHoD0E",
+      "cached_at": "2026-10-28T07:57:34.744845+00:00",
+      "photo_file_id": "AgACAgUAAxUHauGq7gIGKgzMKer49Hg72SSI03sAAj4eaxsz9xBXG93pyqDUuqMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02094": {
       "audio_file_id": "CQACAgUAAxUHasSzRO42rCaHBgNS577WskIwnRoAAsYhAAL07iFWwFKvlWV2Sto9BA",
       "cached_at": "2026-10-06T08:37:25.113530+00:00",
@@ -14067,6 +14403,12 @@
       "audio_file_id": "CQACAgUAAxUHasnyuP6UfB9gwLlHxpNgh5Npo5oAAp4nAALvcVFW6wwcO6xApZ89BA",
       "cached_at": "2026-10-10T08:09:28.938852+00:00",
       "photo_file_id": "AgACAgUAAxUHasnyuBKl2Ze98R1r9OZ5jbJwd4EAAtsSaxvvcVFWDnyN-GKtRyUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02299": {
+      "audio_file_id": "CQACAgUAAxUHauGq6zWYOu-mY9C7nPeiNNIAAdO1AALmJQACM_cQV2J9ow4dA5_sPQQ",
+      "cached_at": "2026-10-28T07:57:32.446858+00:00",
+      "photo_file_id": "AgACAgUAAxUHauGq7MNK8Ey97y_GaNoWBFpXat0AAj0eaxsz9xBXMd2Ophrm3usBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02302": {
@@ -14493,6 +14835,12 @@
       "last_message_id": 31,
       "published_at": "2026-09-25T14:03:43.882653+00:00"
     },
+    "v-00036": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 241,
+      "published_at": "2026-10-28T07:57:36.909726+00:00"
+    },
     "v-00068": {
       "count": 1,
       "last_cycle": 1,
@@ -14827,6 +15175,12 @@
       "last_message_id": 113,
       "published_at": "2026-10-02T07:59:06.300538+00:00"
     },
+    "v-00908": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 242,
+      "published_at": "2026-10-28T07:57:39.349534+00:00"
+    },
     "v-00997": {
       "count": 1,
       "last_cycle": 1,
@@ -15127,6 +15481,12 @@
       "last_message_id": 128,
       "published_at": "2026-10-05T08:26:40.389092+00:00"
     },
+    "v-01661": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 238,
+      "published_at": "2026-10-28T07:57:30.110935+00:00"
+    },
     "v-01678": {
       "count": 1,
       "last_cycle": 1,
@@ -15280,6 +15640,12 @@
       "last_message_id": 206,
       "published_at": "2026-10-21T07:08:14.267460+00:00"
     },
+    "v-02089": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 240,
+      "published_at": "2026-10-28T07:57:34.744871+00:00"
+    },
     "v-02094": {
       "count": 1,
       "last_cycle": 1,
@@ -15345,6 +15711,12 @@
       "last_cycle": 1,
       "last_message_id": 156,
       "published_at": "2026-10-10T08:09:28.938881+00:00"
+    },
+    "v-02299": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 239,
+      "published_at": "2026-10-28T07:57:32.446884+00:00"
     },
     "v-02302": {
       "count": 1,
@@ -15751,11 +16123,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01661",
-    "v-02299",
-    "v-02089",
-    "v-00036",
-    "v-00908",
     "v-02912",
     "v-01292",
     "v-00636",
@@ -19046,41 +19413,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20260929T075603Z-9fbe936c": {
-      "completed_at": "2026-09-29T07:56:15.880377+00:00",
-      "created_at": "2026-09-29T07:56:03.393326+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00601"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00797"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01940"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00833"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00669"
-        }
-      ],
-      "published_ids": [
-        "v-00601",
-        "v-00797",
-        "v-01940",
-        "v-00833",
-        "v-00669"
-      ],
-      "status": "completed"
-    },
     "20260930T080452Z-1b9cd3e2": {
       "completed_at": "2026-09-30T08:05:06.534576+00:00",
       "created_at": "2026-09-30T08:04:52.583271+00:00",
@@ -20107,6 +20439,41 @@
         "v-02379",
         "v-02630",
         "v-00115"
+      ],
+      "status": "completed"
+    },
+    "20261028T075726Z-3810fa03": {
+      "completed_at": "2026-10-28T07:57:39.368184+00:00",
+      "created_at": "2026-10-28T07:57:26.077370+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01661"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02299"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02089"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00036"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00908"
+        }
+      ],
+      "published_ids": [
+        "v-01661",
+        "v-02299",
+        "v-02089",
+        "v-00036",
+        "v-00908"
       ],
       "status": "completed"
     }
@@ -21771,6 +22138,43 @@
         "v-00115"
       ],
       "run_id": "20261027T072215Z-049b7de9",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-28T07:57:39.368184+00:00",
+      "created_at": "2026-10-28T07:57:26.077370+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01661"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02299"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02089"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00036"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00908"
+        }
+      ],
+      "published_ids": [
+        "v-01661",
+        "v-02299",
+        "v-02089",
+        "v-00036",
+        "v-00908"
+      ],
+      "run_id": "20261028T075726Z-3810fa03",
       "status": "completed",
       "unknown_ids": []
     }
