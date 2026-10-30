@@ -8,6 +8,7 @@ from typing import Any
 
 import requests
 
+import cerebras_keys
 from config import SETTINGS
 from dataset import WordEntry
 
@@ -246,13 +247,17 @@ def _request_json(system: str, user: str, schema: dict, *, max_tokens: int, atte
         "temperature": 0.1,
         "reasoning_effort": SETTINGS.cerebras_reasoning_effort,
     }
-    headers = {
-        "Authorization": f"Bearer {SETTINGS.cerebras_api_key}",
-        "Content-Type": "application/json",
-        "User-Agent": UA,
-    }
     last_error: Exception | None = None
-    for attempt in range(1, attempts + 1):
+    attempts_used = 0
+    while attempts_used < attempts:
+        # Headers are built per attempt so a key failover (which repoints
+        # SETTINGS at the next key) is picked up on the very next try, and a
+        # failover retry does not consume the content-retry budget.
+        headers = {
+            "Authorization": f"Bearer {SETTINGS.cerebras_api_key}",
+            "Content-Type": "application/json",
+            "User-Agent": UA,
+        }
         try:
             response = requests.post(CEREBRAS_URL, headers=headers, json=payload, timeout=SETTINGS.request_timeout)
             response.raise_for_status()
@@ -277,8 +282,12 @@ def _request_json(system: str, user: str, schema: dict, *, max_tokens: int, atte
                 raise
         except Exception as exc:
             last_error = exc
-            if attempt < attempts:
-                logger.warning("AI JSON attempt %d/%d failed: %s", attempt, attempts, exc)
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            if cerebras_keys.is_quota_status(status) and cerebras_keys.failover(status):
+                continue
+            attempts_used += 1
+            if attempts_used < attempts:
+                logger.warning("AI JSON attempt %d/%d failed: %s", attempts_used, attempts, exc)
     if last_error:
         raise last_error
     return None
