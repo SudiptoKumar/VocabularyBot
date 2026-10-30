@@ -44,6 +44,9 @@ class Settings:
     strict_dataset: bool = env_bool("STRICT_DATASET", True)
 
     cerebras_api_key: str = os.getenv("CEREBRAS_API_KEY", "")
+    cerebras_api_key_2: str = os.getenv("CEREBRAS_API_KEY_2", "")
+    newsroom_bot_token: str = os.getenv("NEWSROOM_BOT_TOKEN", "")
+    alert_chat_id: str = os.getenv("ALERT_CHAT_ID", "")
     cerebras_model: str = os.getenv("CEREBRAS_MODEL", "gpt-oss-120b")
     cerebras_reasoning_effort: str = os.getenv("CEREBRAS_REASONING_EFFORT", "low")
     use_cerebras: bool = env_bool("USE_CEREBRAS", True)
