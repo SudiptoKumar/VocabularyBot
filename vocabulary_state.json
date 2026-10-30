@@ -593,6 +593,64 @@
         }
       ]
     },
+    "v-00184": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fa68dc1a0b85b7a973d5dad876cb5e01555fbffc3106d599e611c237a1f16aa0",
+      "antonyms": [
+        {
+          "meaning": "pay no attention",
+          "word": "ignore"
+        },
+        {
+          "meaning": "fail to assess",
+          "word": "overlook"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "assess performance",
+        "assess risk",
+        "assess damage",
+        "assess needs",
+        "assess quickly"
+      ],
+      "common_mistake_correct": "use \"assessment\" for the noun form",
+      "common_mistake_wrong": "using \"assess\" as a noun",
+      "definition_en": "To evaluate or judge the value of something.",
+      "example_bn": "শিক্ষক আগামীকাল শিক্ষার্থীদের প্রবন্ধ মূল্যনির্ণয় করবেন।",
+      "example_en": "The teacher will assess the students' essays tomorrow.",
+      "memory_hook": "\"Assess\" sounds like \"a test\" – you test something to judge it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "We need to assess the damage after the storm.",
+        "The assess was very hard.",
+        "Assessing is fun.",
+        "She will assess the cake."
+      ],
+      "quiz_question": "Which sentence uses \"assess\" correctly?",
+      "short_meaning_en": "evaluate",
+      "synonyms": [
+        {
+          "meaning": "judge value",
+          "word": "evaluate"
+        },
+        {
+          "meaning": "determine worth",
+          "word": "appraise"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "assessment"
+        },
+        {
+          "type": "noun",
+          "word": "assessor"
+        }
+      ]
+    },
     "v-00187": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8acf8010eeed01274d594cc1db5446571a825c8527836d74ba632839c2f3153f",
@@ -2859,6 +2917,60 @@
         }
       ]
     },
+    "v-00782": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "62e42ed3a0a6417e39f45dd366a279dab77c4f2ee4889a02034df04781006dd9",
+      "antonyms": [
+        {
+          "meaning": "ignore rules",
+          "word": "neglect"
+        },
+        {
+          "meaning": "allow lax behavior",
+          "word": "indulge"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "discipline yourself",
+        "discipline the team",
+        "maintain discipline",
+        "lack of discipline",
+        "discipline measures"
+      ],
+      "common_mistake_correct": "use \"discipline\" as a verb meaning to train or correct",
+      "common_mistake_wrong": "discipline (noun) as a verb without proper context",
+      "definition_en": "To train someone to follow rules and behave properly.",
+      "example_bn": "কোচ খেলোয়াড়দের দেরি করে আসার জন্য শাস্তি দিলেন।",
+      "example_en": "The coach disciplined the players for arriving late.",
+      "memory_hook": "Imagine a \"disc\" that spins straight – you keep things in line.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She has great discipline in her studies.",
+        "The teacher will discipline the class for talking.",
+        "Discipline is important for success.",
+        "He needs more discipline."
+      ],
+      "quiz_question": "Which sentence uses \"discipline\" as a verb?",
+      "short_meaning_en": "train behavior",
+      "synonyms": [
+        {
+          "meaning": "teach to behave",
+          "word": "train"
+        },
+        {
+          "meaning": "control actions",
+          "word": "regulate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "disciplinary"
+        }
+      ]
+    },
     "v-00797": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b2570b4ae0905285a09b620eaeeee7861b388c1c305a1cf555d0edf16d8eeba3",
@@ -4285,6 +4397,60 @@
         {
           "type": "verb",
           "word": "geared"
+        }
+      ]
+    },
+    "v-01178": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "be8b368d03738013061f6f2a12ccfe8d96bfe1547760e6c216e02aef19fad739",
+      "antonyms": [
+        {
+          "meaning": "something taken away",
+          "word": "penalty"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "birthday gift",
+        "gift shop",
+        "gift card",
+        "gift wrap",
+        "gift exchange"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A present given to someone as a sign of appreciation.",
+      "example_bn": "সে আমাকে জন্মদিনের উপহার দিল।",
+      "example_en": "She gave me a birthday gift.",
+      "memory_hook": "\"Gift\" sounds like \"give\" – you give something to someone.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A punishment",
+        "A present",
+        "A schedule",
+        "A rule"
+      ],
+      "quiz_question": "What is a \"gift\"?",
+      "short_meaning_en": "present",
+      "synonyms": [
+        {
+          "meaning": "something given",
+          "word": "present"
+        },
+        {
+          "meaning": "gift of money or goods",
+          "word": "donation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "gifted"
+        },
+        {
+          "type": "noun",
+          "word": "giftedness"
         }
       ]
     },
@@ -8694,6 +8860,60 @@
         }
       ]
     },
+    "v-02321": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f46cdbac954979165b895c7f339b08df9ac87a16be7ee126e3054f5d81c0ed09",
+      "antonyms": [
+        {
+          "meaning": "lack of order",
+          "word": "chaos"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "daily schedule",
+        "class schedule",
+        "work schedule",
+        "schedule ahead",
+        "schedule changes"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A plan that lists when activities will happen.",
+      "example_bn": "স্কুলের অনুসূচি দেখায় কখন কোন ক্লাস শুরু হয়।",
+      "example_en": "The school schedule shows when each class starts.",
+      "memory_hook": "Think of a \"shed\" where you keep a calendar – schedule lives in a shed of time.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "How much money you have",
+        "When events will happen",
+        "What you like to eat",
+        "Your favorite movies"
+      ],
+      "quiz_question": "What does a schedule show?",
+      "short_meaning_en": "plan list",
+      "synonyms": [
+        {
+          "meaning": "a chart of times",
+          "word": "timetable"
+        },
+        {
+          "meaning": "a list of items to be done",
+          "word": "agenda"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "scheduled"
+        },
+        {
+          "type": "noun",
+          "word": "scheduling"
+        }
+      ]
+    },
     "v-02328": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8d9f60257d7bb54be7bd8c70257a9ae3db835f16bcbe053df85e04ee2d3468e0",
@@ -10779,6 +10999,60 @@
         }
       ]
     },
+    "v-02886": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a458e50418fd69e9d56464d90e0cd312cc53c6a27ef4ccbc72e697d7bac77c5a",
+      "antonyms": [
+        {
+          "meaning": "force someone",
+          "word": "coerce"
+        },
+        {
+          "meaning": "oblige against will",
+          "word": "compel"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "volunteer work",
+        "volunteer for",
+        "volunteer at",
+        "volunteer program",
+        "volunteer help"
+      ],
+      "common_mistake_correct": "use \"volunteer\" as a verb: \"to volunteer\"",
+      "common_mistake_wrong": "using \"volunteer\" as a noun when a verb is needed",
+      "definition_en": "To offer one's time freely for a cause or task.",
+      "example_bn": "স্কুলের পরে তিনি পার্ক পরিষ্কার করতে স্বেচ্ছায় দিলেন।",
+      "example_en": "She volunteered to clean the park after school.",
+      "memory_hook": "Think of \"volunteer\" as \"voluntary\" action – you choose to do it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He is a volunteer at the shelter.",
+        "She volunteered to teach the class.",
+        "Volunteers are needed today.",
+        "They volunteer often."
+      ],
+      "quiz_question": "Which sentence correctly uses \"volunteer\" as a verb?",
+      "short_meaning_en": "offer help",
+      "synonyms": [
+        {
+          "meaning": "present help",
+          "word": "offer"
+        },
+        {
+          "meaning": "give freely",
+          "word": "donate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "voluntary"
+        }
+      ]
+    },
     "v-02894": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -12469,6 +12743,14 @@
       "source_fingerprint": "7842570b06fe3a554ffe1864a067241bc76e8331a4cbf1c515fe7e72ca0a9d95",
       "status": "corrected"
     },
+    "v-00184": {
+      "audited_at": "2026-10-30T08:07:42.212366+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মূল্যনির্ণয় করা",
+      "reason": "Correct Bangla translation for the verb 'assess'.",
+      "source_fingerprint": "fa68dc1a0b85b7a973d5dad876cb5e01555fbffc3106d599e611c237a1f16aa0",
+      "status": "valid"
+    },
     "v-00187": {
       "audited_at": "2026-10-14T07:09:15.047436+00:00",
       "confidence": 1.0,
@@ -12725,6 +13007,14 @@
       "source_fingerprint": "c65b7c30c31037cab1445cf48591fa96f116c19d1a2b2f26995a9fe04ee8bd83",
       "status": "valid"
     },
+    "v-00782": {
+      "audited_at": "2026-10-30T08:07:42.212266+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "নিয়মানুবর্তিতা, সংযম, নিয়মনির্বাহী করতে",
+      "reason": "The supplied Bangla senses correspond to both the noun and verb senses of 'discipline'.",
+      "source_fingerprint": "62e42ed3a0a6417e39f45dd366a279dab77c4f2ee4889a02034df04781006dd9",
+      "status": "valid"
+    },
     "v-00797": {
       "audited_at": "2026-09-29T07:56:03.720038+00:00",
       "confidence": 0.99,
@@ -12899,6 +13189,14 @@
       "meaning_bn": "যান্ত্রিক যানের চালক অংশ",
       "reason": "The meaning correctly describes 'gear' as the driving component of a mechanical vehicle.",
       "source_fingerprint": "99198776bc7a387405f2ffe1f34ceaf569493b14121df9f445f0c0cae3d20b53",
+      "status": "valid"
+    },
+    "v-01178": {
+      "audited_at": "2026-10-30T08:07:42.212339+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "উপহার, দান",
+      "reason": "Accurate Bangla equivalents for the noun 'gift'.",
+      "source_fingerprint": "be8b368d03738013061f6f2a12ccfe8d96bfe1547760e6c216e02aef19fad739",
       "status": "valid"
     },
     "v-01182": {
@@ -13437,6 +13735,14 @@
       "source_fingerprint": "518cfc74b29f50926f92cd47d1137a92a36bc2632e9f12dd6f88a38240e0efd2",
       "status": "valid"
     },
+    "v-02321": {
+      "audited_at": "2026-10-30T08:07:42.212198+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অনুসূচি, তফসিল",
+      "reason": "Both meanings accurately reflect the English noun 'schedule' as a list or timetable.",
+      "source_fingerprint": "f46cdbac954979165b895c7f339b08df9ac87a16be7ee126e3054f5d81c0ed09",
+      "status": "valid"
+    },
     "v-02328": {
       "audited_at": "2026-10-27T04:48:27.881147+00:00",
       "confidence": 0.99,
@@ -13692,6 +13998,14 @@
       "reason": "The Bangla meaning correctly represents the pronoun 'us'.",
       "source_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
       "status": "valid"
+    },
+    "v-02886": {
+      "audited_at": "2026-10-30T08:07:42.212308+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "স্বেচ্ছাসেবক • স্বেচ্ছায় দিতে",
+      "reason": "The second fragment contains a typo ('স্বৈচ্ছায়'); corrected to the proper Bangla phrase for the verb sense.",
+      "source_fingerprint": "afa3aaa80b5d125f2dd15be793ebf5a4cbf4183fadd87cce4350576504c8ea4c",
+      "status": "corrected"
     },
     "v-02905": {
       "audited_at": "2026-10-11T08:20:56.006877+00:00",
@@ -13953,6 +14267,12 @@
       "photo_file_id": "AgACAgUAAxUHas8qpQMScZxdFmyWetTP8wm06oQAAt0QaxsBiXlWkjhBkhhZ1v8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00184": {
+      "audio_file_id": "CQACAgUAAxUHauRQWp0lLjuRbd6VRbSOHzW_6yAAAmggAALv5yBXvAmdr2bP1zc9BA",
+      "cached_at": "2026-10-30T08:07:55.018711+00:00",
+      "photo_file_id": "AgACAgUAAxUHauRQWn-7E7akyIRjGyg-N2FwKjcAAqQSaxvv5yBXyNrPEPPQZkcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00187": {
       "audio_file_id": "CQACAgUAAxUHas8qnlBbiCAYy1p5mGhdaDqynloAAkogAAIBiXlWQniJq4TCBbU9BA",
       "cached_at": "2026-10-14T07:09:18.954264+00:00",
@@ -14193,6 +14513,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk8XGj1wPMxl6BUZbWRH9Nhr8AAhEUaxucC8lV6s0pjg61d9MBAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00782": {
+      "audio_file_id": "CQACAgUAAxUHauRQU8nsXLRFkRY2Fceyxk0jTBoAAmUgAALv5yBXCDLBqFIzrJk9BA",
+      "cached_at": "2026-10-30T08:07:48.352735+00:00",
+      "photo_file_id": "AgACAgUAAxUHauRQUzkNQzT_SDh1MuwgxYviWSQAAqASaxvv5yBXDjSBIwcHsRABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00797": {
       "audio_file_id": "CQACAgUAAxUHartvGMmg4Z4NhG-YiEBt0MDTZWYAAr8gAAJT7NlV2E4E-HsTmzY9BA",
       "cached_at": "2026-09-29T07:56:09.424300+00:00",
@@ -14340,6 +14666,12 @@
       "audio_file_id": "CQACAgUAAxUHasX_BezdqVcyffKIQ54XuFa-SqEAAnMrAAKIuzFWea1nUwtLKyQ9BA",
       "cached_at": "2026-10-07T08:12:53.742570+00:00",
       "photo_file_id": "AgACAgUAAxUHasX_BS-Zm494FWee_cjyRbzAWDcAAl0RaxuIuzFWqnAViimB1BcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01178": {
+      "audio_file_id": "CQACAgUAAxUHauRQV6EKuSuIzNWaCRxB1cEy5v8AAmcgAALv5yBXCsNAlENFCLc9BA",
+      "cached_at": "2026-10-30T08:07:52.454054+00:00",
+      "photo_file_id": "AgACAgUAAxUHauRQV0gl5AfccrogpeEK8gvav8EAAqISaxvv5yBXXInkVgEcB-UBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01182": {
@@ -14801,6 +15133,12 @@
       "photo_file_id": "AgACAgUAAxUHauAtIZV5Gva0WeYcb1rplZGPZIwAAiocaxsz9whX-kAzitl_HXkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02321": {
+      "audio_file_id": "CQACAgUAAxUHauRQUQptNwFIU9sfDsNCWHJpJ4gAAmQgAALv5yBX5Wn70sHNdbY9BA",
+      "cached_at": "2026-10-30T08:07:45.811337+00:00",
+      "photo_file_id": "AgACAgUAAxUHauRQUQt_nSkpNChK1CHzBrWCpngAAp8Saxvv5yBXjiMWBjCGW6gBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02328": {
       "audio_file_id": "CQACAgUAAxUHauAtJlURQAffEUoZYOeviLNYa6kAAs4eAAIz9whXBk_qWlS0zLM9BA",
       "cached_at": "2026-10-27T04:48:38.721964+00:00",
@@ -15015,6 +15353,12 @@
       "photo_file_id": "AgACAgUAAxUHaraMAo_V9lyLFfw12v5XpR4td3oAAj0RaxvpIblVTsXU_r8VROgBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMAekpFMmZCJFUEhLU1QQu4RgAAvseAALpIblVfghgTyio0zE9BA"
+    },
+    "v-02886": {
+      "audio_file_id": "CQACAgUAAxUHauRQVTBsMltxJvZM8JkYzSVXJXcAAmYgAALv5yBXoRAtzZ12fSA9BA",
+      "cached_at": "2026-10-30T08:07:50.437245+00:00",
+      "photo_file_id": "AgACAgUAAxUHauRQVtz5dgPZ7IwRF53PuojXKUgAAqESaxvv5yBXw5pUcUpqCroBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02894": {
       "cached_at": "2026-09-25T14:58:13.930850+00:00",
@@ -15273,6 +15617,12 @@
       "last_message_id": 176,
       "published_at": "2026-10-14T07:09:25.582043+00:00"
     },
+    "v-00184": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 252,
+      "published_at": "2026-10-30T08:07:55.018735+00:00"
+    },
     "v-00187": {
       "count": 1,
       "last_cycle": 1,
@@ -15516,6 +15866,12 @@
       "last_message_id": 82,
       "published_at": "2026-09-27T00:36:01.625898+00:00"
     },
+    "v-00782": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 249,
+      "published_at": "2026-10-30T08:07:48.352761+00:00"
+    },
     "v-00797": {
       "count": 1,
       "last_cycle": 1,
@@ -15668,6 +16024,12 @@
       "last_cycle": 1,
       "last_message_id": 139,
       "published_at": "2026-10-07T08:12:53.742596+00:00"
+    },
+    "v-01178": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 251,
+      "published_at": "2026-10-30T08:07:52.454078+00:00"
     },
     "v-01182": {
       "count": 1,
@@ -16138,6 +16500,12 @@
       "last_message_id": 229,
       "published_at": "2026-10-27T04:48:34.106001+00:00"
     },
+    "v-02321": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 248,
+      "published_at": "2026-10-30T08:07:45.811362+00:00"
+    },
     "v-02328": {
       "count": 1,
       "last_cycle": 1,
@@ -16356,6 +16724,12 @@
       "published_at": "2026-09-25T14:58:10.776459+00:00",
       "quiz_message_id": 36
     },
+    "v-02886": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 250,
+      "published_at": "2026-10-30T08:07:50.437268+00:00"
+    },
     "v-02894": {
       "count": 1,
       "last_cycle": 1,
@@ -16549,11 +16923,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02321",
-    "v-00782",
-    "v-02886",
-    "v-01178",
-    "v-00184",
     "v-02103",
     "v-02091",
     "v-00475",
@@ -19834,41 +20203,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261001T082236Z-6eb5b957": {
-      "completed_at": "2026-10-01T08:22:49.568325+00:00",
-      "created_at": "2026-10-01T08:22:36.555486+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02705"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00817"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03764"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00997"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02992"
-        }
-      ],
-      "published_ids": [
-        "v-02705",
-        "v-00817",
-        "v-03764",
-        "v-00997",
-        "v-02992"
-      ],
-      "status": "completed"
-    },
     "20261002T075858Z-fdce9e4b": {
       "completed_at": "2026-10-02T07:59:16.372288+00:00",
       "created_at": "2026-10-02T07:58:58.008510+00:00",
@@ -20895,6 +21229,41 @@
         "v-00636",
         "v-02768",
         "v-01715"
+      ],
+      "status": "completed"
+    },
+    "20261030T080741Z-75d57f0b": {
+      "completed_at": "2026-10-30T08:07:55.048626+00:00",
+      "created_at": "2026-10-30T08:07:41.703899+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02321"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00782"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02886"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01178"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00184"
+        }
+      ],
+      "published_ids": [
+        "v-02321",
+        "v-00782",
+        "v-02886",
+        "v-01178",
+        "v-00184"
       ],
       "status": "completed"
     }
@@ -22633,6 +23002,43 @@
         "v-01715"
       ],
       "run_id": "20261029T080533Z-53f89d13",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-30T08:07:55.048626+00:00",
+      "created_at": "2026-10-30T08:07:41.703899+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02321"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00782"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02886"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01178"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00184"
+        }
+      ],
+      "published_ids": [
+        "v-02321",
+        "v-00782",
+        "v-02886",
+        "v-01178",
+        "v-00184"
+      ],
+      "run_id": "20261030T080741Z-75d57f0b",
       "status": "completed",
       "unknown_ids": []
     }
