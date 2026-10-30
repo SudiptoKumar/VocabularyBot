@@ -10,6 +10,7 @@ from typing import Any
 
 import requests
 
+import cerebras_keys
 from config import SETTINGS
 from dataset import WordEntry
 
@@ -113,13 +114,22 @@ def _post_json(messages: list[dict[str, str]], schema: dict[str, Any], *, max_to
         "temperature": 0.0,
         "reasoning_effort": SETTINGS.cerebras_reasoning_effort,
     }
-    headers = {
-        "Authorization": f"Bearer {SETTINGS.cerebras_api_key}",
-        "Content-Type": "application/json",
-        "User-Agent": UA,
-    }
-    response = requests.post(CEREBRAS_URL, headers=headers, json=payload, timeout=SETTINGS.request_timeout)
-    response.raise_for_status()
+    while True:
+        # Rebuilt per try so a key failover is picked up immediately.
+        headers = {
+            "Authorization": f"Bearer {SETTINGS.cerebras_api_key}",
+            "Content-Type": "application/json",
+            "User-Agent": UA,
+        }
+        response = requests.post(CEREBRAS_URL, headers=headers, json=payload, timeout=SETTINGS.request_timeout)
+        try:
+            response.raise_for_status()
+            break
+        except requests.HTTPError:
+            status = response.status_code
+            if cerebras_keys.is_quota_status(status) and cerebras_keys.failover(status):
+                continue
+            raise
     body = response.json()
     choice = body["choices"][0]
     finish = str(choice.get("finish_reason") or "")
