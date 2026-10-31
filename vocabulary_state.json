@@ -1514,6 +1514,72 @@
         }
       ]
     },
+    "v-00475": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f7fd9758f3cfaba357f0703cddbc5ae9ebc8ffc08e6f88387c1a88607164a7b7",
+      "antonyms": [
+        {
+          "meaning": "covered with grime",
+          "word": "dirty"
+        },
+        {
+          "meaning": "to make dirty",
+          "word": "soil"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "clean the house",
+        "clean up",
+        "clean water",
+        "clean hands",
+        "clean surface"
+      ],
+      "common_mistake_correct": "Use \"cleaner\" for a person who cleans",
+      "common_mistake_wrong": "Using \"clean\" as a noun for a person (e.g., \"a clean\")",
+      "definition_en": "To make something free from dirt or unwanted substances.",
+      "example_bn": "রাতের খাবারের পরে তিনি রান্নাঘর পরিষ্কার করলেন।",
+      "example_en": "She cleaned the kitchen after dinner.",
+      "memory_hook": "If you \"clean\" the \"clan\", you remove the mess",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "to decorate",
+        "to make dirty",
+        "to make clean",
+        "to cook"
+      ],
+      "quiz_question": "What does the verb \"clean\" mean?",
+      "short_meaning_en": "make clean",
+      "synonyms": [
+        {
+          "meaning": "to arrange neatly",
+          "word": "tidy"
+        },
+        {
+          "meaning": "to clean by rubbing",
+          "word": "scrub"
+        },
+        {
+          "meaning": "to clean with water",
+          "word": "wash"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "cleaner"
+        },
+        {
+          "type": "noun",
+          "word": "cleanliness"
+        },
+        {
+          "type": "adverb",
+          "word": "cleanly"
+        }
+      ]
+    },
     "v-00483": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "1b5bceb5ef532d14b4e86850a61cc8972e140bb0dd9d92547bdfa108bbb775c4",
@@ -2968,6 +3034,68 @@
         {
           "type": "adjective",
           "word": "disciplinary"
+        }
+      ]
+    },
+    "v-00796": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c55f73959f96c481ed9c52f1f2fd36966b0f5c0e5eac096840b2d26892201dc2",
+      "antonyms": [
+        {
+          "meaning": "close",
+          "word": "near"
+        },
+        {
+          "meaning": "nearby",
+          "word": "close"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "distant memory",
+        "distant relative",
+        "distant future",
+        "distant look",
+        "distant star"
+      ],
+      "common_mistake_correct": "Use \"distant\" for adjectives, \"distantly\" for adverbs",
+      "common_mistake_wrong": "Confusing \"distant\" with \"distantly\" when describing an action",
+      "definition_en": "Located far away in space or time.",
+      "example_bn": "তারা শহর থেকে দূরবর্তী একটি গ্রামে থাকতেন।",
+      "example_en": "They lived in a distant village far from the city.",
+      "memory_hook": "\"Distant\" sounds like \"distance\" – both mean far away",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "near",
+        "distant",
+        "short",
+        "bright"
+      ],
+      "quiz_question": "Which word best describes something far away?",
+      "short_meaning_en": "far",
+      "synonyms": [
+        {
+          "meaning": "far away",
+          "word": "remote"
+        },
+        {
+          "meaning": "distant",
+          "word": "faraway"
+        },
+        {
+          "meaning": "at a great distance",
+          "word": "far"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "distance"
+        },
+        {
+          "type": "adverb",
+          "word": "distantly"
         }
       ]
     },
@@ -5881,6 +6009,68 @@
         }
       ]
     },
+    "v-01551": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "88d79864384d28a009d59c4fbdb0c988fbb5948fea8b32373f5d4af766dd2d5a",
+      "antonyms": [
+        {
+          "meaning": "the act of being apart",
+          "word": "separation"
+        },
+        {
+          "meaning": "lack of connection",
+          "word": "disconnect"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "link between",
+        "link up",
+        "link to",
+        "hyperlink",
+        "link the two ideas"
+      ],
+      "common_mistake_correct": "Use \"link\" for abstract connections; \"chain link\" for a physical link",
+      "common_mistake_wrong": "Using \"link\" as a noun for a physical chain",
+      "definition_en": "A connection or relationship between two or more things.",
+      "example_bn": "ব্যায়াম ও স্বাস্থ্যের মধ্যে শক্তিশালী সংযোগ আছে।",
+      "example_en": "There is a strong link between exercise and health.",
+      "memory_hook": "Think of a \"link\" in a chain that joins parts together",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a fruit",
+        "a connection",
+        "a sound",
+        "a color"
+      ],
+      "quiz_question": "What does the noun \"link\" refer to?",
+      "short_meaning_en": "connection",
+      "synonyms": [
+        {
+          "meaning": "a relationship",
+          "word": "connection"
+        },
+        {
+          "meaning": "a binding relationship",
+          "word": "tie"
+        },
+        {
+          "meaning": "a close connection",
+          "word": "bond"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "linked"
+        },
+        {
+          "type": "noun",
+          "word": "linking"
+        }
+      ]
+    },
     "v-01552": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "71ca445ebcc14c3fd20475834829b499ebebcebfc0cef0980fe3128e8127e01d",
@@ -8104,6 +8294,60 @@
         }
       ]
     },
+    "v-02091": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "612de8ca15b11caf99adbeace3a5b6b4e9cfa813d6b2ef9e6f2488061b1414ab",
+      "antonyms": [
+        {
+          "meaning": "time that has already happened",
+          "word": "past"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "future prospects",
+        "job prospects",
+        "prospects look bright",
+        "prospect of rain",
+        "prospectus"
+      ],
+      "common_mistake_correct": "prospect (view) vs prospect (chance)",
+      "common_mistake_wrong": "prospect is sometimes used for \"chance\" instead of \"view\"",
+      "definition_en": "The view or scene that can be seen from a particular place.",
+      "example_bn": "হিলটপ থেকে আমরা উপত্যকার সুন্দর দৃশ্য দেখেছি।",
+      "example_en": "From the hilltop we had a beautiful prospect of the valley.",
+      "memory_hook": "Picture a \"prospector\" looking out over a wide landscape",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "chance",
+        "view",
+        "price",
+        "sound"
+      ],
+      "quiz_question": "What does the word \"prospect\" mean in the sense of a view?",
+      "short_meaning_en": "view",
+      "synonyms": [
+        {
+          "meaning": "a view of the future",
+          "word": "outlook"
+        },
+        {
+          "meaning": "a pleasing view",
+          "word": "vista"
+        },
+        {
+          "meaning": "the visible surroundings",
+          "word": "scene"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "prospective"
+        }
+      ]
+    },
     "v-02094": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "9fa5321f6e8725e0912946b5d223e5797022804979ecbdc83fdf9a099bd41b7e",
@@ -8159,6 +8403,55 @@
         {
           "type": "noun",
           "word": "proteins"
+        }
+      ]
+    },
+    "v-02103": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "71a0799e74a6f013bf921a8d023785c59313e1e50ffdbc2fac8cd7b982844e29",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "clinical psychologist",
+        "school psychologist",
+        "psychologist's office",
+        "psychologist says",
+        "psychologist study"
+      ],
+      "common_mistake_correct": "psychologist studies mind, psychiatrist treats mental illness",
+      "common_mistake_wrong": "psychologist is often confused with psychiatrist",
+      "definition_en": "A professional who studies mental processes and behavior.",
+      "example_bn": "মনস্তাত্ত্বিক তাকে উদ্বেগ অতিক্রম করতে সাহায্য করেছে।",
+      "example_en": "The psychologist helped her overcome anxiety.",
+      "memory_hook": "Think of \"psyche\" (mind) + \"logist\" (someone who studies)",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Engineer",
+        "Psychologist",
+        "Chef",
+        "Lawyer"
+      ],
+      "quiz_question": "Which professional studies mental processes and behavior?",
+      "short_meaning_en": "mental expert",
+      "synonyms": [
+        {
+          "meaning": "a professional who provides therapy",
+          "word": "therapist"
+        },
+        {
+          "meaning": "a person who gives advice and guidance",
+          "word": "counselor"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "psychology"
+        },
+        {
+          "type": "adjective",
+          "word": "psychological"
         }
       ]
     },
@@ -12847,6 +13140,14 @@
       "source_fingerprint": "9150bfd9a11927111837cd1f4cd3e6eb73f0bac01595ab7deff35978dad99c90",
       "status": "valid"
     },
+    "v-00475": {
+      "audited_at": "2026-10-31T08:02:01.457405+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "পরিষ্কার করা",
+      "reason": "The second part 'হেলান দিতে' is unrelated; the correct verb meaning is 'to clean' i.e., পরিষ্কার করা.",
+      "source_fingerprint": "2cd175901e31ac1866d25f7319745cbdb87d3529087a0dc0d04cdf3cde01b2fe",
+      "status": "corrected"
+    },
     "v-00483": {
       "audited_at": "2026-09-27T00:35:50.172645+00:00",
       "confidence": 0.99,
@@ -13013,6 +13314,14 @@
       "meaning_bn": "নিয়মানুবর্তিতা, সংযম, নিয়মনির্বাহী করতে",
       "reason": "The supplied Bangla senses correspond to both the noun and verb senses of 'discipline'.",
       "source_fingerprint": "62e42ed3a0a6417e39f45dd366a279dab77c4f2ee4889a02034df04781006dd9",
+      "status": "valid"
+    },
+    "v-00796": {
+      "audited_at": "2026-10-31T08:02:01.457438+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "দূরবর্তী",
+      "reason": "The meaning correctly reflects the adjective 'distant'.",
+      "source_fingerprint": "c55f73959f96c481ed9c52f1f2fd36966b0f5c0e5eac096840b2d26892201dc2",
       "status": "valid"
     },
     "v-00797": {
@@ -13375,6 +13684,14 @@
       "source_fingerprint": "3f9110e5498becee9aaf3d8e04539bed1977940ba85b70e56386417a48852c88",
       "status": "valid"
     },
+    "v-01551": {
+      "audited_at": "2026-10-31T08:02:01.457473+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "সংযোগ • লিঙ্ক",
+      "reason": "The provided meaning refers to a pig's tusk, which is unrelated; the correct meaning for 'link' is সংযোগ or লিঙ্ক.",
+      "source_fingerprint": "e744f4f38da8a50a5d1e366105f36d909535ac56d56f70f41f9e6994f57d964c",
+      "status": "corrected"
+    },
     "v-01552": {
       "audited_at": "2026-09-26T23:58:20.821258+00:00",
       "confidence": 0.99,
@@ -13631,12 +13948,28 @@
       "source_fingerprint": "c6f561e99a29c016653f8c349fe46b6b686bc356bda1d40d8453614be83be3a5",
       "status": "valid"
     },
+    "v-02091": {
+      "audited_at": "2026-10-31T08:02:01.457360+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "দৃষ্টিগোচর বিস্তৃত দৃশ্য",
+      "reason": "The meaning corresponds to the sense of 'prospect' as a view or outlook.",
+      "source_fingerprint": "612de8ca15b11caf99adbeace3a5b6b4e9cfa813d6b2ef9e6f2488061b1414ab",
+      "status": "valid"
+    },
     "v-02094": {
       "audited_at": "2026-10-06T08:37:14.289895+00:00",
       "confidence": 1.0,
       "meaning_bn": "খাদ্যের আমিষ উপাদান, প্রোটিন",
       "reason": "The Bengali meaning accurately describes the English word 'protein'.",
       "source_fingerprint": "9fa5321f6e8725e0912946b5d223e5797022804979ecbdc83fdf9a099bd41b7e",
+      "status": "valid"
+    },
+    "v-02103": {
+      "audited_at": "2026-10-31T08:02:01.457293+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "মনস্তাত্ত্বিক",
+      "reason": "The supplied meaning accurately matches the English noun 'psychologist'.",
+      "source_fingerprint": "71a0799e74a6f013bf921a8d023785c59313e1e50ffdbc2fac8cd7b982844e29",
       "status": "valid"
     },
     "v-02122": {
@@ -14369,6 +14702,12 @@
       "photo_file_id": "AgACAgUAAxUHarhcKGXi_VFRrlqwic30cCvIK_YAAgYUaxucC8lV0YclxQsFiKkBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-00475": {
+      "audio_file_id": "CQACAgUAAxUHauWggctRLjzUqKPpU3DDs4YyvcwAAgwhAALv5yhXP_bOnERjV9s9BA",
+      "cached_at": "2026-10-31T08:02:10.247479+00:00",
+      "photo_file_id": "AgACAgUAAxUHauWggUst61VgkXMu_CALDjkQ23QAAi0Uaxvv5yhX_K609uV3jy8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00483": {
       "audio_file_id": "CQACAgUAAxUHarhk77g0J42IuFCKdcffopO3vMIAAnEhAAKcC8lVFr2TXmNagxc9BA",
       "cached_at": "2026-09-27T00:35:59.667617+00:00",
@@ -14517,6 +14856,12 @@
       "audio_file_id": "CQACAgUAAxUHauRQU8nsXLRFkRY2Fceyxk0jTBoAAmUgAALv5yBXCDLBqFIzrJk9BA",
       "cached_at": "2026-10-30T08:07:48.352735+00:00",
       "photo_file_id": "AgACAgUAAxUHauRQUzkNQzT_SDh1MuwgxYviWSQAAqASaxvv5yBXDjSBIwcHsRABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00796": {
+      "audio_file_id": "CQACAgUAAxUHauWgg5hxlpBNZHBFCfXxHzNdqk0AAg0hAALv5yhXGHea8os4RBQ9BA",
+      "cached_at": "2026-10-31T08:02:12.289393+00:00",
+      "photo_file_id": "AgACAgUAAxUHauWgg4nmgkay93nayufxZyaHpRQAAi4Uaxvv5yhXIlcwxryUeesBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00797": {
@@ -14818,6 +15163,12 @@
       "photo_file_id": "AgACAgUAAxUHarhcICJPXWY7SzoPVFeJJhOvNvIAAgIUaxucC8lVumOn8l86HdYBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-01551": {
+      "audio_file_id": "CQACAgUAAxUHauWgiF8tSB0N78uPBtjq1EkWG84AAg4hAALv5yhX2TbIZ6o7Zvk9BA",
+      "cached_at": "2026-10-31T08:02:17.060358+00:00",
+      "photo_file_id": "AgACAgUAAxUHauWgiBud_EjJWkJh_PozX_6dmkAAAi8Uaxvv5yhXVMg9y1OCZ7YBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01552": {
       "audio_file_id": "AwACAgUAAxUHarhcInPbq6jbE3vvaocnDmTzvAYAAk4hAAKcC8lVILnK2WgY4iE9BA",
       "cached_at": "2026-09-26T23:58:26.670038+00:00",
@@ -15055,10 +15406,22 @@
       "photo_file_id": "AgACAgUAAxUHauGq7gIGKgzMKer49Hg72SSI03sAAj4eaxsz9xBXG93pyqDUuqMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02091": {
+      "audio_file_id": "CQACAgUAAxUHauWgf160GbY0mDhlFl7S7_FAchoAAgshAALv5yhXZeolYluUz5M9BA",
+      "cached_at": "2026-10-31T08:02:08.037586+00:00",
+      "photo_file_id": "AgACAgUAAxUHauWgf5BNgOeZh9oaZpxTYHpoBo0AAiwUaxvv5yhXTkyow94rz4QBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02094": {
       "audio_file_id": "CQACAgUAAxUHasSzRO42rCaHBgNS577WskIwnRoAAsYhAAL07iFWwFKvlWV2Sto9BA",
       "cached_at": "2026-10-06T08:37:25.113530+00:00",
       "photo_file_id": "AgACAgUAAxUHasSzRJYEJyaRDQ1jkKAJLG89fFoAAlkTaxv07iFWgYOSnr0WlBkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02103": {
+      "audio_file_id": "CQACAgUAAxUHauWgfby91X2VXYmbtxkzZ19YnfMAAgohAALv5yhXk7EEavFdmgk9BA",
+      "cached_at": "2026-10-31T08:02:05.682718+00:00",
+      "photo_file_id": "AgACAgUAAxUHauWgfSY4yTgSrvwFgXtsvv45xrgAAisUaxvv5yhXm-Z5OA6k7csBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02122": {
@@ -15720,6 +16083,12 @@
       "last_message_id": 77,
       "published_at": "2026-09-26T23:58:33.422270+00:00"
     },
+    "v-00475": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 255,
+      "published_at": "2026-10-31T08:02:10.247504+00:00"
+    },
     "v-00483": {
       "count": 1,
       "last_cycle": 1,
@@ -15871,6 +16240,12 @@
       "last_cycle": 1,
       "last_message_id": 249,
       "published_at": "2026-10-30T08:07:48.352761+00:00"
+    },
+    "v-00796": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 256,
+      "published_at": "2026-10-31T08:02:12.289417+00:00"
     },
     "v-00797": {
       "count": 1,
@@ -16177,6 +16552,12 @@
       "last_message_id": 73,
       "published_at": "2026-09-26T23:58:24.903130+00:00"
     },
+    "v-01551": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 257,
+      "published_at": "2026-10-31T08:02:17.060381+00:00"
+    },
     "v-01552": {
       "count": 1,
       "last_cycle": 1,
@@ -16422,11 +16803,23 @@
       "last_message_id": 240,
       "published_at": "2026-10-28T07:57:34.744871+00:00"
     },
+    "v-02091": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 254,
+      "published_at": "2026-10-31T08:02:08.037615+00:00"
+    },
     "v-02094": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 136,
       "published_at": "2026-10-06T08:37:25.113553+00:00"
+    },
+    "v-02103": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 253,
+      "published_at": "2026-10-31T08:02:05.682745+00:00"
     },
     "v-02122": {
       "count": 1,
@@ -16923,11 +17316,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02103",
-    "v-02091",
-    "v-00475",
-    "v-00796",
-    "v-01551",
     "v-01122",
     "v-02210",
     "v-01272",
@@ -20203,41 +20591,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261002T075858Z-fdce9e4b": {
-      "completed_at": "2026-10-02T07:59:16.372288+00:00",
-      "created_at": "2026-10-02T07:58:58.008510+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00903"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02130"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01373"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01216"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01471"
-        }
-      ],
-      "published_ids": [
-        "v-00903",
-        "v-02130",
-        "v-01373",
-        "v-01216",
-        "v-01471"
-      ],
-      "status": "completed"
-    },
     "20261003T074003Z-0eb1daf5": {
       "completed_at": "2026-10-03T07:40:27.553920+00:00",
       "created_at": "2026-10-03T07:40:03.354440+00:00",
@@ -21264,6 +21617,41 @@
         "v-02886",
         "v-01178",
         "v-00184"
+      ],
+      "status": "completed"
+    },
+    "20261031T080201Z-fd97e2b2": {
+      "completed_at": "2026-10-31T08:02:17.092054+00:00",
+      "created_at": "2026-10-31T08:02:01.001553+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02103"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02091"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00475"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00796"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01551"
+        }
+      ],
+      "published_ids": [
+        "v-02103",
+        "v-02091",
+        "v-00475",
+        "v-00796",
+        "v-01551"
       ],
       "status": "completed"
     }
@@ -23039,6 +23427,43 @@
         "v-00184"
       ],
       "run_id": "20261030T080741Z-75d57f0b",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-10-31T08:02:17.092054+00:00",
+      "created_at": "2026-10-31T08:02:01.001553+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02103"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02091"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00475"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00796"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01551"
+        }
+      ],
+      "published_ids": [
+        "v-02103",
+        "v-02091",
+        "v-00475",
+        "v-00796",
+        "v-01551"
+      ],
+      "run_id": "20261031T080201Z-fd97e2b2",
       "status": "completed",
       "unknown_ids": []
     }
