@@ -3625,6 +3625,68 @@
         }
       ]
     },
+    "v-00902": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e025d0e8d5e3801fc3b6a02aff3da5f06b72a34b0ecee26ae9554176dc38649e",
+      "antonyms": [
+        {
+          "meaning": "deter",
+          "word": "discourage"
+        },
+        {
+          "meaning": "prevent",
+          "word": "deter"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "encourage someone",
+        "encourage growth",
+        "encourage participation",
+        "encourage effort",
+        "encourage confidence"
+      ],
+      "common_mistake_correct": "encourage",
+      "common_mistake_wrong": "encurage",
+      "definition_en": "To give someone confidence or enthusiasm to do something.",
+      "example_bn": "তার শিক্ষক তাকে স্কলারশিপের জন্য আবেদন করতে উৎসাহ দিয়েছেন।",
+      "example_en": "Her teacher encouraged her to apply for the scholarship.",
+      "memory_hook": "\"En‑\" (in) + \"courage\" (bravery) – bring bravery in.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She will encourage the team.",
+        "She will encourage quickly.",
+        "She will encourage the blue.",
+        "She will encourage 123."
+      ],
+      "quiz_question": "Choose the correct use of \"encourage\".",
+      "short_meaning_en": "inspire",
+      "synonyms": [
+        {
+          "meaning": "give a reason to act",
+          "word": "motivate"
+        },
+        {
+          "meaning": "stimulate creatively",
+          "word": "inspire"
+        },
+        {
+          "meaning": "prompt",
+          "word": "spur"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "encouragement"
+        },
+        {
+          "type": "adjective",
+          "word": "encouraging"
+        }
+      ]
+    },
     "v-00903": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d108f563f0d63a22574fa5a846b946704818fdef01cd444a69c4631b052fb981",
@@ -4380,6 +4442,68 @@
         }
       ]
     },
+    "v-01122": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9e3ecc26f9dfd5dd202e30972dc183548d3d5440d31808ab0268aaaaee98052f",
+      "antonyms": [
+        {
+          "meaning": "state of being confined",
+          "word": "captivity"
+        },
+        {
+          "meaning": "harsh control",
+          "word": "oppression"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "freedom of speech",
+        "freedom of choice",
+        "fight for freedom",
+        "enjoy freedom",
+        "freedom movement"
+      ],
+      "common_mistake_correct": "freedom",
+      "common_mistake_wrong": "freedome",
+      "definition_en": "The state of being free from restriction or oppression.",
+      "example_bn": "দিক্‌তান্ত্রিক শাসনের পর মানুষ স্বাধীনতার জন্য লড়াই করেছে।",
+      "example_en": "People fought for freedom after years of dictatorship.",
+      "memory_hook": "Think of \"free\" + \"dom\" (a house) – a free house is a place of freedom.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "liberty",
+        "captivity",
+        "freedom",
+        "oppression"
+      ],
+      "quiz_question": "Which word means \"স্বাধীনতা\"?",
+      "short_meaning_en": "independence",
+      "synonyms": [
+        {
+          "meaning": "freedom from external control",
+          "word": "liberty"
+        },
+        {
+          "meaning": "self‑governance",
+          "word": "independence"
+        },
+        {
+          "meaning": "self‑rule",
+          "word": "autonomy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "free"
+        },
+        {
+          "type": "adverb",
+          "word": "freely"
+        }
+      ]
+    },
     "v-01142": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "64f03527ac568c5c96d7caa783b780ac702f0982980d70b6307024e99d1e131c",
@@ -4958,6 +5082,64 @@
         {
           "type": "noun",
           "word": "heroism"
+        }
+      ]
+    },
+    "v-01272": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f50e3a7c616a0ae2f873e6496db0b81e8d15216367afc0b23c3c2c1252eb67a3",
+      "antonyms": [
+        {
+          "meaning": "not high",
+          "word": "low"
+        },
+        {
+          "meaning": "not tall",
+          "word": "short"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "high mountain",
+        "high price",
+        "high speed",
+        "high hopes",
+        "high school"
+      ],
+      "common_mistake_correct": "high",
+      "common_mistake_wrong": "hiegh",
+      "definition_en": "Having a great height or a very large amount.",
+      "example_bn": "পাহাড়টি উঁচু এবং তুষারে ঢাকা।",
+      "example_en": "The mountain is high and covered in snow.",
+      "memory_hook": "Picture a high \"hi\" hand wave reaching up.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The high price surprised me.",
+        "The high cat jumped.",
+        "The high quickly ran.",
+        "The high is blue."
+      ],
+      "quiz_question": "Which sentence uses \"high\" correctly?",
+      "short_meaning_en": "tall / great",
+      "synonyms": [
+        {
+          "meaning": "of great vertical extent",
+          "word": "tall"
+        },
+        {
+          "meaning": "raised",
+          "word": "elevated"
+        },
+        {
+          "meaning": "high",
+          "word": "lofty"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "highly"
         }
       ]
     },
@@ -8625,6 +8807,64 @@
         {
           "type": "noun",
           "word": "recruiter"
+        }
+      ]
+    },
+    "v-02210": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "194106d3e45f6823c1cb2fd2eee183923f3ff7e3b76244d9a565f8227c88b9e5",
+      "antonyms": [
+        {
+          "meaning": "become different",
+          "word": "change"
+        },
+        {
+          "meaning": "modify",
+          "word": "alter"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "remain silent",
+        "remain calm",
+        "remain unchanged",
+        "remain in place",
+        "remain loyal"
+      ],
+      "common_mistake_correct": "remain",
+      "common_mistake_wrong": "remian",
+      "definition_en": "To stay unchanged or continue to be in the same condition.",
+      "example_bn": "পুরনো বাড়িটি বছরের পর বছর অপরিবর্তিত থাকবে।",
+      "example_en": "The old house will remain as it is for years.",
+      "memory_hook": "Remember \"re‑\" (again) + \"main\" (stay) – to stay again, i.e., remain.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "অপরিবর্তিত থাকা",
+        "বড়",
+        "দৌড়ানো",
+        "খাওয়া"
+      ],
+      "quiz_question": "What does \"remain\" mean in Bangla?",
+      "short_meaning_en": "stay unchanged",
+      "synonyms": [
+        {
+          "meaning": "continue to be",
+          "word": "stay"
+        },
+        {
+          "meaning": "continue existing",
+          "word": "persist"
+        },
+        {
+          "meaning": "last",
+          "word": "endure"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "remaining"
         }
       ]
     },
@@ -12640,6 +12880,59 @@
         }
       ]
     },
+    "v-03923": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bf617c549adc7686bdf685953621033359f981f8d7156e1a373d3340492cb33d",
+      "antonyms": [
+        {
+          "meaning": "one who receives messages",
+          "word": "receiver"
+        },
+        {
+          "meaning": "one who suppresses messages",
+          "word": "silencer"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "messenger of God",
+        "messenger service",
+        "messenger bag",
+        "messenger app",
+        "faithful messenger"
+      ],
+      "common_mistake_correct": "messenger",
+      "common_mistake_wrong": "messanger",
+      "definition_en": "A person who delivers a message, especially a prophet in religious context.",
+      "example_bn": "ইসলামে মুহাম্মদকে আল্লাহর রাসূল হিসেবে গণ্য করা হয়।",
+      "example_en": "Muhammad is considered a messenger of God in Islam.",
+      "memory_hook": "Think of \"mess\" + \"enger\" – a person who sends the mess.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "রাসূল",
+        "গাছ",
+        "বই",
+        "গাড়ি"
+      ],
+      "quiz_question": "What does \"messenger\" mean in Bangla?",
+      "short_meaning_en": "prophet",
+      "synonyms": [
+        {
+          "meaning": "one who foretells",
+          "word": "prophet"
+        },
+        {
+          "meaning": "representative",
+          "word": "emissary"
+        },
+        {
+          "meaning": "announcer",
+          "word": "herald"
+        }
+      ],
+      "word_family": []
+    },
     "v-03983": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
@@ -13388,6 +13681,14 @@
       "source_fingerprint": "fea756b03a5a2054598c625cb7ee3ffb5ca176557fc98f673986b53c3bc3b57b",
       "status": "corrected"
     },
+    "v-00902": {
+      "audited_at": "2026-11-01T08:46:46.907525+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অনুপ্রাণিত করা, উৎসাহ দেওয়া",
+      "reason": "The meaning correctly captures the verb \"encourage\".",
+      "source_fingerprint": "e025d0e8d5e3801fc3b6a02aff3da5f06b72a34b0ecee26ae9554176dc38649e",
+      "status": "valid"
+    },
     "v-00903": {
       "audited_at": "2026-10-02T07:58:58.609196+00:00",
       "confidence": 0.98,
@@ -13484,6 +13785,14 @@
       "source_fingerprint": "6766af7c093cb428d4af879ba2f25c7548d761811e57c4a3c1cd3e19c66c9bc6",
       "status": "valid"
     },
+    "v-01122": {
+      "audited_at": "2026-11-01T08:46:46.907354+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "স্বাধীনতা",
+      "reason": "The supplied meaning adds \"অকপটতা\" which is not a sense of \"freedom\"; the correct meaning should only be \"স্বাধীনতা\".",
+      "source_fingerprint": "900e7401b73325881962006b504ae699b7a2acab49f880b1bad30d087a3e5c04",
+      "status": "corrected"
+    },
     "v-01142": {
       "audited_at": "2026-10-08T08:28:35.596875+00:00",
       "confidence": 0.99,
@@ -13554,6 +13863,14 @@
       "meaning_bn": "বীরপুরুষ, নায়ক",
       "reason": "The Bangla meanings accurately correspond to the noun 'hero'.",
       "source_fingerprint": "5893d91102bce7a746273fbf8b4a302d1630a634c8b59c9b61ea327bddf73a71",
+      "status": "valid"
+    },
+    "v-01272": {
+      "audited_at": "2026-11-01T08:46:46.907462+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "উঁচু, মহৎ, খুব বেশী",
+      "reason": "All listed senses correspond to the various meanings of \"high\".",
+      "source_fingerprint": "f50e3a7c616a0ae2f873e6496db0b81e8d15216367afc0b23c3c2c1252eb67a3",
       "status": "valid"
     },
     "v-01290": {
@@ -13995,6 +14312,14 @@
       "reason": "The provided meaning “উদ্ধার করা” is incorrect for “recruit”; the appropriate Bangla translation is “নিয়োগ করা”.",
       "source_fingerprint": "18713824d51e1c36340f32142713ee2dbade8ee5e0954e2dc55b576c354e1624",
       "status": "corrected"
+    },
+    "v-02210": {
+      "audited_at": "2026-11-01T08:46:46.907423+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অপরিবর্তিত থাকা, অপরিবর্তিত থাকতে",
+      "reason": "The Bangla meaning accurately reflects the verb \"remain\" as to stay unchanged.",
+      "source_fingerprint": "194106d3e45f6823c1cb2fd2eee183923f3ff7e3b76244d9a565f8227c88b9e5",
+      "status": "valid"
     },
     "v-02222": {
       "audited_at": "2026-10-11T08:20:56.006824+00:00",
@@ -14484,6 +14809,14 @@
       "source_fingerprint": "cfa9fbbf86c66557feac333698d21b613b0852defaa471e9fe4c60cf29c96eb5",
       "status": "corrected"
     },
+    "v-03923": {
+      "audited_at": "2026-11-01T08:46:46.907491+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "রাসূল",
+      "reason": "In the religious context, \"Messenger\" can be rendered as \"রাসূল\", which is appropriate.",
+      "source_fingerprint": "bf617c549adc7686bdf685953621033359f981f8d7156e1a373d3340492cb33d",
+      "status": "valid"
+    },
     "v-03983": {
       "audited_at": "2026-10-08T08:28:35.596964+00:00",
       "confidence": 0.99,
@@ -14918,6 +15251,12 @@
       "photo_file_id": "AgACAgUAAxUHarhk7bK7lKOA1u9NZJbxI4XNYsQAAg8UaxucC8lVhvX_F3PU0moBAAMCAANzAAM9BA",
       "version": "1.2.4"
     },
+    "v-00902": {
+      "audio_file_id": "CQACAgUAAxUHaub8g5zRm4rsEkbkKpGXv7aP7F8AAhclAAKd3zlXAAETwVs0LCaPPQQ",
+      "cached_at": "2026-11-01T08:46:59.982441+00:00",
+      "photo_file_id": "AgACAgUAAxUHaub8g3oL3a2aHGErukFu198BtTsAAucSaxud3zlX8jjj997treUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00903": {
       "audio_file_id": "CQACAgUAAxUHar9kSY6TS5VKWdmDY10hgxR6oYwAAhAhAAKXRvhVIAeMb25fWjI9BA",
       "cached_at": "2026-10-02T07:59:06.300341+00:00",
@@ -14995,6 +15334,12 @@
       "photo_file_id": "AgACAgUAAxUHat2tb9R-nASp3AkamIuwA2gJRfwAAgURaxv30ehWmGVLr4rD7I4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01122": {
+      "audio_file_id": "CQACAgUAAxUHaub8ejVveCHXORQF8njX2XYpJqQAAhMlAAKd3zlXOsjeOILfPKA9BA",
+      "cached_at": "2026-11-01T08:46:50.913007+00:00",
+      "photo_file_id": "AgACAgUAAxUHaub8en3tk21nBzzL1LyU_HY_XFcAAuMSaxud3zlXFzBXs_zdOoQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01142": {
       "audio_file_id": "CQACAgUAAxUHasdUNu11beij-k5-O5kddAJf4PsAAkAmAAKIuzlWJLrg8D4bibs9BA",
       "cached_at": "2026-10-08T08:28:39.604839+00:00",
@@ -15053,6 +15398,12 @@
       "audio_file_id": "CQACAgUAAxUHasnytXRBdGddmgQUqXgn_kJACZ0AAp0nAALvcVFW0Tk9UMK3Ifs9BA",
       "cached_at": "2026-10-10T08:09:26.624833+00:00",
       "photo_file_id": "AgACAgUAAxUHasnytryFN0GilpQejg5AOPYhxUkAAtoSaxvvcVFWctMTBUjatr4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01272": {
+      "audio_file_id": "CQACAgUAAxUHaub8foOTxyhXIA-3LdI2pAABUd4oAAIVJQACnd85V6_4oyD90aVqPQQ",
+      "cached_at": "2026-11-01T08:46:55.616666+00:00",
+      "photo_file_id": "AgACAgUAAxUHaub8fwMQcdkDwgtWG9Vh83yYrjgAAuUSaxud3zlXTws9y_qEhfABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01290": {
@@ -15440,6 +15791,12 @@
       "audio_file_id": "CQACAgUAAxUHatsGcxGI_z8tyuhFD_QM64_-eQUAAlUlAAJQ2thWyJKLWKbTCRk9BA",
       "cached_at": "2026-10-23T07:02:11.782385+00:00",
       "photo_file_id": "AgACAgUAAxUHatsGc7IHTFLJ2sZ_FV9C-P8LIdMAAosSaxtQ2thWrUeq7pHa02gBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02210": {
+      "audio_file_id": "CQACAgUAAxUHaub8fNR5lPEl3tV6_QOHzk86p1AAAhQlAAKd3zlXMWwxJVlh-CU9BA",
+      "cached_at": "2026-11-01T08:46:53.387082+00:00",
+      "photo_file_id": "AgACAgUAAxUHaub8fPNzQcS46vIzD1Wiu4FeP0IAAuQSaxud3zlXHP42PUu0cE0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02222": {
@@ -15865,6 +16222,12 @@
       "audio_file_id": "CQACAgUAAxUHat2tct22eOvmsXhopPDOn-4b4ZYAAkMhAAL30ehWKQ0yDhxnpkE9BA",
       "cached_at": "2026-10-25T07:19:14.917447+00:00",
       "photo_file_id": "AgACAgUAAxUHat2tcmxqs4BRfAjGcpC2xN49DGgAAgYRaxv30ehWMWZ5fB23KBsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-03923": {
+      "audio_file_id": "CQACAgUAAxUHaub8gYRWyiAqLWabE3yIHrCamjIAAhYlAAKd3zlXd1Yc_RQc9ak9BA",
+      "cached_at": "2026-11-01T08:46:57.913384+00:00",
+      "photo_file_id": "AgACAgUAAxUHaub8gTNXyj_OuGa-92qVwaFoitMAAuYSaxud3zlXmJMOeT7mFwkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-03983": {
@@ -16302,6 +16665,12 @@
       "last_message_id": 80,
       "published_at": "2026-09-27T00:35:57.693224+00:00"
     },
+    "v-00902": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 262,
+      "published_at": "2026-11-01T08:46:59.982466+00:00"
+    },
     "v-00903": {
       "count": 1,
       "last_cycle": 1,
@@ -16381,6 +16750,12 @@
       "last_message_id": 225,
       "published_at": "2026-10-25T07:19:12.516523+00:00"
     },
+    "v-01122": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 258,
+      "published_at": "2026-11-01T08:46:50.913033+00:00"
+    },
     "v-01142": {
       "count": 1,
       "last_cycle": 1,
@@ -16441,6 +16816,12 @@
       "last_cycle": 1,
       "last_message_id": 155,
       "published_at": "2026-10-10T08:09:26.624856+00:00"
+    },
+    "v-01272": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 260,
+      "published_at": "2026-11-01T08:46:55.616690+00:00"
     },
     "v-01290": {
       "count": 1,
@@ -16838,6 +17219,12 @@
       "last_cycle": 1,
       "last_message_id": 217,
       "published_at": "2026-10-23T07:02:11.782411+00:00"
+    },
+    "v-02210": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 259,
+      "published_at": "2026-11-01T08:46:53.387107+00:00"
     },
     "v-02222": {
       "count": 1,
@@ -17271,6 +17658,12 @@
       "last_message_id": 226,
       "published_at": "2026-10-25T07:19:14.917475+00:00"
     },
+    "v-03923": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 261,
+      "published_at": "2026-11-01T08:46:57.913408+00:00"
+    },
     "v-03983": {
       "count": 1,
       "last_cycle": 1,
@@ -17316,11 +17709,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01122",
-    "v-02210",
-    "v-01272",
-    "v-03923",
-    "v-00902",
     "v-02158",
     "v-01976",
     "v-00238",
@@ -20591,41 +20979,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261003T074003Z-0eb1daf5": {
-      "completed_at": "2026-10-03T07:40:27.553920+00:00",
-      "created_at": "2026-10-03T07:40:03.354440+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02049"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00516"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00499"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03828"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01101"
-        }
-      ],
-      "published_ids": [
-        "v-02049",
-        "v-00516",
-        "v-00499",
-        "v-03828",
-        "v-01101"
-      ],
-      "status": "completed"
-    },
     "20261004T074908Z-b5c8c915": {
       "completed_at": "2026-10-04T07:49:27.954282+00:00",
       "created_at": "2026-10-04T07:49:08.340753+00:00",
@@ -21652,6 +22005,41 @@
         "v-00475",
         "v-00796",
         "v-01551"
+      ],
+      "status": "completed"
+    },
+    "20261101T084646Z-7e98c0c9": {
+      "completed_at": "2026-11-01T08:47:00.015713+00:00",
+      "created_at": "2026-11-01T08:46:46.423791+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01122"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02210"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01272"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03923"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00902"
+        }
+      ],
+      "published_ids": [
+        "v-01122",
+        "v-02210",
+        "v-01272",
+        "v-03923",
+        "v-00902"
       ],
       "status": "completed"
     }
@@ -23464,6 +23852,43 @@
         "v-01551"
       ],
       "run_id": "20261031T080201Z-fd97e2b2",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-01T08:47:00.015713+00:00",
+      "created_at": "2026-11-01T08:46:46.423791+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01122"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02210"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01272"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03923"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00902"
+        }
+      ],
+      "published_ids": [
+        "v-01122",
+        "v-02210",
+        "v-01272",
+        "v-03923",
+        "v-00902"
+      ],
+      "run_id": "20261101T084646Z-7e98c0c9",
       "status": "completed",
       "unknown_ids": []
     }
