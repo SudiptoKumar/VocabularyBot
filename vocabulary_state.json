@@ -835,6 +835,68 @@
         }
       ]
     },
+    "v-00238": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a4567c13afc0902efd48592054b10b1efa8bbeb541099a5c815df5949acfa872",
+      "antonyms": [
+        {
+          "meaning": "a gap allowing passage",
+          "word": "opening"
+        },
+        {
+          "meaning": "a way through",
+          "word": "passage"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "language barrier",
+        "barrier reef",
+        "barrier to entry",
+        "cultural barrier",
+        "physical barrier"
+      ],
+      "common_mistake_correct": "barrier",
+      "common_mistake_wrong": "barricade",
+      "definition_en": "Something that blocks or prevents movement or progress.",
+      "example_bn": "ভাষার প্রতিবন্ধকতা যোগাযোগকে কঠিন করে তুলেছিল।",
+      "example_en": "The language barrier made it hard to communicate.",
+      "memory_hook": "barrier sounds like a bar you can’t get over",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "door",
+        "barrier",
+        "window",
+        "roof"
+      ],
+      "quiz_question": "Which word fits: \"The ___ prevented the car from passing\"?",
+      "short_meaning_en": "obstacle",
+      "synonyms": [
+        {
+          "meaning": "something that blocks",
+          "word": "obstacle"
+        },
+        {
+          "meaning": "a difficulty to overcome",
+          "word": "hurdle"
+        },
+        {
+          "meaning": "a barrier",
+          "word": "block"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "barricade"
+        },
+        {
+          "type": "verb",
+          "word": "barriered"
+        }
+      ]
+    },
     "v-00264": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "860cad96b599e14306ea3f175ae1222e70ae9ce930c2c527666abffb679cd843",
@@ -3034,6 +3096,68 @@
         {
           "type": "adjective",
           "word": "disciplinary"
+        }
+      ]
+    },
+    "v-00786": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9ac10bf12ce84b13d45c16c5f66ff17368560244e31250545524d7dd9b074cfa",
+      "antonyms": [
+        {
+          "meaning": "impartial treatment",
+          "word": "fairness"
+        },
+        {
+          "meaning": "same rights for all",
+          "word": "equality"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "racial discrimination",
+        "gender discrimination",
+        "discrimination law",
+        "discrimination against",
+        "discrimination based on"
+      ],
+      "common_mistake_correct": "discrimination",
+      "common_mistake_wrong": "discriminating",
+      "definition_en": "Unfair treatment of a person or group based on characteristics such as race or gender.",
+      "example_bn": "আইনটি নিয়োগে বৈষম্য বন্ধ করার লক্ষ্য রাখে।",
+      "example_en": "The law aims to stop discrimination in hiring.",
+      "memory_hook": "dis‑crim‑in‑ation – think of a crime against fairness",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "fair treatment",
+        "unfair bias",
+        "equal opportunity",
+        "random choice"
+      ],
+      "quiz_question": "What does \"discrimination\" refer to?",
+      "short_meaning_en": "bias",
+      "synonyms": [
+        {
+          "meaning": "preconceived opinion",
+          "word": "prejudice"
+        },
+        {
+          "meaning": "preference that blocks fairness",
+          "word": "bias"
+        },
+        {
+          "meaning": "intolerant hatred",
+          "word": "bigotry"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "discriminate"
+        },
+        {
+          "type": "adjective",
+          "word": "discriminatory"
         }
       ]
     },
@@ -8052,6 +8176,64 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-01976": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "2258b825c3106beec0dec84dac7ea8097c600b86716efb20db84a89c0d120f7d",
+      "antonyms": [
+        {
+          "meaning": "subtracting",
+          "word": "minus"
+        },
+        {
+          "meaning": "lacking",
+          "word": "without"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "plus sign",
+        "plus size",
+        "plus one",
+        "plus side",
+        "plus point"
+      ],
+      "common_mistake_correct": "plus",
+      "common_mistake_wrong": "pluse",
+      "definition_en": "In addition to; also.",
+      "example_bn": "আপনি একটি ফ্রি গিফট এবং ফ্রি শিপিং পাবেন।",
+      "example_en": "You get a free gift plus free shipping.",
+      "memory_hook": "plus looks like a cross adding things together",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "instead of",
+        "in addition to",
+        "instead of not",
+        "except for"
+      ],
+      "quiz_question": "What does \"plus\" mean in \"You get a free gift plus free shipping\"?",
+      "short_meaning_en": "also",
+      "synonyms": [
+        {
+          "meaning": "in addition",
+          "word": "also"
+        },
+        {
+          "meaning": "apart from",
+          "word": "besides"
+        },
+        {
+          "meaning": "together with",
+          "word": "as well as"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "pluses"
+        }
+      ]
+    },
     "v-01987": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "1002ccb16cdd4a51f83c7b6ba12be250e2000eadbc49c3bf5582bfed0ea76b6d",
@@ -8745,6 +8927,72 @@
         {
           "type": "noun",
           "word": "racer"
+        }
+      ]
+    },
+    "v-02158": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "eaceafadef829b6a7c39a56a6685647fbe920c23fa56aa89e7d4e199b750ca4f",
+      "antonyms": [
+        {
+          "meaning": "untruthfully",
+          "word": "falsely"
+        },
+        {
+          "meaning": "as claimed but not true",
+          "word": "supposedly"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "really good",
+        "really fast",
+        "really important",
+        "really like",
+        "really think"
+      ],
+      "common_mistake_correct": "really",
+      "common_mistake_wrong": "real",
+      "definition_en": "In fact; truly.",
+      "example_bn": "সে সত্যি কনসার্টটি উপভোগ করেছে।",
+      "example_en": "She really enjoyed the concert.",
+      "memory_hook": "real + ly = really",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "actually",
+        "really",
+        "maybe",
+        "perhaps"
+      ],
+      "quiz_question": "Which word means \"in fact\"?",
+      "short_meaning_en": "truly",
+      "synonyms": [
+        {
+          "meaning": "in fact",
+          "word": "truly"
+        },
+        {
+          "meaning": "in reality",
+          "word": "actually"
+        },
+        {
+          "meaning": "sincerely",
+          "word": "genuinely"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "real"
+        },
+        {
+          "type": "noun",
+          "word": "reality"
+        },
+        {
+          "type": "adverb",
+          "word": "realistically"
         }
       ]
     },
@@ -12818,6 +13066,51 @@
         }
       ]
     },
+    "v-03857": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0a78d6c8b53848e0093c17547a8f4f31a0a7e6dfa5c6b57895dd793b269bfe07",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "wild goose",
+        "goose egg",
+        "goose down",
+        "goose bump",
+        "goose chase"
+      ],
+      "common_mistake_correct": "goose",
+      "common_mistake_wrong": "golf",
+      "definition_en": "A large waterbird with a long neck and webbed feet.",
+      "example_bn": "একটি হাঁস হ্রদে সাঁতার কাটল।",
+      "example_en": "A goose swam across the lake.",
+      "memory_hook": "Geese say \"honk\" – remember the sound",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "duck",
+        "goose",
+        "swan",
+        "pelican"
+      ],
+      "quiz_question": "Which animal is a large waterbird with a long neck?",
+      "short_meaning_en": "waterbird",
+      "synonyms": [
+        {
+          "meaning": "male goose",
+          "word": "gander"
+        },
+        {
+          "meaning": "similar waterbird",
+          "word": "duck"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "goosey"
+        }
+      ]
+    },
     "v-03907": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8490408efbc3eea66938168180b9b007cf7f03fb923fdf2d9d1669e0398133b9",
@@ -13353,6 +13646,14 @@
       "source_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
       "status": "valid"
     },
+    "v-00238": {
+      "audited_at": "2026-11-02T08:56:01.228069+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতিবন্ধক, বেড়া",
+      "reason": "The Bangla meaning correctly captures the noun 'barrier'.",
+      "source_fingerprint": "a4567c13afc0902efd48592054b10b1efa8bbeb541099a5c815df5949acfa872",
+      "status": "valid"
+    },
     "v-00264": {
       "audited_at": "2026-10-11T08:20:56.006848+00:00",
       "confidence": 0.99,
@@ -13607,6 +13908,14 @@
       "meaning_bn": "নিয়মানুবর্তিতা, সংযম, নিয়মনির্বাহী করতে",
       "reason": "The supplied Bangla senses correspond to both the noun and verb senses of 'discipline'.",
       "source_fingerprint": "62e42ed3a0a6417e39f45dd366a279dab77c4f2ee4889a02034df04781006dd9",
+      "status": "valid"
+    },
+    "v-00786": {
+      "audited_at": "2026-11-02T08:56:01.228140+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রভেদ, পক্ষপাতিত্ব",
+      "reason": "The Bangla meaning accurately reflects the noun 'discrimination'.",
+      "source_fingerprint": "9ac10bf12ce84b13d45c16c5f66ff17368560244e31250545524d7dd9b074cfa",
       "status": "valid"
     },
     "v-00796": {
@@ -14209,6 +14518,14 @@
       "source_fingerprint": "79e6525ba86264aad1649764ff668650ab6cce1f0cad7654e46ef8e817f69461",
       "status": "corrected"
     },
+    "v-01976": {
+      "audited_at": "2026-11-02T08:56:01.228029+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "অতিরিক্ত, যোগ, প্লাস, পাশাপাশি",
+      "reason": "The supplied meaning 'একবস্ত জমি, কুশল' is unrelated to the English word 'plus', which means addition or also.",
+      "source_fingerprint": "fcf44288ad3e11e0d82a0e4b1da5980e95d8eec41fae9f05279cd9712c391236",
+      "status": "corrected"
+    },
     "v-01987": {
       "audited_at": "2026-10-04T07:49:08.754037+00:00",
       "confidence": 0.99,
@@ -14304,6 +14621,14 @@
       "reason": "The meaning contains an unrelated sense 'উদ্ধৃতি দেওয়া' (to quote) which does not belong to 'race'; corrected to only relevant senses.",
       "source_fingerprint": "990455e9e7d07c8a0c48463facf4af6a88cd9884ff7ed74871e315bc541beb31",
       "status": "corrected"
+    },
+    "v-02158": {
+      "audited_at": "2026-11-02T08:56:01.227952+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রকৃতপক্ষে, সত্য সত্যই",
+      "reason": "The Bangla meaning accurately reflects the common sense of the adverb 'really'.",
+      "source_fingerprint": "eaceafadef829b6a7c39a56a6685647fbe920c23fa56aa89e7d4e199b750ca4f",
+      "status": "valid"
     },
     "v-02174": {
       "audited_at": "2026-10-23T07:01:58.827043+00:00",
@@ -14801,6 +15126,14 @@
       "source_fingerprint": "e795738650affe75e19818b3792818ff782f94e48b6ef31b911b33203d9cf01b",
       "status": "valid"
     },
+    "v-03857": {
+      "audited_at": "2026-11-02T08:56:01.228104+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "হাঁস",
+      "reason": "The given meaning 'রাজহাঁসী' refers to 'swan', not 'goose'; the correct Bangla term for goose is 'হাঁস'.",
+      "source_fingerprint": "46a2b233797261fdc6068f1d3f90eefb4c8cd68ecd794998e739371303915c9e",
+      "status": "corrected"
+    },
     "v-03907": {
       "audited_at": "2026-10-25T07:19:03.015964+00:00",
       "confidence": 0.98,
@@ -14956,6 +15289,12 @@
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralHFXqzNfBlkyWJ6PxYP5CjvwAAigfAALpIblVN9G9CjXqu8Y9BA"
+    },
+    "v-00238": {
+      "audio_file_id": "CQACAgUAAxUHauhQKqN7yaI8BQOLgF5A2RkTqLAAAnUjAAItf0FXjLY7Sqx3gMc9BA",
+      "cached_at": "2026-11-02T08:56:11.505298+00:00",
+      "photo_file_id": "AgACAgUAAxUHauhQKnmiGH79PbCgHBeqch8q0Q4AAmsbaxstf0FXtdVaYJfrGfUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00264": {
       "audio_file_id": "CQACAgUAAxUHastG8Q5kv2FY-Riww8rnbHKht7QAAhMkAALl0VlW7DGoxsaAxSc9BA",
@@ -15189,6 +15528,12 @@
       "audio_file_id": "CQACAgUAAxUHauRQU8nsXLRFkRY2Fceyxk0jTBoAAmUgAALv5yBXCDLBqFIzrJk9BA",
       "cached_at": "2026-10-30T08:07:48.352735+00:00",
       "photo_file_id": "AgACAgUAAxUHauRQUzkNQzT_SDh1MuwgxYviWSQAAqASaxvv5yBXDjSBIwcHsRABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00786": {
+      "audio_file_id": "CQACAgUAAxUHauhQMH3r4NmBonf-KxRpBMynvDIAAncjAAItf0FXJ1yeab6-X7A9BA",
+      "cached_at": "2026-11-02T08:56:16.903345+00:00",
+      "photo_file_id": "AgACAgUAAxUHauhQMBfAD_khgXWTFoFIWhCSDCIAAm0baxstf0FXt3lIFyjTCiEBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00796": {
@@ -15715,6 +16060,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_OaUmo3scFbs5fGxPl7frmvoAAtEeAALpIblVcNK-4wMvZ7A9BA"
     },
+    "v-01976": {
+      "audio_file_id": "CQACAgUAAxUHauhQJ30oulH38mdG8YI9NxPRjNAAAnQjAAItf0FXdmQYwd0nrGU9BA",
+      "cached_at": "2026-11-02T08:56:08.553557+00:00",
+      "photo_file_id": "AgACAgUAAxUHauhQKNeSFCXR3iRsNGxKqkHpIrEAAmobaxstf0FX2eduHzLLMAcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01987": {
       "audio_file_id": "CQACAgUAAxUHasIFBPvztYLduLwL1l1AlYAo3-8AAgogAAJCJRBW3JUAAWOpcnKuPQQ",
       "cached_at": "2026-10-04T07:49:25.178588+00:00",
@@ -15785,6 +16136,12 @@
       "audio_file_id": "CQACAgUAAxUHar9kTKoctbM2BeuLdiNblUusRUAAAhEhAAKXRvhVH8mCe3vMl-M9BA",
       "cached_at": "2026-10-02T07:59:08.912195+00:00",
       "photo_file_id": "AgACAgUAAxUHar9kTOXfgBTkFnyMQZ3bdOXtod4AAtMRaxuXRvhV8BBgl6R_YNABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02158": {
+      "audio_file_id": "CQACAgUAAxUHauhQJH9T5olvHYV4Sff6u4heGa4AAnMjAAItf0FXYFnYtBv34-o9BA",
+      "cached_at": "2026-11-02T08:56:05.871126+00:00",
+      "photo_file_id": "AgACAgUAAxUHauhQJX0OzsNY9UWJQrHPxz47AlQAAmkbaxstf0FXMqyehAeNMGIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02174": {
@@ -16218,6 +16575,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoXbbhr4E9TvjrGmRso1p6TnUAAhUUaxucC8lVuEaXaKTS5mcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03857": {
+      "audio_file_id": "CQACAgUAAxUHauhQLVcl11Xc3shOJyIqfHXGAAFdAAJ2IwACLX9BV3ba9R0wv4v-PQQ",
+      "cached_at": "2026-11-02T08:56:14.340264+00:00",
+      "photo_file_id": "AgACAgUAAxUHauhQLU9jrQ5Yh3SSFcu1eZ9C404AAmwbaxstf0FXmN2sM2xPNvkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03907": {
       "audio_file_id": "CQACAgUAAxUHat2tct22eOvmsXhopPDOn-4b4ZYAAkMhAAL30ehWKQ0yDhxnpkE9BA",
       "cached_at": "2026-10-25T07:19:14.917447+00:00",
@@ -16366,6 +16729,12 @@
       "last_cycle": 1,
       "last_message_id": 55,
       "published_at": "2026-09-25T16:45:17.189597+00:00"
+    },
+    "v-00238": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 265,
+      "published_at": "2026-11-02T08:56:11.505324+00:00"
     },
     "v-00264": {
       "count": 1,
@@ -16603,6 +16972,12 @@
       "last_cycle": 1,
       "last_message_id": 249,
       "published_at": "2026-10-30T08:07:48.352761+00:00"
+    },
+    "v-00786": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 267,
+      "published_at": "2026-11-02T08:56:16.903372+00:00"
     },
     "v-00796": {
       "count": 1,
@@ -17142,6 +17517,12 @@
       "last_message_id": 29,
       "published_at": "2026-09-25T14:03:38.200108+00:00"
     },
+    "v-01976": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 264,
+      "published_at": "2026-11-02T08:56:08.553587+00:00"
+    },
     "v-01987": {
       "count": 1,
       "last_cycle": 1,
@@ -17213,6 +17594,12 @@
       "last_cycle": 1,
       "last_message_id": 114,
       "published_at": "2026-10-02T07:59:08.912224+00:00"
+    },
+    "v-02158": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 263,
+      "published_at": "2026-11-02T08:56:05.871156+00:00"
     },
     "v-02174": {
       "count": 1,
@@ -17652,6 +18039,12 @@
       "last_message_id": 83,
       "published_at": "2026-09-27T00:50:38.337540+00:00"
     },
+    "v-03857": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 266,
+      "published_at": "2026-11-02T08:56:14.340291+00:00"
+    },
     "v-03907": {
       "count": 1,
       "last_cycle": 1,
@@ -17709,11 +18102,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02158",
-    "v-01976",
-    "v-00238",
-    "v-03857",
-    "v-00786",
     "v-02465",
     "v-01806",
     "v-00225",
@@ -20979,41 +21367,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261004T074908Z-b5c8c915": {
-      "completed_at": "2026-10-04T07:49:27.954282+00:00",
-      "created_at": "2026-10-04T07:49:08.340753+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00548"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00128"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00105"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01987"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01757"
-        }
-      ],
-      "published_ids": [
-        "v-00548",
-        "v-00128",
-        "v-00105",
-        "v-01987",
-        "v-01757"
-      ],
-      "status": "completed"
-    },
     "20261005T082635Z-192e803e": {
       "completed_at": "2026-10-05T08:26:50.328270+00:00",
       "created_at": "2026-10-05T08:26:35.945594+00:00",
@@ -22040,6 +22393,41 @@
         "v-01272",
         "v-03923",
         "v-00902"
+      ],
+      "status": "completed"
+    },
+    "20261102T085600Z-115ae68b": {
+      "completed_at": "2026-11-02T08:56:16.933771+00:00",
+      "created_at": "2026-11-02T08:56:00.699769+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02158"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01976"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00238"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03857"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00786"
+        }
+      ],
+      "published_ids": [
+        "v-02158",
+        "v-01976",
+        "v-00238",
+        "v-03857",
+        "v-00786"
       ],
       "status": "completed"
     }
@@ -23889,6 +24277,43 @@
         "v-00902"
       ],
       "run_id": "20261101T084646Z-7e98c0c9",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-02T08:56:16.933771+00:00",
+      "created_at": "2026-11-02T08:56:00.699769+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02158"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01976"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00238"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03857"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00786"
+        }
+      ],
+      "published_ids": [
+        "v-02158",
+        "v-01976",
+        "v-00238",
+        "v-03857",
+        "v-00786"
+      ],
+      "run_id": "20261102T085600Z-115ae68b",
       "status": "completed",
       "unknown_ids": []
     }
