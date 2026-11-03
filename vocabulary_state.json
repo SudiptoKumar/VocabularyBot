@@ -835,6 +835,64 @@
         }
       ]
     },
+    "v-00225": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fc20ccd493ac0f52274ddcd78a82fdc1e26d5fb4ad2d6ce07295019c3c76126e",
+      "antonyms": [
+        {
+          "meaning": "the front part of a scene",
+          "word": "foreground"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "background check",
+        "background music",
+        "background information",
+        "cultural background",
+        "family background"
+      ],
+      "common_mistake_correct": "Use \"background\" for past or contextual info, not \"backyard\"",
+      "common_mistake_wrong": "Confusing \"background\" with \"backyard\"",
+      "definition_en": "The part of a scene or situation that lies behind the main focus.",
+      "example_bn": "তার পারিবারিক পটভূমি খুবই সরল।",
+      "example_en": "His family background is very modest.",
+      "memory_hook": "Think of \"back\" + \"ground\" – what’s behind the ground?",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "background",
+        "foreground",
+        "headline",
+        "summary"
+      ],
+      "quiz_question": "What do you call the information behind a person's story?",
+      "short_meaning_en": "backdrop",
+      "synonyms": [
+        {
+          "meaning": "background scenery",
+          "word": "backdrop"
+        },
+        {
+          "meaning": "surrounding circumstances",
+          "word": "context"
+        },
+        {
+          "meaning": "environment",
+          "word": "setting"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "backgrounded"
+        },
+        {
+          "type": "noun",
+          "word": "backgrounder"
+        }
+      ]
+    },
     "v-00238": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "a4567c13afc0902efd48592054b10b1efa8bbeb541099a5c815df5949acfa872",
@@ -4101,6 +4159,64 @@
         {
           "type": "noun",
           "word": "facilitator"
+        }
+      ]
+    },
+    "v-01012": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "11d2025206586a199ed7b8126593758754ddf816173da67950da4554ecf0ed18",
+      "antonyms": [
+        {
+          "meaning": "place where goods are sold",
+          "word": "store"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "factory floor",
+        "factory workers",
+        "factory outlet",
+        "factory production",
+        "factory owner"
+      ],
+      "common_mistake_correct": "Use \"store\" for a place where you buy items",
+      "common_mistake_wrong": "Calling a retail shop a \"factory\"",
+      "definition_en": "A building where goods are manufactured on a large scale.",
+      "example_bn": "কারখানা প্রতিদিন হাজার হাজার জুতা উৎপাদন করে।",
+      "example_en": "The factory produces thousands of shoes each day.",
+      "memory_hook": "Fact‑ory: a place where facts (products) are made.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "factory",
+        "school",
+        "park",
+        "hospital"
+      ],
+      "quiz_question": "Where are cars typically assembled?",
+      "short_meaning_en": "plant",
+      "synonyms": [
+        {
+          "meaning": "industrial building",
+          "word": "plant"
+        },
+        {
+          "meaning": "factory for processing",
+          "word": "mill"
+        },
+        {
+          "meaning": "place of manufacturing",
+          "word": "workshop"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "factory worker"
+        },
+        {
+          "type": "adjective",
+          "word": "factory‑made"
         }
       ]
     },
@@ -7554,6 +7670,72 @@
         }
       ]
     },
+    "v-01806": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9c35e7523e92b0aed9cd32ba13833e121904552b4889bf733c0891f414aa9c49",
+      "antonyms": [
+        {
+          "meaning": "indicating contact",
+          "word": "on"
+        },
+        {
+          "meaning": "moving to a surface",
+          "word": "onto"
+        },
+        {
+          "meaning": "moving inside",
+          "word": "into"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "off the table",
+        "off duty",
+        "off season",
+        "off limits",
+        "off track"
+      ],
+      "common_mistake_correct": "Correct form is \"of the car\"",
+      "common_mistake_wrong": "Using \"off\" instead of \"of\" (e.g., \"off the car\")",
+      "definition_en": "Used to show separation, removal, or exclusion from something.",
+      "example_bn": "সে বইটি তাক থেকে তুলে নিল।",
+      "example_en": "She took the book off the shelf.",
+      "memory_hook": "Turn something off to stop it – that’s the idea of separation.",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "on",
+        "off",
+        "over",
+        "under"
+      ],
+      "quiz_question": "Which preposition means not on?",
+      "short_meaning_en": "from",
+      "synonyms": [
+        {
+          "meaning": "indicating source",
+          "word": "from"
+        },
+        {
+          "meaning": "at a distance",
+          "word": "away"
+        },
+        {
+          "meaning": "not inside",
+          "word": "out of"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "off‑switch"
+        },
+        {
+          "type": "verb",
+          "word": "off‑load"
+        }
+      ]
+    },
     "v-01812": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
@@ -9351,6 +9533,76 @@
         }
       ]
     },
+    "v-02236": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bd91c00c781c8b66b4147d7027a17beb48a279f860cdaa1e17f4e9fd06709bc3",
+      "antonyms": [
+        {
+          "meaning": "to yield",
+          "word": "submit"
+        },
+        {
+          "meaning": "to give in",
+          "word": "yield"
+        },
+        {
+          "meaning": "to obey",
+          "word": "comply"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "resist temptation",
+        "resist pressure",
+        "resist change",
+        "resist infection",
+        "resist arrest"
+      ],
+      "common_mistake_correct": "Correct: \"He persisted in running the marathon\"",
+      "common_mistake_wrong": "Using \"resist\" for \"persist\" (e.g., \"He resisted the marathon\")",
+      "definition_en": "To act against something or refuse to comply with it.",
+      "example_bn": "সে কেক খাওয়ার প্রলোভনকে বিরোধিতা করার চেষ্টা করল।",
+      "example_en": "She tried to resist the temptation to eat cake.",
+      "memory_hook": "Re‑sist: think of sitting back again after being pushed – you resist the push.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "accept",
+        "resist",
+        "ignore",
+        "enjoy"
+      ],
+      "quiz_question": "What verb means to fight against something?",
+      "short_meaning_en": "oppose",
+      "synonyms": [
+        {
+          "meaning": "to be against",
+          "word": "oppose"
+        },
+        {
+          "meaning": "to endure",
+          "word": "withstand"
+        },
+        {
+          "meaning": "to challenge",
+          "word": "defy"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "resistant"
+        },
+        {
+          "type": "noun",
+          "word": "resistance"
+        },
+        {
+          "type": "adverb",
+          "word": "resistantly"
+        }
+      ]
+    },
     "v-02238": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "deb4d81056f65d3cca7bed9cbbb62574fe2e0022c6ca92d160857dd1bff382c2",
@@ -10222,6 +10474,59 @@
         {
           "type": "noun",
           "word": "silence"
+        }
+      ]
+    },
+    "v-02465": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "cf580df738760791c6367a0b01439774e72f686cf8b55efffcbe983dc7566e6a",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "play soccer",
+        "soccer team",
+        "soccer field",
+        "soccer fan",
+        "soccer match"
+      ],
+      "common_mistake_correct": "In most of the world, soccer and football refer to the same sport",
+      "common_mistake_wrong": "Often confused with \"football\" in the US context",
+      "definition_en": "A team sport played with a round ball and eleven players on each side.",
+      "example_bn": "আমরা প্রতি শনিবার বিকেলে ফুটবল খেলাটি দেখি।",
+      "example_en": "We watch soccer every Saturday afternoon.",
+      "memory_hook": "Think of kicking a ball like you \"sock\" it – soccer.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Basketball",
+        "Soccer",
+        "Tennis",
+        "Cricket"
+      ],
+      "quiz_question": "Which sport is played with a round ball and eleven players per side?",
+      "short_meaning_en": "football game",
+      "synonyms": [
+        {
+          "meaning": "the same sport, especially in the UK",
+          "word": "football"
+        },
+        {
+          "meaning": "formal name of the sport",
+          "word": "association football"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "soccer player"
+        },
+        {
+          "type": "noun",
+          "word": "soccer ball"
+        },
+        {
+          "type": "noun",
+          "word": "soccer match"
         }
       ]
     },
@@ -13646,6 +13951,14 @@
       "source_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
       "status": "valid"
     },
+    "v-00225": {
+      "audited_at": "2026-11-03T09:04:26.151251+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "পটভূমি",
+      "reason": "The source meaning includes 'অলঙ্কা স্থান', which is not a meaning of 'background'. The appropriate Bangla translation is simply 'পটভূমি'.",
+      "source_fingerprint": "7b288028768fd46c848bd261f780cec79825ef9670747c1b29999178dc6350ea",
+      "status": "corrected"
+    },
     "v-00238": {
       "audited_at": "2026-11-02T08:56:01.228069+00:00",
       "confidence": 0.99,
@@ -14037,6 +14350,14 @@
       "reason": "Semantic verification unavailable; original source meaning retained",
       "source_fingerprint": "759844297045b25ca5b8d67474818a2f5a37413ff59d07b8cd604618f52167d0",
       "status": "uncertain"
+    },
+    "v-01012": {
+      "audited_at": "2026-11-03T09:04:26.151334+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "বড় কারখানা",
+      "reason": "The meaning conveys the primary sense of 'factory' as a large manufacturing place, which is acceptable.",
+      "source_fingerprint": "11d2025206586a199ed7b8126593758754ddf816173da67950da4554ecf0ed18",
+      "status": "valid"
     },
     "v-01038": {
       "audited_at": "2026-09-27T07:39:03.577521+00:00",
@@ -14454,6 +14775,14 @@
       "source_fingerprint": "adb21a52b9c6c54b4dd4cde28671bba65b7c714c7beb108c4d8bc95ad433fe23",
       "status": "valid"
     },
+    "v-01806": {
+      "audited_at": "2026-11-03T09:04:25.858596+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "থেকে, হতে, মধ্যে",
+      "reason": "The Bangla meaning accurately captures the prepositional senses of 'off'.",
+      "source_fingerprint": "9c35e7523e92b0aed9cd32ba13833e121904552b4889bf733c0891f414aa9c49",
+      "status": "valid"
+    },
     "v-01812": {
       "audited_at": "2026-10-08T08:28:35.596935+00:00",
       "confidence": 0.98,
@@ -14678,6 +15007,14 @@
       "source_fingerprint": "ed6156f92379d49a09c225b4d39cc1f2483fa2352dc2e42b3685efdb7cfc896b",
       "status": "valid"
     },
+    "v-02236": {
+      "audited_at": "2026-11-03T09:04:26.151377+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "বিরোধিতা করা",
+      "reason": "The fragment 'অধিবাসী' is unrelated; the correct Bangla meaning for the verb 'resist' is 'বিরোধিতা করা'.",
+      "source_fingerprint": "af193fb4b76f6da6c735a4fadeb920b31e643b5415bfe875f30e7625449c4a60",
+      "status": "corrected"
+    },
     "v-02238": {
       "audited_at": "2026-10-05T08:26:36.600149+00:00",
       "confidence": 0.96,
@@ -14796,6 +15133,14 @@
       "meaning_bn": "শব্দহীন, নিরব",
       "reason": "The meaning correctly captures the adjective \"silent\".",
       "source_fingerprint": "98f2e4171f3c717a52960f0df80ee7b44d48c94bedd20fb31a6dd1a952ff614c",
+      "status": "valid"
+    },
+    "v-02465": {
+      "audited_at": "2026-11-03T09:04:25.858527+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "ফুটবল খেলা",
+      "reason": "The Bangla meaning correctly defines the noun 'soccer' as the sport.",
+      "source_fingerprint": "cf580df738760791c6367a0b01439774e72f686cf8b55efffcbe983dc7566e6a",
       "status": "valid"
     },
     "v-02467": {
@@ -15290,6 +15635,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralHFXqzNfBlkyWJ6PxYP5CjvwAAigfAALpIblVN9G9CjXqu8Y9BA"
     },
+    "v-00225": {
+      "audio_file_id": "CQACAgUAAxUHaumjpEZaAAG8CleryqskItDDL0xFAAJ-JAACLX9JV18fcT2Rir-mPQQ",
+      "cached_at": "2026-11-03T09:04:37.346063+00:00",
+      "photo_file_id": "AgACAgUAAxUHaumjpLDlyIJpvFKmgp0TdhMXpHIAAn4caxstf0lX7JbFbUj8VSkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00238": {
       "audio_file_id": "CQACAgUAAxUHauhQKqN7yaI8BQOLgF5A2RkTqLAAAnUjAAItf0FXjLY7Sqx3gMc9BA",
       "cached_at": "2026-11-02T08:56:11.505298+00:00",
@@ -15630,6 +15981,12 @@
       "audio_file_id": "CQACAgUAAxUHaroinpt_Umi30mcXhYRPzwjtMdcAAhUfAAJT7NFVc9bJ39aIK6c9BA",
       "cached_at": "2026-09-28T08:17:35.270945+00:00",
       "photo_file_id": "AgACAgUAAxUHaroinhsqY7ykIAWD5CYBXgIODXMAAsUSaxtT7NFVzo4XHV2Uu1UBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01012": {
+      "audio_file_id": "CQACAgUAAxUHaumjp470lLdlJyoF0ZxETS59m20AAn8kAAItf0lX0NltGBBN5SE9BA",
+      "cached_at": "2026-11-03T09:04:40.136750+00:00",
+      "photo_file_id": "AgACAgUAAxUHaumjp8q6odYyD_kZWkzTvxlAmpIAAn8caxstf0lXZnM4sTf-AAHnAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-01038": {
@@ -15988,6 +16345,12 @@
       "photo_file_id": "AgACAgUAAxUHatxWJAE3wlrAe7msRoNNgKOOzkcAAp4Raxv30eBWtYBLf7m7yUQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01806": {
+      "audio_file_id": "CQACAgUAAxUHaumjov704bTObo-Vju74NoN3oncAAn0kAAItf0lX2MYuSiju2pU9BA",
+      "cached_at": "2026-11-03T09:04:34.783922+00:00",
+      "photo_file_id": "AgACAgUAAxUHaumjossFzwRBmq2CyFF2TUEKeBoAAn0caxstf0lXlkGixYt9FWIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01812": {
       "audio_file_id": "CQACAgUAAxUHasdUOeX86LlTN0YNMZD0-0XRT4sAAkEmAAKIuzlWqcWFrCHaUP89BA",
       "cached_at": "2026-10-08T08:28:41.819724+00:00",
@@ -16180,6 +16543,12 @@
       "photo_file_id": "AgACAgUAAxUHatHIaFGVC8HQ5eO8MbDa0JGoth4AAhgWaxvrMolWUEY36azhTk4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02236": {
+      "audio_file_id": "CQACAgUAAxUHaumjqb9Ea6Sxa97ffrbFZ_NnGcYAAoAkAAItf0lXbPyHlottDHo9BA",
+      "cached_at": "2026-11-03T09:04:42.563147+00:00",
+      "photo_file_id": "AgACAgUAAxUHaumjqjNSoyfZsTIbX57xhKa-Nr0AAoAcaxstf0lX6pRYJMJFtt0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02238": {
       "audio_file_id": "CQACAgUAAxUHasNfRGqdAuzt01--KdFA9klFgAYAAh0hAAJCJRhW__uqy4cKQ4c9BA",
       "cached_at": "2026-10-05T08:26:45.270650+00:00",
@@ -16269,6 +16638,12 @@
       "cached_at": "2026-09-26T12:40:11.228305+00:00",
       "photo_file_id": "AgACAgUAAxUHare9Kn1HoCs5EETHLZTMOGFl_8MAAh4TaxvpIcFV4Tv9UTgvqMMBAAMCAANzAAM9BA",
       "version": "1.2.0"
+    },
+    "v-02465": {
+      "audio_file_id": "CQACAgUAAxUHaumjnjFmf8tuZCxeyttQbeqckHoAAnwkAAItf0lXBxNiLCslEs49BA",
+      "cached_at": "2026-11-03T09:04:31.647883+00:00",
+      "photo_file_id": "AgACAgUAAxUHaumjn_b78jONdZfpkM4foE-RURAAAnwcaxstf0lXuYcWThpiOkkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02467": {
       "audio_file_id": "CQACAgUAAxUHare9KLe5eCAyZNMmXwSTKotecEUAApchAALpIcFVeSXjOkYqLK49BA",
@@ -16730,6 +17105,12 @@
       "last_message_id": 55,
       "published_at": "2026-09-25T16:45:17.189597+00:00"
     },
+    "v-00225": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 270,
+      "published_at": "2026-11-03T09:04:37.346089+00:00"
+    },
     "v-00238": {
       "count": 1,
       "last_cycle": 1,
@@ -17075,6 +17456,12 @@
       "last_cycle": 1,
       "last_message_id": 96,
       "published_at": "2026-09-28T08:17:35.270970+00:00"
+    },
+    "v-01012": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 271,
+      "published_at": "2026-11-03T09:04:40.136776+00:00"
     },
     "v-01038": {
       "count": 1,
@@ -17444,6 +17831,12 @@
       "last_message_id": 218,
       "published_at": "2026-10-24T06:54:29.321422+00:00"
     },
+    "v-01806": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 269,
+      "published_at": "2026-11-03T09:04:34.783952+00:00"
+    },
     "v-01812": {
       "count": 1,
       "last_cycle": 1,
@@ -17637,6 +18030,12 @@
       "last_message_id": 186,
       "published_at": "2026-10-16T06:47:04.541503+00:00"
     },
+    "v-02236": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 272,
+      "published_at": "2026-11-03T09:04:42.563175+00:00"
+    },
     "v-02238": {
       "count": 1,
       "last_cycle": 1,
@@ -17726,6 +18125,12 @@
       "last_cycle": 1,
       "last_message_id": 65,
       "published_at": "2026-09-26T12:40:11.228330+00:00"
+    },
+    "v-02465": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 268,
+      "published_at": "2026-11-03T09:04:31.647914+00:00"
     },
     "v-02467": {
       "count": 1,
@@ -18102,11 +18507,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02465",
-    "v-01806",
-    "v-00225",
-    "v-01012",
-    "v-02236",
     "v-00555",
     "v-00086",
     "v-02733",
@@ -21367,41 +21767,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261005T082635Z-192e803e": {
-      "completed_at": "2026-10-05T08:26:50.328270+00:00",
-      "created_at": "2026-10-05T08:26:35.945594+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01659"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02375"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02238"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00013"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02786"
-        }
-      ],
-      "published_ids": [
-        "v-01659",
-        "v-02375",
-        "v-02238",
-        "v-00013",
-        "v-02786"
-      ],
-      "status": "completed"
-    },
     "20261006T083713Z-86662cd8": {
       "completed_at": "2026-10-06T08:37:27.436987+00:00",
       "created_at": "2026-10-06T08:37:13.882816+00:00",
@@ -22428,6 +22793,41 @@
         "v-00238",
         "v-03857",
         "v-00786"
+      ],
+      "status": "completed"
+    },
+    "20261103T090425Z-7f8f3a9d": {
+      "completed_at": "2026-11-03T09:04:42.593974+00:00",
+      "created_at": "2026-11-03T09:04:25.302367+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02465"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01806"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00225"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01012"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02236"
+        }
+      ],
+      "published_ids": [
+        "v-02465",
+        "v-01806",
+        "v-00225",
+        "v-01012",
+        "v-02236"
       ],
       "status": "completed"
     }
@@ -24314,6 +24714,43 @@
         "v-00786"
       ],
       "run_id": "20261102T085600Z-115ae68b",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-03T09:04:42.593974+00:00",
+      "created_at": "2026-11-03T09:04:25.302367+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02465"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01806"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00225"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01012"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02236"
+        }
+      ],
+      "published_ids": [
+        "v-02465",
+        "v-01806",
+        "v-00225",
+        "v-01012",
+        "v-02236"
+      ],
+      "run_id": "20261103T090425Z-7f8f3a9d",
       "status": "completed",
       "unknown_ids": []
     }
