@@ -367,6 +367,59 @@
         }
       ]
     },
+    "v-00086": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e80002038f507997dc04cfb2925c397b39b53e70bc3b9d70f769ad8d84c686d3",
+      "antonyms": [
+        {
+          "meaning": "at the back",
+          "word": "behind"
+        },
+        {
+          "meaning": "toward the rear",
+          "word": "backward"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "ahead of schedule",
+        "look ahead",
+        "move ahead",
+        "ahead of time",
+        "stay ahead"
+      ],
+      "common_mistake_correct": "Use \"ahead\" for forward direction, not \"a head\"",
+      "common_mistake_wrong": "Confusing \"ahead\" with \"a head\"",
+      "definition_en": "In front of something; before a point in time.",
+      "example_bn": "সে সামনে কী আসছে দেখতে সামনে তাকাল।",
+      "example_en": "She looked ahead to see what was coming.",
+      "memory_hook": "\"Ahead\" sounds like \"a head\" – the front of a person.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "late",
+        "early",
+        "on time",
+        "never"
+      ],
+      "quiz_question": "If something is \"ahead of time\", it is:",
+      "short_meaning_en": "forward",
+      "synonyms": [
+        {
+          "meaning": "toward the front",
+          "word": "forward"
+        },
+        {
+          "meaning": "moving ahead",
+          "word": "onward"
+        },
+        {
+          "meaning": "earlier than",
+          "word": "before"
+        }
+      ],
+      "word_family": []
+    },
     "v-00105": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b5c569e80de4aa03be7f972a9642b08f24396e971f8250628790568d03e60451",
@@ -1932,6 +1985,72 @@
         }
       ]
     },
+    "v-00527": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b1bf7d09357e1f872534ff11eb960c6f5e688662f23476171362462bcf4ffd0b",
+      "antonyms": [
+        {
+          "meaning": "absence of communication",
+          "word": "silence"
+        },
+        {
+          "meaning": "lack of contact",
+          "word": "isolation"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "effective communication",
+        "communication skills",
+        "communication breakdown",
+        "mass communication",
+        "interpersonal communication"
+      ],
+      "common_mistake_correct": "Use \"communication\" for information exchange",
+      "common_mistake_wrong": "Mixing up \"communication\" with \"commutation\" (travel)",
+      "definition_en": "The process of exchanging information, ideas, or messages.",
+      "example_bn": "দলগত কাজের জন্য ভাল যোগাযোগ অপরিহার্য।",
+      "example_en": "Good communication is essential for teamwork.",
+      "memory_hook": "\"Communicate\" starts with \"commune\" – people sharing ideas.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "travel",
+        "exchanging messages",
+        "building houses",
+        "cooking"
+      ],
+      "quiz_question": "What does \"communication\" mainly involve?",
+      "short_meaning_en": "exchange",
+      "synonyms": [
+        {
+          "meaning": "exchange of letters or messages",
+          "word": "correspondence"
+        },
+        {
+          "meaning": "mutual communication",
+          "word": "interaction"
+        },
+        {
+          "meaning": "sending of information",
+          "word": "transmission"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "communicate"
+        },
+        {
+          "type": "adjective",
+          "word": "communicative"
+        },
+        {
+          "type": "noun",
+          "word": "communicator"
+        }
+      ]
+    },
     "v-00544": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "3d65968216e61525b5003756b8b30d2297706240219e3c596b692fe2d1f6dea3",
@@ -2057,6 +2176,68 @@
         {
           "type": "verb",
           "word": "concentrating"
+        }
+      ]
+    },
+    "v-00555": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "50ac794e1791cfd92adbf5b4ec8db2493a2a47bac3a49ab487d0b2170e822800",
+      "antonyms": [
+        {
+          "meaning": "existing only in thought",
+          "word": "abstract"
+        },
+        {
+          "meaning": "based on theory rather than practice",
+          "word": "theoretical"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "concrete evidence",
+        "concrete example",
+        "concrete details",
+        "concrete plan",
+        "concrete object"
+      ],
+      "common_mistake_correct": "Use abstract for non‑physical ideas",
+      "common_mistake_wrong": "Using concrete to describe ideas that are abstract",
+      "definition_en": "Existing in a physical form; real and not abstract.",
+      "example_bn": "রিপোর্টে সমস্যার মূর্ত প্রমাণ অন্তর্ভুক্ত আছে।",
+      "example_en": "The report includes concrete evidence of the problem.",
+      "memory_hook": "Think of concrete the building material – it’s solid and real.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "imaginary",
+        "real",
+        "optional",
+        "temporary"
+      ],
+      "quiz_question": "What does \"concrete\" mean in the sense of \"মূর্ত বা বাস্তব\"?",
+      "short_meaning_en": "real",
+      "synonyms": [
+        {
+          "meaning": "able to be touched or felt",
+          "word": "tangible"
+        },
+        {
+          "meaning": "existing in fact",
+          "word": "actual"
+        },
+        {
+          "meaning": "relating to material things",
+          "word": "physical"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "concretize"
+        },
+        {
+          "type": "noun",
+          "word": "concreteness"
         }
       ]
     },
@@ -11386,6 +11567,55 @@
         }
       ]
     },
+    "v-02733": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a4c0f2582875185cbabd02593d9c42a8f8fc8acee37c27b1aeb2d3f1bf01bd8f",
+      "antonyms": [
+        {
+          "meaning": "indicating the starting point",
+          "word": "from"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "go to school",
+        "listen to music",
+        "key to success",
+        "refer to",
+        "talk to"
+      ],
+      "common_mistake_correct": "Use \"to\" for direction or purpose",
+      "common_mistake_wrong": "Using \"too\" instead of \"to\"",
+      "definition_en": "Used to show direction, recipient, or purpose.",
+      "example_bn": "সে ফল কিনতে বাজারে গেল।",
+      "example_en": "She went to the market to buy fruit.",
+      "memory_hook": "\"To\" sounds like \"two\" steps forward – it points where you go.",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "to",
+        "too",
+        "two",
+        "the"
+      ],
+      "quiz_question": "Which word correctly completes: \"She gave the book ___ me.\"",
+      "short_meaning_en": "toward",
+      "synonyms": [
+        {
+          "meaning": "in the direction of",
+          "word": "toward"
+        },
+        {
+          "meaning": "entering",
+          "word": "into"
+        },
+        {
+          "meaning": "moving to a surface",
+          "word": "onto"
+        }
+      ],
+      "word_family": []
+    },
     "v-02737": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "abd700c9641bec8142352130709d324072a73f6e9941abc4d0fa93e028932a23",
@@ -13416,6 +13646,59 @@
         }
       ]
     },
+    "v-03891": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "85d6fcd812456af492c54616442d2c49d3daae55612dfdafdb544d9935d146c1",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "go to the gym",
+        "gym membership",
+        "gym class",
+        "gym equipment",
+        "gym trainer"
+      ],
+      "common_mistake_correct": "Use lower‑case unless it is a specific name",
+      "common_mistake_wrong": "Capitalising \"Gym\" when it is not a proper name",
+      "definition_en": "A place equipped for physical exercise and training.",
+      "example_bn": "তিনি সপ্তাহে তিনবার জিমে যান।",
+      "example_en": "He goes to the gym three times a week.",
+      "memory_hook": "Think of \"Gym\" as \"Jim\" who loves to work out.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "reading",
+        "lifting weights",
+        "cooking",
+        "painting"
+      ],
+      "quiz_question": "Which activity is most likely done at a gym?",
+      "short_meaning_en": "exercise room",
+      "synonyms": [
+        {
+          "meaning": "place for workouts",
+          "word": "fitness center"
+        },
+        {
+          "meaning": "room for exercising",
+          "word": "workout room"
+        },
+        {
+          "meaning": "facility for health activities",
+          "word": "health club"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "gymnasium"
+        },
+        {
+          "type": "adjective",
+          "word": "gymnastic"
+        }
+      ]
+    },
     "v-03907": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8490408efbc3eea66938168180b9b007cf7f03fb923fdf2d9d1669e0398133b9",
@@ -13895,6 +14178,14 @@
       "source_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
       "status": "valid"
     },
+    "v-00086": {
+      "audited_at": "2026-11-04T08:41:37.763283+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সম্মুখে, আগে",
+      "reason": "The provided Bangla meaning correctly captures the adverbial sense of 'ahead' meaning forward or in front.",
+      "source_fingerprint": "e80002038f507997dc04cfb2925c397b39b53e70bc3b9d70f769ad8d84c686d3",
+      "status": "valid"
+    },
     "v-00105": {
       "audited_at": "2026-10-04T07:49:08.754017+00:00",
       "confidence": 0.99,
@@ -14087,6 +14378,14 @@
       "source_fingerprint": "20bf3486a5f08d813b330d57d58b9cb4ea7287a2d9e578674717b43ea56a165a",
       "status": "valid"
     },
+    "v-00527": {
+      "audited_at": "2026-11-04T08:41:37.763351+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "যোগাযোগ, সংবাদ বা চিঠিপত্র আদান প্রদান",
+      "reason": "The Bangla meaning correctly describes the noun 'communication' as the exchange of information or messages.",
+      "source_fingerprint": "b1bf7d09357e1f872534ff11eb960c6f5e688662f23476171362462bcf4ffd0b",
+      "status": "valid"
+    },
     "v-00544": {
       "audited_at": "2026-10-27T07:22:16.063194+00:00",
       "confidence": 0.99,
@@ -14101,6 +14400,14 @@
       "meaning_bn": "একাগ্রতা",
       "reason": "The Bangla meaning accurately matches the English word 'concentration' as a noun meaning focus or attention.",
       "source_fingerprint": "55d15c78ab45fd27c0e0fb4c5cee8039c1346c2b60e999a8cca75d42c0b14f8b",
+      "status": "valid"
+    },
+    "v-00555": {
+      "audited_at": "2026-11-04T08:41:37.763229+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মূর্ত বা বাস্তব",
+      "reason": "The Bangla meaning accurately reflects the primary senses of the English word 'concrete' as an adjective meaning tangible or real.",
+      "source_fingerprint": "50ac794e1791cfd92adbf5b4ec8db2493a2a47bac3a49ab487d0b2170e822800",
       "status": "valid"
     },
     "v-00566": {
@@ -15255,6 +15562,14 @@
       "source_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
       "status": "valid"
     },
+    "v-02733": {
+      "audited_at": "2026-11-04T08:41:37.763307+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রতি, দিকে, তো",
+      "reason": "The Bangla meanings correspond to common prepositional uses of 'to' such as toward, at, and the particle 'to'.",
+      "source_fingerprint": "a4c0f2582875185cbabd02593d9c42a8f8fc8acee37c27b1aeb2d3f1bf01bd8f",
+      "status": "valid"
+    },
     "v-02737": {
       "audited_at": "2026-10-15T07:01:25.823975+00:00",
       "confidence": 0.99,
@@ -15479,6 +15794,14 @@
       "source_fingerprint": "46a2b233797261fdc6068f1d3f90eefb4c8cd68ecd794998e739371303915c9e",
       "status": "corrected"
     },
+    "v-03891": {
+      "audited_at": "2026-11-04T08:41:37.763326+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বায়ামাগার",
+      "reason": "The translation accurately represents the noun 'Gym' as a place for physical exercise.",
+      "source_fingerprint": "85d6fcd812456af492c54616442d2c49d3daae55612dfdafdb544d9935d146c1",
+      "status": "valid"
+    },
     "v-03907": {
       "audited_at": "2026-10-25T07:19:03.015964+00:00",
       "confidence": 0.98,
@@ -15586,6 +15909,12 @@
       "photo_file_id": "AgACAgUAAxUHaralGrgo5a11XPg3Fsj7u03Wkr4AAoMRaxvpIblVCiw0IATwDI8BAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralGrRW_4TqXdUvLD9S0FhTeCoAAicfAALpIblVQHzswxj6eRg9BA"
+    },
+    "v-00086": {
+      "audio_file_id": "CQACAgUAAxUHaurvyWgRZCNm2e2XKcAafaFyRwcAAmsjAALlPlhX8hv9xaiFgQc9BA",
+      "cached_at": "2026-11-04T08:41:45.829958+00:00",
+      "photo_file_id": "AgACAgUAAxUHaurvybwHEZdc9zKQ1o-3GQRiHQMAAjgVaxvlPlhXPQWrc48TScgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00105": {
       "audio_file_id": "CQACAgUAAxUHasIFAq4bTaTVTac56kD7qAABiYvdAAIJIAACQiUQVs-6x01QI3WCPQQ",
@@ -15755,6 +16084,12 @@
       "photo_file_id": "AgACAgUAAxUHasCxYZ-YUeAJNXch6dzFroqF_QQAAqUSaxuvhgFWa_okAAEGv8vaAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-00527": {
+      "audio_file_id": "CQACAgUAAxUHaurv0Ye5AAECi87xCxvpxPmy8su9AAJuIwAC5T5YV3yPHa7NNVUAAT0E",
+      "cached_at": "2026-11-04T08:41:54.139375+00:00",
+      "photo_file_id": "AgACAgUAAxUHaurv0TIaCzrkf3GmlPZywwQ0BnkAAjsVaxvlPlhXg7IZX_Upp5QBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00544": {
       "audio_file_id": "CQACAgUAAxUHauBRK4HGLwNg0TFUEVoMTN3rHewAAmsfAAIz9whXWPGbjfMrkoA9BA",
       "cached_at": "2026-10-27T07:22:20.666618+00:00",
@@ -15765,6 +16100,12 @@
       "audio_file_id": "CQACAgUAAxUHasIE-BuPC8J7ssSzfXBGFodksegAAgcgAAJCJRBWBjSmtPiUNk49BA",
       "cached_at": "2026-10-04T07:49:12.793880+00:00",
       "photo_file_id": "AgACAgUAAxUHasIE-KqxNQ7W0i82IxlsG0IAASVkAAIKGGsbQiUQVivX6RCbYClNAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-00555": {
+      "audio_file_id": "CQACAgUAAxUHaurvxZgP04hIkOARR3HU2dOyhqUAAmojAALlPlhXwatwpbYQnoc9BA",
+      "cached_at": "2026-11-04T08:41:42.279691+00:00",
+      "photo_file_id": "AgACAgUAAxUHaurvxfWOqqyV4yGWKaPRjNRxbkQAAjcVaxvlPlhXSQUkHra1AAFnAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-00566": {
@@ -16735,6 +17076,12 @@
       "photo_file_id": "AgACAgUAAxUHasyddRUQ3o0dCNCXnf9KrZibjhUAAl8Saxs8CWFWQS_Y58_Itc0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02733": {
+      "audio_file_id": "CQACAgUAAxUHaurvy_QeZMrdY0ZQtcZHaNFe_98AAmwjAALlPlhXP4P16yN8gyo9BA",
+      "cached_at": "2026-11-04T08:41:48.340382+00:00",
+      "photo_file_id": "AgACAgUAAxUHaurvy8CbPK47TQyvjb6FAakqAhIAAjkVaxvlPlhXMioyf0D6o5QBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02737": {
       "audio_file_id": "CQACAgUAAxUHatB6TqRwxmp3OUpaQBpXECopfu4AAvUgAALrMoFWqPHsg_vrSqU9BA",
       "cached_at": "2026-10-15T07:01:34.706980+00:00",
@@ -16956,6 +17303,12 @@
       "photo_file_id": "AgACAgUAAxUHauhQLU9jrQ5Yh3SSFcu1eZ9C404AAmwbaxstf0FXmN2sM2xPNvkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03891": {
+      "audio_file_id": "CQACAgUAAxUHaurvzqEiBFNEt3TmDmD2a5s1BAgAAm0jAALlPlhX7zP2GJZ4mng9BA",
+      "cached_at": "2026-11-04T08:41:51.344247+00:00",
+      "photo_file_id": "AgACAgUAAxUHaurvzjssYZYE5XwKxhNON7_W-n0AAjoVaxvlPlhX2yW-92XxArUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03907": {
       "audio_file_id": "CQACAgUAAxUHat2tct22eOvmsXhopPDOn-4b4ZYAAkMhAAL30ehWKQ0yDhxnpkE9BA",
       "cached_at": "2026-10-25T07:19:14.917447+00:00",
@@ -17056,6 +17409,12 @@
       "last_cycle": 1,
       "last_message_id": 54,
       "published_at": "2026-09-25T16:45:15.237268+00:00"
+    },
+    "v-00086": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 274,
+      "published_at": "2026-11-04T08:41:45.829989+00:00"
     },
     "v-00105": {
       "count": 1,
@@ -17226,6 +17585,12 @@
       "last_message_id": 119,
       "published_at": "2026-10-03T07:40:18.334942+00:00"
     },
+    "v-00527": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 277,
+      "published_at": "2026-11-04T08:41:54.139403+00:00"
+    },
     "v-00544": {
       "count": 1,
       "last_cycle": 1,
@@ -17237,6 +17602,12 @@
       "last_cycle": 1,
       "last_message_id": 123,
       "published_at": "2026-10-04T07:49:12.793905+00:00"
+    },
+    "v-00555": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 273,
+      "published_at": "2026-11-04T08:41:42.279722+00:00"
     },
     "v-00566": {
       "count": 1,
@@ -18222,6 +18593,12 @@
       "last_message_id": 167,
       "published_at": "2026-10-12T08:42:29.793593+00:00"
     },
+    "v-02733": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 275,
+      "published_at": "2026-11-04T08:41:48.340410+00:00"
+    },
     "v-02737": {
       "count": 1,
       "last_cycle": 1,
@@ -18450,6 +18827,12 @@
       "last_message_id": 266,
       "published_at": "2026-11-02T08:56:14.340291+00:00"
     },
+    "v-03891": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 276,
+      "published_at": "2026-11-04T08:41:51.344278+00:00"
+    },
     "v-03907": {
       "count": 1,
       "last_cycle": 1,
@@ -18507,11 +18890,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00555",
-    "v-00086",
-    "v-02733",
-    "v-03891",
-    "v-00527",
     "v-02893",
     "v-00311",
     "v-01105",
@@ -21767,41 +22145,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261006T083713Z-86662cd8": {
-      "completed_at": "2026-10-06T08:37:27.436987+00:00",
-      "created_at": "2026-10-06T08:37:13.882816+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02684"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01918"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01520"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02094"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01491"
-        }
-      ],
-      "published_ids": [
-        "v-02684",
-        "v-01918",
-        "v-01520",
-        "v-02094",
-        "v-01491"
-      ],
-      "status": "completed"
-    },
     "20261007T081246Z-ecc82dbe": {
       "completed_at": "2026-10-07T08:13:01.247409+00:00",
       "created_at": "2026-10-07T08:12:46.515541+00:00",
@@ -22828,6 +23171,41 @@
         "v-00225",
         "v-01012",
         "v-02236"
+      ],
+      "status": "completed"
+    },
+    "20261104T084137Z-2de0d2fa": {
+      "completed_at": "2026-11-04T08:41:54.161241+00:00",
+      "created_at": "2026-11-04T08:41:37.364340+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00555"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00086"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02733"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03891"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00527"
+        }
+      ],
+      "published_ids": [
+        "v-00555",
+        "v-00086",
+        "v-02733",
+        "v-03891",
+        "v-00527"
       ],
       "status": "completed"
     }
@@ -24751,6 +25129,43 @@
         "v-02236"
       ],
       "run_id": "20261103T090425Z-7f8f3a9d",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-04T08:41:54.161241+00:00",
+      "created_at": "2026-11-04T08:41:37.364340+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00555"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00086"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02733"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03891"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00527"
+        }
+      ],
+      "published_ids": [
+        "v-00555",
+        "v-00086",
+        "v-02733",
+        "v-03891",
+        "v-00527"
+      ],
+      "run_id": "20261104T084137Z-2de0d2fa",
       "status": "completed",
       "unknown_ids": []
     }
