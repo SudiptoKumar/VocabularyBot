@@ -35,6 +35,9 @@ jobs:
       WORDS_PER_RUN: "5"
       STATE_BRANCH: vocabulary-state
       CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      CEREBRAS_API_KEY_2: ${{ secrets.CEREBRAS_API_KEY_2 }}
+      NEWSROOM_BOT_TOKEN: ${{ secrets.NEWSROOM_BOT_TOKEN }}
+      ALERT_CHAT_ID: ${{ secrets.ALERT_CHAT_ID }}
       CEREBRAS_MODEL: gpt-oss-120b
       USE_CEREBRAS: "true"
       AUDIO_ENABLED: "true"
