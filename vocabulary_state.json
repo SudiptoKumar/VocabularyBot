@@ -1256,6 +1256,60 @@
         }
       ]
     },
+    "v-00311": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "58291eb452dd97f7a9d787d45e13a29a9593554d048774f7f603bcbd69529d65",
+      "antonyms": [
+        {
+          "meaning": "soft tissue",
+          "word": "flesh"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "bone fracture",
+        "bone marrow",
+        "bone density",
+        "bone structure",
+        "bone pain"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The hard, white tissue that makes up the skeleton of humans and animals.",
+      "example_bn": "সে তার হাতের হাড় ভেঙে গিয়েছিল এবং হাড়ের জন্য প্লাস্টার লাগাতে হয়েছিল।",
+      "example_en": "She broke her arm and had to get a cast for the bone.",
+      "memory_hook": "Bone sounds like \"bon\" in French, meaning good – a good part of your body.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "muscle",
+        "skin",
+        "bone",
+        "blood"
+      ],
+      "quiz_question": "What is the hard tissue inside your body called?",
+      "short_meaning_en": "skeleton part",
+      "synonyms": [
+        {
+          "meaning": "relating to bone",
+          "word": "skeletal"
+        },
+        {
+          "meaning": "bony",
+          "word": "osseous"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "bony"
+        },
+        {
+          "type": "adjective",
+          "word": "boneful"
+        }
+      ]
+    },
     "v-00337": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "3e9ab2da6fb9b62d11e54b348f676adcd87dc0a6a1b2faeeea435c36f8d5ad6c",
@@ -1471,6 +1525,72 @@
         {
           "type": "noun",
           "word": "cakewalk"
+        }
+      ]
+    },
+    "v-00399": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "052facecd383107e54f1746a6b4497d99465735ffe53e88876e8e2e1632e0c52",
+      "antonyms": [
+        {
+          "meaning": "debt",
+          "word": "credit"
+        },
+        {
+          "meaning": "owed money",
+          "word": "debt"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "cash payment",
+        "cash flow",
+        "cash register",
+        "cash on delivery",
+        "cash reserve"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Money in the form of coins or notes, not in a bank account.",
+      "example_bn": "তিনি ক্যাফের জন্য নগদ টাকা দিয়ে পরিশোধ করেছেন।",
+      "example_en": "He paid for the coffee with cash.",
+      "memory_hook": "Cash sounds like \"cash\" you get when you \"cash\" a check.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "credit",
+        "cash",
+        "loan",
+        "deposit"
+      ],
+      "quiz_question": "What do you call money you can hold in your hand?",
+      "short_meaning_en": "money in hand",
+      "synonyms": [
+        {
+          "meaning": "currency",
+          "word": "money"
+        },
+        {
+          "meaning": "medium of exchange",
+          "word": "currency"
+        },
+        {
+          "meaning": "paper money",
+          "word": "banknotes"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "cashier"
+        },
+        {
+          "type": "adjective",
+          "word": "cashless"
+        },
+        {
+          "type": "verb",
+          "word": "cashing"
         }
       ]
     },
@@ -4797,6 +4917,68 @@
         }
       ]
     },
+    "v-01105": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "9c50f63fca66ae8ac0ddbcf3604e0a262279c02710009f6d6b485afee40651dd",
+      "antonyms": [
+        {
+          "meaning": "recall",
+          "word": "remember"
+        },
+        {
+          "meaning": "bring to mind",
+          "word": "recall"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "forget something",
+        "forget to",
+        "forget about",
+        "forgetful person",
+        "forgotten memory"
+      ],
+      "common_mistake_correct": "forgot",
+      "common_mistake_wrong": "forgeted",
+      "definition_en": "To fail to remember something or to lose knowledge of it.",
+      "example_bn": "আমি ক্লাসে নোটবুক আনতে ভুলে গেছি।",
+      "example_en": "I forgot to bring my notebook to class.",
+      "memory_hook": "Forget starts with \"for-\" like \"for get\" – you get something away.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "remember",
+        "forget",
+        "learn",
+        "write"
+      ],
+      "quiz_question": "Which word means to lose a memory?",
+      "short_meaning_en": "lose memory",
+      "synonyms": [
+        {
+          "meaning": "remember incorrectly",
+          "word": "misremember"
+        },
+        {
+          "meaning": "fail to notice",
+          "word": "overlook"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "forgotten"
+        },
+        {
+          "type": "adjective",
+          "word": "forgetful"
+        },
+        {
+          "type": "noun",
+          "word": "forgetting"
+        }
+      ]
+    },
     "v-01106": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "6766af7c093cb428d4af879ba2f25c7548d761811e57c4a3c1cd3e19c66c9bc6",
@@ -5194,6 +5376,72 @@
         {
           "type": "noun",
           "word": "giver"
+        }
+      ]
+    },
+    "v-01186": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "294724e7470a7190e11ba397e59d547e85b7197e11103540d8731b8436f4c67a",
+      "antonyms": [
+        {
+          "meaning": "not transparent",
+          "word": "opaque"
+        },
+        {
+          "meaning": "non-transparent material",
+          "word": "solid"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "glass bottle",
+        "glass window",
+        "glass table",
+        "glass ceiling",
+        "glass surface"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A transparent material made of silica, used for windows, bottles, and mirrors.",
+      "example_bn": "সে পরিষ্কার কাঁচটি পরিষ্কার করে তার প্রতিফলন স্পষ্টভাবে দেখল।",
+      "example_en": "She cleaned the glass to see her reflection clearly.",
+      "memory_hook": "Glass rhymes with \"class\" – think of a clear class where you can see through.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "wood",
+        "metal",
+        "glass",
+        "plastic"
+      ],
+      "quiz_question": "What do you call a clear, transparent material used for windows?",
+      "short_meaning_en": "transparent material",
+      "synonyms": [
+        {
+          "meaning": "sheet of glass",
+          "word": "pane"
+        },
+        {
+          "meaning": "reflective glass",
+          "word": "mirror"
+        },
+        {
+          "meaning": "clear glass",
+          "word": "crystal"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "glassy"
+        },
+        {
+          "type": "noun",
+          "word": "glassware"
+        },
+        {
+          "type": "noun",
+          "word": "glassful"
         }
       ]
     },
@@ -12369,6 +12617,72 @@
         }
       ]
     },
+    "v-02893": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "05906792900f6e9bcfce4a6d6a06bf7f9d9f13ac938e590ca468069330290c29",
+      "antonyms": [
+        {
+          "meaning": "go away",
+          "word": "leave"
+        },
+        {
+          "meaning": "go from a place",
+          "word": "depart"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "wait a minute",
+        "wait for you",
+        "wait in line",
+        "wait patiently",
+        "wait until"
+      ],
+      "common_mistake_correct": "waited for",
+      "common_mistake_wrong": "waited to",
+      "definition_en": "To stay in one place until something happens or someone arrives.",
+      "example_bn": "অনুগ্রহ করে বাস আসা পর্যন্ত এখানে অপেক্ষা করুন।",
+      "example_en": "Please wait here until the bus arrives.",
+      "memory_hook": "Think of a \"wait\" as a pause button on a video.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "run",
+        "wait",
+        "jump",
+        "hide"
+      ],
+      "quiz_question": "Which word means to stay until something happens?",
+      "short_meaning_en": "stay temporarily",
+      "synonyms": [
+        {
+          "meaning": "remain in place",
+          "word": "stay"
+        },
+        {
+          "meaning": "stop briefly",
+          "word": "pause"
+        },
+        {
+          "meaning": "stay longer than necessary",
+          "word": "linger"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "waiter"
+        },
+        {
+          "type": "noun",
+          "word": "waiting"
+        },
+        {
+          "type": "verb",
+          "word": "waited"
+        }
+      ]
+    },
     "v-02894": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -14282,6 +14596,14 @@
       "source_fingerprint": "07c1609a02d4f874086d1844db13c302daa49eaff225cf8ec59e46a77aef3bc8",
       "status": "valid"
     },
+    "v-00311": {
+      "audited_at": "2026-11-05T09:00:40.478001+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "হাড়",
+      "reason": "The meaning accurately reflects the noun 'bone'.",
+      "source_fingerprint": "58291eb452dd97f7a9d787d45e13a29a9593554d048774f7f603bcbd69529d65",
+      "status": "valid"
+    },
     "v-00337": {
       "audited_at": "2026-09-26T12:40:01.633580+00:00",
       "confidence": 1.0,
@@ -14305,6 +14627,14 @@
       "reason": "The meaning includes 'পিঠা', which is a different Bengali dish and not a sense of the English word 'cake'.",
       "source_fingerprint": "386d73ab1acbdff68c2a37131e7a95b2e1ce075763efb80b17eba4040383ce9b",
       "status": "corrected"
+    },
+    "v-00399": {
+      "audited_at": "2026-11-05T09:00:40.478075+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নগদ, নগদ টাকা, অর্থ, নগদ অর্থ",
+      "reason": "The meanings accurately correspond to the noun 'cash'.",
+      "source_fingerprint": "052facecd383107e54f1746a6b4497d99465735ffe53e88876e8e2e1632e0c52",
+      "status": "valid"
     },
     "v-00404": {
       "audited_at": "2026-10-14T07:09:15.322669+00:00",
@@ -14714,6 +15044,14 @@
       "source_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
       "status": "valid"
     },
+    "v-01105": {
+      "audited_at": "2026-11-05T09:00:40.478037+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভুলে যাওয়া, ভুলে যেতে",
+      "reason": "The Bangla meanings correctly describe the verb 'forget'.",
+      "source_fingerprint": "9c50f63fca66ae8ac0ddbcf3604e0a262279c02710009f6d6b485afee40651dd",
+      "status": "valid"
+    },
     "v-01106": {
       "audited_at": "2026-10-25T07:19:03.015934+00:00",
       "confidence": 0.99,
@@ -14760,6 +15098,14 @@
       "meaning_bn": "দেওয়া, প্রদান করা, দিতে",
       "reason": "The provided Bangla meanings accurately represent the verb 'give'.",
       "source_fingerprint": "21dac84b604bf19e4b18e0e947c50413f8748309aac60453c4790db68a09194c",
+      "status": "valid"
+    },
+    "v-01186": {
+      "audited_at": "2026-11-05T09:00:40.478108+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "কাঁচ, আয়না, দর্পণ",
+      "reason": "The Bangla meanings correctly represent the noun 'glass'.",
+      "source_fingerprint": "294724e7470a7190e11ba397e59d547e85b7197e11103540d8731b8436f4c67a",
       "status": "valid"
     },
     "v-01195": {
@@ -15650,6 +15996,14 @@
       "source_fingerprint": "afa3aaa80b5d125f2dd15be793ebf5a4cbf4183fadd87cce4350576504c8ea4c",
       "status": "corrected"
     },
+    "v-02893": {
+      "audited_at": "2026-11-05T09:00:40.477944+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অপেক্ষা করা, বিলম্ব করা, অপেক্ষা করতে",
+      "reason": "The Bangla meanings correspond to the verb 'wait' and match the source contexts.",
+      "source_fingerprint": "05906792900f6e9bcfce4a6d6a06bf7f9d9f13ac938e590ca468069330290c29",
+      "status": "valid"
+    },
     "v-02905": {
       "audited_at": "2026-10-11T08:20:56.006877+00:00",
       "confidence": 0.99,
@@ -16006,6 +16360,12 @@
       "photo_file_id": "AgACAgUAAxUHas3zUODmyMNUuPIFAAH9-YV-ipmUAAJdE2sbPAlxVsIrDfwB8EwaAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-00311": {
+      "audio_file_id": "CQACAgUAAxUHauxFv_Iebod5rJAM95CgnqPw4lsAArEgAALghWBX6-iQe1wbFZo9BA",
+      "cached_at": "2026-11-05T09:00:48.066627+00:00",
+      "photo_file_id": "AgACAgUAAxUHauxFvxkUQgAB658Fzjb-gHM3j2UEAAKRE2sb4IVgVy0ny3JI3ka-AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
     "v-00337": {
       "audio_file_id": "CQACAgUAAxUHare9LDiCzfMhfnWRyT4EoRpIn6IAApkhAALpIcFVW04DjBkv0oQ9BA",
       "cached_at": "2026-09-26T12:40:13.460731+00:00",
@@ -16028,6 +16388,12 @@
       "audio_file_id": "CQACAgUAAxUHatXFP3JOfpwAATMBLuYWmE1mcbPVAAKTIQACjaixVk9Qa6AvAhCMPQQ",
       "cached_at": "2026-10-19T07:22:40.018911+00:00",
       "photo_file_id": "AgACAgUAAxUHatXFP8Mu6ECPo87MO0aNuOtuMpkAArQVaxuNqLFWtC0RH0uZw7wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00399": {
+      "audio_file_id": "CQACAgUAAxUHauxFxJtVhIerZWawp2_V-cPiR8QAArMgAALghWBXZZhY3CMDExQ9BA",
+      "cached_at": "2026-11-05T09:00:53.008022+00:00",
+      "photo_file_id": "AgACAgUAAxUHauxFxE2F2Ex5V4J6hGbndJz1ApQAApMTaxvghWBX1-hOutM-6A0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00404": {
@@ -16371,6 +16737,12 @@
       "photo_file_id": "AgACAgUAAxUHasCxa1-NxC-uMIzlqCgPc4rrXkEAAqgSaxuvhgFWfU360voU4VIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01105": {
+      "audio_file_id": "CQACAgUAAxUHauxFwZ7sveDQA9XXoWrte56rqZQAArIgAALghWBX0D9rBt41ZhI9BA",
+      "cached_at": "2026-11-05T09:00:50.555036+00:00",
+      "photo_file_id": "AgACAgUAAxUHauxFwtBvIsWduRKL99GVo2qImBwAApITaxvghWBXxCwH5ZwNE2sBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01106": {
       "audio_file_id": "CQACAgUAAxUHat2tcNxns1fERRsDBcKNS-GXYMsAAkIhAAL30ehWQhH1EJl5AAF3PQQ",
       "cached_at": "2026-10-25T07:19:12.516495+00:00",
@@ -16411,6 +16783,12 @@
       "audio_file_id": "CQACAgUAAxUHas3zVDXCsVB-BpRxRZ6BzGo14McAApkkAAI8CXFWNcw8yE9IBhE9BA",
       "cached_at": "2026-10-13T09:01:09.239443+00:00",
       "photo_file_id": "AgACAgUAAxUHas3zVHFbxT7XNPCnP5fn0AIAARVyAAJfE2sbPAlxVgu3MOgs6WV4AQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-01186": {
+      "audio_file_id": "CQACAgUAAxUHauxFxtF5p3TpkslRtjknPAk9XyQAArQgAALghWBXYXmf7BgZUeE9BA",
+      "cached_at": "2026-11-05T09:00:55.401718+00:00",
+      "photo_file_id": "AgACAgUAAxUHauxFxtP-Mtv79XUx0BMEzci8Wr0AApQTaxvghWBXwgL9FnM2l1ABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01195": {
@@ -17159,6 +17537,12 @@
       "photo_file_id": "AgACAgUAAxUHauRQVtz5dgPZ7IwRF53PuojXKUgAAqESaxvv5yBXw5pUcUpqCroBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02893": {
+      "audio_file_id": "CQACAgUAAxUHauxFvWiEbwpxmwVCmLwfu6wGuvgAArAgAALghWBXs_f5oI0Zee89BA",
+      "cached_at": "2026-11-05T09:00:45.653142+00:00",
+      "photo_file_id": "AgACAgUAAxUHauxFvWi5hNn3VjD9RRzYaHE4KlgAApATaxvghWBXVbwTzhGbFT0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02894": {
       "cached_at": "2026-09-25T14:58:13.930850+00:00",
       "photo_file_id": "AgACAgUAAxUHaraMBUueXe9_8cjDBZ6TBJ4im4gAAj4RaxvpIblVWQyMTvmtxfYBAAMCAANzAAM9BA",
@@ -17506,6 +17890,12 @@
       "last_message_id": 170,
       "published_at": "2026-10-13T09:01:04.872571+00:00"
     },
+    "v-00311": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 279,
+      "published_at": "2026-11-05T09:00:48.066656+00:00"
+    },
     "v-00337": {
       "count": 1,
       "last_cycle": 1,
@@ -17530,6 +17920,12 @@
       "last_cycle": 1,
       "last_message_id": 194,
       "published_at": "2026-10-19T07:22:40.018940+00:00"
+    },
+    "v-00399": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 281,
+      "published_at": "2026-11-05T09:00:53.008048+00:00"
     },
     "v-00404": {
       "count": 1,
@@ -17877,6 +18273,12 @@
       "last_message_id": 122,
       "published_at": "2026-10-03T07:40:27.539031+00:00"
     },
+    "v-01105": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 280,
+      "published_at": "2026-11-05T09:00:50.555060+00:00"
+    },
     "v-01106": {
       "count": 1,
       "last_cycle": 1,
@@ -17919,6 +18321,12 @@
       "last_cycle": 1,
       "last_message_id": 172,
       "published_at": "2026-10-13T09:01:09.239466+00:00"
+    },
+    "v-01186": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 282,
+      "published_at": "2026-11-05T09:00:55.401742+00:00"
     },
     "v-01195": {
       "count": 1,
@@ -18679,6 +19087,12 @@
       "last_message_id": 250,
       "published_at": "2026-10-30T08:07:50.437268+00:00"
     },
+    "v-02893": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 278,
+      "published_at": "2026-11-05T09:00:45.653170+00:00"
+    },
     "v-02894": {
       "count": 1,
       "last_cycle": 1,
@@ -18890,11 +19304,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02893",
-    "v-00311",
-    "v-01105",
-    "v-00399",
-    "v-01186",
     "v-02838",
     "v-01813",
     "v-02112",
@@ -22145,41 +22554,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261007T081246Z-ecc82dbe": {
-      "completed_at": "2026-10-07T08:13:01.247409+00:00",
-      "created_at": "2026-10-07T08:12:46.515541+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01039"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01163"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03657"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00873"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01434"
-        }
-      ],
-      "published_ids": [
-        "v-01039",
-        "v-01163",
-        "v-03657",
-        "v-00873",
-        "v-01434"
-      ],
-      "status": "completed"
-    },
     "20261008T082835Z-b9fa97a4": {
       "completed_at": "2026-10-08T08:28:48.133836+00:00",
       "created_at": "2026-10-08T08:28:35.230488+00:00",
@@ -23206,6 +23580,41 @@
         "v-02733",
         "v-03891",
         "v-00527"
+      ],
+      "status": "completed"
+    },
+    "20261105T090040Z-fcd8c5b1": {
+      "completed_at": "2026-11-05T09:00:55.437008+00:00",
+      "created_at": "2026-11-05T09:00:40.140493+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02893"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00311"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01105"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00399"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01186"
+        }
+      ],
+      "published_ids": [
+        "v-02893",
+        "v-00311",
+        "v-01105",
+        "v-00399",
+        "v-01186"
       ],
       "status": "completed"
     }
@@ -25166,6 +25575,43 @@
         "v-00527"
       ],
       "run_id": "20261104T084137Z-2de0d2fa",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-05T09:00:55.437008+00:00",
+      "created_at": "2026-11-05T09:00:40.140493+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02893"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00311"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01105"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00399"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01186"
+        }
+      ],
+      "published_ids": [
+        "v-02893",
+        "v-00311",
+        "v-01105",
+        "v-00399",
+        "v-01186"
+      ],
+      "run_id": "20261105T090040Z-fcd8c5b1",
       "status": "completed",
       "unknown_ids": []
     }
