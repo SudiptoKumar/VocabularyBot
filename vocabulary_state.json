@@ -6674,6 +6674,63 @@
         }
       ]
     },
+    "v-01497": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "671b5755aa6ffa28b33b9ae0bb51ffe0c68bcad479201760de7ffbbd65007e41",
+      "antonyms": [
+        {
+          "meaning": "initial",
+          "word": "first"
+        },
+        {
+          "meaning": "beginning",
+          "word": "initial"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "last chance",
+        "last minute",
+        "last week",
+        "last resort",
+        "last word"
+      ],
+      "common_mistake_correct": "last",
+      "common_mistake_wrong": "lest",
+      "definition_en": "Being the final item in a sequence or occurring at the end.",
+      "example_bn": "এটি শেষের টুকরো কেক।",
+      "example_en": "This is the last piece of cake.",
+      "memory_hook": "Remember \"last\" ends with \"st\" – the \"st\" stands for \"stop\" at the end.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [],
+      "quiz_question": "Which sentence uses \"last\" correctly?",
+      "short_meaning_en": "final",
+      "synonyms": [
+        {
+          "meaning": "last in order",
+          "word": "final"
+        },
+        {
+          "meaning": "coming to a close",
+          "word": "ending"
+        },
+        {
+          "meaning": "the greatest or final",
+          "word": "ultimate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "lastly"
+        },
+        {
+          "type": "adjective",
+          "word": "lasting"
+        }
+      ]
+    },
     "v-01512": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "45e9b56d8d50f82ad5f9c8f5e4ae108016048eabe8488538dfff93f5ce9d11a2",
@@ -8223,6 +8280,59 @@
         }
       ]
     },
+    "v-01813": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "53e54897927bff5397abe0e517cdf85895954d7ffd835ffd936b148eb9a202e1",
+      "antonyms": [
+        {
+          "meaning": "seldom",
+          "word": "rarely"
+        },
+        {
+          "meaning": "not often",
+          "word": "seldom"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "often enough",
+        "often times",
+        "often seen",
+        "often heard",
+        "often visited"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Occurring many times or at short intervals.",
+      "example_bn": "আমি প্রায়ই রাতের খাবারের পরে হাঁটতে যাই।",
+      "example_en": "I often go for a walk after dinner.",
+      "memory_hook": "\"Oft\" sounds like \"oft\" in old English meaning many times – remember \"often\" means many times.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She often visits her grandparents.",
+        "He oftened goes to the gym.",
+        "They are oftened late.",
+        "We oftened eat out."
+      ],
+      "quiz_question": "Choose the sentence that correctly uses \"often\".",
+      "short_meaning_en": "frequently",
+      "synonyms": [
+        {
+          "meaning": "many times",
+          "word": "frequently"
+        },
+        {
+          "meaning": "at regular intervals",
+          "word": "regularly"
+        },
+        {
+          "meaning": "again and again",
+          "word": "repeatedly"
+        }
+      ],
+      "word_family": []
+    },
     "v-01828": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -9427,6 +9537,68 @@
         {
           "type": "adjective",
           "word": "psychological"
+        }
+      ]
+    },
+    "v-02112": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "847e9f29b65d170afd4e37a81ed0bb0cb606ad4920eb1376bea9899bab361740",
+      "antonyms": [
+        {
+          "meaning": "to give for money",
+          "word": "sell"
+        },
+        {
+          "meaning": "to give back",
+          "word": "return"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "purchase a ticket",
+        "purchase a house",
+        "purchase power",
+        "purchase order",
+        "purchase price"
+      ],
+      "common_mistake_correct": "purchase",
+      "common_mistake_wrong": "purchace",
+      "definition_en": "To buy something, especially by paying money for it.",
+      "example_bn": "তিনি আগামী সপ্তাহে একটি নতুন ল্যাপটপ ক্রয় করবেন।",
+      "example_en": "She will purchase a new laptop next week.",
+      "memory_hook": "Think of \"purchase\" as \"purse\" + \"ache\" – you put money in your purse to ease the ache of needing something.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "He will purchase a new car tomorrow.",
+        "She purchase a book yesterday.",
+        "They are purchasing a house now.",
+        "We will purchaseed the tickets."
+      ],
+      "quiz_question": "Which sentence uses \"purchase\" correctly?",
+      "short_meaning_en": "buy",
+      "synonyms": [
+        {
+          "meaning": "to obtain by paying",
+          "word": "buy"
+        },
+        {
+          "meaning": "to get",
+          "word": "acquire"
+        },
+        {
+          "meaning": "to obtain, especially with effort",
+          "word": "procure"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "purchaser"
+        },
+        {
+          "type": "adjective",
+          "word": "purchasable"
         }
       ]
     },
@@ -11753,6 +11925,59 @@
         }
       ]
     },
+    "v-02711": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "dab6f098f3314fd93747852c82354bc2d3beecd3c7b62af9cf40b07a7850024e",
+      "antonyms": [
+        {
+          "meaning": "nearby items",
+          "word": "these"
+        },
+        {
+          "meaning": "nearby singular",
+          "word": "this"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "those people",
+        "those days",
+        "those books",
+        "those ideas",
+        "those reasons"
+      ],
+      "common_mistake_correct": "those",
+      "common_mistake_wrong": "thoses",
+      "definition_en": "Those people or things that are farther away from the speaker.",
+      "example_bn": "সেগুলো আমার প্রিয় জুতা।",
+      "example_en": "Those are my favorite shoes.",
+      "memory_hook": "\"Those\" sounds like \"those\" – remember the \"o\" points to something far away.",
+      "part_of_speech": "pronoun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Those are my friends.",
+        "That are my friends.",
+        "These are my friends.",
+        "Those's are my friends."
+      ],
+      "quiz_question": "Select the correct sentence using \"those\".",
+      "short_meaning_en": "those",
+      "synonyms": [
+        {
+          "meaning": "refers to people or things",
+          "word": "them"
+        },
+        {
+          "meaning": "refers to nearer items",
+          "word": "these"
+        },
+        {
+          "meaning": "specific items",
+          "word": "the ones"
+        }
+      ],
+      "word_family": []
+    },
     "v-02721": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "166c49491d4576b396c3ca7e24b7618e4b637f876c7b1866ca9e0ea505a2c78c",
@@ -12453,6 +12678,72 @@
         {
           "type": "pronoun",
           "word": "ours"
+        }
+      ]
+    },
+    "v-02838": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4337cd8d283b21a1be86fd0857506f4b3ea0ef8653281578184f475d82de808f",
+      "antonyms": [
+        {
+          "meaning": "to pay no attention to",
+          "word": "ignore"
+        },
+        {
+          "meaning": "to fail to use",
+          "word": "neglect"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "use a tool",
+        "use a computer",
+        "use your time wisely",
+        "use the restroom",
+        "use a coupon"
+      ],
+      "common_mistake_correct": "used",
+      "common_mistake_wrong": "useed",
+      "definition_en": "To employ something for a purpose or to apply it.",
+      "example_bn": "আপনি এই অ্যাপটি ব্যবহার করে আপনার খরচ ট্র্যাক করতে পারেন।",
+      "example_en": "You can use this app to track your expenses.",
+      "memory_hook": "Think of a \"U\" shape that holds something – you put it in to use it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She use the phone to call her friend.",
+        "He uses the ladder to reach the roof.",
+        "They using the car for the trip.",
+        "We will useed the new software."
+      ],
+      "quiz_question": "Which sentence uses \"use\" correctly?",
+      "short_meaning_en": "apply",
+      "synonyms": [
+        {
+          "meaning": "to make use of",
+          "word": "utilize"
+        },
+        {
+          "meaning": "to put to work",
+          "word": "employ"
+        },
+        {
+          "meaning": "to put into action",
+          "word": "apply"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "useful"
+        },
+        {
+          "type": "adjective",
+          "word": "useless"
+        },
+        {
+          "type": "noun",
+          "word": "user"
         }
       ]
     },
@@ -15260,6 +15551,14 @@
       "source_fingerprint": "d556aeba90fe2223c92cd7bff43b7e8c1976dd734ce4262f067c209be7e4f0ff",
       "status": "valid"
     },
+    "v-01497": {
+      "audited_at": "2026-11-06T08:57:45.502511+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শেষ, সর্বশেষ",
+      "reason": "The supplied meaning accurately captures the adjective/noun sense of 'last'.",
+      "source_fingerprint": "671b5755aa6ffa28b33b9ae0bb51ffe0c68bcad479201760de7ffbbd65007e41",
+      "status": "valid"
+    },
     "v-01512": {
       "audited_at": "2026-09-26T23:32:05.945786+00:00",
       "confidence": 0.97,
@@ -15444,6 +15743,14 @@
       "source_fingerprint": "10c2c2d55d9621ccbdc2c01cfeeea5669157051e298095e1a972177780d47d53",
       "status": "valid"
     },
+    "v-01813": {
+      "audited_at": "2026-11-06T08:57:45.297017+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "প্রায়ই",
+      "reason": "The given meaning 'পদস্থ সরকারী কর্মচারী' is unrelated to the adverb 'often'; the correct Bangla translation is 'প্রায়ই'.",
+      "source_fingerprint": "f6ae16708c5f6355b151d9f8dbe3363170e197f459b7c4fccaba4d37269dabc5",
+      "status": "corrected"
+    },
     "v-01900": {
       "audited_at": "2026-10-19T07:22:34.074736+00:00",
       "confidence": 0.99,
@@ -15587,6 +15894,14 @@
       "reason": "The supplied meaning accurately matches the English noun 'psychologist'.",
       "source_fingerprint": "71a0799e74a6f013bf921a8d023785c59313e1e50ffdbc2fac8cd7b982844e29",
       "status": "valid"
+    },
+    "v-02112": {
+      "audited_at": "2026-11-06T08:57:45.502417+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "ক্রয়",
+      "reason": "The source meaning mixes unrelated senses such as 'শাস্তি, সাজা, দণ্ড' which do not belong to the verb/noun 'purchase'. The appropriate Bangla translation for 'purchase' is 'ক্রয়'.",
+      "source_fingerprint": "ffc4f0f3aa9005e579365db9d068574e65a62ba9ece5780ebd1244b2e055a042",
+      "status": "corrected"
     },
     "v-02122": {
       "audited_at": "2026-09-30T08:04:52.970975+00:00",
@@ -15900,6 +16215,14 @@
       "source_fingerprint": "f3f05bbfe5b3c1c1d45642b2f88254bf95e588b20e7d44b9dd8a8a0c3dbf6e30",
       "status": "valid"
     },
+    "v-02711": {
+      "audited_at": "2026-11-06T08:57:45.502479+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ওইগুলি, সেগুলো",
+      "reason": "The Bangla meaning correctly corresponds to the demonstrative pronoun 'those'.",
+      "source_fingerprint": "dab6f098f3314fd93747852c82354bc2d3beecd3c7b62af9cf40b07a7850024e",
+      "status": "valid"
+    },
     "v-02721": {
       "audited_at": "2026-10-12T08:42:06.679375+00:00",
       "confidence": 0.99,
@@ -15986,6 +16309,14 @@
       "meaning_bn": "আমাদেরকে",
       "reason": "The Bangla meaning correctly represents the pronoun 'us'.",
       "source_fingerprint": "d6a2b47b60f61152e1b6bee842585ea9f24951fc9d1a662d51f189133e7e21c6",
+      "status": "valid"
+    },
+    "v-02838": {
+      "audited_at": "2026-11-06T08:57:45.296956+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রয়োগ করা, ব্যবহার করা, ব্যবহার করতে",
+      "reason": "The supplied Bangla meaning accurately reflects the verb 'use' as indicated by the source contexts.",
+      "source_fingerprint": "4337cd8d283b21a1be86fd0857506f4b3ea0ef8653281578184f475d82de808f",
       "status": "valid"
     },
     "v-02886": {
@@ -16917,6 +17248,12 @@
       "photo_file_id": "AgACAgUAAxUHasSzRsLc5-nOWzpnzt5TH-dqgTAAAloTaxv07iFWZslu7pL4ApoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01497": {
+      "audio_file_id": "CQACAgUAAxUHau2WmCl7cP1ULmCIDJ2EgT046wwAAyQAAuCFaFdmOP2KT0Denj0E",
+      "cached_at": "2026-11-06T08:58:00.931221+00:00",
+      "photo_file_id": "AgACAgUAAxUHau2WmGEkE5gfZVVuvzpk5Aj9_CoAAssSaxvghWhXY2aoinvrSbYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01512": {
       "audio_file_id": "AwACAgUAAxUHarhV_Ra_MPTEPIN-b1CFElFWpNwAAkYhAAKcC8lVoinMiGPklJc9BA",
       "cached_at": "2026-09-26T23:32:14.483365+00:00",
@@ -17076,6 +17413,12 @@
       "photo_file_id": "AgACAgUAAxUHasdUOeMOYLIKdBxUgMlhFU8fnC8AAqoTaxuIuzlWD5b_eP-DiEYBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01813": {
+      "audio_file_id": "CQACAgUAAxUHau2Wj8zpmsNa0oFioLIEUWKuisQAAv0jAALghWhX0P6cwisNJlo9BA",
+      "cached_at": "2026-11-06T08:57:52.346868+00:00",
+      "photo_file_id": "AgACAgUAAxUHau2Wj65rq8IVhZeE0ZNN1fnhE3cAAsgSaxvghWhXE82Uhb8RmOoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01828": {
       "cached_at": "2026-09-26T07:07:12.293149+00:00",
       "photo_file_id": "AgACAgUAAxUHardvH2uhwacwpGjkgnvsoyCm_ogAAt4RaxvpIcFV57hUogaUOPoBAAMCAANzAAM9BA",
@@ -17206,6 +17549,12 @@
       "audio_file_id": "CQACAgUAAxUHauWgfby91X2VXYmbtxkzZ19YnfMAAgohAALv5yhXk7EEavFdmgk9BA",
       "cached_at": "2026-10-31T08:02:05.682718+00:00",
       "photo_file_id": "AgACAgUAAxUHauWgfSY4yTgSrvwFgXtsvv45xrgAAisUaxvv5yhXm-Z5OA6k7csBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02112": {
+      "audio_file_id": "CQACAgUAAxUHau2WknxhfeVlFFgtXxJiB53jpOoAAv4jAALghWhXvDF7nSBGP889BA",
+      "cached_at": "2026-11-06T08:57:55.175131+00:00",
+      "photo_file_id": "AgACAgUAAxUHau2Wkp4N7NTNfAlBpTq3lN5HmEMAAskSaxvghWhXEGEYP2ybb10BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02122": {
@@ -17448,6 +17797,12 @@
       "photo_file_id": "AgACAgUAAxUHatcUpKE2t8zFGB1UcS2uw7cFddIAAg8TaxtmmLlWQA2vlQXwv0cBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02711": {
+      "audio_file_id": "CQACAgUAAxUHau2WlSeFRS5Jqbm_teyb1dxPZEgAAv8jAALghWhXg6cCB4rgNrY9BA",
+      "cached_at": "2026-11-06T08:57:58.147847+00:00",
+      "photo_file_id": "AgACAgUAAxUHau2WlR4WfSqU6Y3I92Rmj9MX4OEAAsoSaxvghWhXo7FmuMf3G84BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02721": {
       "audio_file_id": "CQACAgUAAxUHasyddVWLlSQy247RRB3CqUiJdmsAAmQjAAI8CWFWyhDULrAv1t89BA",
       "cached_at": "2026-10-12T08:42:29.793566+00:00",
@@ -17518,6 +17873,12 @@
       "audio_file_id": "CQACAgUAAxUHarzCrxU06SWqaYTnzAAB2NBupmaTAAKyIgACxwfoVRxwOtjSV0PsPQQ",
       "cached_at": "2026-09-30T08:05:04.066816+00:00",
       "photo_file_id": "AgACAgUAAxUHarzCr5eaEytw3n5Wug5LgnRbrhEAAqYSaxvHB-hVI_93TST6d98BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02838": {
+      "audio_file_id": "CQACAgUAAxUHau2WjKKjXAx4BCsk4uCV2JxxsxYAAvwjAALghWhXCefkfrf0QkE9BA",
+      "cached_at": "2026-11-06T08:57:49.560071+00:00",
+      "photo_file_id": "AgACAgUAAxUHau2WjY6mSoXBAbvOpxPEU4fQK2gAAscSaxvghWhXkPX5AAHizj_pAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-02843": {
@@ -18456,6 +18817,12 @@
       "last_message_id": 137,
       "published_at": "2026-10-06T08:37:27.426653+00:00"
     },
+    "v-01497": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 287,
+      "published_at": "2026-11-06T08:58:00.931247+00:00"
+    },
     "v-01512": {
       "count": 1,
       "last_cycle": 1,
@@ -18622,6 +18989,12 @@
       "last_message_id": 144,
       "published_at": "2026-10-08T08:28:41.819750+00:00"
     },
+    "v-01813": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 284,
+      "published_at": "2026-11-06T08:57:52.346895+00:00"
+    },
     "v-01828": {
       "count": 1,
       "last_cycle": 1,
@@ -18754,6 +19127,12 @@
       "last_cycle": 1,
       "last_message_id": 253,
       "published_at": "2026-10-31T08:02:05.682745+00:00"
+    },
+    "v-02112": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 285,
+      "published_at": "2026-11-06T08:57:55.175183+00:00"
     },
     "v-02122": {
       "count": 1,
@@ -18995,6 +19374,12 @@
       "last_message_id": 200,
       "published_at": "2026-10-20T07:13:41.235765+00:00"
     },
+    "v-02711": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 286,
+      "published_at": "2026-11-06T08:57:58.147872+00:00"
+    },
     "v-02721": {
       "count": 1,
       "last_cycle": 1,
@@ -19066,6 +19451,12 @@
       "last_cycle": 1,
       "last_message_id": 106,
       "published_at": "2026-09-30T08:05:04.066844+00:00"
+    },
+    "v-02838": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 283,
+      "published_at": "2026-11-06T08:57:49.560097+00:00"
     },
     "v-02843": {
       "count": 1,
@@ -19304,11 +19695,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02838",
-    "v-01813",
-    "v-02112",
-    "v-02711",
-    "v-01497",
     "v-00998",
     "v-03609",
     "v-02918",
@@ -22554,41 +22940,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261008T082835Z-b9fa97a4": {
-      "completed_at": "2026-10-08T08:28:48.133836+00:00",
-      "created_at": "2026-10-08T08:28:35.230488+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01142"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01812"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03983"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00363"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02543"
-        }
-      ],
-      "published_ids": [
-        "v-01142",
-        "v-01812",
-        "v-03983",
-        "v-00363",
-        "v-02543"
-      ],
-      "status": "completed"
-    },
     "20261009T083227Z-dd136094": {
       "completed_at": "2026-10-09T08:32:41.931668+00:00",
       "created_at": "2026-10-09T08:32:27.848803+00:00",
@@ -23615,6 +23966,41 @@
         "v-01105",
         "v-00399",
         "v-01186"
+      ],
+      "status": "completed"
+    },
+    "20261106T085744Z-c70ab157": {
+      "completed_at": "2026-11-06T08:58:00.964920+00:00",
+      "created_at": "2026-11-06T08:57:44.552546+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02838"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01813"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02112"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02711"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01497"
+        }
+      ],
+      "published_ids": [
+        "v-02838",
+        "v-01813",
+        "v-02112",
+        "v-02711",
+        "v-01497"
       ],
       "status": "completed"
     }
@@ -25612,6 +25998,43 @@
         "v-01186"
       ],
       "run_id": "20261105T090040Z-fcd8c5b1",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-06T08:58:00.964920+00:00",
+      "created_at": "2026-11-06T08:57:44.552546+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02838"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01813"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02112"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02711"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01497"
+        }
+      ],
+      "published_ids": [
+        "v-02838",
+        "v-01813",
+        "v-02112",
+        "v-02711",
+        "v-01497"
+      ],
+      "run_id": "20261106T085744Z-c70ab157",
       "status": "completed",
       "unknown_ids": []
     }
