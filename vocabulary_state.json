@@ -646,6 +646,52 @@
         }
       ]
     },
+    "v-00177": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "5af53545cddb2ee65dd4f393e571ed8a612c3c9ce572d021fa7294bc9e83601e",
+      "antonyms": [
+        {
+          "meaning": "not from Asia",
+          "word": "non-Asian"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "Asian cuisine",
+        "Asian countries",
+        "Asian market",
+        "Asian culture",
+        "Asian population"
+      ],
+      "common_mistake_correct": "Correct pronunciation is \"AY-zhən\".",
+      "common_mistake_wrong": "Pronouncing it as \"A-ssian\"",
+      "definition_en": "relating to Asia or its people",
+      "example_bn": "এশিয়ার খাবার বিভিন্ন স্বাদের সমাহার।",
+      "example_en": "Asian cuisine includes a wide variety of flavors.",
+      "memory_hook": "\"A\" + \"sian\" sounds like \"Asian\" – think of the letter A leading into Asia.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Italian pasta",
+        "Japanese sushi",
+        "Mexican tacos",
+        "French cheese"
+      ],
+      "quiz_question": "Which of the following is an example of something Asian?",
+      "short_meaning_en": "from Asia",
+      "synonyms": [
+        {
+          "meaning": "relating to the East (old usage)",
+          "word": "Oriental"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "Asia"
+        }
+      ]
+    },
     "v-00184": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "fa68dc1a0b85b7a973d5dad876cb5e01555fbffc3106d599e611c237a1f16aa0",
@@ -6166,6 +6212,64 @@
         }
       ]
     },
+    "v-01401": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c0e9fec06c9265af4902f3189c25b9ea6baaa2e8a71c6803a9c921b6ab3a7cc0",
+      "antonyms": [
+        {
+          "meaning": "not intellectual",
+          "word": "unintellectual"
+        },
+        {
+          "meaning": "lacking knowledge",
+          "word": "ignorant"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "intellectual debate",
+        "intellectual property",
+        "intellectual growth",
+        "intellectual curiosity",
+        "intellectual pursuit"
+      ],
+      "common_mistake_correct": "\"Intellectual\" is an adjective or noun, not a verb.",
+      "common_mistake_wrong": "Using \"intellectual\" as a verb",
+      "definition_en": "relating to the intellect or thinking",
+      "example_bn": "সে দার্শনিকতা নিয়ে বুদ্ধিবৃত্তিক আলোচনা উপভোগ করে।",
+      "example_en": "She enjoys intellectual discussions about philosophy.",
+      "memory_hook": "Think of \"intellect\" + \"-ual\" = relating to the mind.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "intellectual property",
+        "intellectual temperature",
+        "intellectual speed",
+        "intellectual weight"
+      ],
+      "quiz_question": "Which phrase best fits the meaning of \"intellectual\"?",
+      "short_meaning_en": "thinking",
+      "synonyms": [
+        {
+          "meaning": "relating to the brain",
+          "word": "cerebral"
+        },
+        {
+          "meaning": "academic",
+          "word": "scholarly"
+        },
+        {
+          "meaning": "educational",
+          "word": "academic"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "intellectually"
+        }
+      ]
+    },
     "v-01416": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "a20411668bf03eca7a7dd1c607193fdff4c9b80649506925df9217b15e293cca",
@@ -6500,6 +6604,50 @@
           "word": "it's"
         }
       ]
+    },
+    "v-01443": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "54dcbbfa2e9ae28544f511e331f7c0a682ec79a235363a705a5d1eef6ffaed15",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "itself and others",
+        "the problem itself",
+        "the house itself",
+        "the issue itself",
+        "the device itself"
+      ],
+      "common_mistake_correct": "Use \"himself/herself\" for people; \"itself\" is for things or animals.",
+      "common_mistake_wrong": "Using \"itself\" for a person",
+      "definition_en": "used to refer to a thing or person just mentioned",
+      "example_bn": "মেশিনটি নিজেই নষ্ট হয়ে গেল।",
+      "example_en": "The machine itself broke down.",
+      "memory_hook": "\"It\" + \"self\" = the thing itself.",
+      "part_of_speech": "pronoun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She fixed herself the bike.",
+        "The cat cleaned itself.",
+        "He gave himself a gift.",
+        "We enjoyed ourselves."
+      ],
+      "quiz_question": "Which sentence uses \"itself\" correctly?",
+      "short_meaning_en": "self",
+      "synonyms": [
+        {
+          "meaning": "refers to a male subject",
+          "word": "himself"
+        },
+        {
+          "meaning": "refers to a female subject",
+          "word": "herself"
+        },
+        {
+          "meaning": "refers to plural subjects",
+          "word": "themselves"
+        }
+      ],
+      "word_family": []
     },
     "v-01458": {
       "_content_version": "1.2.4",
@@ -14094,6 +14242,68 @@
         }
       ]
     },
+    "v-03590": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "480fb77723db87dfcfcad053b8fcd7229d8ff0ddb0637a2c1de7484b229c3870",
+      "antonyms": [
+        {
+          "meaning": "make stronger",
+          "word": "intensify"
+        },
+        {
+          "meaning": "make worse",
+          "word": "aggravate"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "temper one's anger",
+        "temper the steel",
+        "keep one's temper",
+        "temper the mood",
+        "temper the reaction"
+      ],
+      "common_mistake_correct": "\"Temper\" as a verb means to soften or moderate, not to refer to heat.",
+      "common_mistake_wrong": "Using \"temper\" to mean \"temperature\"",
+      "definition_en": "to become less angry or harsh",
+      "example_bn": "সে তার সমালোচনাকে কোমল করতে চেষ্টা করল।",
+      "example_en": "She tried to temper her criticism with kindness.",
+      "memory_hook": "Think of \"temp\" (time) – you need time to calm down, so you temper your mood.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to heat up",
+        "to become softer",
+        "to increase speed",
+        "to shout loudly"
+      ],
+      "quiz_question": "What does the verb \"temper\" mean?",
+      "short_meaning_en": "soften",
+      "synonyms": [
+        {
+          "meaning": "make less extreme",
+          "word": "moderate"
+        },
+        {
+          "meaning": "make gentle",
+          "word": "soften"
+        },
+        {
+          "meaning": "make less harsh",
+          "word": "mellow"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "temperament"
+        },
+        {
+          "type": "adjective",
+          "word": "temperate"
+        }
+      ]
+    },
     "v-03609": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "00111d62c56d0778deb0d52e30421788431fb99bedc12ff5e5f4de9e7cc06f9b",
@@ -14478,6 +14688,46 @@
           "word": "eagles"
         }
       ]
+    },
+    "v-03835": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "7217b804f19a3699314ebb2472c06a3ccb28176d169bdf04c972577cd5d280bf",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "nightingale's song",
+        "like a nightingale",
+        "nightingale chorus",
+        "nightingale melody",
+        "nightingale habitat"
+      ],
+      "common_mistake_correct": "Correct spelling is \"nightingale\".",
+      "common_mistake_wrong": "Spelling it as \"nightingal\"",
+      "definition_en": "a small bird famous for its beautiful song",
+      "example_bn": "বুলবুলি ভোরে মধুর গানে গাইছিল।",
+      "example_en": "The nightingale sang sweetly at dawn.",
+      "memory_hook": "Night + gale = a wind that sings through the night, like the bird.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a large sea bird",
+        "a small singing bird",
+        "a nocturnal mammal",
+        "a type of flower"
+      ],
+      "quiz_question": "Which of these describes a nightingale?",
+      "short_meaning_en": "songbird",
+      "synonyms": [
+        {
+          "meaning": "bird that sings",
+          "word": "songbird"
+        },
+        {
+          "meaning": "small singing bird",
+          "word": "warbler"
+        }
+      ],
+      "word_family": []
     },
     "v-03855": {
       "_content_version": "1.2.4",
@@ -15136,6 +15386,14 @@
       "reason": "The provided Bangla meaning 'দৃষ্টি গোচর হওয়া, ক্ষমা চাইতে' mixes unrelated sense of asking forgiveness, which is not a meaning of 'appear'. The correct meanings are to become visible or to be present.",
       "source_fingerprint": "7842570b06fe3a554ffe1864a067241bc76e8331a4cbf1c515fe7e72ca0a9d95",
       "status": "corrected"
+    },
+    "v-00177": {
+      "audited_at": "2026-11-08T08:39:10.736351+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "এশিয়ার অধিবাসী",
+      "reason": "The Bangla meaning correctly describes the noun ‘Asian’.",
+      "source_fingerprint": "5af53545cddb2ee65dd4f393e571ed8a612c3c9ce572d021fa7294bc9e83601e",
+      "status": "valid"
     },
     "v-00184": {
       "audited_at": "2026-10-30T08:07:42.212366+00:00",
@@ -15809,6 +16067,14 @@
       "source_fingerprint": "a8009923034183b84e82709ef7adc994a045f76a9812797b94d242d8ca1f913e",
       "status": "corrected"
     },
+    "v-01401": {
+      "audited_at": "2026-11-08T08:39:10.736331+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "বুদ্ধিবৃত্তিক, বুদ্ধিগত",
+      "reason": "The meaning accurately reflects the adjective ‘intellectual’.",
+      "source_fingerprint": "c0e9fec06c9265af4902f3189c25b9ea6baaa2e8a71c6803a9c921b6ab3a7cc0",
+      "status": "valid"
+    },
     "v-01416": {
       "audited_at": "2026-10-09T08:32:28.223170+00:00",
       "confidence": 0.99,
@@ -15839,6 +16105,14 @@
       "meaning_bn": "ইহা, এটি, এই",
       "reason": "The meanings correctly correspond to the pronoun \"it\".",
       "source_fingerprint": "320a8d121f3f50dcbc47ec89eb6c3542eae252b2e9abbd55015e62a7fbf18d8c",
+      "status": "valid"
+    },
+    "v-01443": {
+      "audited_at": "2026-11-08T08:39:10.736308+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "ইহা স্বয়ং",
+      "reason": "The Bangla meaning correctly conveys the reflexive pronoun ‘itself’.",
+      "source_fingerprint": "54dcbbfa2e9ae28544f511e331f7c0a682ec79a235363a705a5d1eef6ffaed15",
       "status": "valid"
     },
     "v-01458": {
@@ -16761,6 +17035,14 @@
       "source_fingerprint": "2a4f99b0fb35bf4a7a901017cd8dd8c481cc7601a872e1c6438ce3c9f85aec89",
       "status": "valid"
     },
+    "v-03590": {
+      "audited_at": "2026-11-08T08:39:10.736234+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "কোমল হতে",
+      "reason": "The Bangla meaning correctly captures the verb sense of ‘temper’ meaning to become or make soft/moderate.",
+      "source_fingerprint": "480fb77723db87dfcfcad053b8fcd7229d8ff0ddb0637a2c1de7484b229c3870",
+      "status": "valid"
+    },
     "v-03609": {
       "audited_at": "2026-11-07T08:24:23.368409+00:00",
       "confidence": 0.99,
@@ -16815,6 +17097,14 @@
       "meaning_bn": "ঈগল",
       "reason": "The Bangla meaning correctly names the bird 'Eagle'.",
       "source_fingerprint": "dd9b2ca011709a417c93478b50d3483d355f6139d5111d1a793541e6130c3be1",
+      "status": "valid"
+    },
+    "v-03835": {
+      "audited_at": "2026-11-08T08:39:10.736285+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "বুলবুলি",
+      "reason": "The meaning accurately defines the bird ‘Nightingale’.",
+      "source_fingerprint": "7217b804f19a3699314ebb2472c06a3ccb28176d169bdf04c972577cd5d280bf",
       "status": "valid"
     },
     "v-03855": {
@@ -16977,6 +17267,12 @@
       "audio_file_id": "CQACAgUAAxUHas8qpXo8TKSTMU_0BAdzBpi1u_wAAk0gAAIBiXlWkmPmC67rRdY9BA",
       "cached_at": "2026-10-14T07:09:25.582022+00:00",
       "photo_file_id": "AgACAgUAAxUHas8qpQMScZxdFmyWetTP8wm06oQAAt0QaxsBiXlWkjhBkhhZ1v8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00177": {
+      "audio_file_id": "CQACAgUAAxUHavA1PEZ22Okeuo-zuYVutSTJTu0AAtcnAAIIwIFX_hJv2gSYhug9BA",
+      "cached_at": "2026-11-08T08:39:25.212141+00:00",
+      "photo_file_id": "AgACAgUAAxUHavA1PPQr7VmFhRar7IBMr0auFTMAAvkWaxsIwIFXEEQLk77SVCwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00184": {
@@ -17548,6 +17844,12 @@
       "photo_file_id": "AgACAgUAAxUHar9kT75rtXU08wYCRPHEg-mcyUgAAtQRaxuXRvhVk7-XgcihNZoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01401": {
+      "audio_file_id": "CQACAgUAAxUHavA1OtA9cGBSOy1KOQEppThXSkYAAtYnAAIIwIFXKsczY0nDlSk9BA",
+      "cached_at": "2026-11-08T08:39:22.724684+00:00",
+      "photo_file_id": "AgACAgUAAxUHavA1OjaBmqr7AUK4mbq6N68qujEAAvgWaxsIwIFXBn2cT2QxuR4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01416": {
       "audio_file_id": "CQACAgUAAxUHasimqdBxrgpv-CKl9B6WRXw8DQ0AApcmAALvcUlWxuPhyYBbN8g9BA",
       "cached_at": "2026-10-09T08:32:41.917235+00:00",
@@ -17582,6 +17884,12 @@
       "audio_file_id": "CQACAgUAAxUHauAtKPjTxoETY0r6XXJ1SKPYy8IAAs8eAAIz9whXHk_Kk9YW_J09BA",
       "cached_at": "2026-10-27T04:48:40.651869+00:00",
       "photo_file_id": "AgACAgUAAxUHauAtKDX4zYcdupCIZdlZzgZImIIAAi0caxsz9whXCHyEw-UGfWYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01443": {
+      "audio_file_id": "CQACAgUAAxUHavA1N4ePNJiOHzAoM0fBbXEO_dwAAtUnAAIIwIFXWS_mdYuQrfE9BA",
+      "cached_at": "2026-11-08T08:39:19.944224+00:00",
+      "photo_file_id": "AgACAgUAAxUHavA1N0vmMCsaYuVkumWIsrWfq3IAAvcWaxsIwIFXxrIJDn2P8mkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01458": {
@@ -18372,6 +18680,12 @@
       "photo_file_id": "AgACAgUAAxUHatcUn-ED8iqTPov7bpTb1yfIffUAAg0TaxtmmLlWOgW0o0q3H48BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03590": {
+      "audio_file_id": "CQACAgUAAxUHavA1MuMFS2UVRomsGyYYdbdCU5sAAtMnAAIIwIFXL4ROmhAzJCc9BA",
+      "cached_at": "2026-11-08T08:39:14.906808+00:00",
+      "photo_file_id": "AgACAgUAAxUHavA1MgFOOlgj1fQZYXpKGJVp6EYAAvUWaxsIwIFXhBIqEauBwEsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03609": {
       "audio_file_id": "CQACAgUAAxUHau7gPrFebmC0O8TIgt5fY_UCZjgAArAlAAJ0bXFXLD7_cXNknBQ9BA",
       "cached_at": "2026-11-07T08:24:31.955936+00:00",
@@ -18418,6 +18732,12 @@
       "audio_file_id": "CQACAgUAAxUHasCxaBQ3MfW-vU0wurx8EQfXvCYAAsciAAKvhgFWcXCwQVzfOJ49BA",
       "cached_at": "2026-10-03T07:40:24.711283+00:00",
       "photo_file_id": "AgACAgUAAxUHasCxaP1SPZ0cTb5RFAOv8p61oVQAAqcSaxuvhgFWaDb_9LBoAAFCAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-03835": {
+      "audio_file_id": "CQACAgUAAxUHavA1NPRkUja9QVZmoeQGl9AjR9cAAtQnAAIIwIFXJpYgOoDhSu49BA",
+      "cached_at": "2026-11-08T08:39:17.627642+00:00",
+      "photo_file_id": "AgACAgUAAxUHavA1NcoU4clWEKcB0_-F1NAaZwIAAvYWaxsIwIFXAAFfBVNtU29GAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-03855": {
@@ -18568,6 +18888,12 @@
       "last_cycle": 1,
       "last_message_id": 176,
       "published_at": "2026-10-14T07:09:25.582043+00:00"
+    },
+    "v-00177": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 297,
+      "published_at": "2026-11-08T08:39:25.212165+00:00"
     },
     "v-00184": {
       "count": 1,
@@ -19145,6 +19471,12 @@
       "last_message_id": 115,
       "published_at": "2026-10-02T07:59:11.773104+00:00"
     },
+    "v-01401": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 296,
+      "published_at": "2026-11-08T08:39:22.724709+00:00"
+    },
     "v-01416": {
       "count": 1,
       "last_cycle": 1,
@@ -19182,6 +19514,12 @@
       "last_cycle": 1,
       "last_message_id": 232,
       "published_at": "2026-10-27T04:48:40.651898+00:00"
+    },
+    "v-01443": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 295,
+      "published_at": "2026-11-08T08:39:19.944249+00:00"
     },
     "v-01458": {
       "count": 1,
@@ -19985,6 +20323,12 @@
       "last_message_id": 198,
       "published_at": "2026-10-20T07:13:35.954250+00:00"
     },
+    "v-03590": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 293,
+      "published_at": "2026-11-08T08:39:14.906832+00:00"
+    },
     "v-03609": {
       "count": 1,
       "last_cycle": 1,
@@ -20033,6 +20377,12 @@
       "last_cycle": 1,
       "last_message_id": 121,
       "published_at": "2026-10-03T07:40:24.711338+00:00"
+    },
+    "v-03835": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 294,
+      "published_at": "2026-11-08T08:39:17.627669+00:00"
     },
     "v-03855": {
       "count": 1,
@@ -20109,11 +20459,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03590",
-    "v-03835",
-    "v-01443",
-    "v-01401",
-    "v-00177",
     "v-00169",
     "v-01705",
     "v-00976",
@@ -23349,41 +23694,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261010T080916Z-eb3e4611": {
-      "completed_at": "2026-10-10T08:09:31.355649+00:00",
-      "created_at": "2026-10-10T08:09:16.303020+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00068"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01290"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01267"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02295"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00690"
-        }
-      ],
-      "published_ids": [
-        "v-00068",
-        "v-01290",
-        "v-01267",
-        "v-02295",
-        "v-00690"
-      ],
-      "status": "completed"
-    },
     "20261011T082055Z-8cac844c": {
       "completed_at": "2026-10-11T08:21:08.823348+00:00",
       "created_at": "2026-10-11T08:20:55.673835+00:00",
@@ -24410,6 +24720,41 @@
         "v-02918",
         "v-02387",
         "v-01629"
+      ],
+      "status": "completed"
+    },
+    "20261108T083910Z-a1dbc08b": {
+      "completed_at": "2026-11-08T08:39:25.240792+00:00",
+      "created_at": "2026-11-08T08:39:10.109399+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03590"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03835"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01443"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01401"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00177"
+        }
+      ],
+      "published_ids": [
+        "v-03590",
+        "v-03835",
+        "v-01443",
+        "v-01401",
+        "v-00177"
       ],
       "status": "completed"
     }
@@ -26481,6 +26826,43 @@
         "v-01629"
       ],
       "run_id": "20261107T082422Z-78b6cb43",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-08T08:39:25.240792+00:00",
+      "created_at": "2026-11-08T08:39:10.109399+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03590"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03835"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01443"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01401"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00177"
+        }
+      ],
+      "published_ids": [
+        "v-03590",
+        "v-03835",
+        "v-01443",
+        "v-01401",
+        "v-00177"
+      ],
+      "run_id": "20261108T083910Z-a1dbc08b",
       "status": "completed",
       "unknown_ids": []
     }
