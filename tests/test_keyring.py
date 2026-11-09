@@ -142,12 +142,90 @@ def case_alert_fires_once():
     assert "VocabularyBot" in transport.alerts[0] and "key 1" in transport.alerts[0]
 
 
+class _FakeTime:
+    def __init__(self):
+        self.sleeps = []
+
+    def sleep(self, seconds):
+        self.sleeps.append(seconds)
+
+
+def case_429_retries_then_succeeds():
+    fake_time = _FakeTime()
+    original_time = cerebras_keys.time
+    cerebras_keys.time = fake_time
+    transport = FakeTransport({KEY1: [429, 429, 200], KEY2: [200]})
+    original = requests.post
+    requests.post = transport
+    try:
+        result = content_ai._request_json("sys", "user", {"type": "object"}, max_tokens=64)
+    finally:
+        requests.post = original
+        cerebras_keys.time = original_time
+    assert result == {"ok": True}, result
+    assert transport.cerebras_auth == [KEY1, KEY1, KEY1], transport.cerebras_auth
+    assert fake_time.sleeps == [20, 40], fake_time.sleeps
+    assert SETTINGS.cerebras_api_key == KEY1
+    assert transport.alerts == [], transport.alerts
+
+
+def case_429_persistent_switches_with_throttle_alert():
+    object.__setattr__(SETTINGS, "newsroom_bot_token", "dummy-token")
+    object.__setattr__(SETTINGS, "alert_chat_id", "12345")
+    fake_time = _FakeTime()
+    original_time = cerebras_keys.time
+    cerebras_keys.time = fake_time
+    transport = FakeTransport({KEY1: [429], KEY2: [200]})
+    original = requests.post
+    requests.post = transport
+    try:
+        result = content_ai._request_json("sys", "user", {"type": "object"}, max_tokens=64)
+    finally:
+        requests.post = original
+        cerebras_keys.time = original_time
+    assert result == {"ok": True}, result
+    assert transport.cerebras_auth == [KEY1, KEY1, KEY1, KEY1, KEY2], transport.cerebras_auth
+    assert fake_time.sleeps == [20, 40, 60], fake_time.sleeps
+    assert SETTINGS.cerebras_api_key == KEY2
+    assert len(transport.alerts) == 1, transport.alerts
+    assert "rate-limited" in transport.alerts[0] and "key 1" in transport.alerts[0], transport.alerts
+    assert "finished" not in transport.alerts[0], transport.alerts
+
+
+def case_429_all_keys_rate_limited():
+    object.__setattr__(SETTINGS, "newsroom_bot_token", "dummy-token")
+    object.__setattr__(SETTINGS, "alert_chat_id", "12345")
+    fake_time = _FakeTime()
+    original_time = cerebras_keys.time
+    cerebras_keys.time = fake_time
+    transport = FakeTransport({KEY1: [429], KEY2: [429]})
+    original = requests.post
+    requests.post = transport
+    try:
+        try:
+            meaning_audit._post_json([{"role": "user", "content": "x"}], {"type": "object"}, max_tokens=64)
+        except requests.HTTPError:
+            pass
+        else:
+            raise AssertionError("429 on all keys should have raised")
+    finally:
+        requests.post = original
+        cerebras_keys.time = original_time
+    assert len(transport.alerts) == 2, transport.alerts
+    assert "rate-limited" in transport.alerts[0] and "Switched to key 2" in transport.alerts[0], transport.alerts
+    assert "ALL Cerebras keys are rate-limited" in transport.alerts[1], transport.alerts
+    assert "are finished" not in transport.alerts[1], transport.alerts
+
+
 def run_all() -> None:
     run_case("content_ai failover 402 -> key 2", case_content_ai_failover)
     run_case("meaning_audit failover 402 -> key 2", case_audit_failover)
     run_case("non-quota 400 does not rotate", case_non_quota_does_not_rotate)
     run_case("both keys dead raises", case_both_keys_dead)
     run_case("alert fires exactly once", case_alert_fires_once)
+    run_case("429 retries same key then succeeds", case_429_retries_then_succeeds)
+    run_case("persistent 429 switches with throttle alert", case_429_persistent_switches_with_throttle_alert)
+    run_case("all keys 429 -> rate-limited all-dead alert", case_429_all_keys_rate_limited)
     reset()
     print("keyring failover tests: PASS")
 
