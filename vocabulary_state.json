@@ -5281,6 +5281,72 @@
         }
       ]
     },
+    "v-01115": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "955b8e33b605c54769b5cae665d40fd9758cfc65110079aaac18fbb0a25109d8",
+      "antonyms": [
+        {
+          "meaning": "upper part",
+          "word": "top"
+        },
+        {
+          "meaning": "highest point",
+          "word": "apex"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "foundation stone",
+        "foundation of a building",
+        "foundation grant",
+        "foundation year",
+        "foundation course"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The underlying base or support on which something is built; an organization that establishes something.",
+      "example_bn": "চ্যারিটির ভিত্তি শিক্ষার্থীদের জন্য বৃত্তি প্রদান করে।",
+      "example_en": "The charity's foundation provides scholarships for students.",
+      "memory_hook": "Think of a building: the foundation holds everything up, just like the word does.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "foundation",
+        "roof",
+        "window",
+        "door"
+      ],
+      "quiz_question": "Which word completes the sentence: The ___ of the company is strong.",
+      "short_meaning_en": "base",
+      "synonyms": [
+        {
+          "meaning": "foundation",
+          "word": "base"
+        },
+        {
+          "meaning": "underlying support",
+          "word": "basis"
+        },
+        {
+          "meaning": "starting point",
+          "word": "origin"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "found"
+        },
+        {
+          "type": "noun",
+          "word": "founder"
+        },
+        {
+          "type": "adjective",
+          "word": "foundational"
+        }
+      ]
+    },
     "v-01122": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "9e3ecc26f9dfd5dd202e30972dc183548d3d5440d31808ab0268aaaaee98052f",
@@ -6951,6 +7017,55 @@
         {
           "type": "verb",
           "word": "killed"
+        }
+      ]
+    },
+    "v-01486": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3e6a39b7b6e5df1b5cac81865ba87b6c4661103e43090c446f79d1eec86f897f",
+      "antonyms": [],
+      "cefr": "B1",
+      "collocations": [
+        "chemical laboratory",
+        "medical laboratory",
+        "laboratory equipment",
+        "laboratory results",
+        "laboratory safety"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A room or building equipped for scientific experiments, research, or testing.",
+      "example_bn": "রাসায়নবিদ নতুন যৌগ পরীক্ষা করতে গবেষণাগারে কাজ করেন।",
+      "example_en": "The chemist works in a laboratory to test new compounds.",
+      "memory_hook": "Lab = where scientists 'lab'orate experiments.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "library",
+        "laboratory",
+        "gym",
+        "kitchen"
+      ],
+      "quiz_question": "Where would a scientist most likely work?",
+      "short_meaning_en": "lab",
+      "synonyms": [
+        {
+          "meaning": "short for laboratory",
+          "word": "lab"
+        },
+        {
+          "meaning": "place for research",
+          "word": "research facility"
+        },
+        {
+          "meaning": "place for tests",
+          "word": "testing center"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "laboratory's"
         }
       ]
     },
@@ -14037,6 +14152,68 @@
         }
       ]
     },
+    "v-02967": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "0537efba372fe267848e7f60866b0e2ac6695eaf76c1b9b6f2c283cfd695aa18",
+      "antonyms": [
+        {
+          "meaning": "lacking",
+          "word": "without"
+        },
+        {
+          "meaning": "excluding",
+          "word": "apart from"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "with you",
+        "with me",
+        "with respect to",
+        "with regard to",
+        "with a smile"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Accompanied by someone or something; together with.",
+      "example_bn": "সে তার ভাইয়ের সঙ্গে সিনেমায় গেল।",
+      "example_en": "She went to the movies with her brother.",
+      "memory_hook": "Picture a pair: you + me = with, they stick together.",
+      "part_of_speech": "preposition",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "with",
+        "by",
+        "against",
+        "over"
+      ],
+      "quiz_question": "Choose the correct phrase: He arrived ___ his friends.",
+      "short_meaning_en": "together",
+      "synonyms": [
+        {
+          "meaning": "beside",
+          "word": "alongside"
+        },
+        {
+          "meaning": "in company",
+          "word": "together with"
+        },
+        {
+          "meaning": "with",
+          "word": "accompanied by"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "withhold"
+        },
+        {
+          "type": "preposition",
+          "word": "within"
+        }
+      ]
+    },
     "v-02992": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f3c6932adbad5ed8ffbb9eb30ccff98f369af9a95efd0b25342ccd73a0c983c3",
@@ -14383,6 +14560,68 @@
         {
           "type": "noun",
           "word": "hesitation"
+        }
+      ]
+    },
+    "v-03446": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4586bcf06d224a67b251000a5115a5a315f23ef5a4cb55e352f9023db8315014",
+      "antonyms": [
+        {
+          "meaning": "to permit",
+          "word": "allow"
+        },
+        {
+          "meaning": "to give permission",
+          "word": "permit"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "prohibit smoking",
+        "prohibit entry",
+        "prohibit use of phones",
+        "prohibit illegal activity",
+        "prohibit access"
+      ],
+      "common_mistake_correct": "prohibit from",
+      "common_mistake_wrong": "prohibit to",
+      "definition_en": "To formally forbid or prevent something from happening.",
+      "example_bn": "স্কুল পরীক্ষার সময় নকল করা নিষিদ্ধ করে।",
+      "example_en": "The school prohibits cheating during exams.",
+      "memory_hook": "Think of a \"pro\" (professional) who \"hibits\" (hides) anything illegal – they forbid it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "allows",
+        "prohibits",
+        "encourages",
+        "ignores"
+      ],
+      "quiz_question": "Which word best fits: The law ___ the sale of alcohol to minors.",
+      "short_meaning_en": "forbid",
+      "synonyms": [
+        {
+          "meaning": "to forbid",
+          "word": "ban"
+        },
+        {
+          "meaning": "to stop something from happening",
+          "word": "prevent"
+        },
+        {
+          "meaning": "to not allow",
+          "word": "disallow"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "prohibition"
+        },
+        {
+          "type": "adjective",
+          "word": "prohibited"
         }
       ]
     },
@@ -15633,6 +15872,59 @@
           "word": "corny"
         }
       ]
+    },
+    "v-04295": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1fedb946c58c9cc29ffb22172352494a0464d5ec7c7a6b8637111338e3db735a",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "soft sofa",
+        "leather sofa",
+        "large sofa",
+        "comfortable sofa",
+        "modern sofa"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A piece of furniture for sitting, typically with a back and arms.",
+      "example_bn": "আমরা বসার ঘরের জন্য নতুন সোফা কিনেছি।",
+      "example_en": "We bought a new sofa for the living room.",
+      "memory_hook": "Sofa sounds like \"so far\" – imagine sitting far away on a comfy seat.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "armchair",
+        "couch",
+        "table",
+        "lamp"
+      ],
+      "quiz_question": "Which item is a type of sofa?",
+      "short_meaning_en": "seat",
+      "synonyms": [
+        {
+          "meaning": "a long seat",
+          "word": "couch"
+        },
+        {
+          "meaning": "a small sofa",
+          "word": "settee"
+        },
+        {
+          "meaning": "a sofa with a back",
+          "word": "divan"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "sofa-bed"
+        },
+        {
+          "type": "adjective",
+          "word": "sofa-like"
+        }
+      ]
     }
   },
   "cycle": 1,
@@ -16269,6 +16561,14 @@
       "source_fingerprint": "6766af7c093cb428d4af879ba2f25c7548d761811e57c4a3c1cd3e19c66c9bc6",
       "status": "valid"
     },
+    "v-01115": {
+      "audited_at": "2026-11-10T09:20:55.694839+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ভিত্তি, প্রতিষ্ঠা",
+      "reason": "The meanings accurately reflect the noun 'foundation'.",
+      "source_fingerprint": "955b8e33b605c54769b5cae665d40fd9758cfc65110079aaac18fbb0a25109d8",
+      "status": "valid"
+    },
     "v-01122": {
       "audited_at": "2026-11-01T08:46:46.907354+00:00",
       "confidence": 0.97,
@@ -16475,6 +16775,14 @@
       "meaning_bn": "প্রাণনাশ, হত্যা, নাশ",
       "reason": "The Bangla meanings correctly represent the noun 'killing'.",
       "source_fingerprint": "39a5218f45acba9e62f63f167777483303a50bf89963e935d7d2be2caed0595d",
+      "status": "valid"
+    },
+    "v-01486": {
+      "audited_at": "2026-11-10T09:20:55.694819+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "রসায়নগার, গবেষণাগার",
+      "reason": "Both Bangla meanings correspond to the English noun 'laboratory'.",
+      "source_fingerprint": "3e6a39b7b6e5df1b5cac81865ba87b6c4661103e43090c446f79d1eec86f897f",
       "status": "valid"
     },
     "v-01491": {
@@ -17357,6 +17665,14 @@
       "source_fingerprint": "e86adee0c07c2eb845348333022042dc3f41682da6b8c8dbb694578f71f80b0b",
       "status": "valid"
     },
+    "v-02967": {
+      "audited_at": "2026-11-10T09:20:55.694778+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সঙ্গে, সাথে, সহিত",
+      "reason": "The meaning correctly matches the preposition 'with'.",
+      "source_fingerprint": "0537efba372fe267848e7f60866b0e2ac6695eaf76c1b9b6f2c283cfd695aa18",
+      "status": "valid"
+    },
     "v-02992": {
       "audited_at": "2026-10-01T08:22:36.860633+00:00",
       "confidence": 0.99,
@@ -17387,6 +17703,14 @@
       "meaning_bn": "দ্বিধা করতে",
       "reason": "The supplied Bangla meaning accurately captures the verb 'to hesitate' as 'দ্বিধা করতে'.",
       "source_fingerprint": "aed5637e24fc79375cca72dda4019b0ccc9bf89719814c3fbd24b7a348b38844",
+      "status": "valid"
+    },
+    "v-03446": {
+      "audited_at": "2026-11-10T09:20:55.694724+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বাধা দিতে",
+      "reason": "The Bangla meaning accurately conveys the verb 'prohibit' as 'to forbid or prevent'.",
+      "source_fingerprint": "4586bcf06d224a67b251000a5115a5a315f23ef5a4cb55e352f9023db8315014",
       "status": "valid"
     },
     "v-03556": {
@@ -17556,6 +17880,14 @@
       "reason": "“Cornear” is not a recognized English headword; the supplied meaning may be unrelated, and the correct Bangla meaning cannot be determined with confidence.",
       "source_fingerprint": "9627cad7b1f2f119671048f89458f6c8e7c445cd92498bded9bedf471e836835",
       "status": "uncertain"
+    },
+    "v-04295": {
+      "audited_at": "2026-11-10T09:20:55.694798+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সোফা",
+      "reason": "The Bangla term is the direct transliteration of the noun 'Sofa'.",
+      "source_fingerprint": "1fedb946c58c9cc29ffb22172352494a0464d5ec7c7a6b8637111338e3db735a",
+      "status": "valid"
     }
   },
   "media_cache": {
@@ -18110,6 +18442,12 @@
       "photo_file_id": "AgACAgUAAxUHat2tb9R-nASp3AkamIuwA2gJRfwAAgURaxv30ehWmGVLr4rD7I4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01115": {
+      "audio_file_id": "CQACAgUAAxUHavLiB0H2izjnYxVGvFBOPpS25JQAAtwiAAJ6EZlXDbuV3T1Xz-c9BA",
+      "cached_at": "2026-11-10T09:21:12.017218+00:00",
+      "photo_file_id": "AgACAgUAAxUHavLiB_f_MnON18y6aHaw8QpsVwIAAiQXaxt6EZlXFoXUR1F_ayoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01122": {
       "audio_file_id": "CQACAgUAAxUHaub8ejVveCHXORQF8njX2XYpJqQAAhMlAAKd3zlXOsjeOILfPKA9BA",
       "cached_at": "2026-11-01T08:46:50.913007+00:00",
@@ -18282,6 +18620,12 @@
       "audio_file_id": "CQACAgUAAxUHasimpoLZBUKXbQYcoNxU3pPWtKkAApYmAALvcUlWKxomzCv-ais9BA",
       "cached_at": "2026-10-09T08:32:39.639310+00:00",
       "photo_file_id": "AgACAgUAAxUHasimp-qzLL1L2_Tf7EoTnsrHXjcAApYYaxvvcUlWcBRSoc1KacUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01486": {
+      "audio_file_id": "CQACAgUAAxUHavLiBHhu-sFOZ3olQnaWVAIrrAoAAtsiAAJ6EZlXQOg56fMbsjk9BA",
+      "cached_at": "2026-11-10T09:21:09.561566+00:00",
+      "photo_file_id": "AgACAgUAAxUHavLiBOUzMLsOBaGHyP2s-4wnmjIAAiMXaxt6EZlXMCkzJ4Lb8JABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01491": {
@@ -19018,6 +19362,12 @@
       "photo_file_id": "AgACAgUAAxUHatXFRtxtGflEi303SfndT9mTFpwAArcVaxuNqLFWDQgCweYUCjsBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02967": {
+      "audio_file_id": "CQACAgUAAxUHavLh_kA-EC1Yo_xpdjaBehOKMD4AAtkiAAJ6EZlXyQNkX2AePQY9BA",
+      "cached_at": "2026-11-10T09:21:03.350030+00:00",
+      "photo_file_id": "AgACAgUAAxUHavLh_ndgjzTds5rmpNhPlQrVex8AAiEXaxt6EZlXrXj39uOZuHgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02992": {
       "audio_file_id": "CQACAgUAAxUHar4YWK2gTGQkq_B4i46KD7c47U4AAqMhAAKXRvBVtrWwkqjmsFQ9BA",
       "cached_at": "2026-10-01T08:22:49.555313+00:00",
@@ -19052,6 +19402,12 @@
       "audio_file_id": "CQACAgUAAxUHatXFPJ_9iHCb_S3tLDZUviYlN_0AApIhAAKNqLFWpEGDPVF-Ais9BA",
       "cached_at": "2026-10-19T07:22:37.852617+00:00",
       "photo_file_id": "AgACAgUAAxUHatXFPYmMLS7pNfFqEfUjEQrrBwwAArMVaxuNqLFWT4VnaUy02xwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-03446": {
+      "audio_file_id": "CQACAgUAAxUHavLh_PzP1Ki6MUvpvE2MtG2WacAAAtgiAAJ6EZlX12zFzbTo-yU9BA",
+      "cached_at": "2026-11-10T09:21:00.983797+00:00",
+      "photo_file_id": "AgACAgUAAxUHavLh_LPdj2Q3IUeroDwIrGpZyTcAAiAXaxt6EZlXFoqnevrTVc8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-03479": {
@@ -19202,6 +19558,12 @@
       "audio_file_id": "CQACAgUAAxUHatsGcaJeYzCKh_jhy-fIQm5LB8MAAlQlAAJQ2thW7G1K9jQe2Jc9BA",
       "cached_at": "2026-10-23T07:02:09.525388+00:00",
       "photo_file_id": "AgACAgUAAxUHatsGcS2-jQZTP90GlWKjOm0jkcMAAooSaxtQ2thWL6dRkcKr6SsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-04295": {
+      "audio_file_id": "CQACAgUAAxUHavLiAph7fsLqgHdf5KtY_oT8_m0AAtoiAAJ6EZlXW4OD0uKVCKQ9BA",
+      "cached_at": "2026-11-10T09:21:07.044230+00:00",
+      "photo_file_id": "AgACAgUAAxUHavLiAjyKxfAqnpSEeWGkE5wkcjkAAiIXaxt6EZlXMrldtD7PBG4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     }
   },
@@ -19766,6 +20128,12 @@
       "last_message_id": 225,
       "published_at": "2026-10-25T07:19:12.516523+00:00"
     },
+    "v-01115": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 307,
+      "published_at": "2026-11-10T09:21:12.017241+00:00"
+    },
     "v-01122": {
       "count": 1,
       "last_cycle": 1,
@@ -19942,6 +20310,12 @@
       "last_cycle": 1,
       "last_message_id": 151,
       "published_at": "2026-10-09T08:32:39.639346+00:00"
+    },
+    "v-01486": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 306,
+      "published_at": "2026-11-10T09:21:09.561590+00:00"
     },
     "v-01491": {
       "count": 1,
@@ -20689,6 +21063,12 @@
       "last_message_id": 197,
       "published_at": "2026-10-19T07:22:47.128738+00:00"
     },
+    "v-02967": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 304,
+      "published_at": "2026-11-10T09:21:03.350055+00:00"
+    },
     "v-02992": {
       "count": 1,
       "last_cycle": 1,
@@ -20725,6 +21105,12 @@
       "last_cycle": 1,
       "last_message_id": 193,
       "published_at": "2026-10-19T07:22:37.852647+00:00"
+    },
+    "v-03446": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 303,
+      "published_at": "2026-11-10T09:21:00.983825+00:00"
     },
     "v-03479": {
       "count": 1,
@@ -20877,15 +21263,16 @@
       "last_cycle": 1,
       "last_message_id": 216,
       "published_at": "2026-10-23T07:02:09.525414+00:00"
+    },
+    "v-04295": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 305,
+      "published_at": "2026-11-10T09:21:07.044258+00:00"
     }
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03446",
-    "v-02967",
-    "v-04295",
-    "v-01486",
-    "v-01115",
     "v-00597",
     "v-00983",
     "v-00172",
@@ -24111,41 +24498,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261012T084206Z-346972cf": {
-      "completed_at": "2026-10-12T08:42:29.813901+00:00",
-      "created_at": "2026-10-12T08:42:06.240920+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02946"
-        },
-        {
-          "cycle": 1,
-          "id": "v-04267"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00490"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00734"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02721"
-        }
-      ],
-      "published_ids": [
-        "v-02946",
-        "v-04267",
-        "v-00490",
-        "v-00734",
-        "v-02721"
-      ],
-      "status": "completed"
-    },
     "20261013T090055Z-1b55fd50": {
       "completed_at": "2026-10-13T09:01:09.259968+00:00",
       "created_at": "2026-10-13T09:00:55.830288+00:00",
@@ -25172,6 +25524,41 @@
         "v-00976",
         "v-02506",
         "v-02050"
+      ],
+      "status": "completed"
+    },
+    "20261110T092055Z-31082f14": {
+      "completed_at": "2026-11-10T09:21:12.046982+00:00",
+      "created_at": "2026-11-10T09:20:55.120014+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03446"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02967"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04295"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01486"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01115"
+        }
+      ],
+      "published_ids": [
+        "v-03446",
+        "v-02967",
+        "v-04295",
+        "v-01486",
+        "v-01115"
       ],
       "status": "completed"
     }
@@ -27317,6 +27704,43 @@
         "v-02050"
       ],
       "run_id": "20261109T091343Z-129c96f2",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-10T09:21:12.046982+00:00",
+      "created_at": "2026-11-10T09:20:55.120014+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03446"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02967"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04295"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01486"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01115"
+        }
+      ],
+      "published_ids": [
+        "v-03446",
+        "v-02967",
+        "v-04295",
+        "v-01486",
+        "v-01115"
+      ],
+      "run_id": "20261110T092055Z-31082f14",
       "status": "completed",
       "unknown_ids": []
     }
