@@ -390,7 +390,7 @@ def self_test() -> int:
     sample = words[0]
     card = generate_card(sample, fallback_word(sample), 1, 5)
     from card_generator import W as CARD_W, H as CARD_H
-    assert (CARD_W, CARD_H) == (1080, 675)
+    assert (CARD_W, CARD_H) == (1200, 1200)
     assert card.exists() and card.stat().st_size > 2000
 
     # Rich message schema smoke test, including the exact requested example format and voice-note pronunciation.
