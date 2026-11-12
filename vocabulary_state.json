@@ -5586,6 +5586,64 @@
         }
       ]
     },
+    "v-01133": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e54f7eb412d66264013cc4397ea4658686b1823e4f6035c95c2e1f3113162b63",
+      "antonyms": [
+        {
+          "meaning": "rear part",
+          "word": "back"
+        },
+        {
+          "meaning": "back side",
+          "word": "rear"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "front door",
+        "front page",
+        "front row",
+        "front yard",
+        "front desk"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The side or part that faces forward.",
+      "example_bn": "বিল্ডিং‑এর সামনে অংশটি কাচে ঢাকা।",
+      "example_en": "The front of the building is covered in glass.",
+      "memory_hook": "Imagine the ‘front’ of a stage where the audience first sees the actors.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "back",
+        "side",
+        "front",
+        "bottom"
+      ],
+      "quiz_question": "Which term refers to the side that faces forward?",
+      "short_meaning_en": "forepart",
+      "synonyms": [
+        {
+          "meaning": "front part",
+          "word": "fore"
+        },
+        {
+          "meaning": "front face",
+          "word": "façade"
+        },
+        {
+          "meaning": "front surface",
+          "word": "face"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "frontmost"
+        }
+      ]
+    },
     "v-01142": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "64f03527ac568c5c96d7caa783b780ac702f0982980d70b6307024e99d1e131c",
@@ -6576,6 +6634,72 @@
         {
           "type": "noun",
           "word": "industrialist"
+        }
+      ]
+    },
+    "v-01390": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "32e674ad4507c110a5a32c404d9502559f3b5fbad8b62cecc0e8cf98ba795262",
+      "antonyms": [
+        {
+          "meaning": "give in",
+          "word": "concede"
+        },
+        {
+          "meaning": "relent",
+          "word": "yield"
+        },
+        {
+          "meaning": "accept",
+          "word": "agree"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "insist on",
+        "insist that",
+        "insist upon",
+        "insistently",
+        "insist on doing"
+      ],
+      "common_mistake_correct": "He insists on going.",
+      "common_mistake_wrong": "He insists to go.",
+      "definition_en": "To say something firmly and refuse to change your mind.",
+      "example_bn": "সে মিটিং শেষ না হওয়া পর্যন্ত থাকা জিদ করে।",
+      "example_en": "She insists on staying until the end of the meeting.",
+      "memory_hook": "‘Insist’ sounds like ‘in‑sist’, as if you’re sitting in and won’t move.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She insists to study hard.",
+        "She insists on studying hard.",
+        "She insists studying hard.",
+        "She insists for studying hard."
+      ],
+      "quiz_question": "Which sentence uses the verb ‘insist’ correctly?",
+      "short_meaning_en": "demand",
+      "synonyms": [
+        {
+          "meaning": "require strongly",
+          "word": "demand"
+        },
+        {
+          "meaning": "keep stating",
+          "word": "maintain"
+        },
+        {
+          "meaning": "state confidently",
+          "word": "assert"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "insistence"
+        },
+        {
+          "type": "adjective",
+          "word": "insistent"
         }
       ]
     },
@@ -9335,6 +9459,59 @@
         }
       ]
     },
+    "v-01912": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "64ffd283dfd4fbdea04323ef5bd51caa948af0e618084684545ed2e39b404924",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "take a photograph",
+        "old photograph",
+        "photograph album",
+        "photograph evidence",
+        "photograph studio"
+      ],
+      "common_mistake_correct": "a photograph",
+      "common_mistake_wrong": "photograph (verb) used as a noun without article",
+      "definition_en": "A picture made with a camera.",
+      "example_bn": "সে আমাদের তার hometown‑এর একটি ফটোগ্রাফ দেখাল।",
+      "example_en": "She showed us a photograph of her hometown.",
+      "memory_hook": "Think of a ‘photo graph’ – a graph that records light.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "painting",
+        "photograph",
+        "sculpture",
+        "song"
+      ],
+      "quiz_question": "Which word means a picture taken with a camera?",
+      "short_meaning_en": "picture",
+      "synonyms": [
+        {
+          "meaning": "image",
+          "word": "picture"
+        },
+        {
+          "meaning": "quick photo",
+          "word": "snapshot"
+        },
+        {
+          "meaning": "short for photograph",
+          "word": "photo"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "photographic"
+        },
+        {
+          "type": "noun",
+          "word": "photographer"
+        }
+      ]
+    },
     "v-01918": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4e169599fc2764ede7959ba1115ba7cd60cb0644e83f1d3fa856ec5c138b46d4",
@@ -11153,6 +11330,72 @@
         {
           "type": "adjective",
           "word": "resolute"
+        }
+      ]
+    },
+    "v-02254": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "05e311b15223509bcb02ef6ed5a378e278e156ca43ad1f95b37a09cf73ba60f8",
+      "antonyms": [
+        {
+          "meaning": "keep working",
+          "word": "continue"
+        },
+        {
+          "meaning": "stay in position",
+          "word": "remain"
+        },
+        {
+          "meaning": "keep going",
+          "word": "persist"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "retire from work",
+        "retire at age",
+        "retire early",
+        "retire comfortably",
+        "retire on a pension"
+      ],
+      "common_mistake_correct": "I will retire for the night.",
+      "common_mistake_wrong": "I will retire at night.",
+      "definition_en": "To stop working permanently, usually because of age.",
+      "example_bn": "চল্লিশ বছর কাজ করার পর, তিনি শিক্ষকতা থেকে অবসর নেওয়ার সিদ্ধান্ত নিলেন।",
+      "example_en": "After forty years, he decided to retire from teaching.",
+      "memory_hook": "Think of ‘re‑tire’ as putting the old tires away when you stop driving.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Start a new job",
+        "Leave work permanently",
+        "Take a short break",
+        "Go on vacation"
+      ],
+      "quiz_question": "What does it mean to retire?",
+      "short_meaning_en": "quit",
+      "synonyms": [
+        {
+          "meaning": "step down",
+          "word": "resign"
+        },
+        {
+          "meaning": "leave a position",
+          "word": "step down"
+        },
+        {
+          "meaning": "pull out",
+          "word": "withdraw"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "retirement"
+        },
+        {
+          "type": "adjective",
+          "word": "retired"
         }
       ]
     },
@@ -16125,6 +16368,51 @@
         }
       ]
     },
+    "v-04280": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "74743c596d1da8d6142ff4cd472daeae04e65941ae07360a9605e1c662e15b35",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "almond milk",
+        "almond butter",
+        "almond tree",
+        "roasted almond",
+        "almond flavor"
+      ],
+      "common_mistake_correct": "I ate an almond.",
+      "common_mistake_wrong": "I ate an almondes.",
+      "definition_en": "The edible seed of the almond tree, often eaten as a snack or used in cooking.",
+      "example_bn": "সে সালাদে অতিরিক্ত ক্রাঞ্চের জন্য কাটা বাদাম যোগ করেছে।",
+      "example_en": "She added sliced almonds to the salad for extra crunch.",
+      "memory_hook": "‘Al‑mond’ sounds like ‘all‑mond’, as in ‘all the nuts’.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "Almond milk",
+        "Apple juice",
+        "Orange soda",
+        "Grape jam"
+      ],
+      "quiz_question": "Which of these is made from almonds?",
+      "short_meaning_en": "nut",
+      "synonyms": [
+        {
+          "meaning": "edible seed",
+          "word": "nut"
+        },
+        {
+          "meaning": "kernel",
+          "word": "seed"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "almondy"
+        }
+      ]
+    },
     "v-04283": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "9627cad7b1f2f119671048f89458f6c8e7c445cd92498bded9bedf471e836835",
@@ -16906,6 +17194,14 @@
       "source_fingerprint": "900e7401b73325881962006b504ae699b7a2acab49f880b1bad30d087a3e5c04",
       "status": "corrected"
     },
+    "v-01133": {
+      "audited_at": "2026-11-12T09:21:54.367310+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সামনে, সম্মুখভাগে, সামন দিক",
+      "reason": "The Bangla meanings correspond correctly to the English word 'front'.",
+      "source_fingerprint": "e54f7eb412d66264013cc4397ea4658686b1823e4f6035c95c2e1f3113162b63",
+      "status": "valid"
+    },
     "v-01142": {
       "audited_at": "2026-10-08T08:28:35.596875+00:00",
       "confidence": 0.99,
@@ -17033,6 +17329,14 @@
       "reason": "The source meaning includes 'অধ্যবসায়' (diligence), which is not a standard meaning of the noun 'industry'. The correct Bangla meanings are 'শিল্প', 'কারখানা', and 'উৎপাদন ক্ষেত্র'.",
       "source_fingerprint": "a8009923034183b84e82709ef7adc994a045f76a9812797b94d242d8ca1f913e",
       "status": "corrected"
+    },
+    "v-01390": {
+      "audited_at": "2026-11-12T09:21:54.367345+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "জিদ করা, জিদ ধরা, জোর করতে",
+      "reason": "The meanings correctly capture the verb 'insist'.",
+      "source_fingerprint": "32e674ad4507c110a5a32c404d9502559f3b5fbad8b62cecc0e8cf98ba795262",
+      "status": "valid"
     },
     "v-01401": {
       "audited_at": "2026-11-08T08:39:10.736331+00:00",
@@ -17354,6 +17658,14 @@
       "source_fingerprint": "859a6bfaf38f96bfbbb0414204fe4223d37342841d8c3bd67838fd9f32c1cdb0",
       "status": "valid"
     },
+    "v-01912": {
+      "audited_at": "2026-11-12T09:21:54.367250+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "আলোকচিত্র, ফটো",
+      "reason": "The supplied Bangla meaning accurately reflects the English word 'photograph'.",
+      "source_fingerprint": "64ffd283dfd4fbdea04323ef5bd51caa948af0e618084684545ed2e39b404924",
+      "status": "valid"
+    },
     "v-01918": {
       "audited_at": "2026-10-06T08:37:14.289861+00:00",
       "confidence": 1.0,
@@ -17592,6 +17904,14 @@
       "meaning_bn": "সিদ্ধান্ত, সমাধান, দৃঢ়সংকল্প",
       "reason": "The given meanings (প্রতিরোধ, সহানুভূতি) do not correspond to any sense of \"resolution\". Correct senses are decision, solution, or determination.",
       "source_fingerprint": "7a5cd88d62919f0837cf05e03c4e52874deb16e1a1a952597c6ec9128c270512",
+      "status": "corrected"
+    },
+    "v-02254": {
+      "audited_at": "2026-11-12T09:21:54.367381+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অবসর নেওয়া, পদত্যাগ করা",
+      "reason": "The supplied meaning does not match the verb 'retire'; correct meaning is to retire = অবসর নেওয়া, পদত্যাগ করা.",
+      "source_fingerprint": "b768245a918281cf66f8349a38cffa686127bf6a731b79bd8b7d606fd4412c8e",
       "status": "corrected"
     },
     "v-02275": {
@@ -18218,6 +18538,14 @@
       "source_fingerprint": "12b9bb4d3241507852ed159dd1aa97d5c64dccbfafb4a85101be9a05cede25e6",
       "status": "valid"
     },
+    "v-04280": {
+      "audited_at": "2026-11-12T09:21:54.367408+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বাদাম",
+      "reason": "The Bangla meaning correctly defines the noun 'Almond'.",
+      "source_fingerprint": "74743c596d1da8d6142ff4cd472daeae04e65941ae07360a9605e1c662e15b35",
+      "status": "valid"
+    },
     "v-04283": {
       "audited_at": "2026-10-23T07:01:58.826991+00:00",
       "confidence": 0.4,
@@ -18817,6 +19145,12 @@
       "photo_file_id": "AgACAgUAAxUHaub8en3tk21nBzzL1LyU_HY_XFcAAuMSaxud3zlXFzBXs_zdOoQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01133": {
+      "audio_file_id": "CQACAgUAAxUHavWFN04Xn1sVW1uFd70saWUD5R4AAlgmAAKi-rBXKdWSnpqyKDQ9BA",
+      "cached_at": "2026-11-12T09:22:00.606565+00:00",
+      "photo_file_id": "AgACAgUAAxUHavWFOBSLDs7Naja1H1UJ7vzAi18AAmkUaxui-rBXr--_0erlz7oBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01142": {
       "audio_file_id": "CQACAgUAAxUHasdUNu11beij-k5-O5kddAJf4PsAAkAmAAKIuzlWJLrg8D4bibs9BA",
       "cached_at": "2026-10-08T08:28:39.604839+00:00",
@@ -18917,6 +19251,12 @@
       "audio_file_id": "CQACAgUAAxUHar9kToijohi80F_KmegxBfDItyIAAhIhAAKXRvhVaMwkSgtVxx49BA",
       "cached_at": "2026-10-02T07:59:11.773076+00:00",
       "photo_file_id": "AgACAgUAAxUHar9kT75rtXU08wYCRPHEg-mcyUgAAtQRaxuXRvhVk7-XgcihNZoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01390": {
+      "audio_file_id": "CQACAgUAAxUHavWFOlEZt6BoIMuSMuVlAAFiYC80AAJZJgACovqwV7bTZIaebsQwPQQ",
+      "cached_at": "2026-11-12T09:22:02.807385+00:00",
+      "photo_file_id": "AgACAgUAAxUHavWFOixZr0fyZ8MlFM6cHUZD-7UAAmoUaxui-rBXOnTh9qupiZcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01401": {
@@ -19204,6 +19544,12 @@
       "photo_file_id": "AgACAgUAAxUHatXFRKMxE_kb-7kX3walfGKId_YAArYVaxuNqLFWbqIlxdWdOiUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01912": {
+      "audio_file_id": "CQACAgUAAxUHavWFNRdK9tPKH1I5bckm6pKTYFkAAlcmAAKi-rBXCBAyis3lTnY9BA",
+      "cached_at": "2026-11-12T09:21:58.252753+00:00",
+      "photo_file_id": "AgACAgUAAxUHavWFNTGQ7hgNvmFWJ5qSP8oc_9MAAmgUaxui-rBXRu5Rgramm6wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01918": {
       "audio_file_id": "CQACAgUAAxUHasSzP4oDCuAgGiviRUkk-X9TNS0AAsQhAAL07iFWbyjNv7ZZcL49BA",
       "cached_at": "2026-10-06T08:37:20.222517+00:00",
@@ -19394,6 +19740,12 @@
       "audio_file_id": "CQACAgUAAxUHasNfRGqdAuzt01--KdFA9klFgAYAAh0hAAJCJRhW__uqy4cKQ4c9BA",
       "cached_at": "2026-10-05T08:26:45.270650+00:00",
       "photo_file_id": "AgACAgUAAxUHasNfRLjYs_PW11HDMVHUdRtQcxEAAmcUaxtCJRhW5wVfA3Tr5T0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02254": {
+      "audio_file_id": "CQACAgUAAxUHavWFPMfv-kAJgJLNAYWZul5PCDAAAlomAAKi-rBXhFvgIMW6I2Y9BA",
+      "cached_at": "2026-11-12T09:22:04.892999+00:00",
+      "photo_file_id": "AgACAgUAAxUHavWFPPVd5eA-TrHybiF6X0LAaz8AAmsUaxui-rBXJmE4yXiJGWcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02275": {
@@ -19927,6 +20279,12 @@
       "audio_file_id": "CQACAgUAAxUHat2tbcTG_5x6MLuz7Ar58gJ8yTgAAkEhAAL30ehWXQABDc76bG4gPQQ",
       "cached_at": "2026-10-25T07:19:10.103069+00:00",
       "photo_file_id": "AgACAgUAAxUHat2tbdKPlnkcodnHuilsSEv62fkAAgQRaxv30ehWZuIZ-bLHlW8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-04280": {
+      "audio_file_id": "CQACAgUAAxUHavWFPnsyNlHSDIx4tTAgWZud-W8AAlsmAAKi-rBXaJJof3AfmN89BA",
+      "cached_at": "2026-11-12T09:22:07.071095+00:00",
+      "photo_file_id": "AgACAgUAAxUHavWFPmDqCPhmmtfqTOx6TEBewFIAAmwUaxui-rBXUfxkdYL_zvkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-04283": {
@@ -20533,6 +20891,12 @@
       "last_message_id": 258,
       "published_at": "2026-11-01T08:46:50.913033+00:00"
     },
+    "v-01133": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 314,
+      "published_at": "2026-11-12T09:22:00.606590+00:00"
+    },
     "v-01142": {
       "count": 1,
       "last_cycle": 1,
@@ -20635,6 +20999,12 @@
       "last_cycle": 1,
       "last_message_id": 115,
       "published_at": "2026-10-02T07:59:11.773104+00:00"
+    },
+    "v-01390": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 315,
+      "published_at": "2026-11-12T09:22:02.807406+00:00"
     },
     "v-01401": {
       "count": 1,
@@ -20931,6 +21301,12 @@
       "last_message_id": 196,
       "published_at": "2026-10-19T07:22:44.920406+00:00"
     },
+    "v-01912": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 313,
+      "published_at": "2026-11-12T09:21:58.252776+00:00"
+    },
     "v-01918": {
       "count": 1,
       "last_cycle": 1,
@@ -21122,6 +21498,12 @@
       "last_cycle": 1,
       "last_message_id": 130,
       "published_at": "2026-10-05T08:26:45.270677+00:00"
+    },
+    "v-02254": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 316,
+      "published_at": "2026-11-12T09:22:04.893021+00:00"
     },
     "v-02275": {
       "count": 1,
@@ -21663,6 +22045,12 @@
       "last_message_id": 224,
       "published_at": "2026-10-25T07:19:10.103101+00:00"
     },
+    "v-04280": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 317,
+      "published_at": "2026-11-12T09:22:07.071117+00:00"
+    },
     "v-04283": {
       "count": 1,
       "last_cycle": 1,
@@ -21678,11 +22066,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01912",
-    "v-01133",
-    "v-01390",
-    "v-02254",
-    "v-04280",
     "v-01427",
     "v-01621",
     "v-01850",
@@ -24898,41 +25281,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261014T070914Z-3a2c6c13": {
-      "completed_at": "2026-10-14T07:09:27.652249+00:00",
-      "created_at": "2026-10-14T07:09:14.585263+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00187"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01639"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03794"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00144"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00404"
-        }
-      ],
-      "published_ids": [
-        "v-00187",
-        "v-01639",
-        "v-03794",
-        "v-00144",
-        "v-00404"
-      ],
-      "status": "completed"
-    },
     "20261015T070125Z-cba78016": {
       "completed_at": "2026-10-15T07:01:39.480237+00:00",
       "created_at": "2026-10-15T07:01:25.352235+00:00",
@@ -25959,6 +26307,41 @@
         "v-00172",
         "v-01875",
         "v-02561"
+      ],
+      "status": "completed"
+    },
+    "20261112T092153Z-db0bff81": {
+      "completed_at": "2026-11-12T09:22:07.107570+00:00",
+      "created_at": "2026-11-12T09:21:53.975213+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01912"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01133"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01390"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02254"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04280"
+        }
+      ],
+      "published_ids": [
+        "v-01912",
+        "v-01133",
+        "v-01390",
+        "v-02254",
+        "v-04280"
       ],
       "status": "completed"
     }
@@ -28178,6 +28561,43 @@
         "v-02561"
       ],
       "run_id": "20261111T085406Z-bd576943",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-12T09:22:07.107570+00:00",
+      "created_at": "2026-11-12T09:21:53.975213+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01912"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01133"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01390"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02254"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04280"
+        }
+      ],
+      "published_ids": [
+        "v-01912",
+        "v-01133",
+        "v-01390",
+        "v-02254",
+        "v-04280"
+      ],
+      "run_id": "20261112T092153Z-db0bff81",
       "status": "completed",
       "unknown_ids": []
     }
