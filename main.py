@@ -389,8 +389,11 @@ def self_test() -> int:
     from content_ai import fallback_word
     sample = words[0]
     card = generate_card(sample, fallback_word(sample), 1, 5)
-    from card_generator import W as CARD_W, H as CARD_H
-    assert (CARD_W, CARD_H) == (1200, 1200)
+    from card_generator import CARD_HEIGHTS
+    assert CARD_HEIGHTS == (800, 1200, 1500, 1800)
+    from PIL import Image
+    with Image.open(card) as card_img:
+        assert card_img.size[0] == 1200 and card_img.size[1] in CARD_HEIGHTS
     assert card.exists() and card.stat().st_size > 2000
 
     # Rich message schema smoke test, including the exact requested example format and voice-note pronunciation.

@@ -14,12 +14,19 @@ from font_manager import ensure_fonts
 logger = logging.getLogger("vocabulary.card")
 
 # Specimen-label card (Karn's network-wide design, 2026-11-12, first
-# shipped in DailyFacts): 1200 wide, never shorter than square, growing
-# taller with content — 1200 (1:1), 1500 (4:5), 1800 (2:3). Cream paper,
-# ink structure, one red accent, DM Serif Display word type with Archivo
-# label type.
+# shipped in DailyFacts): 1200 wide, growing taller with content —
+# 800 (3:2) for short words, then 1200 (1:1), 1500 (4:5), 1800 (2:3).
+# The 800 tier uses the compact geometry of Karn's approved sample;
+# taller tiers keep the original layout. Cream paper, ink structure,
+# one red accent, DM Serif Display word type with Archivo label type.
 W, H = 1200, 1200
-CARD_HEIGHTS = (1200, 1500, 1800)
+CARD_HEIGHTS = (800, 1200, 1500, 1800)
+# Compact (800) tier: content zone between the kicker and the footer
+# rule, and the tightened gaps between the stacked sections.
+COMPACT_TOP = 262
+COMPACT_BOTTOM = 800 - 144 - 32
+COMPACT_BN_GAP = 30
+COMPACT_SHORT_GAP = 22
 PAPER = (247, 242, 231)
 INK = (24, 22, 19)
 TEXT_INK = (28, 25, 21)
@@ -168,75 +175,108 @@ def generate_card(word: WordEntry, enriched: EnrichedWord, position: int, total:
     if short_lines:
         content_h += 30 + len(short_lines) * 40
     needed = content_top + content_h + 214 + 24
-    height = next((h for h in CARD_HEIGHTS if h >= needed), CARD_HEIGHTS[-1])
+
+    # Compact (800) tier: re-measure at the compact width with tightened
+    # gaps; the word earns the tier only if the whole stack fits the
+    # compact zone with the hero still at a readable size (>= 56px).
+    c_text_w = W - 80 - 80
+    c_hero_font, c_hero_lines, c_hero_lh = _fit_hero(probe, term, fonts, c_text_w, 240)
+    c_bn_lines = _wrap(probe, bangla_text, bangla, c_text_w, max_lines=2) if bangla_text else []
+    c_short_lines = _wrap(probe, short, short_font, c_text_w, max_lines=2) if short else []
+    c_content_h = len(c_hero_lines) * c_hero_lh
+    if c_bn_lines:
+        c_content_h += COMPACT_BN_GAP + len(c_bn_lines) * 56
+    if c_short_lines:
+        c_content_h += COMPACT_SHORT_GAP + len(c_short_lines) * 40
+    compact = (COMPACT_TOP + c_content_h <= COMPACT_BOTTOM
+               and c_hero_lh / 1.15 >= 56)
+    if compact:
+        height = CARD_HEIGHTS[0]
+        hero_font, hero_lines, hero_lh = c_hero_font, c_hero_lines, c_hero_lh
+        bn_lines, short_lines = c_bn_lines, c_short_lines
+        content_h = c_content_h
+    else:
+        height = next((h for h in CARD_HEIGHTS[1:] if h >= needed), CARD_HEIGHTS[-1])
+
+    # Per-tier geometry: the compact tier tightens every spacing
+    # (Karn's approved sample); taller tiers keep the original layout.
+    inset = 36 if compact else 44
+    badge_x, badge_y, logo_h = (72, 56, 54) if compact else (84, 72, 60)
+    badge_pad = 12 if compact else 14
+    mx = 80 if compact else 92
+    bn_gap = COMPACT_BN_GAP if compact else 46
+    short_gap = COMPACT_SHORT_GAP if compact else 30
 
     image = Image.new("RGB", (W, height), PAPER)
     draw = ImageDraw.Draw(image)
 
     # Dashed label border.
-    _dashed_rectangle(draw, (44, 44, W - 44, height - 44), INK)
+    _dashed_rectangle(draw, (inset, inset, W - inset, height - inset), INK)
 
     # Header: the channel logo in a white badge; the channel name
     # centered on the badge's midline by its measured pixel box.
-    badge_x, badge_y, logo_h = 84, 72, 60
     try:
         logo = _logo_mark(logo_h)
     except Exception:
         logo = None
-    badge_w = (logo.width if logo is not None else 97) + 28
-    badge_h = logo_h + 28
+    badge_w = (logo.width if logo is not None else 97) + badge_pad * 2
+    badge_h = logo_h + badge_pad * 2
     badge = Image.new("RGBA", (badge_w, badge_h), (0, 0, 0, 0))
     bd = ImageDraw.Draw(badge)
-    bd.rounded_rectangle((1, 1, badge_w - 2, badge_h - 2), radius=20, fill=(255, 255, 255), outline=INK, width=3)
+    bd.rounded_rectangle((1, 1, badge_w - 2, badge_h - 2), radius=18 if compact else 20, fill=(255, 255, 255), outline=INK, width=3)
     if logo is not None:
-        badge.alpha_composite(logo, (14, 14))
+        badge.alpha_composite(logo, (badge_pad, badge_pad))
     else:
-        vf = _font(fonts, "archivo_black", 34, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+        vf = _font(fonts, "archivo_black", 30 if compact else 34, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
         vb = bd.textbbox((0, 0), "V", font=vf)
         bd.text(((badge_w - (vb[2] - vb[0])) / 2 - vb[0], (badge_h - (vb[3] - vb[1])) / 2 - vb[1]), "V", font=vf, fill=RED)
     base = image.convert("RGBA")
     base.alpha_composite(badge, (badge_x, badge_y))
-    name_font = _font(fonts, "archivo_black", 46, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+    name_font = _font(fonts, "archivo_black", 42 if compact else 46, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
     name = _tracked_strip(SETTINGS.channel_name.upper(), name_font, INK, 9)
-    base.alpha_composite(name, (badge_x + badge_w + 42, badge_y + badge_h // 2 - name.height // 2))
+    base.alpha_composite(name, (badge_x + badge_w + (38 if compact else 42), badge_y + badge_h // 2 - name.height // 2))
     image = base.convert("RGB")
     draw = ImageDraw.Draw(image)
 
     # Header rule, then the word type alone in red.
-    draw.line((92, 200, W - 92, 200), fill=INK, width=3)
-    kicker_font = _font(fonts, "archivo", 32, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
-    _draw_tracked(draw, 92, 238, meta, kicker_font, RED, 5)
+    draw.line((mx, 168 if compact else 200, W - mx, 168 if compact else 200), fill=INK, width=3)
+    kicker_font = _font(fonts, "archivo", 30 if compact else 32, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+    _draw_tracked(draw, mx, 196 if compact else 238, meta, kicker_font, RED, 5)
 
-    # The word itself in DM Serif Display.
-    y = content_top
+    # The word itself in DM Serif Display. The compact tier centers the
+    # whole stack in its middle zone; taller tiers start at the top.
+    if compact:
+        y = COMPACT_TOP + (COMPACT_BOTTOM - COMPACT_TOP - content_h) / 2
+    else:
+        y = content_top
     for line in hero_lines:
-        draw.text((92, y), line, font=hero_font, fill=TEXT_INK)
+        draw.text((mx, y), line, font=hero_font, fill=TEXT_INK)
         y += hero_lh
 
     # Bangla meaning (Bengali shaping, as before).
     if bn_lines:
-        y += 46
+        y += bn_gap
         for line in bn_lines:
-            draw.text((92, y), line, font=bangla, fill=TEXT_INK, language="bn")
+            draw.text((mx, y), line, font=bangla, fill=TEXT_INK, language="bn")
             y += 56
 
     # Short English meaning in clean smaller type.
     if short_lines:
-        y += 30
+        y += short_gap
         for line in short_lines:
-            draw.text((92, y), line, font=short_font, fill=MUTED)
+            draw.text((mx, y), line, font=short_font, fill=MUTED)
             y += 40
 
     # Footer: ink rule, channel name right on the baseline. The channel
     # is private, so the footer carries the display name, not a handle.
-    rule_y = height - 214
-    draw.line((92, rule_y, W - 92, rule_y), fill=INK, width=3)
-    baseline = rule_y + 74
-    hf = _font(fonts, "archivo_black", 38, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
+    rule_y = height - 144 if compact else height - 214
+    draw.line((mx, rule_y, W - mx, rule_y), fill=INK, width=3)
+    baseline = rule_y + (62 if compact else 74)
+    hf = _font(fonts, "archivo_black", 34 if compact else 38, "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf")
     footer_name = SETTINGS.channel_url.removeprefix("https://t.me/") if SETTINGS.channel_url else SETTINGS.channel_name
     if SETTINGS.channel_url and not footer_name.startswith("@"):
         footer_name = "@" + footer_name
-    draw.text((W - 92 - draw.textlength(footer_name, font=hf), baseline - hf.getmetrics()[0]), footer_name, font=hf, fill=INK)
+    draw.text((W - mx - draw.textlength(footer_name, font=hf), baseline - hf.getmetrics()[0]), footer_name, font=hf, fill=INK)
 
     image.save(output, format="PNG", optimize=True)
     return output
