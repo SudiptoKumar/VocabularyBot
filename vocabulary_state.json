@@ -3515,6 +3515,68 @@
         }
       ]
     },
+    "v-00739": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3705c80e2f9d0f911ab7a25ee7dbb53cec52b8e799761914580661f27573d2ba",
+      "antonyms": [
+        {
+          "meaning": "fertile spot in a desert",
+          "word": "oasis"
+        },
+        {
+          "meaning": "area with many trees",
+          "word": "forest"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "Sahara desert",
+        "desert climate",
+        "desert sand",
+        "desert travel",
+        "desert landscape"
+      ],
+      "common_mistake_correct": "desert (one ‘s’)",
+      "common_mistake_wrong": "desert (pronounced ‘dessert’)",
+      "definition_en": "A dry, barren area of land with little vegetation.",
+      "example_bn": "উট মরুভূমিতে জীবনের সাথে ভালভাবে মানিয়ে নিতে পারে।",
+      "example_en": "Camels are well adapted to life in the desert.",
+      "memory_hook": "Desert has one ‘s’, dessert has two – think of ‘s’ for ‘sand’",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "forest",
+        "desert",
+        "valley",
+        "meadow"
+      ],
+      "quiz_question": "What is the term for a dry, barren region with little vegetation?",
+      "short_meaning_en": "dry land",
+      "synonyms": [
+        {
+          "meaning": "unused barren area",
+          "word": "wasteland"
+        },
+        {
+          "meaning": "sand hills",
+          "word": "dunes"
+        },
+        {
+          "meaning": "dry area",
+          "word": "arid region"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "desertify"
+        },
+        {
+          "type": "noun",
+          "word": "desertion"
+        }
+      ]
+    },
     "v-00756": {
       "antonyms": [],
       "cefr": "B1",
@@ -6888,6 +6950,68 @@
         }
       ]
     },
+    "v-01427": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "a20e1d63d8b6231e322ef2db10db19222cd11ac4ed2d88bdd076cb2349ac3f71",
+      "antonyms": [
+        {
+          "meaning": "person who uses money rather than invests",
+          "word": "spender"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "venture capital investor",
+        "angel investor",
+        "foreign investor",
+        "major investor",
+        "lead investor"
+      ],
+      "common_mistake_correct": "investor (spelling with ‘t’ not ‘e’)",
+      "common_mistake_wrong": "investor",
+      "definition_en": "A person who puts money into businesses or projects hoping to earn a profit.",
+      "example_bn": "তিনি বেশ কিছু স্টার্ট‑আপ কোম্পানিতে বিনিয়োগকারী হয়েছেন।",
+      "example_en": "She became an investor in several start‑up companies.",
+      "memory_hook": "An investor is someone who *invests* – think of ‘‑or’ as ‘one who does’",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "seller",
+        "investor",
+        "buyer",
+        "borrower"
+      ],
+      "quiz_question": "Which word means a person who puts money into businesses?",
+      "short_meaning_en": "money backer",
+      "synonyms": [
+        {
+          "meaning": "someone who provides capital",
+          "word": "financier"
+        },
+        {
+          "meaning": "someone who supports financially",
+          "word": "backer"
+        },
+        {
+          "meaning": "person who invests capital",
+          "word": "capitalist"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "invest"
+        },
+        {
+          "type": "noun",
+          "word": "investment"
+        },
+        {
+          "type": "verb",
+          "word": "investing"
+        }
+      ]
+    },
     "v-01434": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "0984f67e3190e74aea411040446ed732564d919b2a708f826ee97ebfb4ee2510",
@@ -8276,6 +8400,72 @@
         }
       ]
     },
+    "v-01621": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "1d8175e7238226a6b2ae241ced9cc448b131bd7b43e1832715257d2d04cd244c",
+      "antonyms": [
+        {
+          "meaning": "to be unlike",
+          "word": "differ"
+        },
+        {
+          "meaning": "to not correspond",
+          "word": "mismatch"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "match colors",
+        "match the pattern",
+        "match the price",
+        "match up",
+        "match perfectly"
+      ],
+      "common_mistake_correct": "match to",
+      "common_mistake_wrong": "match with",
+      "definition_en": "To be equal to or correspond with something else.",
+      "example_bn": "রঙের রঙ পর্দার সঙ্গে পুরোপুরি মিল করে।",
+      "example_en": "The paint color matches the curtains perfectly.",
+      "memory_hook": "Think of a match‑stick that joins two things together",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "conflict",
+        "match",
+        "ignore",
+        "separate"
+      ],
+      "quiz_question": "If two items are the same, they ___ each other.",
+      "short_meaning_en": "to correspond",
+      "synonyms": [
+        {
+          "meaning": "to be in agreement",
+          "word": "correspond"
+        },
+        {
+          "meaning": "to be similar",
+          "word": "parallel"
+        },
+        {
+          "meaning": "to consider as equal",
+          "word": "equate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "matching"
+        },
+        {
+          "type": "noun",
+          "word": "matcher"
+        },
+        {
+          "type": "adjective",
+          "word": "matchless"
+        }
+      ]
+    },
     "v-01629": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "07946187f6d2bdea15009ba4f7ec5e3572b7e75c5bbd958fdf221072e30b2328",
@@ -9280,6 +9470,68 @@
         }
       ]
     },
+    "v-01850": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "06e883426322f802f8910f7ab00e26c0cc4560092eb887f18439370000c96eb8",
+      "antonyms": [
+        {
+          "meaning": "reproduced",
+          "word": "copied"
+        },
+        {
+          "meaning": "taken from something else",
+          "word": "derived"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "original idea",
+        "original version",
+        "original document",
+        "original research",
+        "original owner"
+      ],
+      "common_mistake_correct": "original (using the adjective instead of the adverb)",
+      "common_mistake_wrong": "originally",
+      "definition_en": "Existing from the beginning; not derived or copied.",
+      "example_bn": "মিউজিয়ামটি ১৮শ শতাব্দীর মূল চিত্রটি প্রদর্শন করেছে।",
+      "example_en": "The museum displayed the original painting from the 18th century.",
+      "memory_hook": "Original comes from ‘origin’ – the beginning",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "secondary",
+        "original",
+        "later",
+        "derived"
+      ],
+      "quiz_question": "Which word describes something that is the first or primary version?",
+      "short_meaning_en": "first",
+      "synonyms": [
+        {
+          "meaning": "first in order",
+          "word": "primary"
+        },
+        {
+          "meaning": "at the start",
+          "word": "initial"
+        },
+        {
+          "meaning": "genuine",
+          "word": "authentic"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "originally"
+        },
+        {
+          "type": "noun",
+          "word": "originality"
+        }
+      ]
+    },
     "v-01859": {
       "antonyms": [
         {
@@ -9456,6 +9708,51 @@
         {
           "type": "adjective",
           "word": "passable"
+        }
+      ]
+    },
+    "v-01910": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6299203b3362da90b7cef6d91c271a28b6cccaeeafad175ec92d113946455814",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "mobile phone",
+        "smartphone",
+        "phone call",
+        "phone number",
+        "answer the phone"
+      ],
+      "common_mistake_correct": "phoned (as a verb)",
+      "common_mistake_wrong": "phoned (as a noun)",
+      "definition_en": "A device that transmits and receives sound for voice communication over distance.",
+      "example_bn": "আমি টেবিলে আমার ফোন রেখে দিলাম এবং কলটি মিস করলাম।",
+      "example_en": "I left my phone on the table and missed the call.",
+      "memory_hook": "Phone = ‘sound’ (Greek ‘phon-’) that carries voice",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "tablet",
+        "phone",
+        "laptop",
+        "camera"
+      ],
+      "quiz_question": "Which device is used to make a voice call over a distance?",
+      "short_meaning_en": "telephone",
+      "synonyms": [
+        {
+          "meaning": "device for voice communication",
+          "word": "telephone"
+        },
+        {
+          "meaning": "the part of a phone you hold",
+          "word": "handset"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "phonetic"
         }
       ]
     },
@@ -16938,6 +17235,14 @@
       "source_fingerprint": "719b62f6650d9289503a7bd24e01d3761dbe8ff74e0208a602f747e2d23206d6",
       "status": "valid"
     },
+    "v-00739": {
+      "audited_at": "2026-11-13T09:08:59.532773+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "মরুভূমি, প্রান্তর",
+      "reason": "Both provided meanings correctly translate the noun \"desert\".",
+      "source_fingerprint": "3705c80e2f9d0f911ab7a25ee7dbb53cec52b8e799761914580661f27573d2ba",
+      "status": "valid"
+    },
     "v-00762": {
       "audited_at": "2026-09-27T00:35:50.172670+00:00",
       "confidence": 0.99,
@@ -17354,6 +17659,14 @@
       "source_fingerprint": "a20411668bf03eca7a7dd1c607193fdff4c9b80649506925df9217b15e293cca",
       "status": "valid"
     },
+    "v-01427": {
+      "audited_at": "2026-11-13T09:08:58.933104+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "বিনিয়োগকারী • ধনী",
+      "reason": "The supplied meaning \"বিনিয়োগক\" is truncated and does not correctly represent the noun \"investor\". The correct Bengali equivalents are \"বিনিয়োগকারী\" and optionally \"ধনী\" as a related sense.",
+      "source_fingerprint": "3d6f08e6c4a503cbf0f42901bfafd22e8527db84d154a3d6ced833b6808291a0",
+      "status": "corrected"
+    },
     "v-01434": {
       "audited_at": "2026-10-07T08:12:46.951685+00:00",
       "confidence": 0.97,
@@ -17530,6 +17843,14 @@
       "source_fingerprint": "fad668108a38446e2f0e9ba3bb0e828a31dc60b702cca604553f4e3db3d930b3",
       "status": "valid"
     },
+    "v-01621": {
+      "audited_at": "2026-11-13T09:08:59.229982+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "সমকক্ষ, মিল করা",
+      "reason": "The source includes \"দিয়াশলাই\" which is unrelated to the verb \"match\". The appropriate Bangla senses are \"সমকক্ষ\" (as a noun) and \"মিল করা\" (as a verb).",
+      "source_fingerprint": "66193c82a0a36245866acd56b5813a2ff68de02bc084c9d9b77d55f08c8f6f1c",
+      "status": "corrected"
+    },
     "v-01629": {
       "audited_at": "2026-11-07T08:24:23.368477+00:00",
       "confidence": 0.99,
@@ -17642,6 +17963,14 @@
       "source_fingerprint": "f6ae16708c5f6355b151d9f8dbe3363170e197f459b7c4fccaba4d37269dabc5",
       "status": "corrected"
     },
+    "v-01850": {
+      "audited_at": "2026-11-13T09:08:59.532712+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "মূল, প্রাথমিক, আদিম",
+      "reason": "\"Simple\" is not a meaning of \"original\". Valid Bangla equivalents are \"মূল\" (primary), \"প্রাথমিক\" (first), and \"আদিম\" (ancient).",
+      "source_fingerprint": "db982f161d52776f74a3e290312893bed3fe6d3c81e00a9cde0c1f648a55a52d",
+      "status": "corrected"
+    },
     "v-01875": {
       "audited_at": "2026-11-11T08:54:06.526840+00:00",
       "confidence": 0.99,
@@ -17656,6 +17985,14 @@
       "meaning_bn": "গমনাগমন পথ",
       "reason": "The meaning accurately corresponds to the noun 'passage' as a way or route.",
       "source_fingerprint": "859a6bfaf38f96bfbbb0414204fe4223d37342841d8c3bd67838fd9f32c1cdb0",
+      "status": "valid"
+    },
+    "v-01910": {
+      "audited_at": "2026-11-13T09:08:59.810429+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "টেলিফোন, দূরভাষ",
+      "reason": "Both supplied Bangla meanings correctly correspond to the noun \"phone\" (telephone) in Bengali.",
+      "source_fingerprint": "6299203b3362da90b7cef6d91c271a28b6cccaeeafad175ec92d113946455814",
       "status": "valid"
     },
     "v-01912": {
@@ -18936,6 +19273,12 @@
       "photo_file_id": "AgACAgUAAxUHasydcjUwWhWJAAHxi9g7DCmQpFcaAAJeEmsbPAlhVnJDqpqT3IjVAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-00739": {
+      "audio_file_id": "CQACAgUAAxUHavbTy-UjsH8xg-rmX4uFwvv5BooAAvclAAIeELlXSoobYQcLzgE9BA",
+      "cached_at": "2026-11-13T09:09:31.636765+00:00",
+      "photo_file_id": "AgACAgUAAxUHavbTy--aQUWLL21aS8JbGRp2bVAAAkMgaxseELlXjexh03d74n0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00756": {
       "cached_at": "2026-09-25T12:21:26.261504+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnRQbYzJx6Uwxh26x4-FGpzVMAAm8RaxvpIbFVhHFfw5IimW8BAAMCAANzAAM9BA",
@@ -19277,6 +19620,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaraMCEBuyP3oE_oWHswRyKtf4xgAAv0eAALpIblV21MbUwZUw7w9BA"
     },
+    "v-01427": {
+      "audio_file_id": "CQACAgUAAxUHavbTwy8HEWDpWZt3ppoW12Rg0PsAAvQlAAIeELlXSEuuyn9O0NQ9BA",
+      "cached_at": "2026-11-13T09:09:24.225156+00:00",
+      "photo_file_id": "AgACAgUAAxUHavbTw26WNrxQrlHEfw4SAbU6XLQAAkAgaxseELlXBzToY1o3ntsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01434": {
       "audio_file_id": "CQACAgUAAxUHasX_DFQi9h8395qiTFXBtOsW2BMAAnYrAAKIuzFWZik9EjyVq9o9BA",
       "cached_at": "2026-10-07T08:13:01.230562+00:00",
@@ -19420,6 +19769,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoZgZ77tf1fsTgAz712b0P3uEAAhkUaxucC8lVyKSuuyzAQLcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01621": {
+      "audio_file_id": "CQACAgUAAxUHavbTxQsGpIo7787pM5x6u1s-_3gAAvUlAAIeELlXbMqsNPqV0Ng9BA",
+      "cached_at": "2026-11-13T09:09:26.680144+00:00",
+      "photo_file_id": "AgACAgUAAxUHavbTxmjSSTQah7nUhHLChm5IX7MAAkEgaxseELlXjnqdu53-Xr4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01629": {
       "audio_file_id": "CQACAgUAAxUHau7gRzXZNiRxR_Kwyy4E7ExtwkEAArMlAAJ0bXFX6Uh0PtotRKk9BA",
       "cached_at": "2026-11-07T08:24:39.894427+00:00",
@@ -19526,6 +19881,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvH99ndt2BBqli97aTJ5tsPVgAAnsgAALpIcFVPVpCm3gP4g89BA"
     },
+    "v-01850": {
+      "audio_file_id": "CQACAgUAAxUHavbTyDWDEQ89YwXgrp4O3cSQAhYAAvYlAAIeELlXRDgbEx1l6qk9BA",
+      "cached_at": "2026-11-13T09:09:29.280769+00:00",
+      "photo_file_id": "AgACAgUAAxUHavbTyD47t1iOfre3uhypivPlBncAAkIgaxseELlXyD8sc0FG2fUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01859": {
       "cached_at": "2026-09-25T12:21:29.339279+00:00",
       "photo_file_id": "AgACAgUAAxUHarZnSCKIpXVI7QABXuksaC25CrOtAAJwEWsb6SGxVZs1XmJf8KQxAQADAgADcwADPQQ",
@@ -19542,6 +19903,12 @@
       "audio_file_id": "CQACAgUAAxUHatXFRIUHxoSa3gpxeWSzOaqM6v8AApUhAAKNqLFWPMa-KhrBJVU9BA",
       "cached_at": "2026-10-19T07:22:44.920380+00:00",
       "photo_file_id": "AgACAgUAAxUHatXFRKMxE_kb-7kX3walfGKId_YAArYVaxuNqLFWbqIlxdWdOiUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01910": {
+      "audio_file_id": "CQACAgUAAxUHavbTzU0_tz3mfvbf5bwB46bEx20AAvglAAIeELlXBSHIVicI_nQ9BA",
+      "cached_at": "2026-11-13T09:09:34.107134+00:00",
+      "photo_file_id": "AgACAgUAAxUHavbTzYqgVCUqlHA-lKunUdehqm0AAkQgaxseELlXGthiL_i9UMUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01912": {
@@ -20678,6 +21045,12 @@
       "last_message_id": 166,
       "published_at": "2026-10-12T08:42:26.860382+00:00"
     },
+    "v-00739": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 321,
+      "published_at": "2026-11-13T09:09:31.636791+00:00"
+    },
     "v-00756": {
       "count": 1,
       "last_cycle": 1,
@@ -21025,6 +21398,12 @@
       "published_at": "2026-09-25T14:58:17.082587+00:00",
       "quiz_message_id": 40
     },
+    "v-01427": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 318,
+      "published_at": "2026-11-13T09:09:24.225186+00:00"
+    },
     "v-01434": {
       "count": 1,
       "last_cycle": 1,
@@ -21171,6 +21550,12 @@
       "last_message_id": 87,
       "published_at": "2026-09-27T00:50:47.328690+00:00"
     },
+    "v-01621": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 319,
+      "published_at": "2026-11-13T09:09:26.680178+00:00"
+    },
     "v-01629": {
       "count": 1,
       "last_cycle": 1,
@@ -21282,6 +21667,12 @@
       "last_message_id": 58,
       "published_at": "2026-09-26T07:07:12.293175+00:00"
     },
+    "v-01850": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 320,
+      "published_at": "2026-11-13T09:09:29.280797+00:00"
+    },
     "v-01859": {
       "count": 1,
       "last_cycle": 1,
@@ -21300,6 +21691,12 @@
       "last_cycle": 1,
       "last_message_id": 196,
       "published_at": "2026-10-19T07:22:44.920406+00:00"
+    },
+    "v-01910": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 322,
+      "published_at": "2026-11-13T09:09:34.107161+00:00"
     },
     "v-01912": {
       "count": 1,
@@ -22066,11 +22463,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01427",
-    "v-01621",
-    "v-01850",
-    "v-00739",
-    "v-01910",
     "v-01096",
     "v-02659",
     "v-01764",
@@ -25281,41 +25673,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261015T070125Z-cba78016": {
-      "completed_at": "2026-10-15T07:01:39.480237+00:00",
-      "created_at": "2026-10-15T07:01:25.352235+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01726"
-        },
-        {
-          "cycle": 1,
-          "id": "v-04174"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02737"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01437"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02668"
-        }
-      ],
-      "published_ids": [
-        "v-01726",
-        "v-04174",
-        "v-02737",
-        "v-01437",
-        "v-02668"
-      ],
-      "status": "completed"
-    },
     "20261016T064652Z-db6c8f41": {
       "completed_at": "2026-10-16T06:47:06.810849+00:00",
       "created_at": "2026-10-16T06:46:52.805085+00:00",
@@ -26342,6 +26699,41 @@
         "v-01390",
         "v-02254",
         "v-04280"
+      ],
+      "status": "completed"
+    },
+    "20261113T090858Z-14f68d22": {
+      "completed_at": "2026-11-13T09:09:34.139787+00:00",
+      "created_at": "2026-11-13T09:08:58.470936+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01427"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01621"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01850"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00739"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01910"
+        }
+      ],
+      "published_ids": [
+        "v-01427",
+        "v-01621",
+        "v-01850",
+        "v-00739",
+        "v-01910"
       ],
       "status": "completed"
     }
@@ -28598,6 +28990,43 @@
         "v-04280"
       ],
       "run_id": "20261112T092153Z-db0bff81",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-13T09:09:34.139787+00:00",
+      "created_at": "2026-11-13T09:08:58.470936+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01427"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01621"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01850"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00739"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01910"
+        }
+      ],
+      "published_ids": [
+        "v-01427",
+        "v-01621",
+        "v-01850",
+        "v-00739",
+        "v-01910"
+      ],
+      "run_id": "20261113T090858Z-14f68d22",
       "status": "completed",
       "unknown_ids": []
     }
