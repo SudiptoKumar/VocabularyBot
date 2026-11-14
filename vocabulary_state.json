@@ -5331,6 +5331,72 @@
         }
       ]
     },
+    "v-01096": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8c980d8a96557e443c54da9f3eb5e0db213b0a3904907f7ea5a81dde03c7bbac",
+      "antonyms": [
+        {
+          "meaning": "coming before",
+          "word": "previous"
+        },
+        {
+          "meaning": "earlier",
+          "word": "prior"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "following day",
+        "following year",
+        "following instructions",
+        "following paragraph",
+        "following list"
+      ],
+      "common_mistake_correct": "\"Following\" is an adjective meaning \"next\" or \"subsequent\"",
+      "common_mistake_wrong": "Using \"following\" as a noun meaning \"a follower\"",
+      "definition_en": "something that comes after or is mentioned later",
+      "example_bn": "অনুগ্রহ করে নিম্নলিখিত অনুচ্ছেদটি মনোযোগ সহকারে পড়ুন।",
+      "example_en": "Please read the following paragraph carefully.",
+      "memory_hook": "Think of \"follow\" + \"-ing\" = what comes after",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "previous",
+        "next",
+        "before",
+        "later"
+      ],
+      "quiz_question": "What does \"following\" mean in \"the following items\"?",
+      "short_meaning_en": "next",
+      "synonyms": [
+        {
+          "meaning": "coming after",
+          "word": "subsequent"
+        },
+        {
+          "meaning": "following in time",
+          "word": "ensuing"
+        },
+        {
+          "meaning": "immediately after",
+          "word": "next"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "follow"
+        },
+        {
+          "type": "noun",
+          "word": "follower"
+        },
+        {
+          "type": "noun",
+          "word": "follow-up"
+        }
+      ]
+    },
     "v-01101": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f83c6f3c7b6f6862c1af748084ba624ddd44ee7b1ea8227158d87379809ab9ae",
@@ -6762,6 +6828,76 @@
         {
           "type": "adjective",
           "word": "insistent"
+        }
+      ]
+    },
+    "v-01398": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4938d942aa7779dd7c3fb4e8418a4c510b8551c78355440ab0d6c352addc229c",
+      "antonyms": [
+        {
+          "meaning": "learner",
+          "word": "student"
+        },
+        {
+          "meaning": "someone being taught",
+          "word": "learner"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "driving instructor",
+        "fitness instructor",
+        "language instructor",
+        "chief instructor",
+        "instructor‑led"
+      ],
+      "common_mistake_correct": "An instructor can be any teacher or trainer",
+      "common_mistake_wrong": "Using \"instructor\" only for sports coaches",
+      "definition_en": "a person who teaches or gives instruction",
+      "example_bn": "ড্রাইভিং ইনস্ট্রাক্টর আমাদের পাহাড়ে গাড়ি চালানোর পদ্ধতি শিখিয়েছেন।",
+      "example_en": "The driving instructor taught us how to handle the car on hills.",
+      "memory_hook": "\"Instruct\" + \"‑or\" = one who instructs",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "learns",
+        "teaches",
+        "drives",
+        "watches"
+      ],
+      "quiz_question": "An instructor is someone who:",
+      "short_meaning_en": "teacher",
+      "synonyms": [
+        {
+          "meaning": "person who educates",
+          "word": "teacher"
+        },
+        {
+          "meaning": "person who trains",
+          "word": "trainer"
+        },
+        {
+          "meaning": "private teacher",
+          "word": "tutor"
+        },
+        {
+          "meaning": "experienced guide",
+          "word": "mentor"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "instruct"
+        },
+        {
+          "type": "noun",
+          "word": "instruction"
+        },
+        {
+          "type": "adjective",
+          "word": "instructional"
         }
       ]
     },
@@ -9148,6 +9284,68 @@
         {
           "type": "adjective",
           "word": "newspapery"
+        }
+      ]
+    },
+    "v-01764": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f060fce0327f56bdbc591201bd3c51472b7c85caa216eba407cbbff31c72ee39",
+      "antonyms": [
+        {
+          "meaning": "move the head side to side",
+          "word": "shake"
+        },
+        {
+          "meaning": "decline",
+          "word": "refuse"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "nod in agreement",
+        "nod politely",
+        "nod off",
+        "a quick nod",
+        "a slight nod"
+      ],
+      "common_mistake_correct": "A nod is an up‑and‑down head movement",
+      "common_mistake_wrong": "Thinking a \"nod\" is a side‑to‑side head shake",
+      "definition_en": "to move your head slightly up and down to show agreement",
+      "example_bn": "তিনি নির্দেশগুলো বুঝেছেন বলে মাথা নড়িয়ে স্বীকার করলেন।",
+      "example_en": "She nodded to show she understood the instructions.",
+      "memory_hook": "\"Nod\" sounds like \"no\" but means yes",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "disagreement",
+        "agreement",
+        "surprise",
+        "confusion"
+      ],
+      "quiz_question": "What does a nod usually indicate?",
+      "short_meaning_en": "head shake",
+      "synonyms": [
+        {
+          "meaning": "move the head up and down",
+          "word": "bob"
+        },
+        {
+          "meaning": "express consent",
+          "word": "agree"
+        },
+        {
+          "meaning": "give approval",
+          "word": "assent"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "nodding"
+        },
+        {
+          "type": "noun",
+          "word": "nodder"
         }
       ]
     },
@@ -12566,6 +12764,76 @@
         }
       ]
     },
+    "v-02446": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "185874bd02818cede2c54938058c8304899aa3484d8a4bc798c3ed219fa0065a",
+      "antonyms": [
+        {
+          "meaning": "owner of a slave",
+          "word": "master"
+        },
+        {
+          "meaning": "someone not enslaved",
+          "word": "free person"
+        },
+        {
+          "meaning": "person who possesses",
+          "word": "owner"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "slave labor",
+        "slave trade",
+        "ancient slave",
+        "modern slave",
+        "slave owner"
+      ],
+      "common_mistake_correct": "A slave is owned and forced to work without freedom",
+      "common_mistake_wrong": "Thinking a \"slave\" is a paid domestic worker",
+      "definition_en": "a person who is owned by another and forced to work without freedom",
+      "example_bn": "মিউজিয়ামের প্রদর্শনী রোমান দাসের জীবন দেখায়।",
+      "example_en": "The museum exhibit shows the life of a Roman slave.",
+      "memory_hook": "Recall \"Slav\" history of forced labor",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "they own others",
+        "they are free",
+        "they are forced to work",
+        "they are a type of animal"
+      ],
+      "quiz_question": "Which statement is true about a slave?",
+      "short_meaning_en": "servant",
+      "synonyms": [
+        {
+          "meaning": "unfree laborer",
+          "word": "serf"
+        },
+        {
+          "meaning": "person held against will",
+          "word": "captive"
+        },
+        {
+          "meaning": "person bound to serve",
+          "word": "bondservant"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "enslave"
+        },
+        {
+          "type": "noun",
+          "word": "slavery"
+        },
+        {
+          "type": "noun",
+          "word": "enslaver"
+        }
+      ]
+    },
     "v-02465": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "cf580df738760791c6367a0b01439774e72f686cf8b55efffcbe983dc7566e6a",
@@ -13158,6 +13426,63 @@
         {
           "type": "noun",
           "word": "tallness"
+        }
+      ]
+    },
+    "v-02659": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "726265d32660636c31f2d10772d6c2b93b5cb7adc417bc88dc2f8a6a81d71ea7",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "modern technology",
+        "information technology",
+        "medical technology",
+        "emerging technology",
+        "high technology"
+      ],
+      "common_mistake_correct": "\"Technology\" refers to tools and systems, not methods",
+      "common_mistake_wrong": "Confusing \"technology\" with \"technique\"",
+      "definition_en": "the practical use of scientific knowledge to create tools and systems",
+      "example_bn": "আধুনিক প্রযুক্তিবিদ্যা আমাদের যোগাযোগের পদ্ধতি বদলে দিয়েছে।",
+      "example_en": "Modern technology has changed the way we communicate.",
+      "memory_hook": "Tech + nology = tech knowledge",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a type of food",
+        "a scientific tool",
+        "a language",
+        "a sport"
+      ],
+      "quiz_question": "Which description best fits \"technology\"?",
+      "short_meaning_en": "tech",
+      "synonyms": [
+        {
+          "meaning": "short for technology",
+          "word": "tech"
+        },
+        {
+          "meaning": "application of scientific principles",
+          "word": "engineering"
+        },
+        {
+          "meaning": "practical use of science",
+          "word": "applied science"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "technological"
+        },
+        {
+          "type": "noun",
+          "word": "technician"
+        },
+        {
+          "type": "noun",
+          "word": "technologist"
         }
       ]
     },
@@ -17459,6 +17784,14 @@
       "source_fingerprint": "cda02e21675006b98d1ed959ca1204380750fa486ca156274cb404ac6e5719b9",
       "status": "valid"
     },
+    "v-01096": {
+      "audited_at": "2026-11-14T08:39:38.343236+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পরবর্তী, পরে বর্ণিত",
+      "reason": "The Bangla meaning accurately reflects the English headword 'following' as used in the source context.",
+      "source_fingerprint": "8c980d8a96557e443c54da9f3eb5e0db213b0a3904907f7ea5a81dde03c7bbac",
+      "status": "valid"
+    },
     "v-01101": {
       "audited_at": "2026-10-03T07:40:03.836902+00:00",
       "confidence": 0.95,
@@ -17641,6 +17974,14 @@
       "meaning_bn": "জিদ করা, জিদ ধরা, জোর করতে",
       "reason": "The meanings correctly capture the verb 'insist'.",
       "source_fingerprint": "32e674ad4507c110a5a32c404d9502559f3b5fbad8b62cecc0e8cf98ba795262",
+      "status": "valid"
+    },
+    "v-01398": {
+      "audited_at": "2026-11-14T08:39:38.343359+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "শিক্ষক",
+      "reason": "The Bangla term accurately translates the English word 'instructor'.",
+      "source_fingerprint": "4938d942aa7779dd7c3fb4e8418a4c510b8551c78355440ab0d6c352addc229c",
       "status": "valid"
     },
     "v-01401": {
@@ -17929,6 +18270,14 @@
       "meaning_bn": "সংবাদপত্র, পত্রিকা",
       "reason": "Both Bangla meanings correctly represent the noun 'newspaper'.",
       "source_fingerprint": "d65b9ac2f935b9a98c7ef097d464f40f19e7dcc7645d5ab175684c818a793a8f",
+      "status": "valid"
+    },
+    "v-01764": {
+      "audited_at": "2026-11-14T08:39:38.343334+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মাথা নড়ানো বা দোলানো",
+      "reason": "The meaning matches the verb/noun sense of 'nod' in the source.",
+      "source_fingerprint": "f060fce0327f56bdbc591201bd3c51472b7c85caa216eba407cbbff31c72ee39",
       "status": "valid"
     },
     "v-01774": {
@@ -18371,6 +18720,14 @@
       "source_fingerprint": "98f2e4171f3c717a52960f0df80ee7b44d48c94bedd20fb31a6dd1a952ff614c",
       "status": "valid"
     },
+    "v-02446": {
+      "audited_at": "2026-11-14T08:39:38.343382+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ক্রীতদাস",
+      "reason": "The meaning correctly corresponds to the English word 'slave'.",
+      "source_fingerprint": "185874bd02818cede2c54938058c8304899aa3484d8a4bc798c3ed219fa0065a",
+      "status": "valid"
+    },
     "v-02465": {
       "audited_at": "2026-11-03T09:04:25.858527+00:00",
       "confidence": 1.0,
@@ -18442,6 +18799,14 @@
       "reason": "The provided meanings 'সুইচ, পরিবর্তন' do not match the English word 'symbol', which means a sign or representation.",
       "source_fingerprint": "4f491ee09dac8ee3e3e5cd1be61636640248779c25b2ebc153f9f7ce98c17871",
       "status": "corrected"
+    },
+    "v-02659": {
+      "audited_at": "2026-11-14T08:39:38.343300+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রযুক্তিবিদ্যা, প্রয়োগশাস্ত্র",
+      "reason": "The supplied Bangla meanings correctly correspond to the English word 'technology'.",
+      "source_fingerprint": "726265d32660636c31f2d10772d6c2b93b5cb7adc417bc88dc2f8a6a81d71ea7",
+      "status": "valid"
     },
     "v-02668": {
       "audited_at": "2026-10-15T07:01:25.824040+00:00",
@@ -19458,6 +19823,12 @@
       "photo_file_id": "AgACAgUAAxUHatxWKTcDS2BsGp9YATxTZ27aERwAAqARaxv30eBWy_u_Tuhi5z8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01096": {
+      "audio_file_id": "CQACAgUAAxUHavgeTm92sJRIeMTUzbomMXH7w3sAAmAmAAKZZsBXPPTWraWM4nw9BA",
+      "cached_at": "2026-11-14T08:39:43.058634+00:00",
+      "photo_file_id": "AgACAgUAAxUHavgeTktrIrP0yBYd_FWwKJ6vE7sAAvwTaxuZZsBXo9d-Jl3gQeABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01101": {
       "audio_file_id": "CQACAgUAAxUHasCxa4y9aq_8hqPh8u9nwB77v4MAAsgiAAKvhgFWQZUcV54rRGY9BA",
       "cached_at": "2026-10-03T07:40:27.539005+00:00",
@@ -19600,6 +19971,12 @@
       "audio_file_id": "CQACAgUAAxUHavWFOlEZt6BoIMuSMuVlAAFiYC80AAJZJgACovqwV7bTZIaebsQwPQQ",
       "cached_at": "2026-11-12T09:22:02.807385+00:00",
       "photo_file_id": "AgACAgUAAxUHavWFOixZr0fyZ8MlFM6cHUZD-7UAAmoUaxui-rBXOnTh9qupiZcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01398": {
+      "audio_file_id": "CQACAgUAAxUHavgeVdfslOB6yankvRu8C0R6nbIAAmMmAAKZZsBX2JG8Sae-IUs9BA",
+      "cached_at": "2026-11-14T08:39:49.982549+00:00",
+      "photo_file_id": "AgACAgUAAxUHavgeVdscrFsH9eTF08WO3eBF6lcAAv8TaxuZZsBX9hlv3ZQw7-4BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01401": {
@@ -19843,6 +20220,12 @@
       "audio_file_id": "CQACAgUAAxUHasIFB5uO4Rnyh7z8Ug-NHYoO_fUAAgsgAAJCJRBWz0tCmnDPmn49BA",
       "cached_at": "2026-10-04T07:49:27.941730+00:00",
       "photo_file_id": "AgACAgUAAxUHasIFB9l3lhWsItcgi6G8JMa2NlgAAg4YaxtCJRBW8qm8ewixVxgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01764": {
+      "audio_file_id": "CQACAgUAAxUHavgeU8vLF1gXW6X8DDTO7yzSWFoAAmImAAKZZsBXdNBcTdXqxi09BA",
+      "cached_at": "2026-11-14T08:39:47.795358+00:00",
+      "photo_file_id": "AgACAgUAAxUHavgeU1mred3U5_fHpuag5XiJEcUAAv4TaxuZZsBXLuWPdiY1q7sBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01769": {
@@ -20205,6 +20588,12 @@
       "photo_file_id": "AgACAgUAAxUHare9Kn1HoCs5EETHLZTMOGFl_8MAAh4TaxvpIcFV4Tv9UTgvqMMBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-02446": {
+      "audio_file_id": "CQACAgUAAxUHavgeVwZYQZYn675ht-Af783UctwAAmQmAAKZZsBX0bIX-8YG7TA9BA",
+      "cached_at": "2026-11-14T08:39:52.398277+00:00",
+      "photo_file_id": "AgACAgUAAxUHavgeV-djEdczy1CUei4J9Fz7bYIAAxRrG5lmwFfIh6FC14RQNgEAAwIAA3MAAz0E",
+      "version": "1.2.5"
+    },
     "v-02465": {
       "audio_file_id": "CQACAgUAAxUHaumjnjFmf8tuZCxeyttQbeqckHoAAnwkAAItf0lXBxNiLCslEs49BA",
       "cached_at": "2026-11-03T09:04:31.647883+00:00",
@@ -20264,6 +20653,12 @@
       "photo_file_id": "AgACAgUAAxUHardvJMqjZUrrD4Gc_klMVyY2vtoAAuARaxvpIcFVfrIAAXMjX7v8AQADAgADcwADPQQ",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJB10KO6Mn5XXrOXSRR2invQAAn0gAALpIcFVT5TikJtb_jM9BA"
+    },
+    "v-02659": {
+      "audio_file_id": "CQACAgUAAxUHavgeUBp6afsYBEzK-bnpIwwyFykAAmEmAAKZZsBX1RDNiduMG409BA",
+      "cached_at": "2026-11-14T08:39:45.648743+00:00",
+      "photo_file_id": "AgACAgUAAxUHavgeUX3maeMBS9RKTYLZuNF5GoIAAv0TaxuZZsBXvfh0lZXUU_QBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-02668": {
       "audio_file_id": "CQACAgUAAxUHatB6UmT1FVHCKOsnXnsJExCNXdAAAvcgAALrMoFW1Hz8oHnZ3XY9BA",
@@ -21234,6 +21629,12 @@
       "last_message_id": 220,
       "published_at": "2026-10-24T06:54:33.669199+00:00"
     },
+    "v-01096": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 323,
+      "published_at": "2026-11-14T08:39:43.058660+00:00"
+    },
     "v-01101": {
       "count": 1,
       "last_cycle": 1,
@@ -21378,6 +21779,12 @@
       "last_cycle": 1,
       "last_message_id": 315,
       "published_at": "2026-11-12T09:22:02.807406+00:00"
+    },
+    "v-01398": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 326,
+      "published_at": "2026-11-14T08:39:49.982573+00:00"
     },
     "v-01401": {
       "count": 1,
@@ -21629,6 +22036,12 @@
       "last_cycle": 1,
       "last_message_id": 127,
       "published_at": "2026-10-04T07:49:27.941754+00:00"
+    },
+    "v-01764": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 325,
+      "published_at": "2026-11-14T08:39:47.795382+00:00"
     },
     "v-01769": {
       "count": 1,
@@ -21992,6 +22405,12 @@
       "last_message_id": 65,
       "published_at": "2026-09-26T12:40:11.228330+00:00"
     },
+    "v-02446": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 327,
+      "published_at": "2026-11-14T08:39:52.398302+00:00"
+    },
     "v-02465": {
       "count": 1,
       "last_cycle": 1,
@@ -22051,6 +22470,12 @@
       "last_cycle": 1,
       "last_message_id": 60,
       "published_at": "2026-09-26T07:07:17.058626+00:00"
+    },
+    "v-02659": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 324,
+      "published_at": "2026-11-14T08:39:45.648769+00:00"
     },
     "v-02668": {
       "count": 1,
@@ -22463,11 +22888,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01096",
-    "v-02659",
-    "v-01764",
-    "v-01398",
-    "v-02446",
     "v-01308",
     "v-01005",
     "v-04265",
@@ -25673,41 +26093,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261016T064652Z-db6c8f41": {
-      "completed_at": "2026-10-16T06:47:06.810849+00:00",
-      "created_at": "2026-10-16T06:46:52.805085+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01580"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02275"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01577"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02228"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02679"
-        }
-      ],
-      "published_ids": [
-        "v-01580",
-        "v-02275",
-        "v-01577",
-        "v-02228",
-        "v-02679"
-      ],
-      "status": "completed"
-    },
     "20261017T063753Z-5ccd9b2d": {
       "completed_at": "2026-10-17T06:37:55.474369+00:00",
       "created_at": "2026-10-17T06:37:53.877955+00:00",
@@ -26734,6 +27119,41 @@
         "v-01850",
         "v-00739",
         "v-01910"
+      ],
+      "status": "completed"
+    },
+    "20261114T083937Z-08887c78": {
+      "completed_at": "2026-11-14T08:39:52.437444+00:00",
+      "created_at": "2026-11-14T08:39:37.872358+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01096"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02659"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01398"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02446"
+        }
+      ],
+      "published_ids": [
+        "v-01096",
+        "v-02659",
+        "v-01764",
+        "v-01398",
+        "v-02446"
       ],
       "status": "completed"
     }
@@ -29027,6 +29447,43 @@
         "v-01910"
       ],
       "run_id": "20261113T090858Z-14f68d22",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-14T08:39:52.437444+00:00",
+      "created_at": "2026-11-14T08:39:37.872358+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01096"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02659"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01764"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01398"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02446"
+        }
+      ],
+      "published_ids": [
+        "v-01096",
+        "v-02659",
+        "v-01764",
+        "v-01398",
+        "v-02446"
+      ],
+      "run_id": "20261114T083937Z-08887c78",
       "status": "completed",
       "unknown_ids": []
     }
