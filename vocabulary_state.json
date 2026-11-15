@@ -4818,6 +4818,68 @@
         }
       ]
     },
+    "v-01005": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "19dcc8e9b65d44ba5b959ae84403f0a699d7c7e27007757d4fc76523ed9667ae",
+      "antonyms": [
+        {
+          "meaning": "to a small degree",
+          "word": "slightly"
+        },
+        {
+          "meaning": "in a gentle way",
+          "word": "mildly"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "extremely fast",
+        "extremely difficult",
+        "extremely happy",
+        "extremely rare",
+        "extremely important"
+      ],
+      "common_mistake_correct": "Use \"extremely\" for strong intensity, not for negative excess.",
+      "common_mistake_wrong": "Confusing \"extremely\" with \"excessively\" (which often implies too much).",
+      "definition_en": "To a very great degree; far beyond the usual level.",
+      "example_bn": "সেই রাতে আবহাওয়া চূড়ান্তভাবে ঠাণ্ডা ছিল।",
+      "example_en": "The weather was extremely cold that night.",
+      "memory_hook": "Think of an “extreme” mountain peak – it’s far beyond the ordinary.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The soup was extremely salty, but I liked it.",
+        "She was extremely late for the meeting.",
+        "He ran extremely quickly.",
+        "The movie was extremely boring."
+      ],
+      "quiz_question": "Choose the sentence that correctly uses \"extremely\".",
+      "short_meaning_en": "very great",
+      "synonyms": [
+        {
+          "meaning": "completely",
+          "word": "utterly"
+        },
+        {
+          "meaning": "to a very high degree",
+          "word": "exceedingly"
+        },
+        {
+          "meaning": "extremely",
+          "word": "tremendously"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "extreme"
+        },
+        {
+          "type": "noun",
+          "word": "extremity"
+        }
+      ]
+    },
     "v-01008": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ab4f28b053daa8a790a2ebf1ab86f4010672a31c69e09db316e3506496d2546d",
@@ -6361,6 +6423,68 @@
         }
       ]
     },
+    "v-01243": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c9b97fdf528f13fc309a55d5e3ed7f9684ac967def9e4b23bc528062006a2d29",
+      "antonyms": [
+        {
+          "meaning": "do not have",
+          "word": "lack"
+        },
+        {
+          "meaning": "be without",
+          "word": "miss"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "have time",
+        "have a chance",
+        "have a problem",
+        "have a look",
+        "have fun"
+      ],
+      "common_mistake_correct": "Use \"have\" with I/you/we/they; use \"has\" with he/she/it.",
+      "common_mistake_wrong": "Confusing \"have\" with \"has\" for all subjects.",
+      "definition_en": "To possess, own, or hold something; to experience a particular state.",
+      "example_bn": "আমার বিকেল ৩টায় একটি মিটিং আছে।",
+      "example_en": "I have a meeting at 3 pm.",
+      "memory_hook": "Imagine holding something in your hands – you \"have\" it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She have a car.",
+        "We have tickets for the concert.",
+        "He have finished his work.",
+        "They has arrived."
+      ],
+      "quiz_question": "Which sentence uses \"have\" correctly?",
+      "short_meaning_en": "possess",
+      "synonyms": [
+        {
+          "meaning": "possess",
+          "word": "own"
+        },
+        {
+          "meaning": "have",
+          "word": "possess"
+        },
+        {
+          "meaning": "keep",
+          "word": "hold"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "has"
+        },
+        {
+          "type": "verb",
+          "word": "having"
+        }
+      ]
+    },
     "v-01267": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5893d91102bce7a746273fbf8b4a302d1630a634c8b59c9b61ea327bddf73a71",
@@ -6596,6 +6720,42 @@
           "word": "homelessly"
         }
       ]
+    },
+    "v-01308": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ca3c0d7048c75a124d8854fb93f4e764ac79275665f259b234e7abca6ba5af7d",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "how to",
+        "how about",
+        "how long",
+        "how many",
+        "how often"
+      ],
+      "common_mistake_correct": "Use \"how\" only as an adverb or conjunction.",
+      "common_mistake_wrong": "Using \"how\" as a noun (e.g., \"the how of it\").",
+      "definition_en": "In what way or manner something is done or happens.",
+      "example_bn": "আপনি কীভাবে ধাঁধাটি সমাধান করেছেন তা আমাকে বলতে পারেন?",
+      "example_en": "Can you tell me how you solved the puzzle?",
+      "memory_hook": "Imagine asking \"How?\" while holding a question mark.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She asked how the train arrived early.",
+        "How are you feeling today?",
+        "I wonder how the book.",
+        "The cat how the mouse."
+      ],
+      "quiz_question": "Which sentence uses \"how\" correctly?",
+      "short_meaning_en": "in what way",
+      "synonyms": [
+        {
+          "meaning": "in what way",
+          "word": "in what manner"
+        }
+      ],
+      "word_family": []
     },
     "v-01309": {
       "_content_version": "1.2.4",
@@ -15611,6 +15771,68 @@
         }
       ]
     },
+    "v-03227": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "977c9342efc34b6626a6ba90587e3094d29f932435dbb38afec76a3ea4601b08",
+      "antonyms": [
+        {
+          "meaning": "bring down",
+          "word": "lower"
+        },
+        {
+          "meaning": "reduce",
+          "word": "depress"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "elevate the status",
+        "elevate the mood",
+        "elevate the risk",
+        "elevate the discussion",
+        "elevate the price"
+      ],
+      "common_mistake_correct": "\"Elevate\" can be used both physically and figuratively; for simple physical lift, \"lift\" or \"raise\" is more common.",
+      "common_mistake_wrong": "Using \"elevate\" for physical lifting only (e.g., \"elevate the box\").",
+      "definition_en": "To lift something up to a higher position or level.",
+      "example_bn": "ম্যানেজার প্রকল্পটি উচ্চতর পর্যালোচনার জন্য উপরে তুলবেন।",
+      "example_en": "The manager will elevate the project to senior review.",
+      "memory_hook": "Think of an elevator that raises you higher – \"elevate\" sounds like \"elevator\".",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The speaker's words will elevate the audience's spirits.",
+        "She will elevate the box onto the shelf.",
+        "He elevated the temperature of the room.",
+        "The crane will elevate the steel beam."
+      ],
+      "quiz_question": "Select the sentence that uses \"elevate\" in a figurative sense.",
+      "short_meaning_en": "lift up",
+      "synonyms": [
+        {
+          "meaning": "lift up",
+          "word": "raise"
+        },
+        {
+          "meaning": "move upward",
+          "word": "lift"
+        },
+        {
+          "meaning": "advance in rank",
+          "word": "promote"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "elevation"
+        },
+        {
+          "type": "adjective",
+          "word": "elevated"
+        }
+      ]
+    },
     "v-03304": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -16900,6 +17122,37 @@
         }
       ]
     },
+    "v-04265": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "da83360f6d762994f2abd75033e1dbce14547b9b6d36af1f52cbfc5f4c269e52",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "Roseberry Hill",
+        "Roseberry Farm",
+        "Roseberry Street",
+        "Roseberry brand",
+        "Roseberry location"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A proper name of a place or brand, often used without translation.",
+      "example_bn": "আমরা কফির জন্য রোজবেরিতে থেমে গিয়েছিলাম।",
+      "example_en": "We stopped at Roseberry for coffee.",
+      "memory_hook": "Picture a rose blooming on a berry to recall the name.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "I bought a Roseberry shirt yesterday.",
+        "Roseberry is a beautiful town.",
+        "She loves Roseberry pies.",
+        "The Roseberry river flows fast."
+      ],
+      "quiz_question": "Which sentence uses \"Roseberry\" correctly?",
+      "short_meaning_en": "proper name",
+      "synonyms": [],
+      "word_family": []
+    },
     "v-04267": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "bb59ed7bdfaedd81dafe5f14be3ca3819f384cbfdae9543e5ca52310d1be6ae8",
@@ -17720,6 +17973,14 @@
       "source_fingerprint": "65bc341f46a87d34be6809e12ded6fd62609f51edb431b3c843e9dca9c002744",
       "status": "valid"
     },
+    "v-01005": {
+      "audited_at": "2026-11-15T08:52:39.010516+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "চূড়ান্তভাবে, সর্বাধিক",
+      "reason": "The meaning corresponds to the intensifier 'extremely'.",
+      "source_fingerprint": "19dcc8e9b65d44ba5b959ae84403f0a699d7c7e27007757d4fc76523ed9667ae",
+      "status": "valid"
+    },
     "v-01008": {
       "audited_at": "2026-10-22T07:14:30.163247+00:00",
       "confidence": 0.99,
@@ -17912,6 +18173,14 @@
       "source_fingerprint": "45865b51681858717e47bb68eed27beb329a6164798194e61356779d17179afe",
       "status": "valid"
     },
+    "v-01243": {
+      "audited_at": "2026-11-15T08:52:39.010577+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অধিকারে পাওয়া, গ্রহণ করা",
+      "reason": "The Bangla meaning correctly captures the sense of the verb 'have'.",
+      "source_fingerprint": "c9b97fdf528f13fc309a55d5e3ed7f9684ac967def9e4b23bc528062006a2d29",
+      "status": "valid"
+    },
     "v-01267": {
       "audited_at": "2026-10-10T08:09:16.772443+00:00",
       "confidence": 0.99,
@@ -17942,6 +18211,14 @@
       "meaning_bn": "গৃহহীন, গৃহহারা",
       "reason": "The Bangla meaning correctly corresponds to the English word 'homeless'.",
       "source_fingerprint": "cbdff5fba676fffe9aebe8d0658625787d0a357d4a56ce512680f366b446ce3c",
+      "status": "valid"
+    },
+    "v-01308": {
+      "audited_at": "2026-11-15T08:52:39.010465+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "কিভাবে, যেভাবে",
+      "reason": "The Bangla meaning accurately reflects the interrogative adverb 'how'.",
+      "source_fingerprint": "ca3c0d7048c75a124d8854fb93f4e764ac79275665f259b234e7abca6ba5af7d",
       "status": "valid"
     },
     "v-01309": {
@@ -19064,6 +19341,14 @@
       "source_fingerprint": "522bb38b1a71984b7e8cc184f4425dbffe1d71b6407fddf674c5ec1b4287b5d1",
       "status": "valid"
     },
+    "v-03227": {
+      "audited_at": "2026-11-15T08:52:39.010557+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "উপরে তুলতে",
+      "reason": "The meaning matches the verb 'to elevate'.",
+      "source_fingerprint": "977c9342efc34b6626a6ba90587e3094d29f932435dbb38afec76a3ea4601b08",
+      "status": "valid"
+    },
     "v-03307": {
       "audited_at": "2026-10-19T07:22:34.074638+00:00",
       "confidence": 0.99,
@@ -19223,6 +19508,14 @@
       "reason": "The Bangla meaning correctly translates the English word 'Mango'.",
       "source_fingerprint": "8f0e4e69bd8264cd2944f5eb913998111b50251c800a788f51d4dae1ea1e747e",
       "status": "valid"
+    },
+    "v-04265": {
+      "audited_at": "2026-11-15T08:52:39.010538+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "রোজবেরি",
+      "reason": "The supplied meaning 'গোলাপজাম' refers to a different fruit; the correct Bangla term for 'Roseberry' is the transliteration 'রোজবেরি'.",
+      "source_fingerprint": "661ad8805d4fffcbc8e2684e4ab654880112dbed4bb51ccf084b420192ae6308",
+      "status": "corrected"
     },
     "v-04267": {
       "audited_at": "2026-10-12T08:42:06.679281+00:00",
@@ -19770,6 +20063,12 @@
       "photo_file_id": "AgACAgUAAxUHau7gO7ISm2h9VmM-K6mQFLfjcpsAArMTaxt0bXFXu-hWzCtTkQkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01005": {
+      "audio_file_id": "CQACAgUAAxUHavly5BGGnKNL7orB-bJzvCIGjjwAAl0pAAKZZshXT-NrvquskME9BA",
+      "cached_at": "2026-11-15T08:52:52.988301+00:00",
+      "photo_file_id": "AgACAgUAAxUHavly5EtGQ4Lc8k6nfH_OMPkNxeQAArYTaxuZZshX5r4yq6ZEDCcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01008": {
       "audio_file_id": "CQACAgUAAxUHatm33Nw-wF4e9o5rxSRwaRT4PHgAAqchAAK63NBW-o9DyGkoBtU9BA",
       "cached_at": "2026-10-22T07:14:37.141325+00:00",
@@ -19925,6 +20224,12 @@
       "photo_file_id": "AgACAgUAAxUHasimnxwzn9EdtEZoTGd4x6pWQi4AApMYaxvvcUlWj9tUcXlCYuYBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01243": {
+      "audio_file_id": "CQACAgUAAxUHavly7mzlKniZN253_nnAI1B1v40AAmApAAKZZshXuIIMNSc-rNg9BA",
+      "cached_at": "2026-11-15T08:53:03.245214+00:00",
+      "photo_file_id": "AgACAgUAAxUHavly7m7Gx0A-QLVCkawCrLJkywUAArkTaxuZZshXl3uOtumMDBwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01267": {
       "audio_file_id": "CQACAgUAAxUHasnytXRBdGddmgQUqXgn_kJACZ0AAp0nAALvcVFW0Tk9UMK3Ifs9BA",
       "cached_at": "2026-10-10T08:09:26.624833+00:00",
@@ -19947,6 +20252,12 @@
       "audio_file_id": "CQACAgUAAxUHauL-UweGzzVZN7_o8dpL8bAeMl4AAu8hAAItxxhXKs5FgcH3Ji09BA",
       "cached_at": "2026-10-29T08:05:40.300257+00:00",
       "photo_file_id": "AgACAgUAAxUHauL-U04p-V2_UJuc4V3SuX8XehgAArgTaxstxxhXRy6B0f6JswgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01308": {
+      "audio_file_id": "CQACAgUAAxUHavly28RDI5WPBda_rNDMR2cfIw4AAlwpAAKZZshXMAIamp1ngMI9BA",
+      "cached_at": "2026-11-15T08:52:44.290125+00:00",
+      "photo_file_id": "AgACAgUAAxUHavly2_kJWREIApkKz9HTKpK4UIQAArUTaxuZZshXcTJjFoDNIUcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01309": {
@@ -20881,6 +21192,12 @@
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradm3Ld0A4EEH07EzIySlpm7esAAh0fAALpIblVbg3ZhWwg7PY9BA"
     },
+    "v-03227": {
+      "audio_file_id": "CQACAgUAAxUHavly6_Wy-XTzm1g_arsChrARaNsAAl8pAAKZZshXuqm0VFsQWkA9BA",
+      "cached_at": "2026-11-15T08:53:00.124561+00:00",
+      "photo_file_id": "AgACAgUAAxUHavly68MzRrp6RWesemjzmr2IbaAAArgTaxuZZshX5XWwPPcoiWsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03304": {
       "cached_at": "2026-09-25T16:45:20.750440+00:00",
       "photo_file_id": "AgACAgUAAxUHaralIDQF9GOrK71TlnEjy2_CbQkAAoYRaxvpIblV5Ij7M9_NNgMBAAMCAANzAAM9BA",
@@ -21029,6 +21346,12 @@
       "audio_file_id": "CQACAgUAAxUHatxWK68WEt2TdJTXIh0UrhgVKkAAAj4hAAL30eBW4oRTWjEjR-Q9BA",
       "cached_at": "2026-10-24T06:54:35.611142+00:00",
       "photo_file_id": "AgACAgUAAxUHatxWKzWHx5XPIKTDo8KnHID7uWMAAqERaxv30eBWoUm5q1Oa-YUBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-04265": {
+      "audio_file_id": "CQACAgUAAxUHavly55t6lTT34rKU-U3LfOQVe30AAl4pAAKZZshXGB9t_hH5FhA9BA",
+      "cached_at": "2026-11-15T08:52:56.018070+00:00",
+      "photo_file_id": "AgACAgUAAxUHavly5xh0mRu7QtdzrnNjGcUAAbmEAAK3E2sbmWbIV6Wcss-mzPVBAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-04267": {
@@ -21574,6 +21897,12 @@
       "last_message_id": 288,
       "published_at": "2026-11-07T08:24:28.499325+00:00"
     },
+    "v-01005": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 329,
+      "published_at": "2026-11-15T08:52:52.988332+00:00"
+    },
     "v-01008": {
       "count": 1,
       "last_cycle": 1,
@@ -21732,6 +22061,12 @@
       "last_message_id": 148,
       "published_at": "2026-10-09T08:32:32.173810+00:00"
     },
+    "v-01243": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 332,
+      "published_at": "2026-11-15T08:53:03.245264+00:00"
+    },
     "v-01267": {
       "count": 1,
       "last_cycle": 1,
@@ -21755,6 +22090,12 @@
       "last_cycle": 1,
       "last_message_id": 244,
       "published_at": "2026-10-29T08:05:40.300285+00:00"
+    },
+    "v-01308": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 328,
+      "published_at": "2026-11-15T08:52:44.290157+00:00"
     },
     "v-01309": {
       "count": 1,
@@ -22703,6 +23044,12 @@
       "published_at": "2026-09-25T16:13:16.117902+00:00",
       "quiz_message_id": 52
     },
+    "v-03227": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 331,
+      "published_at": "2026-11-15T08:53:00.124589+00:00"
+    },
     "v-03304": {
       "count": 1,
       "last_cycle": 1,
@@ -22855,6 +23202,12 @@
       "last_message_id": 221,
       "published_at": "2026-10-24T06:54:35.611163+00:00"
     },
+    "v-04265": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 330,
+      "published_at": "2026-11-15T08:52:56.018098+00:00"
+    },
     "v-04267": {
       "count": 1,
       "last_cycle": 1,
@@ -22888,11 +23241,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01308",
-    "v-01005",
-    "v-04265",
-    "v-03227",
-    "v-01243",
     "v-01305",
     "v-04022",
     "v-02757",
@@ -26093,48 +26441,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261017T063753Z-5ccd9b2d": {
-      "completed_at": "2026-10-17T06:37:55.474369+00:00",
-      "created_at": "2026-10-17T06:37:53.877955+00:00",
-      "failed_ids": [
-        "v-00579",
-        "v-02227",
-        "v-01195",
-        "v-00188",
-        "v-00014"
-      ],
-      "failures": {
-        "v-00014": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-00188": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-00579": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-01195": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-02227": "AI enrichment incomplete; refusing to publish degraded vocabulary content"
-      },
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00579"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02227"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01195"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00188"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00014"
-        }
-      ],
-      "published_ids": [],
-      "status": "completed"
-    },
     "20261018T065953Z-0a75d510": {
       "completed_at": "2026-10-18T07:00:09.906320+00:00",
       "created_at": "2026-10-18T06:59:53.922761+00:00",
@@ -27154,6 +27460,41 @@
         "v-01764",
         "v-01398",
         "v-02446"
+      ],
+      "status": "completed"
+    },
+    "20261115T085238Z-fdb6788a": {
+      "completed_at": "2026-11-15T08:53:03.271076+00:00",
+      "created_at": "2026-11-15T08:52:38.546424+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01308"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01005"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04265"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01243"
+        }
+      ],
+      "published_ids": [
+        "v-01308",
+        "v-01005",
+        "v-04265",
+        "v-03227",
+        "v-01243"
       ],
       "status": "completed"
     }
@@ -29484,6 +29825,43 @@
         "v-02446"
       ],
       "run_id": "20261114T083937Z-08887c78",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-15T08:53:03.271076+00:00",
+      "created_at": "2026-11-15T08:52:38.546424+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01308"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01005"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04265"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03227"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01243"
+        }
+      ],
+      "published_ids": [
+        "v-01308",
+        "v-01005",
+        "v-04265",
+        "v-03227",
+        "v-01243"
+      ],
+      "run_id": "20261115T085238Z-fdb6788a",
       "status": "completed",
       "unknown_ids": []
     }
