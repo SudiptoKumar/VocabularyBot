@@ -646,6 +646,68 @@
         }
       ]
     },
+    "v-00160": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "10c36697a965f2a660d5b35d9500a3efd1c6753488ee1ce9c87aa45f13d9d38b",
+      "antonyms": [
+        {
+          "meaning": "share the same view",
+          "word": "agree"
+        },
+        {
+          "meaning": "have the same opinion",
+          "word": "concur"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "argue with",
+        "argue about",
+        "argue over",
+        "argue a point",
+        "argue the case"
+      ],
+      "common_mistake_correct": "argue with someone",
+      "common_mistake_wrong": "argue about someone",
+      "definition_en": "To exchange opposing views in a discussion, often showing disagreement.",
+      "example_bn": "তারা প্রতিদিন সন্ধ্যায় রাজনীতি নিয়ে তর্ক করে।",
+      "example_en": "They argue about politics every evening.",
+      "memory_hook": "Think of a 'rue' where people argue loudly.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "agree",
+        "argue",
+        "listen",
+        "ignore"
+      ],
+      "quiz_question": "Which word best fits: \"She always ___ with her brother over the TV remote.\"",
+      "short_meaning_en": "discuss",
+      "synonyms": [
+        {
+          "meaning": "discuss formally",
+          "word": "debate"
+        },
+        {
+          "meaning": "contest",
+          "word": "dispute"
+        },
+        {
+          "meaning": "assert a point",
+          "word": "contend"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "argument"
+        },
+        {
+          "type": "adjective",
+          "word": "argumentative"
+        }
+      ]
+    },
     "v-00169": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "3b9475a2149ebaec64d2656ccdfaaac0a1fc6516355f2f4dbee9b295af23740f",
@@ -6934,6 +6996,68 @@
         }
       ]
     },
+    "v-01345": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "70cb1e8053fd7d33143cf0c7bdeaf7ab3fea51c671b99444844cfb0b7710355c",
+      "antonyms": [
+        {
+          "meaning": "remove a requirement",
+          "word": "waive"
+        },
+        {
+          "meaning": "cancel",
+          "word": "revoke"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "impose a tax",
+        "impose rules",
+        "impose on",
+        "impose restrictions",
+        "impose a burden"
+      ],
+      "common_mistake_correct": "impose a rule",
+      "common_mistake_wrong": "impose a suggestion",
+      "definition_en": "To force something such as a rule, tax, or duty to be accepted or applied.",
+      "example_bn": "সরকার বিলাসবহুল গাড়িতে নতুন কর আরোপ করার সিদ্ধান্ত নিল।",
+      "example_en": "The government decided to impose a new tax on luxury cars.",
+      "memory_hook": "Imagine I 'pose' a rule on you – I impose it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "She will impose a new idea at the meeting.",
+        "The teacher will impose the homework tomorrow.",
+        "The council decided to impose a fine on littering.",
+        "We will impose a friendly chat later."
+      ],
+      "quiz_question": "Which sentence uses \"impose\" correctly?",
+      "short_meaning_en": "force",
+      "synonyms": [
+        {
+          "meaning": "make obey",
+          "word": "enforce"
+        },
+        {
+          "meaning": "impose a tax",
+          "word": "levy"
+        },
+        {
+          "meaning": "cause something unpleasant",
+          "word": "inflict"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "imposition"
+        },
+        {
+          "type": "adjective",
+          "word": "imposing"
+        }
+      ]
+    },
     "v-01373": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "650aa1628ca3a5b7a83eb2250621b8e44150fe89e29d77ae7e115c46c1e35c67",
@@ -8886,6 +9010,59 @@
         }
       ]
     },
+    "v-01636": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "57c6711b3572a8652d90a67bdf459ee6eaa5db7ef322f2526ff96369640cf23a",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "mechanism of action",
+        "underlying mechanism",
+        "biological mechanism",
+        "social mechanism",
+        "mechanism fails"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A system of parts that work together to produce a result.",
+      "example_bn": "হৃদয়ের পাম্পিং যান্ত্রিক পদ্ধতি খুবই কার্যকর।",
+      "example_en": "The heart's pumping mechanism is very efficient.",
+      "memory_hook": "Mechanism sounds like 'mech-anism' – imagine a machine (mech) that works automatically.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "mechanism of action",
+        "mechanism of failure",
+        "mechanism of silence",
+        "mechanism of taste"
+      ],
+      "quiz_question": "Which phrase correctly describes how a watch works?",
+      "short_meaning_en": "system",
+      "synonyms": [
+        {
+          "meaning": "tool",
+          "word": "device"
+        },
+        {
+          "meaning": "equipment",
+          "word": "apparatus"
+        },
+        {
+          "meaning": "organized set",
+          "word": "system"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "mechanical"
+        },
+        {
+          "type": "adverb",
+          "word": "mechanically"
+        }
+      ]
+    },
     "v-01639": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "16ca9245bd4dfc3abd7e7dbc2aff70d76014cce0968908fce811662bfcf54895",
@@ -10062,6 +10239,68 @@
         {
           "type": "noun",
           "word": "painting"
+        }
+      ]
+    },
+    "v-01896": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f3dd314a1647562afd5a78a4c7b6e1c91186f99e0769c78004c26d62f2d879d3",
+      "antonyms": [
+        {
+          "meaning": "adversary",
+          "word": "opponent"
+        },
+        {
+          "meaning": "competitor",
+          "word": "rival"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "business partner",
+        "life partner",
+        "partner up",
+        "partner with",
+        "partner in crime"
+      ],
+      "common_mistake_correct": "partner as a noun meaning associate",
+      "common_mistake_wrong": "partner as an adjective",
+      "definition_en": "A person who shares a business or personal relationship with another.",
+      "example_bn": "আমি এবং আমার অংশীদার একসাথে একটি বেকারি খুলেছি।",
+      "example_en": "My partner and I opened a bakery together.",
+      "memory_hook": "Partner = pair + 'ner' – someone you pair with.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "business partner",
+        "life partner",
+        "partner up",
+        "partner in crime"
+      ],
+      "quiz_question": "Which phrase correctly describes a romantic partner?",
+      "short_meaning_en": "associate",
+      "synonyms": [
+        {
+          "meaning": "partner",
+          "word": "associate"
+        },
+        {
+          "meaning": "friend",
+          "word": "companion"
+        },
+        {
+          "meaning": "team member",
+          "word": "teammate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "partnership"
+        },
+        {
+          "type": "verb",
+          "word": "partnering"
         }
       ]
     },
@@ -17408,6 +17647,47 @@
         }
       ]
     },
+    "v-04254": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b8274d4937d69ea5741e09ed2985848d708d2052cf15d0d4fb7ac6e89536a5db",
+      "antonyms": [],
+      "cefr": "A2",
+      "collocations": [
+        "bitter gourd soup",
+        "bitter gourd juice",
+        "bitter gourd stir‑fry",
+        "bitter gourd plant",
+        "bitter gourd seeds"
+      ],
+      "common_mistake_correct": "bitter gourd is a different, bitter vegetable",
+      "common_mistake_wrong": "bitter gourd is a cucumber",
+      "definition_en": "A tropical vine fruit with a very bitter taste, often used in Asian cooking.",
+      "example_bn": "সে অতিরিক্ত স্বাদের জন্য স্টার‑ফ্রাইতে কাটা করলা যোগ করেছে।",
+      "example_en": "She added sliced bitter gourd to the stir‑fry for extra flavor.",
+      "memory_hook": "Bitter gourd = bitter garden fruit.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "apple pie",
+        "bitter gourd soup",
+        "chocolate cake",
+        "banana smoothie"
+      ],
+      "quiz_question": "Which dish is likely to contain bitter gourd?",
+      "short_meaning_en": "bitter fruit",
+      "synonyms": [
+        {
+          "meaning": "another English name",
+          "word": "bitter melon"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "bitter"
+        }
+      ]
+    },
     "v-04265": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "da83360f6d762994f2abd75033e1dbce14547b9b6d36af1f52cbfc5f4c269e52",
@@ -17753,6 +18033,14 @@
       "meaning_bn": "দেখা দেওয়া, উপস্থিত হওয়া",
       "reason": "The provided Bangla meaning 'দৃষ্টি গোচর হওয়া, ক্ষমা চাইতে' mixes unrelated sense of asking forgiveness, which is not a meaning of 'appear'. The correct meanings are to become visible or to be present.",
       "source_fingerprint": "7842570b06fe3a554ffe1864a067241bc76e8331a4cbf1c515fe7e72ca0a9d95",
+      "status": "corrected"
+    },
+    "v-00160": {
+      "audited_at": "2026-11-17T10:15:45.828045+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "বিতর্ক করা, তর্ক করা",
+      "reason": "The provided Bangla meaning 'বুঝি দিয়ে প্রমান করার চেষ্টা করা, নিকটবর্তী হতে' does not correspond to the verb 'argue', which means to dispute or discuss; thus it is incorrect.",
+      "source_fingerprint": "19d6260ec061334da7f2969b003bdfeb821670f7a285fd46eae854afb1a9d7f9",
       "status": "corrected"
     },
     "v-00169": {
@@ -18531,6 +18819,14 @@
       "source_fingerprint": "36cb84f489c797580d9333d6d7f832b5900f5190373b5dadc7198e65ff73e040",
       "status": "valid"
     },
+    "v-01345": {
+      "audited_at": "2026-11-17T10:15:46.019892+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "থাপনা দেওয়া • আরোপ করা",
+      "reason": "The source meaning 'স্থাপন করা' does not reflect the common senses of the verb 'impose', which are to force something upon someone, e.g., 'থাপনা দেওয়া' or 'আরোপ করা'.",
+      "source_fingerprint": "354a2740755a2025452ccb23e8a3f4fe5445fa9e647d4a019c41df58979faade",
+      "status": "corrected"
+    },
     "v-01373": {
       "audited_at": "2026-10-02T07:58:58.833638+00:00",
       "confidence": 0.94,
@@ -18771,6 +19067,14 @@
       "source_fingerprint": "07946187f6d2bdea15009ba4f7ec5e3572b7e75c5bbd958fdf221072e30b2328",
       "status": "valid"
     },
+    "v-01636": {
+      "audited_at": "2026-11-17T10:15:45.828098+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "যান্ত্রিক পদ্ধতি",
+      "reason": "The meaning 'যান্ত্রিক পদ্ধতি' accurately reflects one common sense of 'mechanism' as a mechanical method or system.",
+      "source_fingerprint": "57c6711b3572a8652d90a67bdf459ee6eaa5db7ef322f2526ff96369640cf23a",
+      "status": "valid"
+    },
     "v-01639": {
       "audited_at": "2026-10-14T07:09:15.047500+00:00",
       "confidence": 1.0,
@@ -18897,6 +19201,14 @@
       "meaning_bn": "রঙ, রঞ্জক পদার্থ, রঙ করতে",
       "reason": "Both noun and verb senses of 'paint' are accurately represented.",
       "source_fingerprint": "bd48dc97b17adbd2706b1d484a61296fb088bcdc078dbc8efaabdf3653b4ef8f",
+      "status": "valid"
+    },
+    "v-01896": {
+      "audited_at": "2026-11-17T10:15:46.019943+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "অংশীদার স্বামী বা স্ত্রী, অংশীদার",
+      "reason": "The provided Bangla meaning accurately describes the noun 'partner'.",
+      "source_fingerprint": "f3dd314a1647562afd5a78a4c7b6e1c91186f99e0769c78004c26d62f2d879d3",
       "status": "valid"
     },
     "v-01900": {
@@ -19835,6 +20147,14 @@
       "source_fingerprint": "8f0e4e69bd8264cd2944f5eb913998111b50251c800a788f51d4dae1ea1e747e",
       "status": "valid"
     },
+    "v-04254": {
+      "audited_at": "2026-11-17T10:15:45.828115+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "করলা",
+      "reason": "The Bangla meaning correctly matches the fruit 'Bitter gourd'.",
+      "source_fingerprint": "b8274d4937d69ea5741e09ed2985848d708d2052cf15d0d4fb7ac6e89536a5db",
+      "status": "valid"
+    },
     "v-04265": {
       "audited_at": "2026-11-15T08:52:39.010538+00:00",
       "confidence": 0.97,
@@ -19955,6 +20275,12 @@
       "audio_file_id": "CQACAgUAAxUHas8qpXo8TKSTMU_0BAdzBpi1u_wAAk0gAAIBiXlWkmPmC67rRdY9BA",
       "cached_at": "2026-10-14T07:09:25.582022+00:00",
       "photo_file_id": "AgACAgUAAxUHas8qpQMScZxdFmyWetTP8wm06oQAAt0QaxsBiXlWkjhBkhhZ1v8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00160": {
+      "audio_file_id": "CQACAgUAAxUHavwpVRxd9FXzd1VabBOsQBlglicAAhwkAAKkzOBXF6Ol4qQlLSU9BA",
+      "cached_at": "2026-11-17T10:15:50.220702+00:00",
+      "photo_file_id": "AgACAgUAAxUHavwpVUtEX5Wauik8hStqLD2C6nYAAqsYaxukzOBXAlPC5fG7YDwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00169": {
@@ -20604,6 +20930,12 @@
       "photo_file_id": "AgACAgUAAxUHatcUoktygBKrwL8kLu0fTGkVIAcAAg4TaxtmmLlWPum9-PPzrGwBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01345": {
+      "audio_file_id": "CQACAgUAAxUHavwpXH1dEeJKflwvgYjdkigu_vcAAh8kAAKkzOBX6IRatOWeXoU9BA",
+      "cached_at": "2026-11-17T10:15:57.827233+00:00",
+      "photo_file_id": "AgACAgUAAxUHavwpXRRPTPkWxtheR5QUkuLWyQEAAq4YaxukzOBX33o3dJlv9ukBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01373": {
       "audio_file_id": "CQACAgUAAxUHar9kToijohi80F_KmegxBfDItyIAAhIhAAKXRvhVaMwkSgtVxx49BA",
       "cached_at": "2026-10-02T07:59:11.773076+00:00",
@@ -20801,6 +21133,12 @@
       "photo_file_id": "AgACAgUAAxUHau7gR0r7jerrztc5Nd6RsgjiGu8AArcTaxt0bXFXZvz6laZZQycBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01636": {
+      "audio_file_id": "CQACAgUAAxUHavwpV54NNXfT0e9EMbd2hZsCHl0AAh0kAAKkzOBX0RmOorWH3ow9BA",
+      "cached_at": "2026-11-17T10:15:52.694899+00:00",
+      "photo_file_id": "AgACAgUAAxUHavwpWOBdoUxQ5vGKX7zTfVobbzMAAqwYaxukzOBX8IZWZJzqZNABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01639": {
       "audio_file_id": "CQACAgUAAxUHas8qoIUT5B-muLWXVDuTKcArmM8AAksgAAIBiXlWWYLxvZsrjQg9BA",
       "cached_at": "2026-10-14T07:09:21.481675+00:00",
@@ -20923,6 +21261,12 @@
       "audio_file_id": "CQACAgUAAxUHavQtOb6SVIuqNmIN9mtF37cu3CQAAhEqAAKi-qBXQgzi0I1x92c9BA",
       "cached_at": "2026-11-11T08:54:18.188631+00:00",
       "photo_file_id": "AgACAgUAAxUHavQtOYbqqKERgRmCik-AQQJaF3UAApwVaxui-qBX2-yA5r3IKLsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01896": {
+      "audio_file_id": "CQACAgUAAxUHavwpX8iXkXyIeztp2vD4vKTwBBsAAiAkAAKkzOBXaDEcJhOBPrk9BA",
+      "cached_at": "2026-11-17T10:15:59.781625+00:00",
+      "photo_file_id": "AgACAgUAAxUHavwpXy28m5uqBUo5jTla2KGxB04AAq8YaxukzOBXf3VHBQABpzdZAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-01900": {
@@ -21704,6 +22048,12 @@
       "photo_file_id": "AgACAgUAAxUHatxWKzWHx5XPIKTDo8KnHID7uWMAAqERaxv30eBWoUm5q1Oa-YUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-04254": {
+      "audio_file_id": "CQACAgUAAxUHavwpWmLpGaUVV96VfPNHIPIDDOIAAh4kAAKkzOBXss5IlSC9e2c9BA",
+      "cached_at": "2026-11-17T10:15:55.380126+00:00",
+      "photo_file_id": "AgACAgUAAxUHavwpWsjmE5Ysap2nD441iyjjO6wAAq0YaxukzOBXhOLLnsMyFTsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-04265": {
       "audio_file_id": "CQACAgUAAxUHavly55t6lTT34rKU-U3LfOQVe30AAl4pAAKZZshXGB9t_hH5FhA9BA",
       "cached_at": "2026-11-15T08:52:56.018070+00:00",
@@ -21816,6 +22166,12 @@
       "last_cycle": 1,
       "last_message_id": 176,
       "published_at": "2026-10-14T07:09:25.582043+00:00"
+    },
+    "v-00160": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 338,
+      "published_at": "2026-11-17T10:15:50.220730+00:00"
     },
     "v-00169": {
       "count": 1,
@@ -22471,6 +22827,12 @@
       "last_message_id": 199,
       "published_at": "2026-10-20T07:13:38.554497+00:00"
     },
+    "v-01345": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 341,
+      "published_at": "2026-11-17T10:15:57.827258+00:00"
+    },
     "v-01373": {
       "count": 1,
       "last_cycle": 1,
@@ -22672,6 +23034,12 @@
       "last_message_id": 292,
       "published_at": "2026-11-07T08:24:39.894458+00:00"
     },
+    "v-01636": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 339,
+      "published_at": "2026-11-17T10:15:52.694924+00:00"
+    },
     "v-01639": {
       "count": 1,
       "last_cycle": 1,
@@ -22801,6 +23169,12 @@
       "last_cycle": 1,
       "last_message_id": 311,
       "published_at": "2026-11-11T08:54:18.188659+00:00"
+    },
+    "v-01896": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 342,
+      "published_at": "2026-11-17T10:15:59.781652+00:00"
     },
     "v-01900": {
       "count": 1,
@@ -23588,6 +23962,12 @@
       "last_message_id": 221,
       "published_at": "2026-10-24T06:54:35.611163+00:00"
     },
+    "v-04254": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 340,
+      "published_at": "2026-11-17T10:15:55.380151+00:00"
+    },
     "v-04265": {
       "count": 1,
       "last_cycle": 1,
@@ -23627,11 +24007,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00160",
-    "v-01636",
-    "v-04254",
-    "v-01345",
-    "v-01896",
     "v-01605",
     "v-00938",
     "v-01802",
@@ -26822,41 +27197,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261019T072233Z-cf108806": {
-      "completed_at": "2026-10-19T07:22:47.143121+00:00",
-      "created_at": "2026-10-19T07:22:33.390502+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-03307"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00371"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02486"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01900"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02959"
-        }
-      ],
-      "published_ids": [
-        "v-03307",
-        "v-00371",
-        "v-02486",
-        "v-01900",
-        "v-02959"
-      ],
-      "status": "completed"
-    },
     "20261020T071331Z-f547dcd5": {
       "completed_at": "2026-10-20T07:13:46.409064+00:00",
       "created_at": "2026-10-20T07:13:31.887817+00:00",
@@ -27876,6 +28216,41 @@
         "v-02757",
         "v-02178",
         "v-02038"
+      ],
+      "status": "completed"
+    },
+    "20261117T101544Z-f7dd0fd1": {
+      "completed_at": "2026-11-17T10:15:59.805655+00:00",
+      "created_at": "2026-11-17T10:15:44.927994+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00160"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01636"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04254"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01345"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01896"
+        }
+      ],
+      "published_ids": [
+        "v-00160",
+        "v-01636",
+        "v-04254",
+        "v-01345",
+        "v-01896"
       ],
       "status": "completed"
     }
@@ -30280,6 +30655,43 @@
         "v-02038"
       ],
       "run_id": "20261116T090404Z-3c4bc490",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-17T10:15:59.805655+00:00",
+      "created_at": "2026-11-17T10:15:44.927994+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00160"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01636"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04254"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01345"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01896"
+        }
+      ],
+      "published_ids": [
+        "v-00160",
+        "v-01636",
+        "v-04254",
+        "v-01345",
+        "v-01896"
+      ],
+      "run_id": "20261117T101544Z-f7dd0fd1",
       "status": "completed",
       "unknown_ids": []
     }
