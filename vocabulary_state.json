@@ -3346,6 +3346,64 @@
         }
       ]
     },
+    "v-00680": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4664972e7d63b0da015b4c8c8c40cb1f27f955bf623b4a03e6e89c1d6a3edc34",
+      "antonyms": [
+        {
+          "meaning": "to fix damage",
+          "word": "repair"
+        },
+        {
+          "meaning": "to restore health",
+          "word": "heal"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "damage caused",
+        "damage to property",
+        "severe damage",
+        "damage control",
+        "irreversible damage"
+      ],
+      "common_mistake_correct": "Use \"damages\" for plural noun; verb form is \"damages\" only in third person singular",
+      "common_mistake_wrong": "damage (noun) used as verb without -s",
+      "definition_en": "To cause harm or injury to someone or something.",
+      "example_bn": "ঝড় অনেক বাড়ি ক্ষতি করেছে।",
+      "example_en": "The storm damaged many houses.",
+      "memory_hook": "Damage = \"dam\" + \"age\" – think of a dam aging and breaking, causing harm.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "The fire damage the building.",
+        "The fire damages the building.",
+        "The fire damaged the building.",
+        "The fire will damageer the building."
+      ],
+      "quiz_question": "Which sentence uses the verb \"damage\" correctly?",
+      "short_meaning_en": "harm",
+      "synonyms": [
+        {
+          "meaning": "to cause injury",
+          "word": "harm"
+        },
+        {
+          "meaning": "to cause physical damage",
+          "word": "injure"
+        },
+        {
+          "meaning": "to destroy severely",
+          "word": "wreck"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "damaging"
+        }
+      ]
+    },
     "v-00685": {
       "_content_version": "1.0.6",
       "antonyms": [
@@ -4625,6 +4683,68 @@
         {
           "type": "noun",
           "word": "engineering"
+        }
+      ]
+    },
+    "v-00938": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b8414948ff4d8deaa4c1d65d31c35ae9ff5a14a646d57cf7c8a2791fb021a2b5",
+      "antonyms": [
+        {
+          "meaning": "the ending of an organization",
+          "word": "dissolution"
+        },
+        {
+          "meaning": "the act of shutting down",
+          "word": "closure"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "establishment of rules",
+        "establishment date",
+        "establishment business",
+        "establishment sector",
+        "establishment fee"
+      ],
+      "common_mistake_correct": "establishment is a noun; the verb is \"establish\"",
+      "common_mistake_wrong": "establishment (verb)",
+      "definition_en": "An organization or institution, especially a business or public body.",
+      "example_bn": "বিশ্ববিদ্যালয়টি একটি পরিচিত প্রতিষ্ঠান।",
+      "example_en": "The university is a well‑known establishment.",
+      "memory_hook": "Think of \"establish\" + \"-ment\" = the thing that has been set up.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "a building material",
+        "a type of food",
+        "an organization",
+        "a weather pattern"
+      ],
+      "quiz_question": "Which of the following best describes an \"establishment\"?",
+      "short_meaning_en": "institution",
+      "synonyms": [
+        {
+          "meaning": "an established organization",
+          "word": "institution"
+        },
+        {
+          "meaning": "a group with a purpose",
+          "word": "organization"
+        },
+        {
+          "meaning": "a business venture",
+          "word": "enterprise"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "establish"
+        },
+        {
+          "type": "adjective",
+          "word": "established"
         }
       ]
     },
@@ -8775,6 +8895,68 @@
         }
       ]
     },
+    "v-01605": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "2813c024f1485f2c94afc830193f8b087ba11e38aca372300a657566c32ee811",
+      "antonyms": [
+        {
+          "meaning": "lack of order or method",
+          "word": "disorder"
+        },
+        {
+          "meaning": "complete disorder",
+          "word": "chaos"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "in a friendly manner",
+        "in a professional manner",
+        "manner of speaking",
+        "manner of dress",
+        "manner of action"
+      ],
+      "common_mistake_correct": "manner is a noun; use \"behave\" for the verb",
+      "common_mistake_wrong": "manner (as a verb)",
+      "definition_en": "A way of doing something or behaving.",
+      "example_bn": "তিনি ভদ্রভাবে কথা বললেন।",
+      "example_en": "She spoke in a polite manner.",
+      "memory_hook": "Think of \"man\" + \"ner\" – the way a man does something.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a type of food",
+        "a way of doing something",
+        "a musical instrument",
+        "a weather condition"
+      ],
+      "quiz_question": "What does \"manner\" mean?",
+      "short_meaning_en": "way",
+      "synonyms": [
+        {
+          "meaning": "a way of doing something",
+          "word": "method"
+        },
+        {
+          "meaning": "a particular way of behaving",
+          "word": "style"
+        },
+        {
+          "meaning": "a way of dealing with something",
+          "word": "approach"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "mannerly"
+        },
+        {
+          "type": "noun",
+          "word": "mannerism"
+        }
+      ]
+    },
     "v-01608": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d77d01eb5d8e3c715c258608d85222959f04c4f826e37c22e2ba0b2c08613369",
@@ -9822,6 +10004,64 @@
         {
           "type": "verb",
           "word": "nosed"
+        }
+      ]
+    },
+    "v-01802": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8a4c9816f43617ae11780e1268f5288b21cf098e90e4c48bc472912e23450fb3",
+      "antonyms": [
+        {
+          "meaning": "dry ground",
+          "word": "land"
+        },
+        {
+          "meaning": "the edge of water",
+          "word": "shore"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "Pacific Ocean",
+        "open ocean",
+        "ocean currents",
+        "ocean floor",
+        "ocean view"
+      ],
+      "common_mistake_correct": "ocean is a noun; the verb form is \"to sail\" or \"to navigate\"",
+      "common_mistake_wrong": "ocean (verb)",
+      "definition_en": "A large body of salt water that covers most of the earth's surface.",
+      "example_bn": "আমরা সমুদ্রে সাঁতার কাটতে গিয়েছিলাম।",
+      "example_en": "We went swimming in the ocean.",
+      "memory_hook": "Ocean sounds like \"oh, sea!\" – a huge sea.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a mountain",
+        "a large body of salt water",
+        "a desert",
+        "a forest"
+      ],
+      "quiz_question": "What does \"ocean\" refer to?",
+      "short_meaning_en": "sea",
+      "synonyms": [
+        {
+          "meaning": "a large body of salt water",
+          "word": "sea"
+        },
+        {
+          "meaning": "relating to the sea",
+          "word": "marine"
+        },
+        {
+          "meaning": "the open sea",
+          "word": "deep"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "oceanic"
         }
       ]
     },
@@ -13835,6 +14075,68 @@
         {
           "type": "adjective",
           "word": "strong"
+        }
+      ]
+    },
+    "v-02609": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "83a3fd2adae75b6d1f69862ed38d51eb587fa33197a1f38832a93a95206d62f4",
+      "antonyms": [
+        {
+          "meaning": "not certain",
+          "word": "unsure"
+        },
+        {
+          "meaning": "lacking confidence",
+          "word": "doubtful"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "sure thing",
+        "sure of",
+        "sure enough",
+        "sure bet",
+        "sure sign"
+      ],
+      "common_mistake_correct": "sure is an adjective; the noun is \"certainty\"",
+      "common_mistake_wrong": "sure (noun)",
+      "definition_en": "Completely confident that something is true or will happen.",
+      "example_bn": "আমি নিশ্চিত যে তিনি সময়মতো পৌঁছাবেন।",
+      "example_en": "I am sure that she will arrive on time.",
+      "memory_hook": "If you are \"sure\", you have no doubt – think of a sure‑fire guarantee.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She is sure of the answer.",
+        "She sure the answer.",
+        "She is sureness about the answer.",
+        "She sureed the answer."
+      ],
+      "quiz_question": "Which sentence uses \"sure\" correctly?",
+      "short_meaning_en": "confident",
+      "synonyms": [
+        {
+          "meaning": "definitely true",
+          "word": "certain"
+        },
+        {
+          "meaning": "confident",
+          "word": "positive"
+        },
+        {
+          "meaning": "self‑assured",
+          "word": "confident"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "surely"
+        },
+        {
+          "type": "noun",
+          "word": "surety"
         }
       ]
     },
@@ -18363,6 +18665,14 @@
       "source_fingerprint": "c89cf3bbcd55d9d0cac55204534c9e64fbf329cdd432fc739c46ac25fa0797a5",
       "status": "valid"
     },
+    "v-00680": {
+      "audited_at": "2026-11-18T09:46:58.391292+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "ক্ষতি, লোকসান, ক্ষতি করতে",
+      "reason": "The Bangla meaning correctly includes both the noun and verb senses of 'damage'.",
+      "source_fingerprint": "4664972e7d63b0da015b4c8c8c40cb1f27f955bf623b4a03e6e89c1d6a3edc34",
+      "status": "valid"
+    },
     "v-00690": {
       "audited_at": "2026-10-10T08:09:16.772511+00:00",
       "confidence": 0.99,
@@ -18513,6 +18823,14 @@
       "meaning_bn": "চালকযন্ত্র, ইঞ্জিন",
       "reason": "The Bangla meanings correctly describe the noun 'engine' as a machine that drives or powers.",
       "source_fingerprint": "1aef20338137e2d7b9f56c1f576adc748417dd226b342fb125355e9ed2dd1596",
+      "status": "valid"
+    },
+    "v-00938": {
+      "audited_at": "2026-11-18T09:46:58.391179+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "স্থাপন, প্রতিষ্ঠান",
+      "reason": "The Bangla meaning correctly matches the English noun 'establishment'.",
+      "source_fingerprint": "b8414948ff4d8deaa4c1d65d31c35ae9ff5a14a646d57cf7c8a2791fb021a2b5",
       "status": "valid"
     },
     "v-00976": {
@@ -19035,6 +19353,14 @@
       "source_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
       "status": "valid"
     },
+    "v-01605": {
+      "audited_at": "2026-11-18T09:46:58.391116+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "রীতি, প্রণালী, ব্যবহার",
+      "reason": "The Bangla meaning accurately reflects the English noun 'manner'.",
+      "source_fingerprint": "2813c024f1485f2c94afc830193f8b087ba11e38aca372300a657566c32ee811",
+      "status": "valid"
+    },
     "v-01608": {
       "audited_at": "2026-10-27T07:22:16.063254+00:00",
       "confidence": 0.99,
@@ -19162,6 +19488,14 @@
       "reason": "The Bangla meaning accurately matches the English headword 'nose'.",
       "source_fingerprint": "adb21a52b9c6c54b4dd4cde28671bba65b7c714c7beb108c4d8bc95ad433fe23",
       "status": "valid"
+    },
+    "v-01802": {
+      "audited_at": "2026-11-18T09:46:58.391219+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সাগর, মহাসাগর",
+      "reason": "The provided Bangla meaning 'সংঘটিত হওয়া, ঘটা' does not correspond to the English word 'ocean', which means a large body of water.",
+      "source_fingerprint": "438160a239549888e349d3b96db4974bcd10608a6f40926a3771a1cdd385b608",
+      "status": "corrected"
     },
     "v-01806": {
       "audited_at": "2026-11-03T09:04:25.858596+00:00",
@@ -19682,6 +20016,14 @@
       "reason": "The supplied meaning 'সরল করা' is unrelated; 'strengthen' means to make stronger or more robust.",
       "source_fingerprint": "d342d02f21ea4e68a92893b98775100834e422873d966f6d18125189ce5a8b17",
       "status": "corrected"
+    },
+    "v-02609": {
+      "audited_at": "2026-11-18T09:46:58.391257+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "নিশ্চিত, অবশ্যম্ভাবী",
+      "reason": "The Bangla meaning accurately captures the sense of the English adjective 'sure'.",
+      "source_fingerprint": "83a3fd2adae75b6d1f69862ed38d51eb587fa33197a1f38832a93a95206d62f4",
+      "status": "valid"
     },
     "v-02620": {
       "audited_at": "2026-09-27T07:39:03.577461+00:00",
@@ -20559,6 +20901,12 @@
       "photo_file_id": "AgACAgUAAxUHartvH-qzH319cTvYMeXgU5ZDFPIAAssTaxtT7NlVyL9sIhsOvJoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00680": {
+      "audio_file_id": "CQACAgUAAxUHav10Icp993v-vJWTIAcWkjHURzEAAukiAAKkzPBXMdAZilk9vm09BA",
+      "cached_at": "2026-11-18T09:47:14.381309+00:00",
+      "photo_file_id": "AgACAgUAAxUHav10Ict0C3pY630qnMtZ_ULsw5YAAvYWaxukzPBX4QNJ3e1Dn9gBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00685": {
       "cached_at": "2026-09-25T14:58:07.121334+00:00",
       "photo_file_id": "AgACAgUAAxUHaraL_ii8aBO2cRcBq3UFUGuFy4QAAjwRaxvpIblVCRYOZpnsfe8BAAMCAANzAAM9BA",
@@ -20689,6 +21037,12 @@
       "audio_file_id": "CQACAgUAAxUHauGq8udSekjrW7cCqlhr699ZYsgAAuklAAIz9xBXoOGeQGJc63c9BA",
       "cached_at": "2026-10-28T07:57:39.349506+00:00",
       "photo_file_id": "AgACAgUAAxUHauGq8mIOjUud66tpOQuWZknv7pQAAkAeaxsz9xBXc9_6qXp368YBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00938": {
+      "audio_file_id": "CQACAgUAAxUHav10GFwgsKL2cLT-m6-Obv1Jk0gAAuYiAAKkzPBXjUvcO0dQ8ss9BA",
+      "cached_at": "2026-11-18T09:47:05.901987+00:00",
+      "photo_file_id": "AgACAgUAAxUHav10GXEqa4bl4qXEQJegvdrQS3kAAvMWaxukzPBXbziEnl0BucQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00976": {
@@ -21109,6 +21463,12 @@
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMGzS86g_4q4U3kWy9TqBzToAAlkRaxvpIbFVMjF8a4eoQMMBAAMCAANzAAM9BA"
     },
+    "v-01605": {
+      "audio_file_id": "CQACAgUAAxUHav10Fo5zwuusPs6X0cbPvbfTeZAAAuUiAAKkzPBXoGhQVqyJG9Q9BA",
+      "cached_at": "2026-11-18T09:47:02.976182+00:00",
+      "photo_file_id": "AgACAgUAAxUHav10FuY8WNLT4ZLNu_7yVqzyiewAAvIWaxukzPBXsD1WENt1Y6wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01608": {
       "audio_file_id": "CQACAgUAAxUHauBRLsGp9yb3WWp767Xw1_9rspoAAmwfAAIz9whXh_X4PL5lH_M9BA",
       "cached_at": "2026-10-27T07:22:23.219527+00:00",
@@ -21219,6 +21579,12 @@
       "audio_file_id": "CQACAgUAAxUHatxWJPyKQdLRY0h4tpA-VPDlrpUAAjshAAL30eBWqi1X1XmTLUQ9BA",
       "cached_at": "2026-10-24T06:54:29.321397+00:00",
       "photo_file_id": "AgACAgUAAxUHatxWJAE3wlrAe7msRoNNgKOOzkcAAp4Raxv30eBWtYBLf7m7yUQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01802": {
+      "audio_file_id": "CQACAgUAAxUHav10G4zHOpAT2dbhyE3xJYp6ht0AAuciAAKkzPBXVPMGCA3wYag9BA",
+      "cached_at": "2026-11-18T09:47:08.760808+00:00",
+      "photo_file_id": "AgACAgUAAxUHav10HHUMgFQZmPCpAAFjwa5G19sMAAL0FmsbpMzwV4PcILQmn8NlAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-01806": {
@@ -21633,6 +21999,12 @@
       "audio_file_id": "CQACAgUAAxUHavQtO8vxelROv3KKf1EeoNUdgdkAAhIqAAKi-qBXgcNsFh94ZzM9BA",
       "cached_at": "2026-11-11T08:54:20.411697+00:00",
       "photo_file_id": "AgACAgUAAxUHavQtO6hIcJYFDVqCiFYgDzDDFREAAp0Vaxui-qBXhqnqW9W8Q0YBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02609": {
+      "audio_file_id": "CQACAgUAAxUHav10HtzZff-8JIZL_NLiVQGgIGkAAugiAAKkzPBXyY9MOEdv2bs9BA",
+      "cached_at": "2026-11-18T09:47:11.496033+00:00",
+      "photo_file_id": "AgACAgUAAxUHav10HlmEEUm3a8w8OgKQw1Qx2_oAAvUWaxukzPBXpbRP_AABBFN_AQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-02620": {
@@ -22450,6 +22822,12 @@
       "last_message_id": 102,
       "published_at": "2026-09-29T07:56:15.868980+00:00"
     },
+    "v-00680": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 347,
+      "published_at": "2026-11-18T09:47:14.381335+00:00"
+    },
     "v-00685": {
       "count": 1,
       "last_cycle": 1,
@@ -22584,6 +22962,12 @@
       "last_cycle": 1,
       "last_message_id": 242,
       "published_at": "2026-10-28T07:57:39.349534+00:00"
+    },
+    "v-00938": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 344,
+      "published_at": "2026-11-18T09:47:05.902016+00:00"
     },
     "v-00976": {
       "count": 1,
@@ -23010,6 +23394,12 @@
       "published_at": "2026-09-25T11:21:20.729393+00:00",
       "quiz_message_id": 7
     },
+    "v-01605": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 343,
+      "published_at": "2026-11-18T09:47:02.976211+00:00"
+    },
     "v-01608": {
       "count": 1,
       "last_cycle": 1,
@@ -23126,6 +23516,12 @@
       "last_cycle": 1,
       "last_message_id": 218,
       "published_at": "2026-10-24T06:54:29.321422+00:00"
+    },
+    "v-01802": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 345,
+      "published_at": "2026-11-18T09:47:08.760834+00:00"
     },
     "v-01806": {
       "count": 1,
@@ -23541,6 +23937,12 @@
       "last_cycle": 1,
       "last_message_id": 312,
       "published_at": "2026-11-11T08:54:20.411757+00:00"
+    },
+    "v-02609": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 346,
+      "published_at": "2026-11-18T09:47:11.496057+00:00"
     },
     "v-02620": {
       "count": 1,
@@ -24007,11 +24409,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01605",
-    "v-00938",
-    "v-01802",
-    "v-02609",
-    "v-00680",
     "v-00208",
     "v-01775",
     "v-02039",
@@ -27197,41 +27594,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261020T071331Z-f547dcd5": {
-      "completed_at": "2026-10-20T07:13:46.409064+00:00",
-      "created_at": "2026-10-20T07:13:31.887817+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-03556"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01323"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02708"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02223"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00656"
-        }
-      ],
-      "published_ids": [
-        "v-03556",
-        "v-01323",
-        "v-02708",
-        "v-02223",
-        "v-00656"
-      ],
-      "status": "completed"
-    },
     "20261021T070801Z-f6373019": {
       "completed_at": "2026-10-21T07:08:16.448823+00:00",
       "created_at": "2026-10-21T07:08:01.213684+00:00",
@@ -28251,6 +28613,41 @@
         "v-04254",
         "v-01345",
         "v-01896"
+      ],
+      "status": "completed"
+    },
+    "20261118T094657Z-1cccc7fb": {
+      "completed_at": "2026-11-18T09:47:14.418324+00:00",
+      "created_at": "2026-11-18T09:46:57.704512+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01605"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00938"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01802"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02609"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00680"
+        }
+      ],
+      "published_ids": [
+        "v-01605",
+        "v-00938",
+        "v-01802",
+        "v-02609",
+        "v-00680"
       ],
       "status": "completed"
     }
@@ -30692,6 +31089,43 @@
         "v-01896"
       ],
       "run_id": "20261117T101544Z-f7dd0fd1",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-18T09:47:14.418324+00:00",
+      "created_at": "2026-11-18T09:46:57.704512+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01605"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00938"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01802"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02609"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00680"
+        }
+      ],
+      "published_ids": [
+        "v-01605",
+        "v-00938",
+        "v-01802",
+        "v-02609",
+        "v-00680"
+      ],
+      "run_id": "20261118T094657Z-1cccc7fb",
       "status": "completed",
       "unknown_ids": []
     }
