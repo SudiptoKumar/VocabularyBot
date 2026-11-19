@@ -1051,6 +1051,72 @@
         }
       ]
     },
+    "v-00208": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8a4bb028c54bd593792e18803862d970b23330979d43eedb7bafe971447ba25a",
+      "antonyms": [
+        {
+          "meaning": "to drive away",
+          "word": "repel"
+        },
+        {
+          "meaning": "to discourage",
+          "word": "deter"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "attract attention",
+        "attract customers",
+        "attract investors",
+        "attract criticism",
+        "attract a crowd"
+      ],
+      "common_mistake_correct": "*Attract* means to draw interest, not to communicate with someone.",
+      "common_mistake_wrong": "*Attract* is often confused with *interact*.",
+      "definition_en": "To cause someone to feel interest or desire toward something.",
+      "example_bn": "উজ্জ্বল রঙগুলো শিশুদের মনোযোগ আকর্ষণ করে।",
+      "example_en": "The bright colors attract children's attention.",
+      "memory_hook": "Think of a magnet that *attracts* metal – it pulls things toward it.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "repel",
+        "attract",
+        "ignore",
+        "delay"
+      ],
+      "quiz_question": "Which word best fits: \"The festival will ___ many tourists this summer.\"",
+      "short_meaning_en": "draw interest",
+      "synonyms": [
+        {
+          "meaning": "to pull attention toward",
+          "word": "draw"
+        },
+        {
+          "meaning": "to tempt or attract",
+          "word": "lure"
+        },
+        {
+          "meaning": "to persuade by appeal",
+          "word": "entice"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "attraction"
+        },
+        {
+          "type": "adjective",
+          "word": "attractive"
+        },
+        {
+          "type": "adverb",
+          "word": "attractively"
+        }
+      ]
+    },
     "v-00218": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -5240,6 +5306,68 @@
         }
       ]
     },
+    "v-01025": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c6202a64643a295cbe14b25941a031a08f690ccee5f507202b14e96226dfec1f",
+      "antonyms": [
+        {
+          "meaning": "someone who opposes",
+          "word": "opponent"
+        },
+        {
+          "meaning": "someone who judges negatively",
+          "word": "critic"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "fan club",
+        "die‑hard fan",
+        "fan base",
+        "fan favorite",
+        "fan page"
+      ],
+      "common_mistake_correct": "She is a fan of the air conditioner (device) – use “fan” for the device, not for a person’s enthusiasm.",
+      "common_mistake_wrong": "She is a fan of the air conditioner.",
+      "definition_en": "A person who shows great enthusiasm for a particular activity, team, or person.",
+      "example_bn": "তিনি জ্যাজ সঙ্গীতের উগ্র অনুরাগী।",
+      "example_en": "She is a huge fan of jazz music.",
+      "memory_hook": "Imagine a cheering crowd waving flags – they are the fans.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A device that blows air",
+        "A person who likes something",
+        "A type of bird",
+        "A cooking utensil"
+      ],
+      "quiz_question": "What does the word “fan” mean in the sentence “He is a fan of soccer”?",
+      "short_meaning_en": "enthusiast",
+      "synonyms": [
+        {
+          "meaning": "a person who is very interested",
+          "word": "enthusiast"
+        },
+        {
+          "meaning": "someone who backs a cause",
+          "word": "supporter"
+        },
+        {
+          "meaning": "a devoted fan",
+          "word": "aficionado"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "fandom"
+        },
+        {
+          "type": "adjective",
+          "word": "fanatic"
+        }
+      ]
+    },
     "v-01038": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d7295557a3c450f834f7939665861b3a3b4ab71fabc4eb73067df81def4ea510",
@@ -5572,6 +5700,72 @@
         {
           "type": "adjective",
           "word": "flameless"
+        }
+      ]
+    },
+    "v-01095": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "90604b85696fbfbd2a94c19268c6118232fbfcc302039338b2fb695d43832f20",
+      "antonyms": [
+        {
+          "meaning": "to go ahead",
+          "word": "lead"
+        },
+        {
+          "meaning": "to disregard",
+          "word": "ignore"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "follow instructions",
+        "follow a rule",
+        "follow a path",
+        "follow up",
+        "follow through"
+      ],
+      "common_mistake_correct": "*Follow* means to go after, not to be in charge of.",
+      "common_mistake_wrong": "Using *follow* for *lead* (e.g., \"She will follow the meeting\" instead of \"lead\").",
+      "definition_en": "To go after or move behind someone or something, often to copy their actions.",
+      "example_bn": "বাচ্চারা প্রায়ই বাড়িতে তাদের বাবা-মায়ের পেছনে অনুসরণ করে।",
+      "example_en": "Children often follow their parents around the house.",
+      "memory_hook": "Think of a dog that *follows* its owner’s footsteps.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She will follow the presentation tomorrow.",
+        "He followed the recipe and cooked well.",
+        "They follow the bus every day.",
+        "We will follow the new manager."
+      ],
+      "quiz_question": "Select the correct use of *follow*:",
+      "short_meaning_en": "go after",
+      "synonyms": [
+        {
+          "meaning": "to go after",
+          "word": "trail"
+        },
+        {
+          "meaning": "to chase",
+          "word": "pursue"
+        },
+        {
+          "meaning": "to follow the path of",
+          "word": "track"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "follower"
+        },
+        {
+          "type": "adjective",
+          "word": "followed"
+        },
+        {
+          "type": "noun",
+          "word": "following"
         }
       ]
     },
@@ -10007,6 +10201,68 @@
         }
       ]
     },
+    "v-01775": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d8f7cfd7586472d715fd9292cb0305f45a28ef074d923e4a6145bac45fa7aa07",
+      "antonyms": [
+        {
+          "meaning": "affirmative",
+          "word": "yes"
+        },
+        {
+          "meaning": "certainly",
+          "word": "indeed"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "not at all",
+        "not yet",
+        "not only",
+        "not even",
+        "not sure"
+      ],
+      "common_mistake_correct": "The correct spelling is *not*.",
+      "common_mistake_wrong": "Writing *not* as *nut*.",
+      "definition_en": "Used to give a negative response or to indicate the absence of something.",
+      "example_bn": "আমি তীব্র খাবার পছন্দ করি না।",
+      "example_en": "I do not like spicy food.",
+      "memory_hook": "Remember that *not* is the opposite of *knot* – it doesn’t tie anything together.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 3,
+      "quiz_options": [
+        "is",
+        "are",
+        "was",
+        "is not"
+      ],
+      "quiz_question": "Choose the correct negative word: \"She ___ coming to the party.\"",
+      "short_meaning_en": "negative",
+      "synonyms": [
+        {
+          "meaning": "a negative answer",
+          "word": "no"
+        },
+        {
+          "meaning": "not ever",
+          "word": "never"
+        },
+        {
+          "meaning": "not any",
+          "word": "none"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "notable"
+        },
+        {
+          "type": "noun",
+          "word": "notion"
+        }
+      ]
+    },
     "v-01802": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "8a4c9816f43617ae11780e1268f5288b21cf098e90e4c48bc472912e23450fb3",
@@ -11446,6 +11702,68 @@
         {
           "type": "adverb",
           "word": "presidentially"
+        }
+      ]
+    },
+    "v-02039": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "7735d2575817570e3eebff2a594c0550bb9a4efd09511ba5e44c47bd8992afeb",
+      "antonyms": [
+        {
+          "meaning": "to let go",
+          "word": "release"
+        },
+        {
+          "meaning": "to reduce pressure",
+          "word": "relax"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "press a button",
+        "press the issue",
+        "press charges",
+        "press ahead",
+        "press for change"
+      ],
+      "common_mistake_correct": "In this sense, *press* means to push, not to publish news.",
+      "common_mistake_wrong": "Confusing *press* (apply force) with *press* (media).",
+      "definition_en": "To apply force or pressure to something, or to cause something to be printed or recorded.",
+      "example_bn": "মেশিন চালু করতে বোতামটি চাপ দিন।",
+      "example_en": "Please press the button to start the machine.",
+      "memory_hook": "Think of a *press* that squeezes juice – it pushes the fruit to get liquid out.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The press will press the article tomorrow.",
+        "She pressed the key to open the door.",
+        "He was press by the crowd.",
+        "They press the news on TV."
+      ],
+      "quiz_question": "Which sentence uses *press* correctly?",
+      "short_meaning_en": "apply pressure",
+      "synonyms": [
+        {
+          "meaning": "to apply force forward",
+          "word": "push"
+        },
+        {
+          "meaning": "to squeeze tightly",
+          "word": "compress"
+        },
+        {
+          "meaning": "to press firmly",
+          "word": "squeeze"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "pressure"
+        },
+        {
+          "type": "adjective",
+          "word": "pressing"
         }
       ]
     },
@@ -18393,6 +18711,14 @@
       "source_fingerprint": "fe376345fa594bb85998f1c61a73daa5718b1101c0854f55c992e09fdbe27c62",
       "status": "valid"
     },
+    "v-00208": {
+      "audited_at": "2026-11-19T09:56:09.771266+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "আকর্ষণ করা, মনোযোগ দিতে",
+      "reason": "The supplied meaning accurately reflects the verb 'attract' as 'আকর্ষণ করা' and also includes the sense of drawing attention.",
+      "source_fingerprint": "8a4bb028c54bd593792e18803862d970b23330979d43eedb7bafe971447ba25a",
+      "status": "valid"
+    },
     "v-00225": {
       "audited_at": "2026-11-03T09:04:26.151251+00:00",
       "confidence": 0.95,
@@ -18897,6 +19223,14 @@
       "source_fingerprint": "11d2025206586a199ed7b8126593758754ddf816173da67950da4554ecf0ed18",
       "status": "valid"
     },
+    "v-01025": {
+      "audited_at": "2026-11-19T09:56:10.305439+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "পাখা, উগ্র অনুরাগী",
+      "reason": "Both senses of 'fan' are accurately represented.",
+      "source_fingerprint": "c6202a64643a295cbe14b25941a031a08f690ccee5f507202b14e96226dfec1f",
+      "status": "valid"
+    },
     "v-01038": {
       "audited_at": "2026-09-27T07:39:03.577521+00:00",
       "confidence": 0.99,
@@ -18935,6 +19269,14 @@
       "meaning_bn": "আগুনের শিখা",
       "reason": "The Bangla meaning accurately corresponds to the English word 'flame'.",
       "source_fingerprint": "cda02e21675006b98d1ed959ca1204380750fa486ca156274cb404ac6e5719b9",
+      "status": "valid"
+    },
+    "v-01095": {
+      "audited_at": "2026-11-19T09:56:10.305474+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "অনুসরণ করা, অনুসরণ করতে",
+      "reason": "The meaning matches the verb 'follow'.",
+      "source_fingerprint": "90604b85696fbfbd2a94c19268c6118232fbfcc302039338b2fb695d43832f20",
       "status": "valid"
     },
     "v-01096": {
@@ -19489,6 +19831,14 @@
       "source_fingerprint": "adb21a52b9c6c54b4dd4cde28671bba65b7c714c7beb108c4d8bc95ad433fe23",
       "status": "valid"
     },
+    "v-01775": {
+      "audited_at": "2026-11-19T09:56:10.305321+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "না • নয়",
+      "reason": "The source meaning 'এই নয় যে' is not a proper Bangla translation of the negation particle 'not'. The appropriate Bangla equivalents are 'না' or 'নয়'.",
+      "source_fingerprint": "427683e2f0a5738742d6b7af3ced5b7c72b5911bac4f1650749ef8ffbbd44531",
+      "status": "corrected"
+    },
     "v-01802": {
       "audited_at": "2026-11-18T09:46:58.391219+00:00",
       "confidence": 0.99,
@@ -19664,6 +20014,14 @@
       "reason": "The English adjective 'presidential' pertains to a president, so the proper Bangla translation is 'রাষ্ট্রপতি-সংক্রান্ত'. The source meaning 'সভাপতিত্ব-সংক্রান্ত' refers to chairmanship, which is unrelated.",
       "source_fingerprint": "61f12ad83f9133bc78b6ba05b7bcc2562b0f7b7df914026ae7f589584b889ecc",
       "status": "corrected"
+    },
+    "v-02039": {
+      "audited_at": "2026-11-19T09:56:10.305400+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "চাপ দেওয়া, চাপ, ছাপানো, চাপ দিতে",
+      "reason": "The meanings correctly cover both verb and noun senses of 'press'.",
+      "source_fingerprint": "7735d2575817570e3eebff2a594c0550bb9a4efd09511ba5e44c47bd8992afeb",
+      "status": "valid"
     },
     "v-02049": {
       "audited_at": "2026-10-03T07:40:03.836746+00:00",
@@ -20661,6 +21019,12 @@
       "photo_file_id": "AgACAgUAAxUHatRucn-ypcxgy9gjDZ9omZ6X8e0AArQTaxuNqKlWRBEo6vlk81sBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00208": {
+      "audio_file_id": "CQACAgUAAxUHav7HvuCjXLWKZugD7mdLewqkDvEAAr8lAAKEo_hXn9CCuIl7d8A9BA",
+      "cached_at": "2026-11-19T09:56:15.250826+00:00",
+      "photo_file_id": "AgACAgUAAxUHav7Hvm_DTB-hfQHLyUAopnBJ9KAAAs0UaxuEo_hXTlqmtd7_YWcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00218": {
       "cached_at": "2026-09-25T16:45:17.189571+00:00",
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
@@ -21093,6 +21457,12 @@
       "photo_file_id": "AgACAgUAAxUHaumjp8q6odYyD_kZWkzTvxlAmpIAAn8caxstf0lXZnM4sTf-AAHnAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-01025": {
+      "audio_file_id": "CQACAgUAAxUHav7Hxl4Reo1QKVBF13OV_xvHabYAAsIlAAKEo_hXyuefdxl-A6Q9BA",
+      "cached_at": "2026-11-19T09:56:23.546727+00:00",
+      "photo_file_id": "AgACAgUAAxUHav7Hx4AAAYgAAd9dWrLcWaOwQ1MTcQAC0BRrG4Sj-FeZNUUNOI_AKgEAAwIAA3MAAz0E",
+      "version": "1.2.5"
+    },
     "v-01038": {
       "audio_file_id": "CQACAgUAAxUHarjII82LdTlNLUW5xOK02ebQpkIAAsYiAAKcC8lVQDkstueo8wU9BA",
       "cached_at": "2026-09-27T07:39:16.190151+00:00",
@@ -21126,6 +21496,12 @@
       "audio_file_id": "CQACAgUAAxUHatxWKFKgZDctGzTBu8oSJ0OHoZ8AAj0hAAL30eBWX0bGbjyvE5g9BA",
       "cached_at": "2026-10-24T06:54:33.669173+00:00",
       "photo_file_id": "AgACAgUAAxUHatxWKTcDS2BsGp9YATxTZ27aERwAAqARaxv30eBWy_u_Tuhi5z8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01095": {
+      "audio_file_id": "CQACAgUAAxUHav7Hydl0blxI6cFodnt9d2ABoLMAAsMlAAKEo_hXRR_HR1GStlA9BA",
+      "cached_at": "2026-11-19T09:56:26.366619+00:00",
+      "photo_file_id": "AgACAgUAAxUHav7Hyapzww2A940sxmtYEqSNHdkAAtEUaxuEo_hXhcA3swXIu0IBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01096": {
@@ -21581,6 +21957,12 @@
       "photo_file_id": "AgACAgUAAxUHatxWJAE3wlrAe7msRoNNgKOOzkcAAp4Raxv30eBWtYBLf7m7yUQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01775": {
+      "audio_file_id": "CQACAgUAAxUHav7HwbSuUNVAo_5XrFVnmR2Z9ZYAAsAlAAKEo_hXObIoIJSpXFM9BA",
+      "cached_at": "2026-11-19T09:56:17.725920+00:00",
+      "photo_file_id": "AgACAgUAAxUHav7HwRlTy_WydTV4uN63rjQB1NYAAs4UaxuEo_hXX2W2-R-ssTYBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01802": {
       "audio_file_id": "CQACAgUAAxUHav10G4zHOpAT2dbhyE3xJYp6ht0AAuciAAKkzPBXVPMGCA3wYag9BA",
       "cached_at": "2026-11-18T09:47:08.760808+00:00",
@@ -21735,6 +22117,12 @@
       "audio_file_id": "CQACAgUAAxUHavrHFDEw9HjXit79r00N_-0vZTgAAio6AAKrN9lX5eBB_ssHka89BA",
       "cached_at": "2026-11-16T09:04:20.522294+00:00",
       "photo_file_id": "AgACAgUAAxUHavrHE9XLJEwuSSZRXMdtWsnjjIAAAnIVaxurN9lXoMD4JdOnfpABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02039": {
+      "audio_file_id": "CQACAgUAAxUHav7Hwy8rsGYUa6d90I3iTqbFCVsAAsElAAKEo_hXZNnyp_S9bAM9BA",
+      "cached_at": "2026-11-19T09:56:20.609228+00:00",
+      "photo_file_id": "AgACAgUAAxUHav7HxLqmpT70UWbnD4FaG-LE-iwAAs8UaxuEo_hXEckZRgwAAb8TAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
     "v-02049": {
@@ -22581,6 +22969,12 @@
       "last_message_id": 189,
       "published_at": "2026-10-18T07:00:02.885308+00:00"
     },
+    "v-00208": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 348,
+      "published_at": "2026-11-19T09:56:15.250856+00:00"
+    },
     "v-00218": {
       "count": 1,
       "last_cycle": 1,
@@ -23017,6 +23411,12 @@
       "last_message_id": 271,
       "published_at": "2026-11-03T09:04:40.136776+00:00"
     },
+    "v-01025": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 351,
+      "published_at": "2026-11-19T09:56:23.546753+00:00"
+    },
     "v-01038": {
       "count": 1,
       "last_cycle": 1,
@@ -23053,6 +23453,12 @@
       "last_cycle": 1,
       "last_message_id": 220,
       "published_at": "2026-10-24T06:54:33.669199+00:00"
+    },
+    "v-01095": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 352,
+      "published_at": "2026-11-19T09:56:26.366647+00:00"
     },
     "v-01096": {
       "count": 1,
@@ -23517,6 +23923,12 @@
       "last_message_id": 218,
       "published_at": "2026-10-24T06:54:29.321422+00:00"
     },
+    "v-01775": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 349,
+      "published_at": "2026-11-19T09:56:17.725949+00:00"
+    },
     "v-01802": {
       "count": 1,
       "last_cycle": 1,
@@ -23673,6 +24085,12 @@
       "last_cycle": 1,
       "last_message_id": 337,
       "published_at": "2026-11-16T09:04:20.522325+00:00"
+    },
+    "v-02039": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 350,
+      "published_at": "2026-11-19T09:56:20.609255+00:00"
     },
     "v-02049": {
       "count": 1,
@@ -24409,11 +24827,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00208",
-    "v-01775",
-    "v-02039",
-    "v-01025",
-    "v-01095",
     "v-00025",
     "v-02958",
     "v-03873",
@@ -27594,41 +28007,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261021T070801Z-f6373019": {
-      "completed_at": "2026-10-21T07:08:16.448823+00:00",
-      "created_at": "2026-10-21T07:08:01.213684+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02784"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00635"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03766"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02070"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01946"
-        }
-      ],
-      "published_ids": [
-        "v-02784",
-        "v-00635",
-        "v-03766",
-        "v-02070",
-        "v-01946"
-      ],
-      "status": "completed"
-    },
     "20261022T071429Z-1cae51e9": {
       "completed_at": "2026-10-22T07:14:45.038176+00:00",
       "created_at": "2026-10-22T07:14:29.627388+00:00",
@@ -28648,6 +29026,41 @@
         "v-01802",
         "v-02609",
         "v-00680"
+      ],
+      "status": "completed"
+    },
+    "20261119T095609Z-188aa5af": {
+      "completed_at": "2026-11-19T09:56:26.405146+00:00",
+      "created_at": "2026-11-19T09:56:09.212452+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00208"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01775"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02039"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01025"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01095"
+        }
+      ],
+      "published_ids": [
+        "v-00208",
+        "v-01775",
+        "v-02039",
+        "v-01025",
+        "v-01095"
       ],
       "status": "completed"
     }
@@ -31126,6 +31539,43 @@
         "v-00680"
       ],
       "run_id": "20261118T094657Z-1cccc7fb",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-19T09:56:26.405146+00:00",
+      "created_at": "2026-11-19T09:56:09.212452+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00208"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01775"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02039"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01025"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01095"
+        }
+      ],
+      "published_ids": [
+        "v-00208",
+        "v-01775",
+        "v-02039",
+        "v-01025",
+        "v-01095"
+      ],
+      "run_id": "20261119T095609Z-188aa5af",
       "status": "completed",
       "unknown_ids": []
     }
