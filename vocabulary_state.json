@@ -1243,6 +1243,72 @@
         }
       ]
     },
+    "v-00223": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3346cacf8ab725f5e249ff3ef65ed5ed0ac006dbcf9819ba4ed3ca408ea4af34",
+      "antonyms": [
+        {
+          "meaning": "grown-up person",
+          "word": "adult"
+        },
+        {
+          "meaning": "older person",
+          "word": "elder"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "baby shower",
+        "baby formula",
+        "baby stroller",
+        "baby cry",
+        "baby smile"
+      ],
+      "common_mistake_correct": "Use *baby* as a noun for the child; use *babysit* for caring for a child.",
+      "common_mistake_wrong": "Confusing *baby* (noun) with the verb *to baby* meaning ‘to treat overly gently’.",
+      "definition_en": "A very young child, especially one newly born.",
+      "example_bn": "বাচ্চাটি আজ প্রথমবার হাসল।",
+      "example_en": "The baby smiled for the first time today.",
+      "memory_hook": "‘Baby’ sounds like ‘babe‑y’; think of a cute little babe.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "The baby is crying loudly.",
+        "She will baby the project tomorrow.",
+        "We need a baby for the experiment.",
+        "All of the above"
+      ],
+      "quiz_question": "Which sentence uses ‘baby’ correctly?",
+      "short_meaning_en": "infant",
+      "synonyms": [
+        {
+          "meaning": "a very young child",
+          "word": "infant"
+        },
+        {
+          "meaning": "just born",
+          "word": "newborn"
+        },
+        {
+          "meaning": "small child",
+          "word": "tot"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "babies"
+        },
+        {
+          "type": "adjective",
+          "word": "babyish"
+        },
+        {
+          "type": "verb",
+          "word": "babysit"
+        }
+      ]
+    },
     "v-00225": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "fc20ccd493ac0f52274ddcd78a82fdc1e26d5fb4ad2d6ce07295019c3c76126e",
@@ -4649,6 +4715,68 @@
         }
       ]
     },
+    "v-00879": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6e2b00aa4a2783e523ec1ebcb0987d57ef2915eefcaee806a119a353aa777243",
+      "antonyms": [
+        {
+          "meaning": "operated by moving parts",
+          "word": "mechanical"
+        },
+        {
+          "meaning": "not digital",
+          "word": "analog"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "electronic device",
+        "electronic mail",
+        "electronic music",
+        "electronic payment",
+        "electronic store"
+      ],
+      "common_mistake_correct": "Use *electronically* for the adverb form.",
+      "common_mistake_wrong": "Saying *electronicly* instead of *electronically*.",
+      "definition_en": "Relating to devices that use electricity or electronic circuits.",
+      "example_bn": "সে গত সপ্তাহে একটি ইলেকট্রনিক টুথব্রাশ কিনেছে।",
+      "example_en": "She bought an electronic toothbrush last week.",
+      "memory_hook": "‘Electronic’ = ‘electron’ + ‘ic’; think of tiny electrons powering gadgets.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "electronic mail",
+        "electronicly payment",
+        "electronic musician",
+        "electronicly device"
+      ],
+      "quiz_question": "Which phrase correctly uses the word ‘electronic’?",
+      "short_meaning_en": "electric",
+      "synonyms": [
+        {
+          "meaning": "using computer technology",
+          "word": "digital"
+        },
+        {
+          "meaning": "powered by electricity",
+          "word": "electric"
+        },
+        {
+          "meaning": "operated by a computer",
+          "word": "computerized"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "electronics"
+        },
+        {
+          "type": "adverb",
+          "word": "electronically"
+        }
+      ]
+    },
     "v-00897": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ea93d142350767e22116865eb822156abe86190bfcbae985a0d8c3bcffeb7b1e",
@@ -5435,6 +5563,72 @@
         {
           "type": "adjective",
           "word": "factory‑made"
+        }
+      ]
+    },
+    "v-01018": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "ef166d94fc39f00e8e0eb9758bd38b5d7224a3c17924bbb58a9492181941e234",
+      "antonyms": [
+        {
+          "meaning": "only just",
+          "word": "barely"
+        },
+        {
+          "meaning": "scarcely",
+          "word": "hardly"
+        },
+        {
+          "meaning": "almost not",
+          "word": "scarcely"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "fairly well",
+        "fairly good",
+        "fairly easy",
+        "fairly common",
+        "fairly priced"
+      ],
+      "common_mistake_correct": "Use it as an adverb, e.g., *fairly large*.",
+      "common_mistake_wrong": "Using fairly as a noun (e.g., *the fairly*).",
+      "definition_en": "In a reasonable or moderate degree; quite.",
+      "example_bn": "টেস্টটি বেশ সহজ ছিল বেশিরভাগ শিক্ষার্থীর জন্য।",
+      "example_en": "The test was fairly easy for most students.",
+      "memory_hook": "Think of a *fair* (carnival) that is *ly* (like) moderate – so ‘fairly’ means ‘moderately’.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "extremely",
+        "somewhat",
+        "boring",
+        "uninteresting"
+      ],
+      "quiz_question": "Which word best matches the meaning of ‘fairly’ in the sentence: “The movie was fairly interesting”?",
+      "short_meaning_en": "quite",
+      "synonyms": [
+        {
+          "meaning": "to a considerable extent",
+          "word": "quite"
+        },
+        {
+          "meaning": "in a fair manner",
+          "word": "reasonably"
+        },
+        {
+          "meaning": "to a certain degree",
+          "word": "somewhat"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "fairness"
+        },
+        {
+          "type": "adjective",
+          "word": "unfair"
         }
       ]
     },
@@ -18504,6 +18698,55 @@
         }
       ]
     },
+    "v-04177": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e7fed3133ef18e9c9b6d4e33a93dca8554a8e27c422956dec25d58b8f92f34b4",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "needle point",
+        "needle eye",
+        "needle thread",
+        "needle injection",
+        "needle prick"
+      ],
+      "common_mistake_correct": "Specify the context: *sewing needle* or *syringe needle*.",
+      "common_mistake_wrong": "Confusing *needle* (sewing) with *needles* (syringe tips) in the same sentence.",
+      "definition_en": "A thin, sharp metal tool used for sewing or medical injections.",
+      "example_bn": "সেলাই শুরু করার আগে সে সূঁচে দোরগোটা দিল।",
+      "example_en": "She threaded the needle before starting to sew.",
+      "memory_hook": "‘Needle’ sounds like ‘knead’; you knead dough with a thin tool – a needle is thin too.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "The needle of the clock was broken.",
+        "She bought a new needle for her sewing kit.",
+        "He felt a needle after the injection.",
+        "All of the above"
+      ],
+      "quiz_question": "Which sentence uses ‘needle’ correctly?",
+      "short_meaning_en": "sewing tool",
+      "synonyms": [
+        {
+          "meaning": "a small sharp metal fastener",
+          "word": "pin"
+        },
+        {
+          "meaning": "a pointed instrument for writing or input",
+          "word": "stylus"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "needlework"
+        },
+        {
+          "type": "adjective",
+          "word": "needlelike"
+        }
+      ]
+    },
     "v-04190": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -18553,6 +18796,68 @@
         {
           "type": "verb",
           "word": "harvesting"
+        }
+      ]
+    },
+    "v-04226": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4bf11ba558d1c9568ad68a9c6655067e3f645c39c2ee2b19ce33a582dbb11de7",
+      "antonyms": [
+        {
+          "meaning": "price paid to produce or buy",
+          "word": "cost price"
+        },
+        {
+          "meaning": "price paid by buyer",
+          "word": "purchase price"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "sell price is high",
+        "sell price margin",
+        "sell price tag",
+        "sell price negotiation",
+        "sell price list"
+      ],
+      "common_mistake_correct": "Use *sale price* for a discounted amount; *sell price* for the regular selling amount.",
+      "common_mistake_wrong": "Using *sell price* when meaning *sale price* (discounted price).",
+      "definition_en": "The amount of money for which something is sold.",
+      "example_bn": "ল্যাপটপের বিক্রয় মূল্য আমার প্রত্যাশার চেয়ে বেশি।",
+      "example_en": "The sell price of the laptop is higher than I expected.",
+      "memory_hook": "You *sell* something at a *price* – that’s the *sell price*.",
+      "part_of_speech": "phrase",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "sell price",
+        "sale price",
+        "discount price",
+        "cost price"
+      ],
+      "quiz_question": "Which phrase correctly describes the regular amount an item is sold for?",
+      "short_meaning_en": "selling cost",
+      "synonyms": [
+        {
+          "meaning": "price at which an item is sold",
+          "word": "selling price"
+        },
+        {
+          "meaning": "price requested by seller",
+          "word": "asking price"
+        },
+        {
+          "meaning": "price shown in a catalogue",
+          "word": "list price"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "sell"
+        },
+        {
+          "type": "noun",
+          "word": "seller"
         }
       ]
     },
@@ -19057,6 +19362,14 @@
       "source_fingerprint": "8a4bb028c54bd593792e18803862d970b23330979d43eedb7bafe971447ba25a",
       "status": "valid"
     },
+    "v-00223": {
+      "audited_at": "2026-11-21T09:16:35.341474+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "শিশু",
+      "reason": "The Bangla meaning correctly corresponds to the English word 'baby'.",
+      "source_fingerprint": "3346cacf8ab725f5e249ff3ef65ed5ed0ac006dbcf9819ba4ed3ca408ea4af34",
+      "status": "valid"
+    },
     "v-00225": {
       "audited_at": "2026-11-03T09:04:26.151251+00:00",
       "confidence": 0.95,
@@ -19465,6 +19778,14 @@
       "source_fingerprint": "7e46a8055f728df3ddef943b10829853d1ab7cfa1aaa23dedd1544b801ed8bd9",
       "status": "valid"
     },
+    "v-00879": {
+      "audited_at": "2026-11-21T09:16:35.341420+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "বিদ্যুৎসংক্রান্ত",
+      "reason": "The Bangla meaning correctly corresponds to the English word 'electronic'.",
+      "source_fingerprint": "6e2b00aa4a2783e523ec1ebcb0987d57ef2915eefcaee806a119a353aa777243",
+      "status": "valid"
+    },
     "v-00897": {
       "audited_at": "2026-09-27T00:35:50.172618+00:00",
       "confidence": 0.96,
@@ -19568,6 +19889,14 @@
       "reason": "The meaning conveys the primary sense of 'factory' as a large manufacturing place, which is acceptable.",
       "source_fingerprint": "11d2025206586a199ed7b8126593758754ddf816173da67950da4554ecf0ed18",
       "status": "valid"
+    },
+    "v-01018": {
+      "audited_at": "2026-11-21T09:16:35.341365+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "যথেষ্টভাবে; যথাযথভাবে; বেশ; কিছুটা",
+      "reason": "The source meaning 'সম্পূর্ণরূপে' (completely) does not correspond to the adverb 'fairly', which conveys a sense of 'to a reasonable extent', 'quite', or 'somewhat' in Bangla.",
+      "source_fingerprint": "511a40e794eca9c22fc49a403f498fd6e2fcf3bdb026ab7bed9a2d534623c355",
+      "status": "corrected"
     },
     "v-01025": {
       "audited_at": "2026-11-19T09:56:10.305439+00:00",
@@ -21209,6 +21538,22 @@
       "source_fingerprint": "b6e982d220450069edd4509fb3f915d367daea090d9cb7c4b744f16e49c28f7d",
       "status": "corrected"
     },
+    "v-04177": {
+      "audited_at": "2026-11-21T09:16:35.341440+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "সূঁচ",
+      "reason": "The Bangla meaning correctly corresponds to the English word 'Needle'.",
+      "source_fingerprint": "e7fed3133ef18e9c9b6d4e33a93dca8554a8e27c422956dec25d58b8f92f34b4",
+      "status": "valid"
+    },
+    "v-04226": {
+      "audited_at": "2026-11-21T09:16:35.341458+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "বিক্রয় মূল্য",
+      "reason": "The Bangla meaning correctly corresponds to the English term 'Sell price'.",
+      "source_fingerprint": "4bf11ba558d1c9568ad68a9c6655067e3f645c39c2ee2b19ce33a582dbb11de7",
+      "status": "valid"
+    },
     "v-04246": {
       "audited_at": "2026-10-24T06:54:25.619174+00:00",
       "confidence": 1.0,
@@ -21406,6 +21751,12 @@
       "photo_file_id": "AgACAgUAAxUHaralHGH090i3WBK3nwcTyuils00AAoQRaxvpIblV61A6h1Ke4eMBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralHFXqzNfBlkyWJ6PxYP5CjvwAAigfAALpIblVN9G9CjXqu8Y9BA"
+    },
+    "v-00223": {
+      "audio_file_id": "CQACAgUAAxUHawFhg6DsxNiuvAq0E2UEqO1d8BAAAgcjAALj4wlUVh68pVPF92k9BA",
+      "cached_at": "2026-11-21T09:16:52.002293+00:00",
+      "photo_file_id": "AgACAgUAAxUHawFhg0feaoc1HxG4bXF8ZMQtJl8AAj8eaxvj4wlUx3BWrcH4UzkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00225": {
       "audio_file_id": "CQACAgUAAxUHaumjpEZaAAG8CleryqskItDDL0xFAAJ-JAACLX9JV18fcT2Rir-mPQQ",
@@ -21761,6 +22112,12 @@
       "photo_file_id": "AgACAgUAAxUHasX_CmZTxJZcNTBd6-LQnhTK3hEAAl8RaxuIuzFWY6xDZXkS-9sBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00879": {
+      "audio_file_id": "CQACAgUAAxUHawFheuUs_l5tCafqNGLH3vI1zMoAAgQjAALj4wlUqvmMa5quWAI9BA",
+      "cached_at": "2026-11-21T09:16:43.435003+00:00",
+      "photo_file_id": "AgACAgUAAxUHawFheuCBsgj9rXE4FEFj-TTnT9YAAjweaxvj4wlUMpiekcmPhEgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00897": {
       "audio_file_id": "CQACAgUAAxUHarhk7ZP7rjyhhqDYwAYXsN76r6QAAnAhAAKcC8lVx8Fpk_tlJwM9BA",
       "cached_at": "2026-09-27T00:35:57.693202+00:00",
@@ -21837,6 +22194,12 @@
       "audio_file_id": "CQACAgUAAxUHaumjp470lLdlJyoF0ZxETS59m20AAn8kAAItf0lX0NltGBBN5SE9BA",
       "cached_at": "2026-11-03T09:04:40.136750+00:00",
       "photo_file_id": "AgACAgUAAxUHaumjp8q6odYyD_kZWkzTvxlAmpIAAn8caxstf0lXZnM4sTf-AAHnAQADAgADcwADPQQ",
+      "version": "1.2.5"
+    },
+    "v-01018": {
+      "audio_file_id": "CQACAgUAAxUHawFhdzlcUpJrMfV1lsv2iAdV3_YAAgMjAALj4wlUZnkNfA3X--E9BA",
+      "cached_at": "2026-11-21T09:16:40.494906+00:00",
+      "photo_file_id": "AgACAgUAAxUHawFhdyD-ykww9y25lYbr5IyJxHcAAjseaxvj4wlUxEv7ZN42_qEBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01025": {
@@ -23196,11 +23559,23 @@
       "photo_file_id": "AgACAgUAAxUHatB6SxF3GZHayO5SEzsCFD3JdewAAlETaxvrMoFWjh_X_zd3nfcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-04177": {
+      "audio_file_id": "CQACAgUAAxUHawFhffJUM_HJ2Fdq0UNTzJYAARcFAAIFIwAC4-MJVNnQuuo6MtXxPQQ",
+      "cached_at": "2026-11-21T09:16:46.240733+00:00",
+      "photo_file_id": "AgACAgUAAxUHawFhfUdOJgLkC8ZpIxlCXqX94oYAAj0eaxvj4wlUebrmQ-HAnZkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-04190": {
       "cached_at": "2026-09-25T16:45:11.040062+00:00",
       "photo_file_id": "AgACAgUAAxUHaralFpFNvQHv2lVANrXxR3ePKOMAAoIRaxvpIblV4ZD9H-0W9WkBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHaralFjpKiCug0Suo0T_FaFLqzEkAAiYfAALpIblVRCAX6mf9FJs9BA"
+    },
+    "v-04226": {
+      "audio_file_id": "CQACAgUAAxUHawFhgKclxyhUT6lwCPag5gdFLBoAAgYjAALj4wlUXSbgaEBLX349BA",
+      "cached_at": "2026-11-21T09:16:49.355757+00:00",
+      "photo_file_id": "AgACAgUAAxUHawFhgIfvmm4nlBp638ccb0xD648AAj4eaxvj4wlUh4aD-ZTVhasBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-04246": {
       "audio_file_id": "CQACAgUAAxUHatxWK68WEt2TdJTXIh0UrhgVKkAAAj4hAAL30eBW4oRTWjEjR-Q9BA",
@@ -23386,6 +23761,12 @@
       "last_cycle": 1,
       "last_message_id": 55,
       "published_at": "2026-09-25T16:45:17.189597+00:00"
+    },
+    "v-00223": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 362,
+      "published_at": "2026-11-21T09:16:52.002321+00:00"
     },
     "v-00225": {
       "count": 1,
@@ -23745,6 +24126,12 @@
       "last_message_id": 141,
       "published_at": "2026-10-07T08:12:58.828974+00:00"
     },
+    "v-00879": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 359,
+      "published_at": "2026-11-21T09:16:43.435032+00:00"
+    },
     "v-00897": {
       "count": 1,
       "last_cycle": 1,
@@ -23822,6 +24209,12 @@
       "last_cycle": 1,
       "last_message_id": 271,
       "published_at": "2026-11-03T09:04:40.136776+00:00"
+    },
+    "v-01018": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 358,
+      "published_at": "2026-11-21T09:16:40.494936+00:00"
     },
     "v-01025": {
       "count": 1,
@@ -25200,11 +25593,23 @@
       "last_message_id": 179,
       "published_at": "2026-10-15T07:01:32.498922+00:00"
     },
+    "v-04177": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 360,
+      "published_at": "2026-11-21T09:16:46.240761+00:00"
+    },
     "v-04190": {
       "count": 1,
       "last_cycle": 1,
       "last_message_id": 53,
       "published_at": "2026-09-25T16:45:11.040092+00:00"
+    },
+    "v-04226": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 361,
+      "published_at": "2026-11-21T09:16:49.355785+00:00"
     },
     "v-04246": {
       "count": 1,
@@ -25257,11 +25662,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01018",
-    "v-00879",
-    "v-04177",
-    "v-04226",
-    "v-00223",
     "v-00584",
     "v-00369",
     "v-01959",
@@ -28432,41 +28832,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261023T070158Z-c65ffdf6": {
-      "completed_at": "2026-10-23T07:02:11.798251+00:00",
-      "created_at": "2026-10-23T07:01:58.096768+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00827"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01067"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02384"
-        },
-        {
-          "cycle": 1,
-          "id": "v-04283"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02174"
-        }
-      ],
-      "published_ids": [
-        "v-00827",
-        "v-01067",
-        "v-02384",
-        "v-04283",
-        "v-02174"
-      ],
-      "status": "completed"
-    },
     "20261024T065425Z-156dab0e": {
       "completed_at": "2026-10-24T06:54:37.883709+00:00",
       "created_at": "2026-10-24T06:54:25.264300+00:00",
@@ -29486,6 +29851,41 @@
         "v-03873",
         "v-00538",
         "v-01293"
+      ],
+      "status": "completed"
+    },
+    "20261121T091634Z-8e515054": {
+      "completed_at": "2026-11-21T09:16:52.030165+00:00",
+      "created_at": "2026-11-21T09:16:34.649462+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01018"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00879"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04177"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04226"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00223"
+        }
+      ],
+      "published_ids": [
+        "v-01018",
+        "v-00879",
+        "v-04177",
+        "v-04226",
+        "v-00223"
       ],
       "status": "completed"
     }
@@ -32038,6 +32438,43 @@
         "v-01293"
       ],
       "run_id": "20261120T094409Z-35455bd4",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-21T09:16:52.030165+00:00",
+      "created_at": "2026-11-21T09:16:34.649462+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01018"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00879"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04177"
+        },
+        {
+          "cycle": 1,
+          "id": "v-04226"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00223"
+        }
+      ],
+      "published_ids": [
+        "v-01018",
+        "v-00879",
+        "v-04177",
+        "v-04226",
+        "v-00223"
+      ],
+      "run_id": "20261121T091634Z-8e515054",
       "status": "completed",
       "unknown_ids": []
     }
