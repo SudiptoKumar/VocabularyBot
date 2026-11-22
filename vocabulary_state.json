@@ -1505,6 +1505,68 @@
       "synonyms": [],
       "word_family": []
     },
+    "v-00279": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3e1e2ac5ba6b98e20f94c4575cc8db50004cad3137980353dce1f25b59f6f3c6",
+      "antonyms": [
+        {
+          "meaning": "least good",
+          "word": "worst"
+        },
+        {
+          "meaning": "lowest quality",
+          "word": "poorest"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "best friend",
+        "best practice",
+        "best effort",
+        "best of",
+        "at best"
+      ],
+      "common_mistake_correct": "When used as a noun, pair it with a determiner: \"the best\".",
+      "common_mistake_wrong": "Using \"best\" as a noun without context (e.g., \"the best are here\").",
+      "definition_en": "Of the highest quality or most favorable; the top choice.",
+      "example_bn": "তিনি সময়মতো দৌড় শেষ করতে সর্বোত্তম প্রচেষ্টা করেছেন।",
+      "example_en": "She gave her best effort to finish the race on time.",
+      "memory_hook": "\"Be + st\" – be the strongest, the best.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She is the best of the team.",
+        "She is best the team.",
+        "She best the team.",
+        "She is a best of the team."
+      ],
+      "quiz_question": "Which sentence uses \"best\" correctly?",
+      "short_meaning_en": "top",
+      "synonyms": [
+        {
+          "meaning": "of the highest quality",
+          "word": "finest"
+        },
+        {
+          "meaning": "most excellent",
+          "word": "greatest"
+        },
+        {
+          "meaning": "most favorable",
+          "word": "optimal"
+        },
+        {
+          "meaning": "highest in rank",
+          "word": "supreme"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "bestow"
+        }
+      ]
+    },
     "v-00283": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -1895,6 +1957,55 @@
           "word": "bought"
         }
       ]
+    },
+    "v-00369": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "731ab94d81d58034ad4af8bb2e586274939dab6f36963cdb87161b124e63e012",
+      "antonyms": [
+        {
+          "meaning": "political party not in power",
+          "word": "opposition"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "cabinet meeting",
+        "cabinet minister",
+        "cabinet reshuffle",
+        "cabinet decision",
+        "cabinet secretary"
+      ],
+      "common_mistake_correct": "In politics, \"cabinet\" means the group of ministers.",
+      "common_mistake_wrong": "Thinking \"cabinet\" only refers to furniture.",
+      "definition_en": "The group of senior government ministers who make decisions together.",
+      "example_bn": "নতুন শিক্ষা নীতি আলোচনা করতে মন্ত্রিসভা বৈঠক করেছে।",
+      "example_en": "The cabinet met to discuss the new education policy.",
+      "memory_hook": "Imagine a \"cab\" full of ministers – they travel together to decide.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a piece of furniture",
+        "a group of ministers",
+        "a legal document",
+        "a type of car"
+      ],
+      "quiz_question": "In politics, what does \"cabinet\" refer to?",
+      "short_meaning_en": "government",
+      "synonyms": [
+        {
+          "meaning": "government department",
+          "word": "ministry"
+        },
+        {
+          "meaning": "assembly of officials",
+          "word": "council"
+        },
+        {
+          "meaning": "government in power",
+          "word": "administration"
+        }
+      ],
+      "word_family": []
     },
     "v-00371": {
       "_content_version": "1.2.4",
@@ -2964,6 +3075,68 @@
         {
           "type": "noun",
           "word": "constancy"
+        }
+      ]
+    },
+    "v-00584": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "dde92d3892ee678762646119f626a12f577fa7dcb86acfd020331380963f6f9f",
+      "antonyms": [
+        {
+          "meaning": "person who receives advice",
+          "word": "client"
+        }
+      ],
+      "cefr": "C1",
+      "collocations": [
+        "business consultant",
+        "medical consultant",
+        "consultant firm",
+        "hire a consultant",
+        "senior consultant"
+      ],
+      "common_mistake_correct": "Use the verb \"consult\" and keep \"consultant\" as a noun.",
+      "common_mistake_wrong": "Using \"consultant\" as a verb (e.g., \"I consultant you\").",
+      "definition_en": "A person who gives expert advice professionally.",
+      "example_bn": "কোম্পানি তার মার্কেটিং কৌশল উন্নত করতে একটি পরামর্শদাতা নিয়োগ করেছে।",
+      "example_en": "The company hired a consultant to improve its marketing strategy.",
+      "memory_hook": "A consultant is someone who *consults* you – think of \"consult + -ant\".",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "advisor",
+        "assistant",
+        "manager",
+        "employee"
+      ],
+      "quiz_question": "Which word best matches the meaning \"person who gives expert advice\"?",
+      "short_meaning_en": "advisor",
+      "synonyms": [
+        {
+          "meaning": "one who advises",
+          "word": "advisor"
+        },
+        {
+          "meaning": "one who gives advice",
+          "word": "adviser"
+        },
+        {
+          "meaning": "person who gives guidance",
+          "word": "counselor"
+        },
+        {
+          "meaning": "person with specialized knowledge",
+          "word": "expert"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "consult"
+        },
+        {
+          "type": "noun",
+          "word": "consultancy"
         }
       ]
     },
@@ -5323,6 +5496,72 @@
         {
           "type": "adjective",
           "word": "extensible"
+        }
+      ]
+    },
+    "v-01003": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "da97080f5b82765ab0d68ad5de660f51bb224dc3e8057a93577d0dcef9977d0f",
+      "antonyms": [
+        {
+          "meaning": "usual",
+          "word": "ordinary"
+        },
+        {
+          "meaning": "normal",
+          "word": "typical"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "extraordinary talent",
+        "extraordinary circumstances",
+        "extraordinary measures",
+        "extraordinary claim",
+        "extraordinary event"
+      ],
+      "common_mistake_correct": "Use \"extraordinary\" only when something is beyond ordinary, not just \"extra\".",
+      "common_mistake_wrong": "Using \"extraordinary\" to mean \"extra\" (e.g., \"extraordinary large\").",
+      "definition_en": "Very unusual or remarkable; far beyond the ordinary.",
+      "example_bn": "উদ্দীপক কর্মীদের থেকে অস্বাভাবিক সাহসের প্রয়োজন ছিল।",
+      "example_en": "The rescue operation required extraordinary courage from the volunteers.",
+      "memory_hook": "\"Extra\" + \"ordinary\" = more than ordinary.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "ordinary day",
+        "extra large",
+        "extraordinary talent",
+        "typical result"
+      ],
+      "quiz_question": "Which phrase best fits the meaning of \"extraordinary\"?",
+      "short_meaning_en": "unusual",
+      "synonyms": [
+        {
+          "meaning": "worthy of attention",
+          "word": "remarkable"
+        },
+        {
+          "meaning": "unusually good",
+          "word": "exceptional"
+        },
+        {
+          "meaning": "extraordinary in size or quality",
+          "word": "phenomenal"
+        },
+        {
+          "meaning": "causing great surprise",
+          "word": "amazing"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adverb",
+          "word": "extraordinarily"
+        },
+        {
+          "type": "noun",
+          "word": "extraordinaryness"
         }
       ]
     },
@@ -11717,6 +11956,64 @@
         {
           "type": "adjective",
           "word": "peerless"
+        }
+      ]
+    },
+    "v-01959": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "76dba00190b9bc2453089144b521f194d100239c3cf6efd24bdbaa2875318902",
+      "antonyms": [
+        {
+          "meaning": "a very short moment",
+          "word": "instant"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "time period",
+        "period of history",
+        "menstrual period",
+        "period of silence",
+        "period of growth"
+      ],
+      "common_mistake_correct": "Use \"period\" for a stretch of time, not the dot at the end of a sentence.",
+      "common_mistake_wrong": "Confusing \"period\" with the punctuation mark.",
+      "definition_en": "A length or portion of time measured between two points.",
+      "example_bn": "প্রকল্পটি ছয় মাসের সময়ের মধ্যে সম্পন্ন হবে।",
+      "example_en": "The project will be completed within a six‑month period.",
+      "memory_hook": "\"Per iod\" – think of something that repeats per each interval.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She wrote a period at the end of the word.",
+        "The period of the Renaissance was influential.",
+        "He bought a period for his garden.",
+        "They need a period to finish the race."
+      ],
+      "quiz_question": "Which sentence uses \"period\" correctly?",
+      "short_meaning_en": "time",
+      "synonyms": [
+        {
+          "meaning": "length of time",
+          "word": "duration"
+        },
+        {
+          "meaning": "time between events",
+          "word": "interval"
+        },
+        {
+          "meaning": "extent of time",
+          "word": "span"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "periodic"
+        },
+        {
+          "type": "adverb",
+          "word": "periodically"
         }
       ]
     },
@@ -19394,6 +19691,14 @@
       "source_fingerprint": "860cad96b599e14306ea3f175ae1222e70ae9ce930c2c527666abffb679cd843",
       "status": "valid"
     },
+    "v-00279": {
+      "audited_at": "2026-11-22T09:25:24.506640+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সর্বোত্তম",
+      "reason": "The Bangla meaning precisely matches the English word 'best'.",
+      "source_fingerprint": "3e1e2ac5ba6b98e20f94c4575cc8db50004cad3137980353dce1f25b59f6f3c6",
+      "status": "valid"
+    },
     "v-00297": {
       "audited_at": "2026-10-22T07:14:30.163335+00:00",
       "confidence": 0.98,
@@ -19432,6 +19737,14 @@
       "meaning_bn": "মাখন",
       "reason": "The meaning correctly corresponds to the dairy product 'butter'.",
       "source_fingerprint": "9fe726175d313aa9abb982fe9bbc7591d49f0867336d172288001bac759fac1f",
+      "status": "valid"
+    },
+    "v-00369": {
+      "audited_at": "2026-11-22T09:25:24.506585+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মন্ত্রিসভা",
+      "reason": "The meaning correctly corresponds to one primary sense of 'cabinet' as a body of ministers.",
+      "source_fingerprint": "731ab94d81d58034ad4af8bb2e586274939dab6f36963cdb87161b124e63e012",
       "status": "valid"
     },
     "v-00371": {
@@ -19576,6 +19889,14 @@
       "meaning_bn": "অবিরত, সর্বদা",
       "reason": "The Bangla meaning correctly conveys the adverb 'constantly' meaning continuously or always.",
       "source_fingerprint": "b2e47b2a8ee087cf143ea677d869bcf8fa13ec09c4923e776623e62804adbcfe",
+      "status": "valid"
+    },
+    "v-00584": {
+      "audited_at": "2026-11-22T09:25:24.506536+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "পরামর্শদাতা",
+      "reason": "The Bangla meaning accurately matches the English headword 'consultant' as a person who gives advice.",
+      "source_fingerprint": "dde92d3892ee678762646119f626a12f577fa7dcb86acfd020331380963f6f9f",
       "status": "valid"
     },
     "v-00585": {
@@ -19856,6 +20177,14 @@
       "meaning_bn": "প্রসারণ, ব্যাপ্তি, বৃদ্ধি",
       "reason": "The supplied Bangla meanings correctly capture the common senses of the English noun “extension”.",
       "source_fingerprint": "65bc341f46a87d34be6809e12ded6fd62609f51edb431b3c843e9dca9c002744",
+      "status": "valid"
+    },
+    "v-01003": {
+      "audited_at": "2026-11-22T09:25:24.506626+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "অস্বাভাবিক, অসাধারণ",
+      "reason": "The supplied meanings correctly capture the two common senses of 'extraordinary'.",
+      "source_fingerprint": "da97080f5b82765ab0d68ad5de660f51bb224dc3e8057a93577d0dcef9977d0f",
       "status": "valid"
     },
     "v-01005": {
@@ -20649,6 +20978,14 @@
       "reason": "The supplied meaning “দৃষ্টিগোচর হওয়া” is inaccurate for the verb “peer,” which means to look closely or to stare.",
       "source_fingerprint": "79e6525ba86264aad1649764ff668650ab6cce1f0cad7654e46ef8e817f69461",
       "status": "corrected"
+    },
+    "v-01959": {
+      "audited_at": "2026-11-22T09:25:24.506608+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সময়, কিছুর পরিমাপ-কাল",
+      "reason": "Both Bangla definitions accurately reflect the meanings of 'period' as a length of time and a measurement interval.",
+      "source_fingerprint": "76dba00190b9bc2453089144b521f194d100239c3cf6efd24bdbaa2875318902",
+      "status": "valid"
     },
     "v-01976": {
       "audited_at": "2026-11-02T08:56:01.228029+00:00",
@@ -21782,6 +22119,12 @@
       "version": "1.0.4",
       "voice_file_id": "AwACAgUAAxUHarZ_QcD--VbbBOZ2GO1NlV0avrMAAtQeAALpIblVpGEoZMWRsrw9BA"
     },
+    "v-00279": {
+      "audio_file_id": "CQACAgUAAxUHawK1ENRAHHNQaXzNepOuaUhth60AAk8lAAIZDhlUdOZ09kl4vcs9BA",
+      "cached_at": "2026-11-22T09:25:37.767150+00:00",
+      "photo_file_id": "AgACAgUAAxUHawK1Ef30zpHMaNheu34s6rW8ifoAAhIYaxsZDhlU20AQy1gK2GwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00283": {
       "cached_at": "2026-09-26T07:07:21.942503+00:00",
       "photo_file_id": "AgACAgUAAxUHardvKc5dwBFf3IMPrVBMdYPv2qkAAuIRaxvpIcFVkyKTFowlzj0BAAMCAANzAAM9BA",
@@ -21823,6 +22166,12 @@
       "photo_file_id": "AgACAgUAAxUHaradmTGpW3LlJAw_5YsqvC4Bp4oAAlsRaxvpIblVOhpXRJK1GRoBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradmdm7JRHqieXX-ukVlEG5jzIAAhwfAALpIblVyvEsVjWc8aM9BA"
+    },
+    "v-00369": {
+      "audio_file_id": "CQACAgUAAxUHawK1CbHIEEMiLP9exYmrwatsESYAAkwlAAIZDhlUvn4f6rffiTw9BA",
+      "cached_at": "2026-11-22T09:25:30.570441+00:00",
+      "photo_file_id": "AgACAgUAAxUHawK1CgicseUO4K-6JTFQGoCP76EAAg8YaxsZDhlUOAcf9QdJVw0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00371": {
       "audio_file_id": "CQACAgUAAxUHatXFP3JOfpwAATMBLuYWmE1mcbPVAAKTIQACjaixVk9Qa6AvAhCMPQQ",
@@ -21930,6 +22279,12 @@
       "audio_file_id": "CQACAgUAAxUHatRuefcOJ1bVd_7KMVbySsNInJgAArUhAAKNqKlWyNWo63sUsUo9BA",
       "cached_at": "2026-10-18T07:00:09.883806+00:00",
       "photo_file_id": "AgACAgUAAxUHatRueZ0RmGVpwqavTFnHvuDYdMUAArcTaxuNqKlW3Dvx60dILZoBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00584": {
+      "audio_file_id": "CQACAgUAAxUHawK1B6egaRpJGGOynF7PqUwHeyAAAkslAAIZDhlULzw-6QI356A9BA",
+      "cached_at": "2026-11-22T09:25:28.211297+00:00",
+      "photo_file_id": "AgACAgUAAxUHawK1B2i3ES76OIM1p2Fcwac4Hn4AAg4YaxsZDhlUF6CQdXPaWsUBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00585": {
@@ -22170,6 +22525,12 @@
       "audio_file_id": "CQACAgUAAxUHau7gOmVPdNpD5g3vFZGZW3j5RzIAAq8lAAJ0bXFXK6zK8GD0mts9BA",
       "cached_at": "2026-11-07T08:24:28.499293+00:00",
       "photo_file_id": "AgACAgUAAxUHau7gO7ISm2h9VmM-K6mQFLfjcpsAArMTaxt0bXFXu-hWzCtTkQkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01003": {
+      "audio_file_id": "CQACAgUAAxUHawK1DhioV1Mz-xsxWPPeJDDD1I4AAk4lAAIZDhlUK5Jw12ib2809BA",
+      "cached_at": "2026-11-22T09:25:35.472160+00:00",
+      "photo_file_id": "AgACAgUAAxUHawK1DrQCEN64LUiIuaEhTjoIZi0AAhEYaxsZDhlUJ_bCYn1sREYBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01005": {
@@ -22826,6 +23187,12 @@
       "audio_file_id": "CQACAgUAAxUHathk3_HK4C7E0A-BeRLoHdI4YIEAAm0jAAK63MBWiXy0oSCEhQ09BA",
       "cached_at": "2026-10-21T07:08:16.423562+00:00",
       "photo_file_id": "AgACAgUAAxUHathk31lQPlaAicX8rSfhWesEaZUAAqgcaxu63MBWILbAP5InXsEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01959": {
+      "audio_file_id": "CQACAgUAAxUHawK1DNLxzJYol8Pyy5pSz3pkcmoAAk0lAAIZDhlUJB3BoUoVEmU9BA",
+      "cached_at": "2026-11-22T09:25:32.991409+00:00",
+      "photo_file_id": "AgACAgUAAxUHawK1DLZ8CYVx0CJJkgd09yTFVmIAAhAYaxsZDhlUeAbTaJtO5CABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01972": {
@@ -23792,6 +24159,12 @@
       "last_message_id": 32,
       "published_at": "2026-09-25T14:03:46.281690+00:00"
     },
+    "v-00279": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 367,
+      "published_at": "2026-11-22T09:25:37.767178+00:00"
+    },
     "v-00283": {
       "count": 1,
       "last_cycle": 1,
@@ -23834,6 +24207,12 @@
       "last_message_id": 49,
       "published_at": "2026-09-25T16:13:13.802383+00:00",
       "quiz_message_id": 50
+    },
+    "v-00369": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 364,
+      "published_at": "2026-11-22T09:25:30.570470+00:00"
     },
     "v-00371": {
       "count": 1,
@@ -23942,6 +24321,12 @@
       "last_cycle": 1,
       "last_message_id": 192,
       "published_at": "2026-10-18T07:00:09.883829+00:00"
+    },
+    "v-00584": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 363,
+      "published_at": "2026-11-22T09:25:28.211327+00:00"
     },
     "v-00585": {
       "count": 1,
@@ -24185,6 +24570,12 @@
       "last_cycle": 1,
       "last_message_id": 288,
       "published_at": "2026-11-07T08:24:28.499325+00:00"
+    },
+    "v-01003": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 366,
+      "published_at": "2026-11-22T09:25:35.472186+00:00"
     },
     "v-01005": {
       "count": 1,
@@ -24854,6 +25245,12 @@
       "last_cycle": 1,
       "last_message_id": 207,
       "published_at": "2026-10-21T07:08:16.423586+00:00"
+    },
+    "v-01959": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 365,
+      "published_at": "2026-11-22T09:25:32.991435+00:00"
     },
     "v-01972": {
       "count": 1,
@@ -25662,11 +26059,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00584",
-    "v-00369",
-    "v-01959",
-    "v-01003",
-    "v-00279",
     "v-00726",
     "v-00099",
     "v-02581",
@@ -28832,41 +29224,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261024T065425Z-156dab0e": {
-      "completed_at": "2026-10-24T06:54:37.883709+00:00",
-      "created_at": "2026-10-24T06:54:25.264300+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01774"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01935"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01082"
-        },
-        {
-          "cycle": 1,
-          "id": "v-04246"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03003"
-        }
-      ],
-      "published_ids": [
-        "v-01774",
-        "v-01935",
-        "v-01082",
-        "v-04246",
-        "v-03003"
-      ],
-      "status": "completed"
-    },
     "20261025T071902Z-15ac6eea": {
       "completed_at": "2026-10-25T07:19:17.350855+00:00",
       "created_at": "2026-10-25T07:19:02.487124+00:00",
@@ -29886,6 +30243,41 @@
         "v-04177",
         "v-04226",
         "v-00223"
+      ],
+      "status": "completed"
+    },
+    "20261122T092524Z-a0f5da53": {
+      "completed_at": "2026-11-22T09:25:37.795041+00:00",
+      "created_at": "2026-11-22T09:25:24.099294+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00584"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00369"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01959"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01003"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00279"
+        }
+      ],
+      "published_ids": [
+        "v-00584",
+        "v-00369",
+        "v-01959",
+        "v-01003",
+        "v-00279"
       ],
       "status": "completed"
     }
@@ -32475,6 +32867,43 @@
         "v-00223"
       ],
       "run_id": "20261121T091634Z-8e515054",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-22T09:25:37.795041+00:00",
+      "created_at": "2026-11-22T09:25:24.099294+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00584"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00369"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01959"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01003"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00279"
+        }
+      ],
+      "published_ids": [
+        "v-00584",
+        "v-00369",
+        "v-01959",
+        "v-01003",
+        "v-00279"
+      ],
+      "run_id": "20261122T092524Z-a0f5da53",
       "status": "completed",
       "unknown_ids": []
     }
