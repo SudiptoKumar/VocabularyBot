@@ -377,6 +377,64 @@
         }
       ]
     },
+    "v-00076": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "7aff884aab71c19163d7dbd2dd4c18684bff0cc6568c65c58edef58955988a50",
+      "antonyms": [
+        {
+          "meaning": "young age",
+          "word": "youth"
+        },
+        {
+          "meaning": "early age",
+          "word": "infancy"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "old age",
+        "young age",
+        "age group",
+        "age limit",
+        "age of technology"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The length of time a person has lived or a period in history.",
+      "example_bn": "তার বয়স ২৫ বছর, তাই তার বয়স ২৫।",
+      "example_en": "She is 25 years old, so her age is 25.",
+      "memory_hook": "Age sounds like \"a gauge\" – a measure of how long you’ve been alive.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She is age 30.",
+        "She age 30 years.",
+        "She has age 30.",
+        "She is 30 age."
+      ],
+      "quiz_question": "Which phrase correctly uses \"age\"?",
+      "short_meaning_en": "time lived",
+      "synonyms": [
+        {
+          "meaning": "time measured in years",
+          "word": "years"
+        },
+        {
+          "meaning": "period",
+          "word": "era"
+        },
+        {
+          "meaning": "cohort",
+          "word": "generation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "aged"
+        }
+      ]
+    },
     "v-00079": {
       "_content_version": "1.1.0",
       "antonyms": [
@@ -485,6 +543,64 @@
         }
       ],
       "word_family": []
+    },
+    "v-00099": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "3307d10a28fce84c4dcab571d0bc48e128ffa6879f8819779bd232fa1f8b8d26",
+      "antonyms": [
+        {
+          "meaning": "competition",
+          "word": "rivalry"
+        },
+        {
+          "meaning": "unfriendliness",
+          "word": "hostility"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "military alliance",
+        "strategic alliance",
+        "alliance treaty",
+        "close alliance",
+        "alliance of nations"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A formal agreement or partnership between groups for mutual benefit.",
+      "example_bn": "দুটি দেশ বাণিজ্য উন্নত করার জন্য একটি মৈত্রী গঠন করেছিল।",
+      "example_en": "The two countries formed an alliance to improve trade.",
+      "memory_hook": "Alliance sounds like \"allies\" – countries that stand together.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a fight",
+        "a partnership",
+        "a solo effort",
+        "a disagreement"
+      ],
+      "quiz_question": "Which phrase best describes an \"alliance\"?",
+      "short_meaning_en": "partnership",
+      "synonyms": [
+        {
+          "meaning": "joint cooperation",
+          "word": "partnership"
+        },
+        {
+          "meaning": "temporary alliance",
+          "word": "coalition"
+        },
+        {
+          "meaning": "joining together",
+          "word": "union"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "ally"
+        }
+      ]
     },
     "v-00105": {
       "_content_version": "1.2.4",
@@ -4015,6 +4131,68 @@
         {
           "type": "verb",
           "word": "defeating"
+        }
+      ]
+    },
+    "v-00726": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "2fe9e0f3efd3de307ee0663acb3ad96f3678a304ad1d2bc1234826287aed3e8f",
+      "antonyms": [
+        {
+          "meaning": "hiding",
+          "word": "concealment"
+        },
+        {
+          "meaning": "stopping",
+          "word": "suppression"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "public demonstration",
+        "live demonstration",
+        "demonstration of skill",
+        "peaceful demonstration",
+        "demonstration video"
+      ],
+      "common_mistake_correct": "demonstrate",
+      "common_mistake_wrong": "demonstration (verb)",
+      "definition_en": "A public display of ideas or a proof shown directly.",
+      "example_bn": "বিজ্ঞানীরা নতুন ব্যাটারির কাজ দেখাতে একটি ডেমন্স্ট্রেইশন করেছিল।",
+      "example_en": "The scientists held a demonstration to show how the new battery works.",
+      "memory_hook": "Think of a demo that shows something directly, like a science demo.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "exhibit",
+        "demonstration",
+        "presentation",
+        "showcase"
+      ],
+      "quiz_question": "Which word best fits: \"The protest turned into a ___ in the city square.\"",
+      "short_meaning_en": "proof display",
+      "synonyms": [
+        {
+          "meaning": "show publicly",
+          "word": "exhibit"
+        },
+        {
+          "meaning": "public showing",
+          "word": "presentation"
+        },
+        {
+          "meaning": "display",
+          "word": "showcase"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "demonstrate"
+        },
+        {
+          "type": "adjective",
+          "word": "demonstrative"
         }
       ]
     },
@@ -10587,6 +10765,68 @@
         }
       ]
     },
+    "v-01716": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e03958be10fdde472122ece561959419aef92286bd73061e81b11d200d178edf",
+      "antonyms": [
+        {
+          "meaning": "lacking musical tone",
+          "word": "atonal"
+        },
+        {
+          "meaning": "not musical",
+          "word": "unmusical"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "musical instrument",
+        "musical score",
+        "musical talent",
+        "musical theater",
+        "musical genre"
+      ],
+      "common_mistake_correct": "musician",
+      "common_mistake_wrong": "musical (noun)",
+      "definition_en": "Relating to music or having musical qualities.",
+      "example_bn": "তার পিয়ানো বাজানোর সঙ্গীত-সংক্রান্ত প্রতিভা আছে।",
+      "example_en": "She has a musical talent for playing the piano.",
+      "memory_hook": "Musical ends with \"-al\" – think of an adjective describing music.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "She is a musical.",
+        "The musical piece was beautiful.",
+        "He bought a musical.",
+        "They enjoyed the musical."
+      ],
+      "quiz_question": "Choose the correct use of \"musical\":",
+      "short_meaning_en": "musical",
+      "synonyms": [
+        {
+          "meaning": "tuneful",
+          "word": "melodic"
+        },
+        {
+          "meaning": "musically pleasing",
+          "word": "harmonic"
+        },
+        {
+          "meaning": "having a good tune",
+          "word": "tuneful"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "music"
+        },
+        {
+          "type": "noun",
+          "word": "musician"
+        }
+      ]
+    },
     "v-01726": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "f53e799a35e880e761c703231a09c507cb7c53b3b9a411defcd15bfea59831c2",
@@ -15085,6 +15325,68 @@
         }
       ]
     },
+    "v-02581": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "11913708d3f27d970e21cce7d2ce70ca8a663c5658bb7c839416cc8db47c44e4",
+      "antonyms": [
+        {
+          "meaning": "nothing",
+          "word": "void"
+        },
+        {
+          "meaning": "lack of substance",
+          "word": "emptiness"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "chemical substance",
+        "pure substance",
+        "substance abuse",
+        "substance of the argument",
+        "substance test"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The material or matter that something is made of.",
+      "example_bn": "পানি একটি বস্তু যা কঠিন, তরল বা গ্যাস রূপে থাকতে পারে।",
+      "example_en": "Water is a substance that can exist as solid, liquid, or gas.",
+      "memory_hook": "Substance starts with \"sub-\" like \"under\" – the stuff underneath everything.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "He is a substance of the team.",
+        "The substance of the cake is sugar.",
+        "The substance was invisible.",
+        "She bought a substance of jewelry."
+      ],
+      "quiz_question": "Which sentence uses \"substance\" correctly?",
+      "short_meaning_en": "material",
+      "synonyms": [
+        {
+          "meaning": "stuff",
+          "word": "material"
+        },
+        {
+          "meaning": "physical stuff",
+          "word": "matter"
+        },
+        {
+          "meaning": "thing",
+          "word": "entity"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "substantive"
+        },
+        {
+          "type": "verb",
+          "word": "substantiate"
+        }
+      ]
+    },
     "v-02609": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "83a3fd2adae75b6d1f69862ed38d51eb587fa33197a1f38832a93a95206d62f4",
@@ -19555,12 +19857,28 @@
       "source_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
       "status": "valid"
     },
+    "v-00076": {
+      "audited_at": "2026-11-23T10:21:40.674592+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বয়স, যুগ",
+      "reason": "The Bangla meanings correctly represent the noun 'age' as age (human) and era.",
+      "source_fingerprint": "7aff884aab71c19163d7dbd2dd4c18684bff0cc6568c65c58edef58955988a50",
+      "status": "valid"
+    },
     "v-00086": {
       "audited_at": "2026-11-04T08:41:37.763283+00:00",
       "confidence": 0.99,
       "meaning_bn": "সম্মুখে, আগে",
       "reason": "The provided Bangla meaning correctly captures the adverbial sense of 'ahead' meaning forward or in front.",
       "source_fingerprint": "e80002038f507997dc04cfb2925c397b39b53e70bc3b9d70f769ad8d84c686d3",
+      "status": "valid"
+    },
+    "v-00099": {
+      "audited_at": "2026-11-23T10:21:40.674504+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মৈত্রী, সন্ধি",
+      "reason": "The provided Bangla meanings correctly correspond to the noun 'alliance' meaning friendship or treaty.",
+      "source_fingerprint": "3307d10a28fce84c4dcab571d0bc48e128ffa6879f8819779bd232fa1f8b8d26",
       "status": "valid"
     },
     "v-00105": {
@@ -19993,6 +20311,14 @@
       "meaning_bn": "পরাজিত করা, পরাস্ত করতে",
       "reason": "The Bangla meaning accurately reflects the verb 'defeat'.",
       "source_fingerprint": "1b00164c1ab24b95f4827d5d73eda83ad4b1b7f62329f1c44226baca2723514c",
+      "status": "valid"
+    },
+    "v-00726": {
+      "audited_at": "2026-11-23T10:21:40.674443+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "প্রত্যক্ষ প্রমাণ, প্রতিপাদন",
+      "reason": "The Bangla meaning accurately reflects the primary senses of 'demonstration' as a noun meaning proof or display.",
+      "source_fingerprint": "2fe9e0f3efd3de307ee0663acb3ad96f3678a304ad1d2bc1234826287aed3e8f",
       "status": "valid"
     },
     "v-00734": {
@@ -20811,6 +21137,14 @@
       "source_fingerprint": "ade52442edc2d33198aaf1b897cf46ad4bcd245768c0678dafe77510c8ab7be8",
       "status": "valid"
     },
+    "v-01716": {
+      "audited_at": "2026-11-23T10:21:40.674565+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সঙ্গীত-সংক্রান্ত",
+      "reason": "The meaning matches the adjective 'musical' relating to music.",
+      "source_fingerprint": "e03958be10fdde472122ece561959419aef92286bd73061e81b11d200d178edf",
+      "status": "valid"
+    },
     "v-01726": {
       "audited_at": "2026-10-15T07:01:25.823855+00:00",
       "confidence": 0.99,
@@ -21394,6 +21728,14 @@
       "reason": "The supplied meaning 'সরল করা' is unrelated; 'strengthen' means to make stronger or more robust.",
       "source_fingerprint": "d342d02f21ea4e68a92893b98775100834e422873d966f6d18125189ce5a8b17",
       "status": "corrected"
+    },
+    "v-02581": {
+      "audited_at": "2026-11-23T10:21:40.674537+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বস্তু, পদার্থ",
+      "reason": "Both Bangla terms accurately capture the meanings of 'substance' as material or matter.",
+      "source_fingerprint": "11913708d3f27d970e21cce7d2ce70ca8a663c5658bb7c839416cc8db47c44e4",
+      "status": "valid"
     },
     "v-02609": {
       "audited_at": "2026-11-18T09:46:58.391257+00:00",
@@ -21999,6 +22341,12 @@
       "photo_file_id": "AgACAgUAAxUHasnysNx6U9qjVnyRoRKYZ0S0WKQAAtgSaxvvcVFWHgYTmpDrwasBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00076": {
+      "audio_file_id": "CQACAgUAAxUHawQTwf9nu1D2ERgnIbpsk-og4V8AAhgjAAJagCBUDZK3PJoWKxk9BA",
+      "cached_at": "2026-11-23T10:21:53.978675+00:00",
+      "photo_file_id": "AgACAgUAAxUHawQTwbEOlG0ojBs_BByZ1hI-OV8AAnYWaxtagCBUt1lTqvPFK1wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00079": {
       "cached_at": "2026-09-25T16:45:15.237239+00:00",
       "photo_file_id": "AgACAgUAAxUHaralGrgo5a11XPg3Fsj7u03Wkr4AAoMRaxvpIblVCiw0IATwDI8BAAMCAANzAAM9BA",
@@ -22009,6 +22357,12 @@
       "audio_file_id": "CQACAgUAAxUHaurvyWgRZCNm2e2XKcAafaFyRwcAAmsjAALlPlhX8hv9xaiFgQc9BA",
       "cached_at": "2026-11-04T08:41:45.829958+00:00",
       "photo_file_id": "AgACAgUAAxUHaurvybwHEZdc9zKQ1o-3GQRiHQMAAjgVaxvlPlhXPQWrc48TScgBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00099": {
+      "audio_file_id": "CQACAgUAAxUHawQTusOATS6EQ6zSQRTNk841Q0oAAhUjAAJagCBUIma4E4B_JJQ9BA",
+      "cached_at": "2026-11-23T10:21:46.931400+00:00",
+      "photo_file_id": "AgACAgUAAxUHawQTupwwvAxX4zdjJDb-buOteOgAAnMWaxtagCBUkUIHGjeauVMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00105": {
@@ -22375,6 +22729,12 @@
       "audio_file_id": "CQACAgUAAxUHarjIG4XGNbjHjaPg4DOIws9u8A8AAsEiAAKcC8lVtZaPUQp8vVk9BA",
       "cached_at": "2026-09-27T07:39:07.692429+00:00",
       "photo_file_id": "AgACAgUAAxUHarjIG8__kNt9nIQdVxukfsQFxtAAApMUaxucC8lVeJjhCmREClEBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00726": {
+      "audio_file_id": "CQACAgUAAxUHawQTtwkLNg7FGMuqFuWny0XOEUgAAhQjAAJagCBU-yEFVkQraaY9BA",
+      "cached_at": "2026-11-23T10:21:44.576387+00:00",
+      "photo_file_id": "AgACAgUAAxUHawQTuL_C-IrH1weGzszl5KTWZQgAAnIWaxtagCBUobYEn_tqNBABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00734": {
@@ -23039,6 +23399,12 @@
       "photo_file_id": "AgACAgUAAxUHauL-Wtd7t8thOT7c121-FnMw-AADuxNrGy3HGFdDybxT_j_IYQEAAwIAA3MAAz0E",
       "version": "1.2.5"
     },
+    "v-01716": {
+      "audio_file_id": "CQACAgUAAxUHawQTvghM-mRyeRlS_6c2ApsCKZYAAhcjAAJagCBUdgQZAAGyxF4JPQQ",
+      "cached_at": "2026-11-23T10:21:51.849072+00:00",
+      "photo_file_id": "AgACAgUAAxUHawQTv6ajtusqD7hIfWrkomjTpLoAAnUWaxtagCBUgz5VpPrxxPkBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01726": {
       "audio_file_id": "CQACAgUAAxUHatB6SY4mXieSyY5eG2PBKhNByR0AAvMgAALrMoFW-xUk03q9hEY9BA",
       "cached_at": "2026-10-15T07:01:29.941491+00:00",
@@ -23505,6 +23871,12 @@
       "audio_file_id": "CQACAgUAAxUHavQtO8vxelROv3KKf1EeoNUdgdkAAhIqAAKi-qBXgcNsFh94ZzM9BA",
       "cached_at": "2026-11-11T08:54:20.411697+00:00",
       "photo_file_id": "AgACAgUAAxUHavQtO6hIcJYFDVqCiFYgDzDDFREAAp0Vaxui-qBXhqnqW9W8Q0YBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02581": {
+      "audio_file_id": "CQACAgUAAxUHawQTvMBuI-6_zDwLRwABR_S9wbBbAAIWIwACWoAgVKfuHKvmIm_tPQQ",
+      "cached_at": "2026-11-23T10:21:49.323958+00:00",
+      "photo_file_id": "AgACAgUAAxUHawQTvLg9gE-S9XRqTcD43JWdgUkAAnQWaxtagCBUq3l7QE3C8tABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02609": {
@@ -24039,6 +24411,12 @@
       "last_message_id": 153,
       "published_at": "2026-10-10T08:09:21.513145+00:00"
     },
+    "v-00076": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 372,
+      "published_at": "2026-11-23T10:21:53.978706+00:00"
+    },
     "v-00079": {
       "count": 1,
       "last_cycle": 1,
@@ -24050,6 +24428,12 @@
       "last_cycle": 1,
       "last_message_id": 274,
       "published_at": "2026-11-04T08:41:45.829989+00:00"
+    },
+    "v-00099": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 369,
+      "published_at": "2026-11-23T10:21:46.931437+00:00"
     },
     "v-00105": {
       "count": 1,
@@ -24418,6 +24802,12 @@
       "last_cycle": 1,
       "last_message_id": 88,
       "published_at": "2026-09-27T07:39:07.692455+00:00"
+    },
+    "v-00726": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 368,
+      "published_at": "2026-11-23T10:21:44.576414+00:00"
     },
     "v-00734": {
       "count": 1,
@@ -25094,6 +25484,12 @@
       "last_message_id": 247,
       "published_at": "2026-10-29T08:05:47.038965+00:00"
     },
+    "v-01716": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 371,
+      "published_at": "2026-11-23T10:21:51.849095+00:00"
+    },
     "v-01726": {
       "count": 1,
       "last_cycle": 1,
@@ -25563,6 +25959,12 @@
       "last_cycle": 1,
       "last_message_id": 312,
       "published_at": "2026-11-11T08:54:20.411757+00:00"
+    },
+    "v-02581": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 370,
+      "published_at": "2026-11-23T10:21:49.323981+00:00"
     },
     "v-02609": {
       "count": 1,
@@ -26059,11 +26461,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00726",
-    "v-00099",
-    "v-02581",
-    "v-01716",
-    "v-00076",
     "v-02421",
     "v-01744",
     "v-02409",
@@ -29224,41 +29621,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261025T071902Z-15ac6eea": {
-      "completed_at": "2026-10-25T07:19:17.350855+00:00",
-      "created_at": "2026-10-25T07:19:02.487124+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02764"
-        },
-        {
-          "cycle": 1,
-          "id": "v-04279"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01106"
-        },
-        {
-          "cycle": 1,
-          "id": "v-03907"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00640"
-        }
-      ],
-      "published_ids": [
-        "v-02764",
-        "v-04279",
-        "v-01106",
-        "v-03907",
-        "v-00640"
-      ],
-      "status": "completed"
-    },
     "20261026T075557Z-f6042d1e": {
       "completed_at": "2026-10-26T07:55:59.375173+00:00",
       "created_at": "2026-10-26T07:55:57.543204+00:00",
@@ -30278,6 +30640,41 @@
         "v-01959",
         "v-01003",
         "v-00279"
+      ],
+      "status": "completed"
+    },
+    "20261123T102140Z-3a88257f": {
+      "completed_at": "2026-11-23T10:21:54.024841+00:00",
+      "created_at": "2026-11-23T10:21:40.241704+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00726"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00099"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02581"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01716"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00076"
+        }
+      ],
+      "published_ids": [
+        "v-00726",
+        "v-00099",
+        "v-02581",
+        "v-01716",
+        "v-00076"
       ],
       "status": "completed"
     }
@@ -32904,6 +33301,43 @@
         "v-00279"
       ],
       "run_id": "20261122T092524Z-a0f5da53",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-23T10:21:54.024841+00:00",
+      "created_at": "2026-11-23T10:21:40.241704+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00726"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00099"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02581"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01716"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00076"
+        }
+      ],
+      "published_ids": [
+        "v-00726",
+        "v-00099",
+        "v-02581",
+        "v-01716",
+        "v-00076"
+      ],
+      "run_id": "20261123T102140Z-3a88257f",
       "status": "completed",
       "unknown_ids": []
     }
