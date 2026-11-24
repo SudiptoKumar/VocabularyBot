@@ -319,6 +319,64 @@
         }
       ]
     },
+    "v-00054": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "b09d481943c97103ab8e396670fabdc81e5ea88d0a68d59b4a9da5fe13790ff2",
+      "antonyms": [
+        {
+          "meaning": "a fully grown person",
+          "word": "adult"
+        },
+        {
+          "meaning": "an older person",
+          "word": "elder"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "adolescent behavior",
+        "adolescent health",
+        "adolescent development",
+        "adolescent years",
+        "adolescent issues"
+      ],
+      "common_mistake_correct": "adolescent",
+      "common_mistake_wrong": "adolesent",
+      "definition_en": "A young person who is in the period between childhood and adulthood.",
+      "example_bn": "নবযুবক স্কুলের চাপের সঙ্গে সংগ্রাম করছিল।",
+      "example_en": "The adolescent struggled with school pressures.",
+      "memory_hook": "Think of ADULT minus the 't' – you get ADOLESCENT, a not‑yet‑adult.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "infant",
+        "adolescent",
+        "senior",
+        "adult"
+      ],
+      "quiz_question": "What word describes a person between childhood and adulthood?",
+      "short_meaning_en": "teenager",
+      "synonyms": [
+        {
+          "meaning": "a person aged 13‑19",
+          "word": "teenager"
+        },
+        {
+          "meaning": "young person",
+          "word": "youth"
+        },
+        {
+          "meaning": "a child or young person",
+          "word": "youngster"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "adolescence"
+        }
+      ]
+    },
     "v-00068": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
@@ -9586,6 +9644,68 @@
         }
       ]
     },
+    "v-01554": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "aba2540702c51e7e6d75cf058e0ad005817a7f4ddc229eea7d407f7df732e8cc",
+      "antonyms": [
+        {
+          "meaning": "to pay no attention",
+          "word": "ignore"
+        },
+        {
+          "meaning": "to treat as unimportant",
+          "word": "disregard"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "listen to music",
+        "listen carefully",
+        "listen attentively",
+        "listen for",
+        "listen up"
+      ],
+      "common_mistake_correct": "listen",
+      "common_mistake_wrong": "listenn",
+      "definition_en": "To give attention to sounds by using your ears.",
+      "example_bn": "অনুগ্রহ করে নির্দেশনাগুলো মনোযোগ দিয়ে শুনুন।",
+      "example_en": "Please listen carefully to the instructions.",
+      "memory_hook": "When you 'list' your ears, you 'listen' to the sounds.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "speak",
+        "listen",
+        "write",
+        "run"
+      ],
+      "quiz_question": "Which verb means to pay attention to sounds?",
+      "short_meaning_en": "hear",
+      "synonyms": [
+        {
+          "meaning": "to perceive sound",
+          "word": "hear"
+        },
+        {
+          "meaning": "to focus on",
+          "word": "pay attention"
+        },
+        {
+          "meaning": "to give one's attention",
+          "word": "attend"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "listener"
+        },
+        {
+          "type": "noun",
+          "word": "listening"
+        }
+      ]
+    },
     "v-01562": {
       "_content_version": "1.2.1",
       "_meaning_fingerprint": "416f5f3a69226785a298e76724a4e4abfd0abef7445973d908acd5e723d9e43e",
@@ -10877,6 +10997,68 @@
         {
           "type": "noun",
           "word": "naming"
+        }
+      ]
+    },
+    "v-01744": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "2dd3f41677fc15dba8270065492d62f96101e17cd64ffc69d10164789254d08d",
+      "antonyms": [
+        {
+          "meaning": "a serious disagreement",
+          "word": "conflict"
+        },
+        {
+          "meaning": "a deadlock",
+          "word": "impasse"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "successful negotiation",
+        "negotiation process",
+        "negotiation table",
+        "negotiation skills",
+        "open negotiation"
+      ],
+      "common_mistake_correct": "negotiation",
+      "common_mistake_wrong": "negotiaton",
+      "definition_en": "A discussion between parties aimed at reaching an agreement.",
+      "example_bn": "দুইটি কোম্পানি বিবাদ সমাধানের জন্য আলোচনায় প্রবেশ করেছে।",
+      "example_en": "The two companies entered into a negotiation to settle the dispute.",
+      "memory_hook": "Imagine two sides shaking hands – they are NEGOTIATING, so the event is a NEGOTIATION.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "argument",
+        "negotiation",
+        "lecture",
+        "announcement"
+      ],
+      "quiz_question": "What is the term for a formal discussion to reach an agreement?",
+      "short_meaning_en": "discussion",
+      "synonyms": [
+        {
+          "meaning": "the act of negotiating",
+          "word": "bargaining"
+        },
+        {
+          "meaning": "formal discussions",
+          "word": "talks"
+        },
+        {
+          "meaning": "careful consideration",
+          "word": "deliberation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "negotiate"
+        },
+        {
+          "type": "noun",
+          "word": "negotiator"
         }
       ]
     },
@@ -14767,6 +14949,130 @@
         {
           "type": "noun",
           "word": "sheeting"
+        }
+      ]
+    },
+    "v-02409": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "fe5aacbbc19ee070b57f36f9053e8bbb5e83bfc819a90fcc9922f33f81fe7df6",
+      "antonyms": [
+        {
+          "meaning": "to keep out of sight",
+          "word": "hide"
+        },
+        {
+          "meaning": "to keep secret",
+          "word": "conceal"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "show up",
+        "show interest",
+        "show respect",
+        "show a video",
+        "show results"
+      ],
+      "common_mistake_correct": "show",
+      "common_mistake_wrong": "shouw",
+      "definition_en": "To cause someone to see or become aware of something.",
+      "example_bn": "তিনি মিটিংয়ে ছবিগুলো দেখাবেন।",
+      "example_en": "She will show the photos at the meeting.",
+      "memory_hook": "When you turn on a TV, you SHOW the picture to the audience.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "hide",
+        "show",
+        "ignore",
+        "cover"
+      ],
+      "quiz_question": "Which verb means 'to display something to others'?",
+      "short_meaning_en": "display",
+      "synonyms": [
+        {
+          "meaning": "to exhibit",
+          "word": "display"
+        },
+        {
+          "meaning": "to present publicly",
+          "word": "exhibit"
+        },
+        {
+          "meaning": "to give or display",
+          "word": "present"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "showing"
+        },
+        {
+          "type": "noun",
+          "word": "showcase"
+        }
+      ]
+    },
+    "v-02421": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "43b7760ec6bc779a70adbd309f156dd4410a2a611b4d0ced2ee214fa71a06dc2",
+      "antonyms": [
+        {
+          "meaning": "by a small amount",
+          "word": "slightly"
+        },
+        {
+          "meaning": "to a very small degree",
+          "word": "minimally"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "significantly higher",
+        "significantly lower",
+        "significantly improve",
+        "significantly affect",
+        "significantly reduce"
+      ],
+      "common_mistake_correct": "significantly",
+      "common_mistake_wrong": "significantlyly",
+      "definition_en": "In a way that is large or important enough to be noticed.",
+      "example_bn": "কোম্পানির লাভ গত বছর উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে।",
+      "example_en": "The company's profits increased significantly last year.",
+      "memory_hook": "Think of a SIGN that is so big it changes the picture – it’s SIGNIFICANT, so you do it SIGNIFICANTLY.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "slightly",
+        "significantly",
+        "barely",
+        "hardly"
+      ],
+      "quiz_question": "Which word best fits: \"The results were ___ better than expected\"?",
+      "short_meaning_en": "large amount",
+      "synonyms": [
+        {
+          "meaning": "to a great extent",
+          "word": "substantially"
+        },
+        {
+          "meaning": "by a large amount",
+          "word": "considerably"
+        },
+        {
+          "meaning": "in a noticeable way",
+          "word": "markedly"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "significant"
+        },
+        {
+          "type": "noun",
+          "word": "significance"
         }
       ]
     },
@@ -19849,6 +20155,14 @@
       "source_fingerprint": "95ce7a75a3d6cb04894c86010e71df00128eb0e34a1d9bd51cc5518c1adbb2dd",
       "status": "valid"
     },
+    "v-00054": {
+      "audited_at": "2026-11-24T12:03:04.834400+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "নবযুবক, নবযুবতী",
+      "reason": "The meaning correctly corresponds to the noun 'adolescent'.",
+      "source_fingerprint": "b09d481943c97103ab8e396670fabdc81e5ea88d0a68d59b4a9da5fe13790ff2",
+      "status": "valid"
+    },
     "v-00068": {
       "audited_at": "2026-10-10T08:09:16.772335+00:00",
       "confidence": 0.97,
@@ -21001,6 +21315,14 @@
       "source_fingerprint": "92253dda775e14e40ba39847e5dfc4f3f5e4835f136edf421411285b4c7be2a4",
       "status": "corrected"
     },
+    "v-01554": {
+      "audited_at": "2026-11-24T12:03:04.834434+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "শোনা, কান দেওয়া, শুনতে",
+      "reason": "The meaning accurately reflects the verb 'listen'.",
+      "source_fingerprint": "aba2540702c51e7e6d75cf058e0ad005817a7f4ddc229eea7d407f7df732e8cc",
+      "status": "valid"
+    },
     "v-01562": {
       "audited_at": "2026-09-26T23:32:05.945824+00:00",
       "confidence": 0.99,
@@ -21152,6 +21474,14 @@
       "reason": "The Bangla meaning accurately reflects both the noun and verb senses of 'name' as given in the source.",
       "source_fingerprint": "f53e799a35e880e761c703231a09c507cb7c53b3b9a411defcd15bfea59831c2",
       "status": "valid"
+    },
+    "v-01744": {
+      "audited_at": "2026-11-24T12:03:04.834300+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "আলোচনা, দরকষাকষি",
+      "reason": "The source meaning 'সন্ধিসংস্থাপন' does not correspond to the English word 'negotiation'. The appropriate Bengali translations are 'আলোচনা' and 'দরকষাকষি'.",
+      "source_fingerprint": "12b98b9670cb72f3178827875fa36d02cd16ed90077d421ddea785dafc674cbb",
+      "status": "corrected"
     },
     "v-01757": {
       "audited_at": "2026-10-04T07:49:08.754058+00:00",
@@ -21656,6 +21986,22 @@
       "reason": "Both Bangla senses are valid translations of the noun “sheet”.",
       "source_fingerprint": "874a606e4d1b652b1c6e89d6cf604cd11c49cf240701e742531f9d4065136fe7",
       "status": "valid"
+    },
+    "v-02409": {
+      "audited_at": "2026-11-24T12:03:04.834366+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "দেখানো, প্রদর্শন করা, দেখাতে",
+      "reason": "The meaning accurately reflects the verb 'show'.",
+      "source_fingerprint": "fe5aacbbc19ee070b57f36f9053e8bbb5e83bfc819a90fcc9922f33f81fe7df6",
+      "status": "valid"
+    },
+    "v-02421": {
+      "audited_at": "2026-11-24T12:03:04.519540+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "গুরুতরভাবে, উল্লেখযোগ্যভাবে",
+      "reason": "The source meaning 'লক্ষণযুক্তভাবে' does not correspond to the English adverb 'significantly', which is used to mean 'গুরুতরভাবে' or 'উল্লেখযোগ্যভাবে' in Bangla.",
+      "source_fingerprint": "84e4fb9b0e3ee27880e4de8df21149a81f018ea98442e704f681d8439ac07293",
+      "status": "corrected"
     },
     "v-02423": {
       "audited_at": "2026-09-26T12:40:01.633555+00:00",
@@ -22333,6 +22679,12 @@
       "audio_file_id": "CQACAgUAAxUHauGq8IW-qpgBuSYtjMB-Pd5i79UAAuglAAIz9xBXWkEkhBulTYI9BA",
       "cached_at": "2026-10-28T07:57:36.909703+00:00",
       "photo_file_id": "AgACAgUAAxUHauGq8OUhRwPvq_rvwf5EoEI2H1MAAj8eaxsz9xBXtbubr47OHMcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00054": {
+      "audio_file_id": "CQACAgUAAxUHawV9A2mvNmU8rXKx0DEIn7odczAAAiQlAAJagChUIUkimmvHqB09BA",
+      "cached_at": "2026-11-24T12:03:15.940987+00:00",
+      "photo_file_id": "AgACAgUAAxUHawV9A9U2rUY0MPyGD5WYQSFfnxkAAt4VaxtagChUGqSwyQVI67UBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00068": {
@@ -23282,6 +23634,12 @@
       "photo_file_id": "AgACAgUAAxUHare9JTkoc45evcLl_VbaHSoLuDcAAhwTaxvpIcFVnAZRhCvEMigBAAMCAANzAAM9BA",
       "version": "1.2.0"
     },
+    "v-01554": {
+      "audio_file_id": "CQACAgUAAxUHawV9BV2hWbzbqurQgKdiASpmUPwAAiUlAAJagChUpcbcZ9Pjq8M9BA",
+      "cached_at": "2026-11-24T12:03:18.033261+00:00",
+      "photo_file_id": "AgACAgUAAxUHawV9Bf25RbfTYNUEaOGGfvHsoMIAAt8VaxtagChUxBYlHAi9GS4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01562": {
       "audio_file_id": "AwACAgUAAxUHarhV_05cXgIY9C_2xBAQwyFDYYUAAkchAAKcC8lVqyesGQybNZA9BA",
       "cached_at": "2026-09-26T23:32:16.440892+00:00",
@@ -23409,6 +23767,12 @@
       "audio_file_id": "CQACAgUAAxUHatB6SY4mXieSyY5eG2PBKhNByR0AAvMgAALrMoFW-xUk03q9hEY9BA",
       "cached_at": "2026-10-15T07:01:29.941491+00:00",
       "photo_file_id": "AgACAgUAAxUHatB6SbwWwTueUg3WeU0BXbGKd4kAAlATaxvrMoFWMizkXyMCKR0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01744": {
+      "audio_file_id": "CQACAgUAAxUHawV8_sAfsaFxNaPQVfr6IcldfAgAAiIlAAJagChUonIE6xmS6VM9BA",
+      "cached_at": "2026-11-24T12:03:11.412138+00:00",
+      "photo_file_id": "AgACAgUAAxUHawV8_kyhQh7SMjIDzsHcL1itkRMAAtwVaxtagChU286WtBEqmYcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01757": {
@@ -23817,6 +24181,18 @@
       "audio_file_id": "CQACAgUAAxUHau7gROJ6k1UHtrZ5X7GWwmxxKkEAArIlAAJ0bXFXzycFXdlVDSk9BA",
       "cached_at": "2026-11-07T08:24:37.068756+00:00",
       "photo_file_id": "AgACAgUAAxUHau7gRPNop4vlkURrh_EMdBMfK08AArYTaxt0bXFXLWqstXN5L0EBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02409": {
+      "audio_file_id": "CQACAgUAAxUHawV9ASqP3OXWspSL6CBORYIMjiUAAiMlAAJagChUiJZ7CDWuO0M9BA",
+      "cached_at": "2026-11-24T12:03:13.809094+00:00",
+      "photo_file_id": "AgACAgUAAxUHawV9AXDwgUmQDRof_bS093_W1QsAAt0VaxtagChUtIZa57QbQdQBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02421": {
+      "audio_file_id": "CQACAgUAAxUHawV8_BEEB4AOwDB734OCdQdviLkAAiElAAJagChUrG74UxPZdsM9BA",
+      "cached_at": "2026-11-24T12:03:09.010791+00:00",
+      "photo_file_id": "AgACAgUAAxUHawV8_A4vsDgTGCZR_-kD_A_WiYQAAtsVaxtagChUgsNtO7-FwEkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02423": {
@@ -24404,6 +24780,12 @@
       "last_cycle": 1,
       "last_message_id": 241,
       "published_at": "2026-10-28T07:57:36.909726+00:00"
+    },
+    "v-00054": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 376,
+      "published_at": "2026-11-24T12:03:15.941009+00:00"
     },
     "v-00068": {
       "count": 1,
@@ -25361,6 +25743,12 @@
       "last_message_id": 63,
       "published_at": "2026-09-26T12:40:06.329724+00:00"
     },
+    "v-01554": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 377,
+      "published_at": "2026-11-24T12:03:18.033286+00:00"
+    },
     "v-01562": {
       "count": 1,
       "last_cycle": 1,
@@ -25495,6 +25883,12 @@
       "last_cycle": 1,
       "last_message_id": 178,
       "published_at": "2026-10-15T07:01:29.941518+00:00"
+    },
+    "v-01744": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 374,
+      "published_at": "2026-11-24T12:03:11.412168+00:00"
     },
     "v-01757": {
       "count": 1,
@@ -25905,6 +26299,18 @@
       "last_cycle": 1,
       "last_message_id": 291,
       "published_at": "2026-11-07T08:24:37.068786+00:00"
+    },
+    "v-02409": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 375,
+      "published_at": "2026-11-24T12:03:13.809118+00:00"
+    },
+    "v-02421": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 373,
+      "published_at": "2026-11-24T12:03:09.010817+00:00"
     },
     "v-02423": {
       "count": 1,
@@ -26461,11 +26867,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-02421",
-    "v-01744",
-    "v-02409",
-    "v-00054",
-    "v-01554",
     "v-00018",
     "v-02129",
     "v-02585",
@@ -29621,48 +30022,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261026T075557Z-f6042d1e": {
-      "completed_at": "2026-10-26T07:55:59.375173+00:00",
-      "created_at": "2026-10-26T07:55:57.543204+00:00",
-      "failed_ids": [
-        "v-01439",
-        "v-02328",
-        "v-01939",
-        "v-02302",
-        "v-01235"
-      ],
-      "failures": {
-        "v-01235": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-01439": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-01939": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-02302": "AI enrichment incomplete; refusing to publish degraded vocabulary content",
-        "v-02328": "AI enrichment incomplete; refusing to publish degraded vocabulary content"
-      },
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01439"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02328"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01939"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02302"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01235"
-        }
-      ],
-      "published_ids": [],
-      "status": "completed"
-    },
     "20261027T044826Z-3f60a9ad": {
       "completed_at": "2026-10-27T04:48:40.670518+00:00",
       "created_at": "2026-10-27T04:48:26.382372+00:00",
@@ -30675,6 +31034,41 @@
         "v-02581",
         "v-01716",
         "v-00076"
+      ],
+      "status": "completed"
+    },
+    "20261124T120303Z-7a22490f": {
+      "completed_at": "2026-11-24T12:03:18.077808+00:00",
+      "created_at": "2026-11-24T12:03:03.734125+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02421"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01744"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02409"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00054"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01554"
+        }
+      ],
+      "published_ids": [
+        "v-02421",
+        "v-01744",
+        "v-02409",
+        "v-00054",
+        "v-01554"
       ],
       "status": "completed"
     }
@@ -33338,6 +33732,43 @@
         "v-00076"
       ],
       "run_id": "20261123T102140Z-3a88257f",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-24T12:03:18.077808+00:00",
+      "created_at": "2026-11-24T12:03:03.734125+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-02421"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01744"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02409"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00054"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01554"
+        }
+      ],
+      "published_ids": [
+        "v-02421",
+        "v-01744",
+        "v-02409",
+        "v-00054",
+        "v-01554"
+      ],
+      "run_id": "20261124T120303Z-7a22490f",
       "status": "completed",
       "unknown_ids": []
     }
