@@ -181,6 +181,68 @@
         }
       ]
     },
+    "v-00018": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "41e2e33d0af708aa56fa4b937b25e88c7de1a21a744b4d9834f42d83675f9d1e",
+      "antonyms": [
+        {
+          "meaning": "to go away from",
+          "word": "leave"
+        },
+        {
+          "meaning": "to leave behind",
+          "word": "abandon"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "accompany someone",
+        "accompany a tour",
+        "accompany the music",
+        "accompany the discussion",
+        "accompany the changes"
+      ],
+      "common_mistake_correct": "accompany",
+      "common_mistake_wrong": "acompany",
+      "definition_en": "To go with someone or something as a companion or partner.",
+      "example_bn": "সে তোমাকে সাক্ষাৎকারে সঙ্গে থাকবে।",
+      "example_en": "She will accompany you to the interview.",
+      "memory_hook": "Think of a \"company\" that travels with you.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "depart",
+        "accompany",
+        "ignore",
+        "refuse"
+      ],
+      "quiz_question": "Which word means 'to go with someone'?",
+      "short_meaning_en": "go with",
+      "synonyms": [
+        {
+          "meaning": "to go together with",
+          "word": "join"
+        },
+        {
+          "meaning": "to accompany someone for protection",
+          "word": "escort"
+        },
+        {
+          "meaning": "to be present with",
+          "word": "attend"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "accompaniment"
+        },
+        {
+          "type": "adjective",
+          "word": "accompanying"
+        }
+      ]
+    },
     "v-00025": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "ec10cb5b5a184a1bde7c0e202fb4f57f37e64b21ab7173a154ab435978a5127d",
@@ -10018,6 +10080,72 @@
         }
       ]
     },
+    "v-01603": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "8ed0826ff3804697f9d27cad4193316f7710e9250ce952713b109b63988b4134",
+      "antonyms": [
+        {
+          "meaning": "poor handling",
+          "word": "mismanagement"
+        },
+        {
+          "meaning": "failure to manage",
+          "word": "neglect"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "project management",
+        "financial management",
+        "management team",
+        "management skills",
+        "management style"
+      ],
+      "common_mistake_correct": "management",
+      "common_mistake_wrong": "managment",
+      "definition_en": "The act or skill of organizing and controlling resources to achieve objectives.",
+      "example_bn": "যেকোনো ব্যবসার জন্য কার্যকর পরিচালনা অপরিহার্য।",
+      "example_en": "Effective management is essential for any business.",
+      "memory_hook": "Think of a \"manager\" who handles the \"management\" tasks.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "cooking",
+        "organizing resources",
+        "painting",
+        "singing"
+      ],
+      "quiz_question": "What does 'management' refer to?",
+      "short_meaning_en": "control",
+      "synonyms": [
+        {
+          "meaning": "the process of managing",
+          "word": "administration"
+        },
+        {
+          "meaning": "overseeing",
+          "word": "supervision"
+        },
+        {
+          "meaning": "guidance",
+          "word": "direction"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "manage"
+        },
+        {
+          "type": "noun",
+          "word": "manager"
+        },
+        {
+          "type": "adjective",
+          "word": "manageable"
+        }
+      ]
+    },
     "v-01605": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "2813c024f1485f2c94afc830193f8b087ba11e38aca372300a657566c32ee811",
@@ -13410,6 +13538,68 @@
         }
       ]
     },
+    "v-02129": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "297ae02f3099259068bf3f082e0f8b16a53b9c9093b50386faeb02d15192b93b",
+      "antonyms": [
+        {
+          "meaning": "to restate in other words",
+          "word": "paraphrase"
+        },
+        {
+          "meaning": "to pay no attention to",
+          "word": "ignore"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "quote someone",
+        "quote a source",
+        "quote a passage",
+        "quote directly",
+        "quote accurately"
+      ],
+      "common_mistake_correct": "quote",
+      "common_mistake_wrong": "quate",
+      "definition_en": "To repeat or write down the exact words spoken or written by someone else.",
+      "example_bn": "প্রবন্ধটি মেয়রের বক্তৃতা সঠিকভাবে উদ্ধৃতি দেয়।",
+      "example_en": "The article quotes the mayor's speech verbatim.",
+      "memory_hook": "Remember the \"quote\" sign looks like a pair of quotation marks.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to criticize",
+        "to repeat someone's exact words",
+        "to summarize",
+        "to translate"
+      ],
+      "quiz_question": "What does 'quote' mean in a news article?",
+      "short_meaning_en": "cite words",
+      "synonyms": [
+        {
+          "meaning": "to refer to as an example",
+          "word": "cite"
+        },
+        {
+          "meaning": "to mention as a source",
+          "word": "refer"
+        },
+        {
+          "meaning": "to bring up",
+          "word": "mention"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "quotation"
+        },
+        {
+          "type": "adjective",
+          "word": "quotable"
+        }
+      ]
+    },
     "v-02130": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b41db6e2c5ab5e731adbb1076ac864075098bc7c7a311e92fc3dc245205ea3d3",
@@ -15693,6 +15883,68 @@
         }
       ]
     },
+    "v-02585": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4c2c69c7093924b7d6fddcc9df0fef6854dac7fbb83781eae8b0e31d3c4b8f61",
+      "antonyms": [
+        {
+          "meaning": "lack of success",
+          "word": "failure"
+        },
+        {
+          "meaning": "loss",
+          "word": "defeat"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "great success",
+        "achieve success",
+        "measure success",
+        "ensure success",
+        "celebrate success"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The achievement of a desired result or goal.",
+      "example_bn": "তার কঠোর পরিশ্রমের ফলে বড় সাফল্য অর্জিত হয়েছে।",
+      "example_en": "Her hard work led to great success.",
+      "memory_hook": "Success sounds like \"succeed\" plus \"-s\" for the result.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "failure",
+        "success",
+        "problem",
+        "conflict"
+      ],
+      "quiz_question": "Which word describes achieving a goal?",
+      "short_meaning_en": "achievement",
+      "synonyms": [
+        {
+          "meaning": "something accomplished",
+          "word": "achievement"
+        },
+        {
+          "meaning": "winning",
+          "word": "victory"
+        },
+        {
+          "meaning": "great success",
+          "word": "triumph"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "successful"
+        },
+        {
+          "type": "adverb",
+          "word": "successfully"
+        }
+      ]
+    },
     "v-02609": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "83a3fd2adae75b6d1f69862ed38d51eb587fa33197a1f38832a93a95206d62f4",
@@ -16949,6 +17201,68 @@
         {
           "type": "noun",
           "word": "trickery"
+        }
+      ]
+    },
+    "v-02792": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "d98341dc14027e516752ff1cc68f92a696802f863a3642b6abcf951d0c551554",
+      "antonyms": [
+        {
+          "meaning": "untruthfully",
+          "word": "falsely"
+        },
+        {
+          "meaning": "not sincerely",
+          "word": "insincerely"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "truly grateful",
+        "truly believe",
+        "truly amazing",
+        "truly sorry",
+        "truly unique"
+      ],
+      "common_mistake_correct": "truly",
+      "common_mistake_wrong": "truely",
+      "definition_en": "In a genuine or exact way; without doubt.",
+      "example_bn": "সে সত্যিই তোমার সাহায্যকে মূল্যায়ন করে।",
+      "example_en": "She truly appreciates your help.",
+      "memory_hook": "Remember 'truly' has the word 'true' plus 'ly' for adverb.",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "truly",
+        "quickly",
+        "loudly",
+        "slowly"
+      ],
+      "quiz_question": "Which word means 'in a genuine way'?",
+      "short_meaning_en": "genuinely",
+      "synonyms": [
+        {
+          "meaning": "in a sincere way",
+          "word": "genuinely"
+        },
+        {
+          "meaning": "actually",
+          "word": "really"
+        },
+        {
+          "meaning": "certainly",
+          "word": "indeed"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "true"
+        },
+        {
+          "type": "noun",
+          "word": "truth"
         }
       ]
     },
@@ -20139,6 +20453,14 @@
       "source_fingerprint": "fa98d95542ed6fda1fb4551a79833f43e27efdbc3d4366e742b63c32a59bd3bb",
       "status": "valid"
     },
+    "v-00018": {
+      "audited_at": "2026-11-25T10:54:53.335209+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "সঙ্গে থাকা",
+      "reason": "The Bangla meaning accurately reflects the primary sense of 'accompany' as to be with someone.",
+      "source_fingerprint": "41e2e33d0af708aa56fa4b937b25e88c7de1a21a744b4d9834f42d83675f9d1e",
+      "status": "valid"
+    },
     "v-00025": {
       "audited_at": "2026-11-20T09:44:10.130394+00:00",
       "confidence": 0.95,
@@ -21355,6 +21677,14 @@
       "source_fingerprint": "39dfcbe34556ac0b58a2063c4ab880d123344de02065bad481360b409a70d405",
       "status": "valid"
     },
+    "v-01603": {
+      "audited_at": "2026-11-25T10:54:53.335342+00:00",
+      "confidence": 0.96,
+      "meaning_bn": "পরিচালনা • ব্যবস্থাপনা",
+      "reason": "'Management' refers to the act or process of managing, not specifically 'পরিচালকবর্গ' (managers). The appropriate Bangla meanings are 'পরিচালনা' or 'ব্যবস্থাপনা'.",
+      "source_fingerprint": "b31f96f5fd2269c2be52ad969957e30545049ad00d7786f26f268c67e014285b",
+      "status": "corrected"
+    },
     "v-01605": {
       "audited_at": "2026-11-18T09:46:58.391116+00:00",
       "confidence": 0.99,
@@ -21779,6 +22109,14 @@
       "source_fingerprint": "af8930f2f7cacb4dfb6a8c2f67e467476551d21c4241839ec52803b1d25a92e9",
       "status": "corrected"
     },
+    "v-02129": {
+      "audited_at": "2026-11-25T10:54:53.335270+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "উদ্ধৃতি দিতে",
+      "reason": "The supplied meaning adds unrelated senses like 'completely'; the correct Bangla meaning for the verb 'quote' is to give a quotation.",
+      "source_fingerprint": "ea1055080cd5c8f6efb27d5f470a7483c9ec04254edbf4a8299f58a88a3c53b5",
+      "status": "corrected"
+    },
     "v-02130": {
       "audited_at": "2026-10-02T07:58:58.609269+00:00",
       "confidence": 0.96,
@@ -22083,6 +22421,14 @@
       "source_fingerprint": "11913708d3f27d970e21cce7d2ce70ca8a663c5658bb7c839416cc8db47c44e4",
       "status": "valid"
     },
+    "v-02585": {
+      "audited_at": "2026-11-25T10:54:53.335307+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "সাফল্য",
+      "reason": "The given meaning lists adjectival forms, whereas the noun 'success' corresponds to the Bangla noun 'সাফল্য'.",
+      "source_fingerprint": "3f485038c2507c29a2b27cd0cc4a35972da703ca36b23ad2bd7d0bd77e5f6232",
+      "status": "corrected"
+    },
     "v-02609": {
       "audited_at": "2026-11-18T09:46:58.391257+00:00",
       "confidence": 0.99,
@@ -22242,6 +22588,14 @@
       "reason": "The meaning accurately represents the noun sense of \"trick\" as deception or cunning.",
       "source_fingerprint": "d6ff26d6eeaa5e2a583dc284a4da042dfd80e0da36a84bef1ffb45f5ca111b03",
       "status": "valid"
+    },
+    "v-02792": {
+      "audited_at": "2026-11-25T10:54:53.335374+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "সত্যিকারেরভাবে • সত্যিই",
+      "reason": "The provided meaning conveys 'accurately', whereas the adverb 'truly' means 'সত্যিকারেরভাবে' or 'সত্যিই' in Bangla.",
+      "source_fingerprint": "6ce20fe6c45598be657857507c99498d11b67a367b35f17d6a6d81bcf6276526",
+      "status": "corrected"
     },
     "v-02796": {
       "audited_at": "2026-10-13T09:00:56.282798+00:00",
@@ -22662,6 +23016,12 @@
       "photo_file_id": "AgACAgUAAxUHaradkQN6ZG4lEjjUpfsdRcJYle8AAlgRaxvpIblVQjB4qXeXEeUBAAMCAANzAAM9BA",
       "version": "1.0.6",
       "voice_file_id": "AwACAgUAAxUHaradkVS2xwl6NkvGzmp7zONhRykAAhkfAALpIblVfgNSYjEXMnU9BA"
+    },
+    "v-00018": {
+      "audio_file_id": "CQACAgUAAxUHawa-gJdNwiAYBCiY_4EhlaxZtwIAApEkAALZ-zlUlY_wo2zXWC49BA",
+      "cached_at": "2026-11-25T10:54:57.292340+00:00",
+      "photo_file_id": "AgACAgUAAxUHawa-gMWjCXQhsSlE-Hj0Uhf0U9QAAhkUaxvZ-zlUQ7l3vLJXrqMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-00025": {
       "audio_file_id": "CQACAgUAAxUHawABFm2J-33axxFcD2yCi3p4iyr3AAKwJAAC4-MBVDSTsViu8u1cPQQ",
@@ -23669,6 +24029,12 @@
       "cached_at": "2026-09-25T11:21:20.729366+00:00",
       "photo_file_id": "AgACAgUAAxUHarZZMGzS86g_4q4U3kWy9TqBzToAAlkRaxvpIbFVMjF8a4eoQMMBAAMCAANzAAM9BA"
     },
+    "v-01603": {
+      "audio_file_id": "CQACAgUAAxUHawa-iAuduZ-Zmr-4oxCfKTrrgwoAApQkAALZ-zlU0ioAASiYey7HPQQ",
+      "cached_at": "2026-11-25T10:55:04.904667+00:00",
+      "photo_file_id": "AgACAgUAAxUHawa-iNlnYdRbBwWu0NSbDFpSorwAAhwUaxvZ-zlUmTOIATu2tu8BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01605": {
       "audio_file_id": "CQACAgUAAxUHav10Fo5zwuusPs6X0cbPvbfTeZAAAuUiAAKkzPBXoGhQVqyJG9Q9BA",
       "cached_at": "2026-11-18T09:47:02.976182+00:00",
@@ -24027,6 +24393,12 @@
       "photo_file_id": "AgACAgUAAxUHarzCsqB8coE-7dW8_JFDLFFJ3lcAAqcSaxvHB-hVz6-AalN0LWMBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02129": {
+      "audio_file_id": "CQACAgUAAxUHawa-g9XoIOrBJJG1JYBEtV7v2G4AApIkAALZ-zlU5BkWFbRQJSY9BA",
+      "cached_at": "2026-11-25T10:54:59.965410+00:00",
+      "photo_file_id": "AgACAgUAAxUHawa-gxsZghLZ0h3Ua0ov8Q8MVy8AAhoUaxvZ-zlUv_zigQ-_rFABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02130": {
       "audio_file_id": "CQACAgUAAxUHar9kTKoctbM2BeuLdiNblUusRUAAAhEhAAKXRvhVH8mCe3vMl-M9BA",
       "cached_at": "2026-10-02T07:59:08.912195+00:00",
@@ -24255,6 +24627,12 @@
       "photo_file_id": "AgACAgUAAxUHawQTvLg9gE-S9XRqTcD43JWdgUkAAnQWaxtagCBUq3l7QE3C8tABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02585": {
+      "audio_file_id": "CQACAgUAAxUHawa-ha-u-BcrOd0qtk1G6XT_mGMAApMkAALZ-zlURJbfDbKbDVw9BA",
+      "cached_at": "2026-11-25T10:55:02.632120+00:00",
+      "photo_file_id": "AgACAgUAAxUHawa-hsEI--cVB78bdHe9Io7UjKgAAhsUaxvZ-zlUAqz05o_TheABAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02609": {
       "audio_file_id": "CQACAgUAAxUHav10HtzZff-8JIZL_NLiVQGgIGkAAugiAAKkzPBXyY9MOEdv2bs9BA",
       "cached_at": "2026-11-18T09:47:11.496033+00:00",
@@ -24385,6 +24763,12 @@
       "audio_file_id": "CQACAgUAAxUHasNfSQABTY-VjrhGn8zkVPZcs5fjAAIfIQACQiUYVjqXfNLzf5ypPQQ",
       "cached_at": "2026-10-05T08:26:50.318284+00:00",
       "photo_file_id": "AgACAgUAAxUHasNfSQ-F4nTeRcYfL29FMV8XuHkAAmkUaxtCJRhW2vQLxtwG-1IBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02792": {
+      "audio_file_id": "CQACAgUAAxUHawa-isinEI-T_St4TkuNzODzg2oAApUkAALZ-zlUepv8xZzeUTw9BA",
+      "cached_at": "2026-11-25T10:55:07.194918+00:00",
+      "photo_file_id": "AgACAgUAAxUHawa-ioGrU67ri-Pg4fD-mwPZv-kAAh0UaxvZ-zlUK08qT3lQKmQBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02796": {
@@ -24762,6 +25146,12 @@
       "last_message_id": 43,
       "published_at": "2026-09-25T16:13:06.516332+00:00",
       "quiz_message_id": 44
+    },
+    "v-00018": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 378,
+      "published_at": "2026-11-25T10:54:57.292364+00:00"
     },
     "v-00025": {
       "count": 1,
@@ -25780,6 +26170,12 @@
       "published_at": "2026-09-25T11:21:20.729393+00:00",
       "quiz_message_id": 7
     },
+    "v-01603": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 381,
+      "published_at": "2026-11-25T10:55:04.904690+00:00"
+    },
     "v-01605": {
       "count": 1,
       "last_cycle": 1,
@@ -26144,6 +26540,12 @@
       "last_message_id": 107,
       "published_at": "2026-09-30T08:05:06.521533+00:00"
     },
+    "v-02129": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 379,
+      "published_at": "2026-11-25T10:54:59.965434+00:00"
+    },
     "v-02130": {
       "count": 1,
       "last_cycle": 1,
@@ -26372,6 +26774,12 @@
       "last_message_id": 370,
       "published_at": "2026-11-23T10:21:49.323981+00:00"
     },
+    "v-02585": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 380,
+      "published_at": "2026-11-25T10:55:02.632143+00:00"
+    },
     "v-02609": {
       "count": 1,
       "last_cycle": 1,
@@ -26503,6 +26911,12 @@
       "last_cycle": 1,
       "last_message_id": 132,
       "published_at": "2026-10-05T08:26:50.318310+00:00"
+    },
+    "v-02792": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 382,
+      "published_at": "2026-11-25T10:55:07.194948+00:00"
     },
     "v-02796": {
       "count": 1,
@@ -26867,11 +27281,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00018",
-    "v-02129",
-    "v-02585",
-    "v-01603",
-    "v-02792",
     "v-01205",
     "v-02121",
     "v-00846",
@@ -30022,41 +30431,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261027T044826Z-3f60a9ad": {
-      "completed_at": "2026-10-27T04:48:40.670518+00:00",
-      "created_at": "2026-10-27T04:48:26.382372+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01235"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02302"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01939"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02328"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01439"
-        }
-      ],
-      "published_ids": [
-        "v-01235",
-        "v-02302",
-        "v-01939",
-        "v-02328",
-        "v-01439"
-      ],
-      "status": "completed"
-    },
     "20261027T072215Z-049b7de9": {
       "completed_at": "2026-10-27T07:22:31.264456+00:00",
       "created_at": "2026-10-27T07:22:15.583145+00:00",
@@ -31069,6 +31443,41 @@
         "v-02409",
         "v-00054",
         "v-01554"
+      ],
+      "status": "completed"
+    },
+    "20261125T105452Z-ba90d42b": {
+      "completed_at": "2026-11-25T10:55:07.239969+00:00",
+      "created_at": "2026-11-25T10:54:52.736037+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00018"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02129"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02585"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01603"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02792"
+        }
+      ],
+      "published_ids": [
+        "v-00018",
+        "v-02129",
+        "v-02585",
+        "v-01603",
+        "v-02792"
       ],
       "status": "completed"
     }
@@ -33769,6 +34178,43 @@
         "v-01554"
       ],
       "run_id": "20261124T120303Z-7a22490f",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-25T10:55:07.239969+00:00",
+      "created_at": "2026-11-25T10:54:52.736037+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00018"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02129"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02585"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01603"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02792"
+        }
+      ],
+      "published_ids": [
+        "v-00018",
+        "v-02129",
+        "v-02585",
+        "v-01603",
+        "v-02792"
+      ],
+      "run_id": "20261125T105452Z-ba90d42b",
       "status": "completed",
       "unknown_ids": []
     }
