@@ -439,6 +439,68 @@
         }
       ]
     },
+    "v-00067": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "20ff90ad21567c3f43eecf95cfa9da8b5abd738bf69010a26fa8964378e53c49",
+      "antonyms": [
+        {
+          "meaning": "pay no attention to",
+          "word": "ignore"
+        },
+        {
+          "meaning": "remain the same",
+          "word": "unchanged"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "affect the outcome",
+        "affect health",
+        "affect behavior",
+        "affect the results",
+        "affect someone's mood"
+      ],
+      "common_mistake_correct": "Use 'affect' as a verb and 'effect' as a noun.",
+      "common_mistake_wrong": "Often confused with 'effect' (noun).",
+      "definition_en": "To cause a change in someone or something.",
+      "example_bn": "আবহাওয়া আপনার মেজাজকে পরিবর্তন করতে পারে।",
+      "example_en": "The weather can affect your mood.",
+      "memory_hook": "Affect starts with A like Action – it’s the action that changes something.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "affect",
+        "effect",
+        "accept",
+        "avoid"
+      ],
+      "quiz_question": "Which word means 'পরিবর্তন সাধন করা'?",
+      "short_meaning_en": "influence",
+      "synonyms": [
+        {
+          "meaning": "have an effect on",
+          "word": "influence"
+        },
+        {
+          "meaning": "have a strong effect",
+          "word": "impact"
+        },
+        {
+          "meaning": "change",
+          "word": "alter"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "affected"
+        },
+        {
+          "type": "verb",
+          "word": "affecting"
+        }
+      ]
+    },
     "v-00068": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "d41bb6f910c544c17cee059c158143b2c2702b1618c481cbfa6fe496459dda5b",
@@ -5010,6 +5072,68 @@
       ],
       "word_family": []
     },
+    "v-00846": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "93eaf078cf31788cab7b7e76cb1a67c6790eac7d10b08555cebaf44b743ffc68",
+      "antonyms": [
+        {
+          "meaning": "money spent",
+          "word": "expenses"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "annual earnings",
+        "net earnings",
+        "earnings report",
+        "earnings growth",
+        "earnings before tax"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "Money received from work or investments.",
+      "example_bn": "প্রমোশন পাওয়ার পর তার উপার্জিত ধন বাড়ল।",
+      "example_en": "Her earnings increased after she got a promotion.",
+      "memory_hook": "Earn + -ings = the things you earn.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 2,
+      "quiz_options": [
+        "expenses",
+        "profits",
+        "income",
+        "debt"
+      ],
+      "quiz_question": "What does 'earnings' refer to?",
+      "short_meaning_en": "income",
+      "synonyms": [
+        {
+          "meaning": "money received regularly",
+          "word": "income"
+        },
+        {
+          "meaning": "regular payment for work",
+          "word": "salary"
+        },
+        {
+          "meaning": "pay for labor",
+          "word": "wages"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "earn"
+        },
+        {
+          "type": "verb",
+          "word": "earned"
+        },
+        {
+          "type": "noun",
+          "word": "earning"
+        }
+      ]
+    },
     "v-00847": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "6cab9ed7b9e69e022962b1ad99976e03b2afecb02280d426749e5e5319a9d271",
@@ -7477,6 +7601,59 @@
         }
       ]
     },
+    "v-01205": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "401fcc1c878b05eb5c8298fb6aa15c58c6bbf7f596033469a3b926d441962ec5",
+      "antonyms": [],
+      "cefr": "A1",
+      "collocations": [
+        "grandmother's house",
+        "grandmother's advice",
+        "grandmother's love",
+        "grandmother figure",
+        "grandmother's birthday"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "A woman who is the mother of someone's parent.",
+      "example_bn": "আমার দাদী সেরা আমের জ্যাম বানান।",
+      "example_en": "My grandmother makes the best mango jam.",
+      "memory_hook": "Grand + mother = the mother of your parent.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "grandfather",
+        "grandmother",
+        "aunt",
+        "niece"
+      ],
+      "quiz_question": "Which word means 'মাতামহী' in English?",
+      "short_meaning_en": "mother's mother",
+      "synonyms": [
+        {
+          "meaning": "informal term for grandmother",
+          "word": "grandma"
+        },
+        {
+          "meaning": "informal term for grandmother",
+          "word": "nana"
+        },
+        {
+          "meaning": "informal term for grandmother",
+          "word": "granny"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "grandmotherly"
+        },
+        {
+          "type": "noun",
+          "word": "grandmotherhood"
+        }
+      ]
+    },
     "v-01216": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "a409b3a2fd0f5ebe10fe3cfdb30f570a76f2d5b464cb3cabdfb5d99610aec9c5",
@@ -8298,6 +8475,68 @@
         {
           "type": "adjective",
           "word": "imposing"
+        }
+      ]
+    },
+    "v-01359": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c30268edbb02805e9d841574482f40137c1ec8daefc5d84ee972988f48b1b75c",
+      "antonyms": [
+        {
+          "meaning": "make smaller",
+          "word": "decrease"
+        },
+        {
+          "meaning": "make less",
+          "word": "reduce"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "increase the price",
+        "increase in demand",
+        "increase rapidly",
+        "increase by",
+        "increase the risk"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "To make something become larger or greater in size, amount, or degree.",
+      "example_bn": "কোম্পানি আগামী বছর উৎপাদন বাড়ানোর পরিকল্পনা করেছে।",
+      "example_en": "The company plans to increase production next year.",
+      "memory_hook": "'In' + 'crease' (crease = fold) → add another fold, making it bigger.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "decrease",
+        "increase",
+        "maintain",
+        "ignore"
+      ],
+      "quiz_question": "Which verb means 'বর্ধিত করা বা হওয়া'?",
+      "short_meaning_en": "grow",
+      "synonyms": [
+        {
+          "meaning": "become larger",
+          "word": "grow"
+        },
+        {
+          "meaning": "lift up",
+          "word": "raise"
+        },
+        {
+          "meaning": "increase quickly",
+          "word": "boost"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "increasing"
+        },
+        {
+          "type": "adjective",
+          "word": "increased"
         }
       ]
     },
@@ -13473,6 +13712,55 @@
         {
           "type": "adjective",
           "word": "purchasable"
+        }
+      ]
+    },
+    "v-02121": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4e28b6e3bf1bd99cc44e05c562d0effaf3a49fcbd7fb6731fb07a7bcac09fa0c",
+      "antonyms": [],
+      "cefr": "B2",
+      "collocations": [
+        "starting quarterback",
+        "quarterback sneak",
+        "quarterback sack",
+        "quarterback rating",
+        "quarterback throw"
+      ],
+      "common_mistake_correct": "",
+      "common_mistake_wrong": "",
+      "definition_en": "The player who leads the offensive play in American football and receives the ball from the snap.",
+      "example_bn": "কোয়াটারব্যাক একটি নিখুঁত পাস দিয়ে টাচডাউন করালেন।",
+      "example_en": "The quarterback threw a perfect pass for a touchdown.",
+      "memory_hook": "Quarter + back = the player at the back of the quarter (play).",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "defender",
+        "quarterback",
+        "coach",
+        "referee"
+      ],
+      "quiz_question": "In American football, who is the main offensive leader?",
+      "short_meaning_en": "team leader",
+      "synonyms": [
+        {
+          "meaning": "player who calls the plays",
+          "word": "signal-caller"
+        },
+        {
+          "meaning": "leader on the field",
+          "word": "field general"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "verb",
+          "word": "quarterbacking"
+        },
+        {
+          "type": "verb",
+          "word": "quarterbacked"
         }
       ]
     },
@@ -20485,6 +20773,14 @@
       "source_fingerprint": "b09d481943c97103ab8e396670fabdc81e5ea88d0a68d59b4a9da5fe13790ff2",
       "status": "valid"
     },
+    "v-00067": {
+      "audited_at": "2026-11-26T10:30:06.457596+00:00",
+      "confidence": 0.97,
+      "meaning_bn": "পরিবর্তন সাধন করা",
+      "reason": "The meaning corresponds to the verb sense of 'affect' (to cause change).",
+      "source_fingerprint": "20ff90ad21567c3f43eecf95cfa9da8b5abd738bf69010a26fa8964378e53c49",
+      "status": "valid"
+    },
     "v-00068": {
       "audited_at": "2026-10-10T08:09:16.772335+00:00",
       "confidence": 0.97,
@@ -21045,6 +21341,14 @@
       "source_fingerprint": "4c88803e2e8302e4051aba0ea29728578f881a9154c3ae00e99cc31bf4a51878",
       "status": "valid"
     },
+    "v-00846": {
+      "audited_at": "2026-11-26T10:30:06.457554+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "উপার্জিত ধন বা অর্থ",
+      "reason": "The meaning correctly defines 'earnings'.",
+      "source_fingerprint": "93eaf078cf31788cab7b7e76cb1a67c6790eac7d10b08555cebaf44b743ffc68",
+      "status": "valid"
+    },
     "v-00847": {
       "audited_at": "2026-10-22T07:14:30.163306+00:00",
       "confidence": 0.99,
@@ -21349,6 +21653,14 @@
       "source_fingerprint": "1d64c025849e60ce4217367b99814d5535d425f2b9234edc555209914e86fe80",
       "status": "valid"
     },
+    "v-01205": {
+      "audited_at": "2026-11-26T10:30:06.457474+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "মাতামহী, দাদী, নানী",
+      "reason": "The supplied Bangla meaning accurately reflects the English word 'grandmother'.",
+      "source_fingerprint": "401fcc1c878b05eb5c8298fb6aa15c58c6bbf7f596033469a3b926d441962ec5",
+      "status": "valid"
+    },
     "v-01216": {
       "audited_at": "2026-10-02T07:58:58.833730+00:00",
       "confidence": 0.99,
@@ -21460,6 +21772,14 @@
       "reason": "The source meaning 'স্থাপন করা' does not reflect the common senses of the verb 'impose', which are to force something upon someone, e.g., 'থাপনা দেওয়া' or 'আরোপ করা'.",
       "source_fingerprint": "354a2740755a2025452ccb23e8a3f4fe5445fa9e647d4a019c41df58979faade",
       "status": "corrected"
+    },
+    "v-01359": {
+      "audited_at": "2026-11-26T10:30:06.457575+00:00",
+      "confidence": 0.99,
+      "meaning_bn": "বর্ধিত করা বা হওয়া",
+      "reason": "The Bangla meaning accurately captures the sense of 'increase'.",
+      "source_fingerprint": "c30268edbb02805e9d841574482f40137c1ec8daefc5d84ee972988f48b1b75c",
+      "status": "valid"
     },
     "v-01373": {
       "audited_at": "2026-10-02T07:58:58.833638+00:00",
@@ -22099,6 +22419,14 @@
       "meaning_bn": "ক্রয়",
       "reason": "The source meaning mixes unrelated senses such as 'শাস্তি, সাজা, দণ্ড' which do not belong to the verb/noun 'purchase'. The appropriate Bangla translation for 'purchase' is 'ক্রয়'.",
       "source_fingerprint": "ffc4f0f3aa9005e579365db9d068574e65a62ba9ece5780ebd1244b2e055a042",
+      "status": "corrected"
+    },
+    "v-02121": {
+      "audited_at": "2026-11-26T10:30:06.457530+00:00",
+      "confidence": 0.98,
+      "meaning_bn": "কোয়াটারব্যাক (ফুটবলে দলনেতা)",
+      "reason": "The given meaning is unrelated; the correct Bangla meaning should describe the football position.",
+      "source_fingerprint": "d24e3314332a206a1716746fffc416da01c267a546cfcf54255efe63d1d05756",
       "status": "corrected"
     },
     "v-02122": {
@@ -23047,6 +23375,12 @@
       "photo_file_id": "AgACAgUAAxUHawV9A9U2rUY0MPyGD5WYQSFfnxkAAt4VaxtagChUGqSwyQVI67UBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-00067": {
+      "audio_file_id": "CQACAgUAAxUHawgKOzrfbMiWz3hxI2IsIWeuK1gAAnAlAAKwrUFUEykQVRA7yFQ9BA",
+      "cached_at": "2026-11-26T10:30:19.946529+00:00",
+      "photo_file_id": "AgACAgUAAxUHawgKO5NDX0YOL_lu6zSv-M4Fqx8AAiQXaxuwrUFUnPjHyeG-8rIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00068": {
       "audio_file_id": "CQACAgUAAxUHasnysPAt7anWQ_AEQuugkoZhxfQAApsnAALvcVFW-aRhuQ6dqt89BA",
       "cached_at": "2026-10-10T08:09:21.513116+00:00",
@@ -23521,6 +23855,12 @@
       "photo_file_id": "AgACAgUAAxUHarhoZPHqYHv8P-XiqZrnGrbRD0UAAhgUaxucC8lVOavgAAF0bQzZAQADAgADcwADPQQ",
       "version": "1.2.5"
     },
+    "v-00846": {
+      "audio_file_id": "CQACAgUAAxUHawgKNdE7jSKNwkQtlukIYTfKuFgAAm4lAAKwrUFUF0ywk9KrChM9BA",
+      "cached_at": "2026-11-26T10:30:14.444781+00:00",
+      "photo_file_id": "AgACAgUAAxUHawgKNcarg5NDG8swxwNvX1paQm8AAiIXaxuwrUFUiVpW3kzLyw0BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-00847": {
       "audio_file_id": "CQACAgUAAxUHatm34SpSSSRYGlykxoi_ttE3lrcAAqkhAAK63NBWIRZanr2McFc9BA",
       "cached_at": "2026-10-22T07:14:42.425088+00:00",
@@ -23766,6 +24106,12 @@
       "photo_file_id": "AgACAgUAAxUHatRudAuNx-QSRXRV1ChgT5JTLIAAArUTaxuNqKlWkJ-EUTkaDm0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01205": {
+      "audio_file_id": "CQACAgUAAxUHawgKMddpGOQx1OkaLIYOxVYeSoIAAmwlAAKwrUFUYxIGYKfnE9k9BA",
+      "cached_at": "2026-11-26T10:30:10.025566+00:00",
+      "photo_file_id": "AgACAgUAAxUHawgKMfjUQWyKF75OqSYC8gNAzPIAAh8XaxuwrUFUsZlyasLInnMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01216": {
       "audio_file_id": "CQACAgUAAxUHar9kUVwUQgp4EsUJZZRg0VFv5SgAAhMhAAKXRvhVgGgQMmenzVk9BA",
       "cached_at": "2026-10-02T07:59:14.259461+00:00",
@@ -23848,6 +24194,12 @@
       "audio_file_id": "CQACAgUAAxUHavwpXH1dEeJKflwvgYjdkigu_vcAAh8kAAKkzOBX6IRatOWeXoU9BA",
       "cached_at": "2026-11-17T10:15:57.827233+00:00",
       "photo_file_id": "AgACAgUAAxUHavwpXRRPTPkWxtheR5QUkuLWyQEAAq4YaxukzOBX33o3dJlv9ukBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-01359": {
+      "audio_file_id": "CQACAgUAAxUHawgKOJ183irL0QRTOOJ4oeqZi_MAAm8lAAKwrUFUuF2MWk0dkEg9BA",
+      "cached_at": "2026-11-26T10:30:17.642125+00:00",
+      "photo_file_id": "AgACAgUAAxUHawgKOWiRXmgvtgyepqclDxW-teQAAiMXaxuwrUFUBefjsPDGOpcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-01373": {
@@ -24385,6 +24737,12 @@
       "audio_file_id": "CQACAgUAAxUHau2WknxhfeVlFFgtXxJiB53jpOoAAv4jAALghWhXvDF7nSBGP889BA",
       "cached_at": "2026-11-06T08:57:55.175131+00:00",
       "photo_file_id": "AgACAgUAAxUHau2Wkp4N7NTNfAlBpTq3lN5HmEMAAskSaxvghWhXEGEYP2ybb10BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-02121": {
+      "audio_file_id": "CQACAgUAAxUHawgKM00JVHxWhbSsoF-88U0w-FsAAm0lAAKwrUFUuvwb0bC1RNw9BA",
+      "cached_at": "2026-11-26T10:30:12.377504+00:00",
+      "photo_file_id": "AgACAgUAAxUHawgKM3-6XtUI7VQU0EdECpC6LUcAAiEXaxuwrUFUEflyEwiJRFoBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-02122": {
@@ -25177,6 +25535,12 @@
       "last_message_id": 376,
       "published_at": "2026-11-24T12:03:15.941009+00:00"
     },
+    "v-00067": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 387,
+      "published_at": "2026-11-26T10:30:19.946554+00:00"
+    },
     "v-00068": {
       "count": 1,
       "last_cycle": 1,
@@ -25654,6 +26018,12 @@
       "last_message_id": 86,
       "published_at": "2026-09-27T00:50:45.095788+00:00"
     },
+    "v-00846": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 385,
+      "published_at": "2026-11-26T10:30:14.444808+00:00"
+    },
     "v-00847": {
       "count": 1,
       "last_cycle": 1,
@@ -25903,6 +26273,12 @@
       "last_message_id": 190,
       "published_at": "2026-10-18T07:00:05.250601+00:00"
     },
+    "v-01205": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 383,
+      "published_at": "2026-11-26T10:30:10.025593+00:00"
+    },
     "v-01216": {
       "count": 1,
       "last_cycle": 1,
@@ -25986,6 +26362,12 @@
       "last_cycle": 1,
       "last_message_id": 341,
       "published_at": "2026-11-17T10:15:57.827258+00:00"
+    },
+    "v-01359": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 386,
+      "published_at": "2026-11-26T10:30:17.642150+00:00"
     },
     "v-01373": {
       "count": 1,
@@ -26533,6 +26915,12 @@
       "last_cycle": 1,
       "last_message_id": 285,
       "published_at": "2026-11-06T08:57:55.175183+00:00"
+    },
+    "v-02121": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 384,
+      "published_at": "2026-11-26T10:30:12.377532+00:00"
     },
     "v-02122": {
       "count": 1,
@@ -27281,11 +27669,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-01205",
-    "v-02121",
-    "v-00846",
-    "v-01359",
-    "v-00067",
     "v-00643",
     "v-01463",
     "v-01840",
@@ -30431,41 +30814,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261027T072215Z-049b7de9": {
-      "completed_at": "2026-10-27T07:22:31.264456+00:00",
-      "created_at": "2026-10-27T07:22:15.583145+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-00544"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01608"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02379"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02630"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00115"
-        }
-      ],
-      "published_ids": [
-        "v-00544",
-        "v-01608",
-        "v-02379",
-        "v-02630",
-        "v-00115"
-      ],
-      "status": "completed"
-    },
     "20261028T075726Z-3810fa03": {
       "completed_at": "2026-10-28T07:57:39.368184+00:00",
       "created_at": "2026-10-28T07:57:26.077370+00:00",
@@ -31478,6 +31826,41 @@
         "v-02585",
         "v-01603",
         "v-02792"
+      ],
+      "status": "completed"
+    },
+    "20261126T103005Z-393a2401": {
+      "completed_at": "2026-11-26T10:30:19.984923+00:00",
+      "created_at": "2026-11-26T10:30:05.977089+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01205"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02121"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00846"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01359"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00067"
+        }
+      ],
+      "published_ids": [
+        "v-01205",
+        "v-02121",
+        "v-00846",
+        "v-01359",
+        "v-00067"
       ],
       "status": "completed"
     }
@@ -34215,6 +34598,43 @@
         "v-02792"
       ],
       "run_id": "20261125T105452Z-ba90d42b",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-26T10:30:19.984923+00:00",
+      "created_at": "2026-11-26T10:30:05.977089+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-01205"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02121"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00846"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01359"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00067"
+        }
+      ],
+      "published_ids": [
+        "v-01205",
+        "v-02121",
+        "v-00846",
+        "v-01359",
+        "v-00067"
+      ],
+      "run_id": "20261126T103005Z-393a2401",
       "status": "completed",
       "unknown_ids": []
     }
