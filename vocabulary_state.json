@@ -381,6 +381,72 @@
         }
       ]
     },
+    "v-00042": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "f711a84bb97758395bce9f61de15375523af30eacbe17d73a2e2f7c6186e7e3b",
+      "antonyms": [
+        {
+          "meaning": "to take away",
+          "word": "subtract"
+        },
+        {
+          "meaning": "to take out",
+          "word": "remove"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "add up",
+        "add to the list",
+        "add a comment",
+        "add sugar",
+        "add value"
+      ],
+      "common_mistake_correct": "\"Add\" means to join or increase, not to make a crack",
+      "common_mistake_wrong": "using \"add\" to mean “to crack”",
+      "definition_en": "To join one thing with another so that the total becomes larger.",
+      "example_bn": "দয়া করে চায়ে চিনি যোগ করুন।",
+      "example_en": "Please add the sugar to the tea.",
+      "memory_hook": "Think of \"add\" as \"a + d\" – putting two things together.",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "Add the door to the wall.",
+        "Add sugar to the tea.",
+        "Add the car crash loudly.",
+        "Add the jury to the case."
+      ],
+      "quiz_question": "Which sentence uses \"add\" correctly?",
+      "short_meaning_en": "join",
+      "synonyms": [
+        {
+          "meaning": "to contain",
+          "word": "include"
+        },
+        {
+          "meaning": "to put in",
+          "word": "insert"
+        },
+        {
+          "meaning": "to fasten",
+          "word": "attach"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "addition"
+        },
+        {
+          "type": "noun",
+          "word": "additive"
+        },
+        {
+          "type": "adjective",
+          "word": "added"
+        }
+      ]
+    },
     "v-00054": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "b09d481943c97103ab8e396670fabdc81e5ea88d0a68d59b4a9da5fe13790ff2",
@@ -3903,6 +3969,60 @@
         {
           "type": "noun",
           "word": "covering"
+        }
+      ]
+    },
+    "v-00643": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "16aa8bc9a4bedb66d977011cfda3463e5e5813d7ecbb70b182ac3dd4c73e6289",
+      "antonyms": [
+        {
+          "meaning": "absence of sound",
+          "word": "silence"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "crack of thunder",
+        "crack in the wall",
+        "crack a smile",
+        "crack under pressure",
+        "crack the code"
+      ],
+      "common_mistake_correct": "crack is a noun meaning a sharp sound or a split",
+      "common_mistake_wrong": "crack as a verb meaning ‘to add’",
+      "definition_en": "A sudden sharp sound or a break in something.",
+      "example_bn": "শাখা পড়ার সময় আমি একটা কর্কশ শব্দ শুনলাম।",
+      "example_en": "I heard a crack when the branch fell.",
+      "memory_hook": "Imagine a crack in ice making a sharp ‘crack’ sound.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "A sharp sound",
+        "To add something",
+        "A legal jury",
+        "A monthly payment"
+      ],
+      "quiz_question": "What does the noun \"crack\" mean in the sentence \"He heard a crack in the floor\"?",
+      "short_meaning_en": "sharp sound",
+      "synonyms": [
+        {
+          "meaning": "sharp sound",
+          "word": "snap"
+        },
+        {
+          "meaning": "short sharp sound",
+          "word": "pop"
+        },
+        {
+          "meaning": "a split or fracture",
+          "word": "break"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "cracked"
         }
       ]
     },
@@ -9290,6 +9410,60 @@
         }
       ]
     },
+    "v-01463": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6b54435e432beece6b23883c66f233b4d25620572e227691c0321754ef829b4f",
+      "antonyms": [
+        {
+          "meaning": "person being tried",
+          "word": "defendant"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "jury trial",
+        "jury deliberation",
+        "jury duty",
+        "jury verdict",
+        "jury selection"
+      ],
+      "common_mistake_correct": "\"Jury\" is the people who decide the case, not the room they sit in",
+      "common_mistake_wrong": "confusing \"jury\" with \"jury‑room\" (the place)",
+      "definition_en": "A group of people selected to decide a legal case.",
+      "example_bn": "তিন ঘণ্টা পর জুরি রায় দিল।",
+      "example_en": "The jury delivered the verdict after three hours.",
+      "memory_hook": "Think of a \"jury\" as the “jury‑of‑friends” who judge a contest.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A group of judges",
+        "A group of people who decide a case",
+        "A monthly subscription",
+        "A sharp sound"
+      ],
+      "quiz_question": "Which of these describes a \"jury\"?",
+      "short_meaning_en": "legal panel",
+      "synonyms": [
+        {
+          "meaning": "group of experts",
+          "word": "panel"
+        },
+        {
+          "meaning": "judges collectively",
+          "word": "bench"
+        },
+        {
+          "meaning": "court body",
+          "word": "tribunal"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "juror"
+        }
+      ]
+    },
     "v-01471": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "5d0a388889b7642ad8491c51807686d481af207b2ba815e0395b87b646d71b0c",
@@ -11980,6 +12154,68 @@
         {
           "type": "verb",
           "word": "opened"
+        }
+      ]
+    },
+    "v-01840": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "4e76fde22c55c0d4d1842ccc32eaa910fd371d851fbeac818989188f456aa991",
+      "antonyms": [
+        {
+          "meaning": "required action",
+          "word": "obligation"
+        },
+        {
+          "meaning": "must do",
+          "word": "necessity"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "option price",
+        "option contract",
+        "option to quit",
+        "no option",
+        "take an option"
+      ],
+      "common_mistake_correct": "\"Option\" is a noun meaning a choice, not a verb",
+      "common_mistake_wrong": "using \"option\" as a verb meaning ‘to add’",
+      "definition_en": "A choice among alternatives.",
+      "example_bn": "আপনি কাজ শেষ করলে আগে চলে যাওয়ার বিকল্প আছে।",
+      "example_en": "You have the option to leave early if you finish the work.",
+      "memory_hook": "Remember \"option\" sounds like “opt‑in”, which is choosing something.",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "A requirement",
+        "A choice",
+        "A monthly fee",
+        "A legal panel"
+      ],
+      "quiz_question": "What does \"option\" mean in \"You have the option to apply\"?",
+      "short_meaning_en": "choice",
+      "synonyms": [
+        {
+          "meaning": "selection",
+          "word": "choice"
+        },
+        {
+          "meaning": "another possibility",
+          "word": "alternative"
+        },
+        {
+          "meaning": "something that may happen",
+          "word": "possibility"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "optional"
+        },
+        {
+          "type": "adverb",
+          "word": "optionally"
         }
       ]
     },
@@ -20062,6 +20298,60 @@
       ],
       "word_family": []
     },
+    "v-03951": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "6d91878b1c87ba2b58dd3d3258756c62518d62d4e4e39027cd7834913bd7ad55",
+      "antonyms": [
+        {
+          "meaning": "once a year",
+          "word": "annual"
+        },
+        {
+          "meaning": "every day",
+          "word": "daily"
+        }
+      ],
+      "cefr": "A1",
+      "collocations": [
+        "monthly meeting",
+        "monthly budget",
+        "monthly magazine",
+        "monthly fee",
+        "monthly update"
+      ],
+      "common_mistake_correct": "\"Monthly\" is both adjective and adverb; no extra suffix needed",
+      "common_mistake_wrong": "confusing \"monthly\" with \"monthly‑ly\" as a separate word",
+      "definition_en": "Something that happens or is done once every month.",
+      "example_bn": "আমরা টিম থেকে মাসিক রিপোর্ট পাই।",
+      "example_en": "We receive a monthly report from the team.",
+      "memory_hook": "Think of a calendar: each page shows a month – that’s the \"monthly\" view.",
+      "part_of_speech": "adjective",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "She pays a monthly fee.",
+        "She pays a monthlyly fee.",
+        "She pays a monthlyes fee.",
+        "She pays a month fee."
+      ],
+      "quiz_question": "Which sentence uses \"monthly\" correctly?",
+      "short_meaning_en": "monthly",
+      "synonyms": [
+        {
+          "meaning": "regularly recurring",
+          "word": "periodic"
+        },
+        {
+          "meaning": "happening at set intervals",
+          "word": "regular"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "month"
+        }
+      ]
+    },
     "v-03983": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "20d93186962f8b377b9a2d4d5c238170bb2b4c2c9d980376d0cbd06add99a118",
@@ -20765,6 +21055,14 @@
       "source_fingerprint": "95ce7a75a3d6cb04894c86010e71df00128eb0e34a1d9bd51cc5518c1adbb2dd",
       "status": "valid"
     },
+    "v-00042": {
+      "audited_at": "2026-11-27T10:34:19.508313+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "যোগ করা, একত্র করা, যোগ করতে",
+      "reason": "The Bangla meanings correspond to the verb 'add' (to combine, to join).",
+      "source_fingerprint": "f711a84bb97758395bce9f61de15375523af30eacbe17d73a2e2f7c6186e7e3b",
+      "status": "valid"
+    },
     "v-00054": {
       "audited_at": "2026-11-24T12:03:04.834400+00:00",
       "confidence": 1.0,
@@ -21204,6 +21502,14 @@
       "reason": "The phrase 'আবৃত্ত করতে' is incorrect for the verb 'cover'; the proper meanings are 'আবৃত করা', 'ঢাকতে', and 'গোপন করা'.",
       "source_fingerprint": "1d2fe0ed7708b6af9a7f9bacd1f25f8a8c4d9f449617c10084e0294336cb214e",
       "status": "corrected"
+    },
+    "v-00643": {
+      "audited_at": "2026-11-27T10:34:19.508150+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "আচমকা কর্কশ শব্দ, ফাটল",
+      "reason": "The Bangla meaning accurately reflects the senses of the English word 'crack' (a sharp sound, a fissure).",
+      "source_fingerprint": "16aa8bc9a4bedb66d977011cfda3463e5e5813d7ecbb70b182ac3dd4c73e6289",
+      "status": "valid"
     },
     "v-00656": {
       "audited_at": "2026-10-20T07:13:32.286737+00:00",
@@ -21869,6 +22175,14 @@
       "source_fingerprint": "8288fd2f0f2b2b7c7607cf88b96b3bb79a6cc4f03b36cac9b4f3856295f56167",
       "status": "valid"
     },
+    "v-01463": {
+      "audited_at": "2026-11-27T10:34:19.508210+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "জুরিবর্গ",
+      "reason": "The Bangla meaning correctly corresponds to the English noun 'jury' (a group of jurors).",
+      "source_fingerprint": "6b54435e432beece6b23883c66f233b4d25620572e227691c0321754ef829b4f",
+      "status": "valid"
+    },
     "v-01471": {
       "audited_at": "2026-10-02T07:58:58.833766+00:00",
       "confidence": 0.99,
@@ -22196,6 +22510,14 @@
       "reason": "The given meaning 'পদস্থ সরকারী কর্মচারী' is unrelated to the adverb 'often'; the correct Bangla translation is 'প্রায়ই'.",
       "source_fingerprint": "f6ae16708c5f6355b151d9f8dbe3363170e197f459b7c4fccaba4d37269dabc5",
       "status": "corrected"
+    },
+    "v-01840": {
+      "audited_at": "2026-11-27T10:34:19.508249+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "বিকল্প, সিদ্ধান্ত নেবার স্বাধীনতা",
+      "reason": "The Bangla meaning accurately captures the meanings of 'option' (choice, freedom to decide).",
+      "source_fingerprint": "4e76fde22c55c0d4d1842ccc32eaa910fd371d851fbeac818989188f456aa991",
+      "status": "valid"
     },
     "v-01850": {
       "audited_at": "2026-11-13T09:08:59.532712+00:00",
@@ -23221,6 +23543,14 @@
       "source_fingerprint": "bf617c549adc7686bdf685953621033359f981f8d7156e1a373d3340492cb33d",
       "status": "valid"
     },
+    "v-03951": {
+      "audited_at": "2026-11-27T10:34:19.508278+00:00",
+      "confidence": 1.0,
+      "meaning_bn": "মাসিক",
+      "reason": "The Bangla meaning correctly translates the adjective 'Monthly' as 'মাসিক'.",
+      "source_fingerprint": "6d91878b1c87ba2b58dd3d3258756c62518d62d4e4e39027cd7834913bd7ad55",
+      "status": "valid"
+    },
     "v-03983": {
       "audited_at": "2026-10-08T08:28:35.596964+00:00",
       "confidence": 0.99,
@@ -23367,6 +23697,12 @@
       "audio_file_id": "CQACAgUAAxUHauGq8IW-qpgBuSYtjMB-Pd5i79UAAuglAAIz9xBXWkEkhBulTYI9BA",
       "cached_at": "2026-10-28T07:57:36.909703+00:00",
       "photo_file_id": "AgACAgUAAxUHauGq8OUhRwPvq_rvwf5EoEI2H1MAAj8eaxsz9xBXtbubr47OHMcBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00042": {
+      "audio_file_id": "CQACAgUAAxUHawlcuMWIsYc5HE47IMILYVlLkQUAAhwnAAKwrUlU65tRAAGZ_WN0PQQ",
+      "cached_at": "2026-11-27T10:34:32.906511+00:00",
+      "photo_file_id": "AgACAgUAAxUHawlcuNJFLgNUrwUqCsE3JQTVv4UAAnMXaxuwrUlUROo5nwdZsxIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00054": {
@@ -23733,6 +24069,12 @@
       "audio_file_id": "CQACAgUAAxUHat2tdC_BUse7HFoFf_Dj3lHMxHYAAkQhAAL30ehWd_5VFKfs82k9BA",
       "cached_at": "2026-10-25T07:19:17.319409+00:00",
       "photo_file_id": "AgACAgUAAxUHat2tdOck79XAhg2O_CAGemceivEAAgcRaxv30ehWLy0rBgn98hwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00643": {
+      "audio_file_id": "CQACAgUAAxUHawlcruqby1pEEDqq8P-8tSSGDf4AAhgnAAKwrUlUQ-yJ_E1lt3M9BA",
+      "cached_at": "2026-11-27T10:34:23.348481+00:00",
+      "photo_file_id": "AgACAgUAAxUHawlcrgLHEs4fLZb3ShyTiN0j5K4AAm8XaxuwrUlU67TP_9Oj6Q0BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00656": {
@@ -24280,6 +24622,12 @@
       "photo_file_id": "AgACAgUAAxUHastG7fack5oVzKp58UC3wo_IP4wAAmcYaxvl0VlWHuDsra4BVY8BAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01463": {
+      "audio_file_id": "CQACAgUAAxUHawlcsJq7BuMWF-J03q6tw8AsSfwAAhknAAKwrUlUw4_FD7m7t449BA",
+      "cached_at": "2026-11-27T10:34:25.690406+00:00",
+      "photo_file_id": "AgACAgUAAxUHawlcsajA2zSpt8u3Ecr56tcLyU8AAnAXaxuwrUlUcjq16fTNuO4BAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01471": {
       "audio_file_id": "CQACAgUAAxUHar9kU0z26rpjEhGauJh46nG8zscAAhQhAAKXRvhVCN6c_5XxNm49BA",
       "cached_at": "2026-10-02T07:59:16.358305+00:00",
@@ -24552,6 +24900,12 @@
       "photo_file_id": "AgACAgUAAxUHardvH2uhwacwpGjkgnvsoyCm_ogAAt4RaxvpIcFV57hUogaUOPoBAAMCAANzAAM9BA",
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvH99ndt2BBqli97aTJ5tsPVgAAnsgAALpIcFVPVpCm3gP4g89BA"
+    },
+    "v-01840": {
+      "audio_file_id": "CQACAgUAAxUHawlcs7hNMJ-VZwT9sR0tU2U6gCEAAhonAAKwrUlU07u16CP4Sk09BA",
+      "cached_at": "2026-11-27T10:34:28.206832+00:00",
+      "photo_file_id": "AgACAgUAAxUHawlcs9DGA2wUk8C2Hy1WwL-zDG4AAnEXaxuwrUlU3OvvjtDPzCsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
     },
     "v-01850": {
       "audio_file_id": "CQACAgUAAxUHavbTyDWDEQ89YwXgrp4O3cSQAhYAAvYlAAIeELlXRDgbEx1l6qk9BA",
@@ -25398,6 +25752,12 @@
       "photo_file_id": "AgACAgUAAxUHaub8gTNXyj_OuGa-92qVwaFoitMAAuYSaxud3zlXmJMOeT7mFwkBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-03951": {
+      "audio_file_id": "CQACAgUAAxUHawlctXlACJGDlHkjU4Dzg-_Yx9YAAhsnAAKwrUlUQTM8S1CrCk09BA",
+      "cached_at": "2026-11-27T10:34:30.521136+00:00",
+      "photo_file_id": "AgACAgUAAxUHawlcth_G4mTnmCjposMjHM3QmaYAAnIXaxuwrUlURlVH48iNmVIBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-03983": {
       "audio_file_id": "CQACAgUAAxUHasdUO82MuhOSsuYyA0BLNNft2fMAAkImAAKIuzlWLmbw1wskPs49BA",
       "cached_at": "2026-10-08T08:28:44.010850+00:00",
@@ -25528,6 +25888,12 @@
       "last_cycle": 1,
       "last_message_id": 241,
       "published_at": "2026-10-28T07:57:36.909726+00:00"
+    },
+    "v-00042": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 392,
+      "published_at": "2026-11-27T10:34:32.906534+00:00"
     },
     "v-00054": {
       "count": 1,
@@ -25895,6 +26261,12 @@
       "last_cycle": 1,
       "last_message_id": 227,
       "published_at": "2026-10-25T07:19:17.319437+00:00"
+    },
+    "v-00643": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 388,
+      "published_at": "2026-11-27T10:34:23.348508+00:00"
     },
     "v-00656": {
       "count": 1,
@@ -26449,6 +26821,12 @@
       "last_message_id": 159,
       "published_at": "2026-10-11T08:21:01.996527+00:00"
     },
+    "v-01463": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 389,
+      "published_at": "2026-11-27T10:34:25.690487+00:00"
+    },
     "v-01471": {
       "count": 1,
       "last_cycle": 1,
@@ -26728,6 +27106,12 @@
       "last_cycle": 1,
       "last_message_id": 58,
       "published_at": "2026-09-26T07:07:12.293175+00:00"
+    },
+    "v-01840": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 390,
+      "published_at": "2026-11-27T10:34:28.206855+00:00"
     },
     "v-01850": {
       "count": 1,
@@ -27582,6 +27966,12 @@
       "last_message_id": 261,
       "published_at": "2026-11-01T08:46:57.913408+00:00"
     },
+    "v-03951": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 391,
+      "published_at": "2026-11-27T10:34:30.521161+00:00"
+    },
     "v-03983": {
       "count": 1,
       "last_cycle": 1,
@@ -27669,11 +28059,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-00643",
-    "v-01463",
-    "v-01840",
-    "v-03951",
-    "v-00042",
     "v-03413",
     "v-02647",
     "v-02008",
@@ -30814,41 +31199,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261028T075726Z-3810fa03": {
-      "completed_at": "2026-10-28T07:57:39.368184+00:00",
-      "created_at": "2026-10-28T07:57:26.077370+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-01661"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02299"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02089"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00036"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00908"
-        }
-      ],
-      "published_ids": [
-        "v-01661",
-        "v-02299",
-        "v-02089",
-        "v-00036",
-        "v-00908"
-      ],
-      "status": "completed"
-    },
     "20261029T080533Z-53f89d13": {
       "completed_at": "2026-10-29T08:05:47.070276+00:00",
       "created_at": "2026-10-29T08:05:33.010558+00:00",
@@ -31861,6 +32211,41 @@
         "v-00846",
         "v-01359",
         "v-00067"
+      ],
+      "status": "completed"
+    },
+    "20261127T103419Z-be780d13": {
+      "completed_at": "2026-11-27T10:34:32.954305+00:00",
+      "created_at": "2026-11-27T10:34:19.066774+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00643"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01463"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01840"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03951"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00042"
+        }
+      ],
+      "published_ids": [
+        "v-00643",
+        "v-01463",
+        "v-01840",
+        "v-03951",
+        "v-00042"
       ],
       "status": "completed"
     }
@@ -34635,6 +35020,43 @@
         "v-00067"
       ],
       "run_id": "20261126T103005Z-393a2401",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-27T10:34:32.954305+00:00",
+      "created_at": "2026-11-27T10:34:19.066774+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-00643"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01463"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01840"
+        },
+        {
+          "cycle": 1,
+          "id": "v-03951"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00042"
+        }
+      ],
+      "published_ids": [
+        "v-00643",
+        "v-01463",
+        "v-01840",
+        "v-03951",
+        "v-00042"
+      ],
+      "run_id": "20261127T103419Z-be780d13",
       "status": "completed",
       "unknown_ids": []
     }
