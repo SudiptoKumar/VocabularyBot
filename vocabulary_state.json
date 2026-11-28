@@ -2424,6 +2424,68 @@
         }
       ]
     },
+    "v-00398": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "bec8109090219d4130bcf09755c9aeebe14c3c3bb71fecc3a1ad1aec8edeeef0",
+      "antonyms": [
+        {
+          "meaning": "answer",
+          "word": "solution"
+        },
+        {
+          "meaning": "settlement",
+          "word": "resolution"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "court case",
+        "case study",
+        "open a case",
+        "case file",
+        "case law"
+      ],
+      "common_mistake_correct": "Choose the meaning that fits the context",
+      "common_mistake_wrong": "Confusing \"case\" (container) with \"case\" (legal matter) in the same sentence",
+      "definition_en": "A container for holding something, or a particular situation that needs to be considered.",
+      "example_bn": "তিনি কেসটি খুলে হারিয়ে যাওয়া নথিগুলো পেলেন।",
+      "example_en": "She opened the case and found the missing documents.",
+      "memory_hook": "Think of a \"case\" as a box that holds a story or evidence",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "a box",
+        "a legal matter",
+        "a computer",
+        "a book"
+      ],
+      "quiz_question": "In \"The detective examined the case,\" what does \"case\" mean?",
+      "short_meaning_en": "container / situation",
+      "synonyms": [
+        {
+          "meaning": "container",
+          "word": "box"
+        },
+        {
+          "meaning": "example",
+          "word": "instance"
+        },
+        {
+          "meaning": "case",
+          "word": "situation"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "cases"
+        },
+        {
+          "type": "noun",
+          "word": "casing"
+        }
+      ]
+    },
     "v-00399": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "052facecd383107e54f1746a6b4497d99465735ffe53e88876e8e2e1632e0c52",
@@ -8660,6 +8722,64 @@
         }
       ]
     },
+    "v-01364": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "c58e4aaf0c7570084d297e26bbc5237c8a4fcf352501746476755ffed0ed2576",
+      "antonyms": [
+        {
+          "meaning": "contrary sense",
+          "word": "actually"
+        },
+        {
+          "meaning": "untrue",
+          "word": "falsely"
+        }
+      ],
+      "cefr": "B2",
+      "collocations": [
+        "indeed it is",
+        "indeed true",
+        "indeed so",
+        "indeed that",
+        "indeed,"
+      ],
+      "common_mistake_correct": "It is an adverb used for emphasis",
+      "common_mistake_wrong": "Using \"indeed\" as a noun",
+      "definition_en": "Used to emphasize that something is true or to confirm a statement.",
+      "example_bn": "প্রকৃতপক্ষে, প্রকল্পটি বড় সাফল্য ছিল।",
+      "example_en": "Indeed, the project was a great success.",
+      "memory_hook": "\"In deed\" – as if writing it down confirms it",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "He is indeed a doctor.",
+        "Indeed, the cat is blue.",
+        "She likes indeed pizza.",
+        "The book is indeed."
+      ],
+      "quiz_question": "Which sentence uses \"indeed\" correctly?",
+      "short_meaning_en": "certainly",
+      "synonyms": [
+        {
+          "meaning": "surely",
+          "word": "certainly"
+        },
+        {
+          "meaning": "in fact",
+          "word": "truly"
+        },
+        {
+          "meaning": "in reality",
+          "word": "actually"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "indeedness"
+        }
+      ]
+    },
     "v-01373": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "650aa1628ca3a5b7a83eb2250621b8e44150fe89e29d77ae7e115c46c1e35c67",
@@ -13176,6 +13296,68 @@
         }
       ]
     },
+    "v-02008": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "359be4f6c1087eca323785a487a82dfad613089eb4b4e08ed1be30408181b29e",
+      "antonyms": [
+        {
+          "meaning": "definitely",
+          "word": "certainly"
+        },
+        {
+          "meaning": "surely",
+          "word": "definitely"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "possibly true",
+        "possibly later",
+        "possibly next week",
+        "possibly dangerous",
+        "possibly mistaken"
+      ],
+      "common_mistake_correct": "It is an adverb, not a noun",
+      "common_mistake_wrong": "Using \"possibly\" as a noun",
+      "definition_en": "Possibly; indicating that something might happen or be true.",
+      "example_bn": "তিনি সম্ভবত দেরি করে পৌঁছাবেন।",
+      "example_en": "She will possibly arrive late.",
+      "memory_hook": "\"Possibly\" starts with \"poss\" like \"possible\" – it shows uncertainty",
+      "part_of_speech": "adverb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "certainly",
+        "maybe",
+        "always",
+        "never"
+      ],
+      "quiz_question": "Which word best replaces \"possibly\" in \"He will possibly win\"?",
+      "short_meaning_en": "maybe",
+      "synonyms": [
+        {
+          "meaning": "maybe",
+          "word": "perhaps"
+        },
+        {
+          "meaning": "perhaps",
+          "word": "maybe"
+        },
+        {
+          "meaning": "probable",
+          "word": "likely"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "possible"
+        },
+        {
+          "type": "noun",
+          "word": "possibility"
+        }
+      ]
+    },
     "v-02015": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "7d4fa3c8d21f7754083ac2a0a7f90c9f9e8fac7770ef969f05e79f95b51879ba",
@@ -16703,6 +16885,68 @@
         }
       ]
     },
+    "v-02647": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "e88d382c288b93b3d2383f77d89b3c7144663fc04833a70b6b5d2662757e65a9",
+      "antonyms": [
+        {
+          "meaning": "lack of taste",
+          "word": "blandness"
+        },
+        {
+          "meaning": "absence of flavor",
+          "word": "tastelessness"
+        }
+      ],
+      "cefr": "A2",
+      "collocations": [
+        "sweet taste",
+        "bitter taste",
+        "taste buds",
+        "taste of success",
+        "taste test"
+      ],
+      "common_mistake_correct": "Here it means the flavor, not the act of trying",
+      "common_mistake_wrong": "confusing \"taste\" (noun) with \"taste\" (verb) meaning to try",
+      "definition_en": "The sensation produced when something is perceived by the tongue.",
+      "example_bn": "সুপের স্বাদ সমৃদ্ধ।",
+      "example_en": "The soup has a rich taste.",
+      "memory_hook": "Taste = what your tongue tells you",
+      "part_of_speech": "noun",
+      "quiz_correct_index": 0,
+      "quiz_options": [
+        "taste",
+        "sound",
+        "color",
+        "smell"
+      ],
+      "quiz_question": "Which meaning fits the sentence: \"The cake has a wonderful ___\"?",
+      "short_meaning_en": "flavor sense",
+      "synonyms": [
+        {
+          "meaning": "taste quality",
+          "word": "flavor"
+        },
+        {
+          "meaning": "taste, relish",
+          "word": "savor"
+        },
+        {
+          "meaning": "sense of taste",
+          "word": "palate"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "adjective",
+          "word": "tasty"
+        },
+        {
+          "type": "verb",
+          "word": "tasting"
+        }
+      ]
+    },
     "v-02659": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "726265d32660636c31f2d10772d6c2b93b5cb7adc417bc88dc2f8a6a81d71ea7",
@@ -19251,6 +19495,68 @@
         }
       ]
     },
+    "v-03413": {
+      "_content_version": "1.2.4",
+      "_meaning_fingerprint": "67faf848d857e3203ff878c50126b8e5a1cfdc9879581c0390bfa6db898cdba7",
+      "antonyms": [
+        {
+          "meaning": "fall behind",
+          "word": "lag"
+        },
+        {
+          "meaning": "go after",
+          "word": "follow"
+        }
+      ],
+      "cefr": "B1",
+      "collocations": [
+        "overtake a car",
+        "overtake on the left",
+        "overtake safely",
+        "overtake quickly",
+        "overtake another driver"
+      ],
+      "common_mistake_correct": "overtake means to pass, not to be above",
+      "common_mistake_wrong": "overtake with \"over\" meaning above",
+      "definition_en": "To move ahead of and pass another vehicle or person.",
+      "example_bn": "তিনি হাইওয়েতে ধীর ট্রাকটি অতিক্রম করলেন।",
+      "example_en": "He overtook the slow truck on the highway.",
+      "memory_hook": "Think of \"over\" + \"take\" = take over the road ahead",
+      "part_of_speech": "verb",
+      "quiz_correct_index": 1,
+      "quiz_options": [
+        "to drive slower",
+        "to pass another vehicle",
+        "to stop suddenly",
+        "to turn around"
+      ],
+      "quiz_question": "What does \"overtake\" mean?",
+      "short_meaning_en": "pass ahead",
+      "synonyms": [
+        {
+          "meaning": "go past",
+          "word": "pass"
+        },
+        {
+          "meaning": "exceed",
+          "word": "surpass"
+        },
+        {
+          "meaning": "move faster than",
+          "word": "outpace"
+        }
+      ],
+      "word_family": [
+        {
+          "type": "noun",
+          "word": "overtaking"
+        },
+        {
+          "type": "adjective",
+          "word": "overtaken"
+        }
+      ]
+    },
     "v-03446": {
       "_content_version": "1.2.4",
       "_meaning_fingerprint": "4586bcf06d224a67b251000a5115a5a315f23ef5a4cb55e352f9023db8315014",
@@ -21303,6 +21609,14 @@
       "source_fingerprint": "386d73ab1acbdff68c2a37131e7a95b2e1ce075763efb80b17eba4040383ce9b",
       "status": "corrected"
     },
+    "v-00398": {
+      "audited_at": "2026-11-28T09:50:42.836309+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "আধার, বাক্স, আদালতে নালিশ",
+      "reason": "All listed Bangla senses correspond to legitimate meanings of the English noun 'case'.",
+      "source_fingerprint": "bec8109090219d4130bcf09755c9aeebe14c3c3bb71fecc3a1ad1aec8edeeef0",
+      "status": "valid"
+    },
     "v-00399": {
       "audited_at": "2026-11-05T09:00:40.478075+00:00",
       "confidence": 0.99,
@@ -22087,6 +22401,14 @@
       "source_fingerprint": "c30268edbb02805e9d841574482f40137c1ec8daefc5d84ee972988f48b1b75c",
       "status": "valid"
     },
+    "v-01364": {
+      "audited_at": "2026-11-28T09:50:42.836326+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "প্রকৃতপক্ষে, সত্যি",
+      "reason": "The Bangla meaning correctly conveys the sense of 'indeed'.",
+      "source_fingerprint": "c58e4aaf0c7570084d297e26bbc5237c8a4fcf352501746476755ffed0ed2576",
+      "status": "valid"
+    },
     "v-01373": {
       "audited_at": "2026-10-02T07:58:58.833638+00:00",
       "confidence": 0.94,
@@ -22639,6 +22961,14 @@
       "source_fingerprint": "1002ccb16cdd4a51f83c7b6ba12be250e2000eadbc49c3bf5582bfed0ea76b6d",
       "status": "valid"
     },
+    "v-02008": {
+      "audited_at": "2026-11-28T09:50:42.836290+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "সম্ভবত",
+      "reason": "The meaning accurately reflects the adverb 'possibly'.",
+      "source_fingerprint": "359be4f6c1087eca323785a487a82dfad613089eb4b4e08ed1be30408181b29e",
+      "status": "valid"
+    },
     "v-02015": {
       "audited_at": "2026-09-30T08:04:52.970803+00:00",
       "confidence": 0.99,
@@ -23103,6 +23433,14 @@
       "source_fingerprint": "4f491ee09dac8ee3e3e5cd1be61636640248779c25b2ebc153f9f7ce98c17871",
       "status": "corrected"
     },
+    "v-02647": {
+      "audited_at": "2026-11-28T09:50:42.836272+00:00",
+      "confidence": 0.9,
+      "meaning_bn": "স্বাদ, রুচি",
+      "reason": "The Bangla meaning correctly captures both the noun and verb senses of 'taste' as flavor or preference.",
+      "source_fingerprint": "e88d382c288b93b3d2383f77d89b3c7144663fc04833a70b6b5d2662757e65a9",
+      "status": "valid"
+    },
     "v-02659": {
       "audited_at": "2026-11-14T08:39:38.343300+00:00",
       "confidence": 0.99,
@@ -23406,6 +23744,14 @@
       "reason": "The supplied Bangla meaning accurately captures the verb 'to hesitate' as 'দ্বিধা করতে'.",
       "source_fingerprint": "aed5637e24fc79375cca72dda4019b0ccc9bf89719814c3fbd24b7a348b38844",
       "status": "valid"
+    },
+    "v-03413": {
+      "audited_at": "2026-11-28T09:50:42.836219+00:00",
+      "confidence": 0.95,
+      "meaning_bn": "অতিক্রম করা • ছাড়িয়ে যাওয়া",
+      "reason": "The supplied Bangla meaning 'ছাড়িয়া যেতে' means 'to leave', which does not match the English verb 'overtake' that means to pass or catch up with and go ahead of something.",
+      "source_fingerprint": "2b3bd8454dbfa1ce7948aaad9c7202a3d97d221cd94411ec3b3d4c70343e3bc2",
+      "status": "corrected"
     },
     "v-03446": {
       "audited_at": "2026-11-10T09:20:55.694724+00:00",
@@ -23913,6 +24259,12 @@
       "audio_file_id": "CQACAgUAAxUHatXFP3JOfpwAATMBLuYWmE1mcbPVAAKTIQACjaixVk9Qa6AvAhCMPQQ",
       "cached_at": "2026-10-19T07:22:40.018911+00:00",
       "photo_file_id": "AgACAgUAAxUHatXFP8Mu6ECPo87MO0aNuOtuMpkAArQVaxuNqLFWtC0RH0uZw7wBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-00398": {
+      "audio_file_id": "CQACAgUAAxUHawqkEhFztFpbE_vM4NwG0xtjQtkAAqIoAAIsflFUDRZJfjOJ48Y9BA",
+      "cached_at": "2026-11-28T09:51:15.621101+00:00",
+      "photo_file_id": "AgACAgUAAxUHawqkE1grGKYB3lCA4Zq56VWmytQAAiYZaxssflFU8lVZGWtcMzABAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-00399": {
@@ -24544,6 +24896,12 @@
       "photo_file_id": "AgACAgUAAxUHawgKOWiRXmgvtgyepqclDxW-teQAAiMXaxuwrUFUBefjsPDGOpcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-01364": {
+      "audio_file_id": "CQACAgUAAxUHawqkFbpHKjyn-8Z3KIqSoUdwNv0AAqMoAAIsflFUt1NCI3eLb8w9BA",
+      "cached_at": "2026-11-28T09:51:18.420693+00:00",
+      "photo_file_id": "AgACAgUAAxUHawqkFcqA2QuQ0aV8XKYCKa3JUI4AAicZaxssflFUeBipEVdW7NsBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-01373": {
       "audio_file_id": "CQACAgUAAxUHar9kToijohi80F_KmegxBfDItyIAAhIhAAKXRvhVaMwkSgtVxx49BA",
       "cached_at": "2026-10-02T07:59:11.773076+00:00",
@@ -25015,6 +25373,12 @@
       "photo_file_id": "AgACAgUAAxUHasIFBI4P66-hTEukiHQL8V_Ut-EAAg0YaxtCJRBWss4TyreHzhcBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
+    "v-02008": {
+      "audio_file_id": "CQACAgUAAxUHawqkEAABhR4s6PX0-fXbFFj2Hue9AAKhKAACLH5RVMbO_Bgf_cQNPQQ",
+      "cached_at": "2026-11-28T09:51:12.657643+00:00",
+      "photo_file_id": "AgACAgUAAxUHawqkEGgtIMZpZ5cYg-wbCaQb04gAAiUZaxssflFUMx8TnNfUNLMBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02015": {
       "audio_file_id": "CQACAgUAAxUHarzCp1zD6PdHGRmN1iI4oyxMEJoAAq8iAALHB-hVxHaJ-ds-90A9BA",
       "cached_at": "2026-09-30T08:04:56.567448+00:00",
@@ -25369,6 +25733,12 @@
       "version": "1.1.0",
       "voice_file_id": "AwACAgUAAxUHardvJB10KO6Mn5XXrOXSRR2invQAAn0gAALpIcFVT5TikJtb_jM9BA"
     },
+    "v-02647": {
+      "audio_file_id": "CQACAgUAAxUHawqkDbTxy520oDvexpFh8OHmiOcAAqAoAAIsflFUhdlUID8r_c49BA",
+      "cached_at": "2026-11-28T09:51:10.007322+00:00",
+      "photo_file_id": "AgACAgUAAxUHawqkDRg_k15tLOUiHrVb8Jjt550AAiQZaxssflFU7Oh4DQYqw1EBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
     "v-02659": {
       "audio_file_id": "CQACAgUAAxUHavgeUBp6afsYBEzK-bnpIwwyFykAAmEmAAKZZsBX1RDNiduMG409BA",
       "cached_at": "2026-11-14T08:39:45.648743+00:00",
@@ -25630,6 +26000,12 @@
       "audio_file_id": "CQACAgUAAxUHatXFPJ_9iHCb_S3tLDZUviYlN_0AApIhAAKNqLFWpEGDPVF-Ais9BA",
       "cached_at": "2026-10-19T07:22:37.852617+00:00",
       "photo_file_id": "AgACAgUAAxUHatXFPYmMLS7pNfFqEfUjEQrrBwwAArMVaxuNqLFWT4VnaUy02xwBAAMCAANzAAM9BA",
+      "version": "1.2.5"
+    },
+    "v-03413": {
+      "audio_file_id": "CQACAgUAAxUHawqkCliiG61v-vxO1qVDQLjrWvIAAp8oAAIsflFUY-kfRTzMsmM9BA",
+      "cached_at": "2026-11-28T09:51:07.181205+00:00",
+      "photo_file_id": "AgACAgUAAxUHawqkCuFZ4xk2vz89fqjSuUVa8CwAAiIZaxssflFUBREpjUC7wqIBAAMCAANzAAM9BA",
       "version": "1.2.5"
     },
     "v-03446": {
@@ -26105,6 +26481,12 @@
       "last_cycle": 1,
       "last_message_id": 194,
       "published_at": "2026-10-19T07:22:40.018940+00:00"
+    },
+    "v-00398": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 396,
+      "published_at": "2026-11-28T09:51:15.621128+00:00"
     },
     "v-00399": {
       "count": 1,
@@ -26741,6 +27123,12 @@
       "last_message_id": 386,
       "published_at": "2026-11-26T10:30:17.642150+00:00"
     },
+    "v-01364": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 397,
+      "published_at": "2026-11-28T09:51:18.420720+00:00"
+    },
     "v-01373": {
       "count": 1,
       "last_cycle": 1,
@@ -27222,6 +27610,12 @@
       "last_message_id": 126,
       "published_at": "2026-10-04T07:49:25.178612+00:00"
     },
+    "v-02008": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 395,
+      "published_at": "2026-11-28T09:51:12.657670+00:00"
+    },
     "v-02015": {
       "count": 1,
       "last_cycle": 1,
@@ -27576,6 +27970,12 @@
       "last_message_id": 60,
       "published_at": "2026-09-26T07:07:17.058626+00:00"
     },
+    "v-02647": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 394,
+      "published_at": "2026-11-28T09:51:10.007352+00:00"
+    },
     "v-02659": {
       "count": 1,
       "last_cycle": 1,
@@ -27844,6 +28244,12 @@
       "last_message_id": 193,
       "published_at": "2026-10-19T07:22:37.852647+00:00"
     },
+    "v-03413": {
+      "count": 1,
+      "last_cycle": 1,
+      "last_message_id": 393,
+      "published_at": "2026-11-28T09:51:07.181235+00:00"
+    },
     "v-03446": {
       "count": 1,
       "last_cycle": 1,
@@ -28059,11 +28465,6 @@
   },
   "queue_initialized": true,
   "remaining_ids": [
-    "v-03413",
-    "v-02647",
-    "v-02008",
-    "v-00398",
-    "v-01364",
     "v-02082",
     "v-01316",
     "v-00721",
@@ -31199,41 +31600,6 @@
     "v-00604"
   ],
   "reserved_runs": {
-    "20261029T080533Z-53f89d13": {
-      "completed_at": "2026-10-29T08:05:47.070276+00:00",
-      "created_at": "2026-10-29T08:05:33.010558+00:00",
-      "failed_ids": [],
-      "items": [
-        {
-          "cycle": 1,
-          "id": "v-02912"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01292"
-        },
-        {
-          "cycle": 1,
-          "id": "v-00636"
-        },
-        {
-          "cycle": 1,
-          "id": "v-02768"
-        },
-        {
-          "cycle": 1,
-          "id": "v-01715"
-        }
-      ],
-      "published_ids": [
-        "v-02912",
-        "v-01292",
-        "v-00636",
-        "v-02768",
-        "v-01715"
-      ],
-      "status": "completed"
-    },
     "20261030T080741Z-75d57f0b": {
       "completed_at": "2026-10-30T08:07:55.048626+00:00",
       "created_at": "2026-10-30T08:07:41.703899+00:00",
@@ -32246,6 +32612,41 @@
         "v-01840",
         "v-03951",
         "v-00042"
+      ],
+      "status": "completed"
+    },
+    "20261128T095042Z-95455bb8": {
+      "completed_at": "2026-11-28T09:51:18.452166+00:00",
+      "created_at": "2026-11-28T09:50:42.181261+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03413"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02647"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02008"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00398"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01364"
+        }
+      ],
+      "published_ids": [
+        "v-03413",
+        "v-02647",
+        "v-02008",
+        "v-00398",
+        "v-01364"
       ],
       "status": "completed"
     }
@@ -35057,6 +35458,43 @@
         "v-00042"
       ],
       "run_id": "20261127T103419Z-be780d13",
+      "status": "completed",
+      "unknown_ids": []
+    },
+    {
+      "completed_at": "2026-11-28T09:51:18.452166+00:00",
+      "created_at": "2026-11-28T09:50:42.181261+00:00",
+      "failed_ids": [],
+      "items": [
+        {
+          "cycle": 1,
+          "id": "v-03413"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02647"
+        },
+        {
+          "cycle": 1,
+          "id": "v-02008"
+        },
+        {
+          "cycle": 1,
+          "id": "v-00398"
+        },
+        {
+          "cycle": 1,
+          "id": "v-01364"
+        }
+      ],
+      "published_ids": [
+        "v-03413",
+        "v-02647",
+        "v-02008",
+        "v-00398",
+        "v-01364"
+      ],
+      "run_id": "20261128T095042Z-95455bb8",
       "status": "completed",
       "unknown_ids": []
     }
